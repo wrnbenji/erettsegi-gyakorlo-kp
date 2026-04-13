@@ -512,3 +512,57 @@ footer a:hover {
     nav .container { padding: 8px 12px; }
     .nav-btn { padding: 8px 14px; font-size: 0.85rem; }
 }
+
+/* Timer */
+#timer-display {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 1.3rem;
+    font-weight: 700;
+    padding: 6px 16px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.15);
+    min-width: 80px;
+    text-align: center;
+}
+
+.timer-green { color: #27ae60; background: #eafaf1 !important; }
+.timer-yellow { color: #f39c12; background: #fef9e7 !important; }
+.timer-red { color: #e74c3c; background: #fdedec !important; }
+
+.timer-blink {
+    color: #e74c3c;
+    background: #fdedec !important;
+    animation: timerBlink 0.5s ease-in-out infinite alternate;
+}
+
+@keyframes timerBlink {
+    from { opacity: 1; }
+    to { opacity: 0.3; }
+}
+
+.timer-paused { opacity: 0.5; }
+
+.timer-alert {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    padding: 14px 24px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+    z-index: 200;
+    animation: slideIn 0.3s ease, fadeOut 0.5s ease 3s forwards;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+.timer-alert.warning { background: #f39c12; }
+.timer-alert.danger { background: #e74c3c; }
+
+@keyframes slideIn {
+    from { transform: translateX(100px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes fadeOut {
+    to { opacity: 0; transform: translateY(-10px); }
+}
