@@ -20,35 +20,40 @@
                         "A megújuló energiaforrások teljes mértékben megoldják a klímaproblémát."
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg több szinten – egyéni, vállalati, társadalmi és politikai szinten – vizsgálja a fenntarthatóság kérdését, és mindegyik szint felelősségét hangsúlyozza. Nem egyoldalú megközelítést alkalmaz, hanem komplex, többszempontú álláspontot képvisel a környezetvédelemmel kapcsolatban."
                 },
                 {
                     "id": "sz-02",
                     "type": "true-false",
                     "question": "A szöveg szerint a fenntartható fejlődés elvét először az 1992-es Rio de Janeirói Csúcson fogalmazták meg.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg szerint a fenntartható fejlődés elvét az 1987-es Brundtland-jelentésben fogalmazták meg először, nem az 1992-es Rio de Janeirói Csúcson. A Brundtland-bizottság az ENSZ megbízásából dolgozta ki a fogalmat, amelyet aztán Rio de Janeiróban is elfogadtak, de eredete korábbi."
                 },
                 {
                     "id": "sz-03",
                     "type": "true-false",
                     "question": "A szöveg szerint az Európai Unió zöld megállapodásának célja, hogy 2050-re Európa klímasemlegessé váljon.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg negyedik bekezdése egyértelműen kimondja, hogy az Európai Unió zöld megállapodásának (Green Deal) célja, hogy 2050-re Európa klímasemlegessé váljon. Ez azt jelenti, hogy az EU nettó nullára kívánja csökkenteni az üvegházhatású gázok kibocsátását a megadott határidőre."
                 },
                 {
                     "id": "sz-04",
                     "type": "fill-in",
                     "question": "Melyik évben és milyen dokumentumban jelent meg először a fenntartható fejlődés elve? (Írja be az évet és a dokumentum nevét!)",
                     "correct": ["1987-es Brundtland-jelentés", "Brundtland-jelentés, 1987", "1987, Brundtland-jelentés"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az 1987-es Brundtland-jelentés (hivatalos nevén 'Közös jövőnk') az ENSZ Környezet és Fejlesztés Világbizottságának dokumentuma, amelyet Gro Harlem Brundtland norvég miniszterelnök asszony vezetésével állítottak össze. Ez a dokumentum vezette be a fenntartható fejlődés ma is használt definícióját."
                 },
                 {
                     "id": "sz-05",
                     "type": "short-answer",
                     "question": "Milyen egyéni lehetőségeket említ a szöveg a környezetterhelés csökkentésére? Soroljon fel legalább hármat!",
                     "sampleAnswer": "A szöveg szerint az egyén csökkentheti a környezetterhelést a szelektív hulladékgyűjtéssel, a tömegközlekedés használatával, a helyi termékek vásárlásával és az energiatakarékos eszközök alkalmazásával.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg harmadik bekezdése négy konkrét egyéni lehetőséget sorol fel: a szelektív hulladékgyűjtést, a tömegközlekedés használatát, a helyi termékek vásárlását és az energiatakarékos eszközök alkalmazását. Ezek mind az ökológiai lábnyom csökkentéséhez járulnak hozzá, és mindenki számára elérhető, napi szintű döntések."
                 },
                 {
                     "id": "sz-06",
@@ -60,7 +65,8 @@
                         { "left": "megújuló energiaforrás", "right": "napenergia, szélenergia, vízenergia" },
                         { "left": "Fridays for Future", "right": "ifjúsági klímavédelmi mozgalom" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Ezek a kulcsfogalmak mind szerepelnek a szövegben megadott magyarázatokkal. A fenntartható fejlődés Brundtland-féle definíciója a jövő generációk védelmét emeli ki; az ökológiai lábnyom az egyén természetre gyakorolt összesített hatását méri; a megújuló energiaforrások a napból, szélből és vízből nyerik az energiát; a Fridays for Future Greta Thunberg által indított globális diákmozgalom."
                 },
                 {
                     "id": "sz-07",
@@ -74,7 +80,8 @@
                         "A fiatalok szerepe a fenntarthatóság terén egyre hangsúlyosabb."
                     ],
                     "correctOrder": [1, 3, 0, 4, 2],
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg gondolatmenete a globálistól a személyes felé halad: először a klímaváltozás általános fenyegetését mutatja be, majd a fenntartható fejlődés elvét, ezután az egyéni lehetőségeket, a fiatalok szerepét, és végül az erkölcsi felelősséggel zárja. Ez a fokozatos szűkítés az általánostól az egyéni szintig tipikus értekezői szerkezet."
                 },
                 {
                     "id": "sz-08",
@@ -91,14 +98,16 @@
                             "answer": { "Felelősség / Lehetőség": "szén-dioxid-kibocsátás csökkentése, zöld technológiák alkalmazása" }
                         }
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A szöveg különböző szinteken vizsgálja a fenntarthatóságot: az egyén mindennapi döntéseivel (hulladékgyűjtés, közlekedés, vásárlás), a vállalatok a kibocsátás és technológia terén, az Európai Unió szabályozással és a Green Deal-lel. A táblázat kitöltéséhez a szöveg harmadik és negyedik bekezdése nyújt alapot."
                 },
                 {
                     "id": "sz-09",
                     "type": "short-answer",
                     "question": "A szöveg szerint sokan úgy vélik, hogy az egyéni tetteknek csekély hatása van. Hogyan cáfolja ezt a szöveg? Fogalmazza meg saját szavaival!",
                     "sampleAnswer": "A szöveg azzal cáfolja ezt a nézetet, hogy a tudatos fogyasztói döntések összeadódnak, és képesek befolyásolni a piaci folyamatokat, tehát az egyéni cselekvésnek is van közösségi hatása.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg a 'kis lépések összeadódnak' elvével cáfolja a szkeptikus álláspontot: ha mindenki tudatosan fogyaszt, az együttes hatás valódi piaci és társadalmi változásokat idéz elő. Ez az érvelési technika a kollektív cselekvés fontosságára mutat rá, és azt üzeni, hogy egyéni döntéseink sem elhanyagolhatók."
                 },
                 {
                     "id": "sz-10",
@@ -111,21 +120,24 @@
                         "Természetvédelmi törvény"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az ökoszisztéma biológiai fogalom: az élőlények (növények, állatok, mikroorganizmusok) és az őket körülvevő élettelen környezet (talaj, víz, levegő, napfény) kölcsönhatásainak rendszere. A klímaváltozás azért veszélyes, mert megbontja ezeket a bonyolult, egymásra épülő rendszereket."
                 },
                 {
                     "id": "sz-11",
                     "type": "fill-in",
                     "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
                     "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg egy aktuális globális problémát – a klímaváltozást és a fenntarthatóságot – több szempontból, logikusan felépített, tárgyszerű stílusban mutat be. Nincs cselekménye, nem fikció, és nem személyes hangvételű – mindezek az értekezés vagy ismeretterjesztő szöveg műfajára jellemző vonások."
                 },
                 {
                     "id": "sz-12",
                     "type": "short-answer",
                     "question": "Hogyan értékeli a szöveg a fiatalok szerepét a fenntarthatóság terén? Idézzen vagy fogalmazzon meg legalább két konkrét példát a szövegből!",
                     "sampleAnswer": "A szöveg szerint a fiatalok szerepe egyre hangsúlyosabb: a Fridays for Future mozgalom bizonyítja, hogy a következő generáció tudatában van a tétnek és változást követel. Az iskolai kertek, ökoprogramok és energiatakarékossági projektek azt mutatják, hogy a változás szemléletszintű lehet.",
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg ötödik bekezdése pozitívan értékeli a fiatalok szerepét: a Fridays for Future mozgalmat és az iskolai ökoprogramokat (iskolai kertek, energiatakarékossági projektek) hozza fel példaként. Ezek azt bizonyítják, hogy a fiatal generáció nemcsak tudatában van a klímaválságnak, hanem aktívan is cselekszik ellene."
                 }
             ]
         },
@@ -144,7 +156,8 @@
                         "A muhi csata (1241)"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Zrínyi Miklós (1620–1664) a 'Szigeti veszedelmet' dédapja, az idősebb Zrínyi Miklós 1566-os szigetvári hősi halálának állította emléket. Az eposz 1651-ben jelent meg, és a magyar barokk irodalom legjelentősebb alkotása: az ostrom részletes és heroikus ábrázolásán keresztül a hazaszeretet és az áldozatvállalás eszméjét hirdeti."
                 },
                 {
                     "id": "m-02",
@@ -156,14 +169,16 @@
                         { "left": "Egy szép virágnak...", "right": "Balassi Bálint" },
                         { "left": "Fogságom naplója", "right": "Kazinczy Ferenc" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Ezek a magyar irodalom különböző korszakainak alapművei: Zrínyi Miklós 17. századi barokk eposza, Katona József 19. századi nemzeti drámája, Balassi Bálint 16. századi reneszánsz szerelmes verse és Kazinczy Ferenc önéletrajzi műve, amelyet rabsága idején 1794–1801 között írt. A párosítás a különböző irodalomtörténeti korszakokban való eligazodást teszteli."
                 },
                 {
                     "id": "m-03",
                     "type": "fill-in",
                     "question": "Hogyan nevezzük azt a nyelvi jelenséget, amelynek során egy régi, elavult szó új szóból keletkező szinonimájának megjelenése után kikopik a használatból? (Írja be a fogalom nevét!)",
                     "correct": ["archaizmus", "archaikus szó", "elavult szó", "avult szó"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az archaizmus (elavult szó) olyan szó, amelyet a nyelvközösség már nem, vagy csak ritkán használ az élő nyelvben, mert modernebb szinonimák váltották fel. Például a 'lovat' korábbi 'lovat' alakja helyett ma 'ló' ragozása él; az irodalomban az archaizmusokat stíluseszközként tudatosan alkalmazzák a régi korok hangulatának felidézésére."
                 },
                 {
                     "id": "m-04",
@@ -184,14 +199,16 @@
                             "answer": { "Középfok": "jobb", "Felsőfok": "legjobb" }
                         }
                     ],
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A magyar mellékneveknél három fokot különböztetünk meg: az alapfok az eredeti alak (szép, nagy, jó), a középfok a '-bb' képzővel, esetenként tőváltakozással képzett alak (szebb, nagyobb, jobb), a felsőfok pedig a 'leg-' előtaggal ellátott középfok (legszebb, legnagyobb, legjobb). A 'jó' melléknév rendhagyó, mivel középfoka 'jobb' és nem 'jóbb'."
                 },
                 {
                     "id": "m-05",
                     "type": "true-false",
                     "question": "Kazinczy Ferenc a nyelvújítási mozgalom vezéralakja volt, aki a magyar irodalmi nyelv megújítását és gazdagítását tűzte ki célul.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Kazinczy Ferenc (1759–1831) valóban a 18–19. századi magyar nyelvújítási mozgalom meghatározó vezéralakja volt. Célja a magyar irodalmi nyelv modernizálása, gazdagítása és egységesítése volt: több ezer új szót alkotott vagy honosított meg, amelyek közül sok – például 'irodalom', 'régészet', 'előítélet' – ma is él."
                 },
                 {
                     "id": "m-06",
@@ -204,21 +221,24 @@
                         "Nem tudom hogy mikor jön."
                     ],
                     "correct": 3,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A negyedik mondatból hiányzik a vessző a 'tudom' és a 'hogy' közé: az alárendelt mellékmondatot bevezető 'hogy' kötőszó elé vesszőt kell tenni. A helyes forma: 'Nem tudom, hogy mikor jön.' Ez a szórendtől független, kizárólag a mondathatárt jelölő írásjel-szabály."
                 },
                 {
                     "id": "m-07",
                     "type": "short-answer",
                     "question": "Mi jellemzi Balassi Bálint költészetét, és miért tartjuk őt a magyar líra egyik úttörőjének?",
                     "sampleAnswer": "Balassi Bálint a 16. század legnagyobb magyar lírikusa, akit a magyar nyelvű szerelmi líra megteremtőjeként tartunk számon. Verseit a petrarkista szerelmi hagyomány és a vitézi életforma inspirálta. Istenes, szerelmes és vitézi verseket egyaránt írt. Balassi volt az első, aki tudatosan, magas művészi szinten alkotott magyarul, és ezzel megalapozta a magyar irodalmi hagyomány egyik legjelentősebb ágát.",
-                    "points": 3
+                    "points": 3,
+                    "explanation": "Balassi Bálint (1554–1594) azért úttörő a magyar irodalomban, mert ő az első, aki tudatosan, magas művészi szinten alkotott magyar nyelvű lírai verseket. Istenes, szerelmes és vitézi verseket egyaránt írt; a petrarkista hagyományt és a magyar vitézi életformát ötvözte. Ezzel megalapozta a magyar lírai költészet önálló hagyományát."
                 },
                 {
                     "id": "m-08",
                     "type": "true-false",
                     "question": "Katona József 'Bánk bán' című drámáját még életében bemutatták a pesti Nemzeti Színházban, és azonnal nagy közönségsikert aratott.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A Bánk bán valójában sokáig ismeretlen maradt: a mű 1815-ben keletkezett, nyomtatásban 1821-ben jelent meg, de a pesti Nemzeti Színházban csak 1839-ben mutatták be – Katona József halála (1830) után kilenc évvel. Életében a dráma nem aratott sikert, igazi elismerést csak posztumusz kapott."
                 }
             ]
         },

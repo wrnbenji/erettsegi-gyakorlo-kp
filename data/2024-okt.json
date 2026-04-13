@@ -20,42 +20,48 @@
                         "A Brundtland-jelentés történelmi háttere"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg egésze az ember és a természet kapcsolatának történelmi változásait, a XXI. századi válságot és a lehetséges válaszokat tárgyalja. A japán hagyományok, a Brundtland-jelentés és a megújuló energiák csupán egy-egy szempont, amelyek ezt a fő témát illusztrálják, nem önálló tárgyai a szövegnek."
                 },
                 {
                     "id": "sz-02",
                     "type": "true-false",
                     "question": "A szöveg szerint az ipari forradalom előtt az ember a természet urának tekintette magát.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg első bekezdése épp az ellenkezőjét állítja: az ipari forradalom előtt az ember 'alapvetően a természet részeként tekintett önmagára', és tudta, hogy fennmaradása a természettől függ. Az uralmi szemlélet csak a modernizációval jelent meg."
                 },
                 {
                     "id": "sz-03",
                     "type": "true-false",
                     "question": "A Brundtland-jelentés 1987-ben fogalmazta meg a fenntartható fejlődés alapköveként számontartott meghatározást.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg harmadik bekezdése pontosan így fogalmaz: 'Ez a megfogalmazás az 1987-es Brundtland-jelentésből származik, és azóta is a fenntarthatósági gondolkodás alapköve.' Az állítás tehát szó szerint megfelel a szövegben leírtaknak."
                 },
                 {
                     "id": "sz-04",
                     "type": "fill-in",
                     "question": "Hogyan hívják a japán természetgyógyászati gyakorlatot, amelyet a szöveg említ? (Pontosan írja be a nevet!)",
                     "correct": ["shinrin-yoku", "shinrin yoku"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg ötödik bekezdése szó szerint megnevezi és zárójeles fordítással el is magyarázza: 'shinrin-yoku (erdőfürdőzés)'. A kifejezés japán eredetű, és a természetben, különösen erdőben töltött, gyógyító célú időt jelöli."
                 },
                 {
                     "id": "sz-05",
                     "type": "fill-in",
                     "question": "Melyik tudományterület foglalkozik azzal, hogyan hat a természeti környezet az emberi jólétre és mentális egészségre? (Írja be a pontos fogalmat!)",
                     "correct": ["ökopszichológia"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az 'ökopszichológia' kifejezés az ötödik bekezdésben szerepel, ahol a szöveg pontosan megadja a definícióját is. A szó az 'öko-' (ökológiai, természeti) és a 'pszichológia' összetételéből ered, utalva arra, hogy a természeti környezet hatásait vizsgálja az emberi lélekre."
                 },
                 {
                     "id": "sz-06",
                     "type": "short-answer",
                     "question": "Foglalja össze a szöveg alapján, miben különbözik az egyéni és a rendszerszintű megközelítés a klímaváltozás kezelésében!",
                     "sampleAnswer": "Az egyéni megközelítés szerint mindenki csökkentse a saját szén-dioxid-kibocsátását, változtasson életmódján (pl. kevesebbet repüljön, máshogy étkezzen). A rendszerszintű megközelítés szerint ezek csupán jelképes gesztusok maradnak, ha nem változik az ipar, nem terjednek el a megújuló energiák, és nem erősödik meg a politikai szabályozás.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg negyedik bekezdése mindkét álláspontot bemutatja: az egyéni felelősség hangsúlyozói az életmódváltást tartják kulcsnak, míg a rendszerszintű változás hívei szerint az egyéni lépések önmagukban nem elegendők. A jó válasz mindkét nézőpontot pontosan és a szövegre hivatkozva írja le."
                 },
                 {
                     "id": "sz-07",
@@ -67,7 +73,8 @@
                         { "left": "ökopszichológia", "right": "a természeti környezet emberi jólétre és mentális egészségre gyakorolt hatását vizsgáló tudományterület" },
                         { "left": "biodiverzitás csökkenése", "right": "az élővilág sokféleségének szegényedése, az ember és természet megbomlott egyensúlyának tünete" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Minden fogalom és magyarázat közvetlenül a szövegből olvasható ki. A 'fenntartható fejlődés' definíciója a harmadik bekezdésben, a 'shinrin-yoku' és az 'ökopszichológia' az ötödik bekezdésben, a 'biodiverzitás csökkenése' a második bekezdésben szerepel. A szövegben keresve mindegyik párosítás egyértelműen elvégezhető."
                 },
                 {
                     "id": "sz-08",
@@ -81,7 +88,8 @@
                         "Az egyéni és rendszerszintű felelősség vitája."
                     ],
                     "correctOrder": [1, 3, 2, 4, 0],
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg kronológiai és logikai sorrendben halad: először az ipari forradalom előtti állapotot írja le (1), majd a XXI. századi válságot (3), ezután mutatja be a fenntarthatóság fogalmát (2), a felelősség vitáját (4), és végül a természethez való visszatérés kulturális jeleit (0). Ez a sorrend tükrözi a szöveg bekezdéseinek egymásutánját."
                 },
                 {
                     "id": "sz-09",
@@ -98,7 +106,8 @@
                             "answer": { "Egyéni megközelítés": "naiv, csupán jelképes gesztusok", "Rendszerszintű megközelítés": "nehéz megvalósítani egyéni döntések nélkül" }
                         }
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A negyedik bekezdés részletesen ismerteti mindkét megközelítés lényegét és korlátait. Az egyéni megközelítés az életmódváltásra helyezi a hangsúlyt, de naivnak tartják, ha rendszerszintű változás nélkül marad. A rendszerszintű megközelítés az ipar és politika átalakulását sürgeti, de ez sem valósulhat meg állampolgári szemléletváltás nélkül."
                 },
                 {
                     "id": "sz-10",
@@ -111,21 +120,24 @@
                         "Az erdőirtás megállíthatatlan folyamata"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg összefüggéséből egyértelműen következik, hogy az 'ökológiai összeomlás' a természeti rendszerek súlyos, visszafordíthatatlan megbomlását jelenti – ez a legrosszabb lehetséges következménye annak, ha az ember és a természet viszonya nem változik meg. A többi lehetőség vagy az ellenkezőjét állítja, vagy csupán egy részjelenséget ír le."
                 },
                 {
                     "id": "sz-11",
                     "type": "short-answer",
                     "question": "Milyen konkrét előnyöket említ a szöveg a természetben töltött idő kapcsán? Legalább kettőt nevezzen meg!",
                     "sampleAnswer": "A szöveg szerint a természetben töltött idő csökkenti a stresszt, javítja a koncentrációt és erősíti az általános közérzetet.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Az ötödik bekezdés utolsó mondata felsorolja a kutatások által igazolt előnyöket: stressz csökkentése, koncentráció javítása és az általános közérzet erősítése. A feladat legalább kettő megnevezését kéri, de mindhárom felsorolása a maximális pontszámhoz szükséges."
                 },
                 {
                     "id": "sz-12",
                     "type": "fill-in",
                     "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, interjú...)",
                     "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés", "tanulmány"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg tudományos és társadalmi kérdéseket tárgyal, forrásokra hivatkozik (Brundtland-jelentés), logikusan felépített érvelést alkalmaz, és nincs benne elbeszélés vagy párbeszéd. Ezek az értekezés vagy ismeretterjesztő szöveg műfaji jellemzői. A riport vagy interjú személyes hangvételű, helyszíni elemeket tartalmazna – ez a szöveg nem ilyen."
                 },
                 {
                     "id": "sz-13",
@@ -138,7 +150,8 @@
                         "minimalizmus"
                     ],
                     "correct": 3,
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A szöveg ötödik bekezdése három irányzatot nevez meg: a 'shinrin-yoku' japán gyakorlatot, a 'permakultúra' mozgalmat és a 'slow life' irányzatot. A 'minimalizmus' nem szerepel a szövegben – ez a helyes válasz, mert a kérdés a NEM említett irányzatot keresi."
                 }
             ]
         },
@@ -157,7 +170,8 @@
                         "Az ég kék."
                     ],
                     "correct": 2,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A tárgy olyan mondatrész, amely a cselekvés irányát, célját jelöli, és kérdőszava: 'kit? mit?'. A 'Mari olvas egy könyvet' mondatban a 'könyvet' a tárgy (mit olvas? – a könyvet). A többi mondatban nincs tárgy: az ige mellé határozó ('szépen', 'gyorsan') vagy jelző/állítmány kapcsolódik."
                 },
                 {
                     "id": "m-02",
@@ -169,21 +183,24 @@
                         { "left": "A Pál utcai fiúk (Molnár Ferenc)", "right": "realizmus / századelő" },
                         { "left": "Himnusz (Kölcsey Ferenc)", "right": "reformkor / romantika" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A Halotti Beszéd és Könyörgés a 12-13. századi középkori irodalom legfontosabb emléke. Vörösmarty romantikus drámai költeménye (1831) a reformkor irodalmának csúcsa. Molnár Ferenc ifjúsági regénye (1906) a századelő realista prózájához sorolható. Kölcsey Himnusza (1823) a reformkor és a romantika kiemelkedő alkotása."
                 },
                 {
                     "id": "m-03",
                     "type": "fill-in",
                     "question": "Hogyan nevezzük azt a költői alakzatot, amelyben a vers sorai azonos hanggal vagy szótaggal kezdődnek? (Egy szóval feleljen!)",
                     "correct": ["anafora", "anaforás ismétlés"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az anafora (görög: 'visszavitel') olyan retorikai és költői alakzat, amelyben egymást követő mondatok, verssorok vagy mondattagok ugyanazzal a szóval vagy hangzósorral kezdődnek. Nyomatékosító, ritmust erősítő hatása van, és erős érzelmi töltetet kölcsönöz a szövegnek."
                 },
                 {
                     "id": "m-04",
                     "type": "true-false",
                     "question": "A dráma olyan irodalmi műnem, amelyet alapvetően előadásra szánnak, és jellemzője a párbeszédes (dialogikus) forma.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A dráma valóban az egyik három fő irodalmi műnem (epika, líra, dráma), és alapvető jellemzője, hogy előadásra készül: a színpad és a játék az elsődleges közege. A párbeszédes (dialogikus) forma nélkülözhetetlen, mivel a drámai cselekmény és a jellemábrázolás döntően a szereplők szavain és tetteiken keresztül bontakozik ki."
                 },
                 {
                     "id": "m-05",
@@ -204,7 +221,8 @@
                             "answer": { "Személy": "2.", "Szám": "többes", "Ragozás típusa": "tárgyas (felszólító mód)" }
                         }
                     ],
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A magyar igéknek alanyi (határozatlan tárgyú) és tárgyas (határozott tárgyú) ragozásuk van. A 'látom' alak egyes szám 1. személyű tárgyas ragozás (valamilyen meghatározott dolgot látok). A 'látnak' alak többes szám 3. személyű alanyi ragozás. A 'lássátok' felszólító módú, többes szám 2. személyű tárgyas alak."
                 },
                 {
                     "id": "m-06",
@@ -217,21 +235,24 @@
                         "Mindhárom helyes attól függően, hogy jelző-e vagy önálló főnév."
                     ],
                     "correct": 2,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A 'hosszú táv' két különálló szó: a 'hosszú' melléknév és a 'táv' főnév, amelyek között melléknévi jelzős viszony áll fenn. Az ilyen szerkezeteket a magyar helyesírás szabályai szerint külön kell írni. Az egybeírás ('hosszútáv') és a kötőjeles alak ('hosszú-táv') helytelenek."
                 },
                 {
                     "id": "m-07",
                     "type": "short-answer",
                     "question": "Mi a különbség a tragédia és a komédia műfaja között? Adjon-adjon egy-egy magyar vagy külföldi irodalmi példát mindkettőre!",
                     "sampleAnswer": "A tragédia olyan drámai műfaj, amelynek hőse végzetes, megoldhatatlan konfliktusba kerül, és a mű tragikus véggel – általában a főhős halálával vagy pusztulásával – zárul (pl. Shakespeare: Hamlet; Katona József: Bánk bán). A komédia ezzel szemben vidám, humoros és tréfás hangvételű dráma, amelynek célja a nevettetés és a társadalmi hibák szatirikus bemutatása; jellemzően boldog, derűs befejezéssel zárul (pl. Molière: A fösvény; Molnár Ferenc: A testőr).",
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A tragédia és a komédia az antik görög drámából eredő két alapvető drámai műfaj. A tragédia lényege a feloldhatatlan konfliktus és a katarzis – a néző szánalmat és félelmet érez, majd megtisztul. A komédia ezzel szemben a komikum eszközével leplezi le az emberi gyengeségeket, és rendszerint happy enddel zárul. A pontos irodalmi példák megadása mutatja, hogy a tanuló nemcsak elvben, hanem konkrét alkotásokon keresztül is ismeri a különbséget."
                 },
                 {
                     "id": "m-08",
                     "type": "true-false",
                     "question": "Mikszáth Kálmán a 19. századi magyar realizmus egyik legjelentősebb prózaírója volt, legismertebb regényei közé tartozik a 'Szent Péter esernyője' és a 'Beszterce ostroma'.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Mikszáth Kálmán (1847–1910) valóban a 19. századi magyar irodalom realista prózájának kiemelkedő képviselője, akinek humoros-szatirikus szemlélete és pontos társadalomábrázolása jellegzetes íróvá tette. A 'Szent Péter esernyője' (1895) és a 'Beszterce ostroma' (1896) valóban a legismertebb regényei közé tartoznak."
                 }
             ]
         },

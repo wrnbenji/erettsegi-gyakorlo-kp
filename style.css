@@ -1384,6 +1384,8 @@ footer a:hover {
     background: var(--correct-bg);
     color: var(--success);
     border: 1px solid var(--success);
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .check-result.incorrect {
@@ -1412,6 +1414,18 @@ footer a:hover {
 
 .correct-answer li {
     padding: 2px 0;
+}
+
+.explanation {
+    margin-top: 10px;
+    padding: 12px 16px;
+    background: var(--tips-bg);
+    border-radius: 6px;
+    border-left: 3px solid var(--primary-light);
+    color: var(--text);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    width: 100%;
 }
 
 .check-result.manual {

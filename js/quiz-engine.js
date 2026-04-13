@@ -365,24 +365,34 @@ function renderEssay(task) {
 // --- Check Result ---
 
 function getCorrectAnswerHtml(task) {
+    let html = '';
     switch (task.type) {
         case 'multiple-choice':
-            return `<div class="correct-answer"><strong>Helyes válasz:</strong> ${String.fromCharCode(65 + task.correct)}) ${task.options[task.correct]}</div>`;
+            html = `<div class="correct-answer"><strong>Helyes válasz:</strong> ${String.fromCharCode(65 + task.correct)}) ${task.options[task.correct]}</div>`;
+            break;
         case 'true-false':
-            return `<div class="correct-answer"><strong>Helyes válasz:</strong> ${task.correct ? 'Igaz' : 'Hamis'}</div>`;
+            html = `<div class="correct-answer"><strong>Helyes válasz:</strong> ${task.correct ? 'Igaz' : 'Hamis'}</div>`;
+            break;
         case 'fill-in':
-            return `<div class="correct-answer"><strong>Helyes válasz:</strong> ${task.correct.join(' / ')}</div>`;
+            html = `<div class="correct-answer"><strong>Helyes válasz:</strong> ${task.correct.join(' / ')}</div>`;
+            break;
         case 'matching':
-            return `<div class="correct-answer"><strong>Helyes párosítás:</strong><ul>${task.pairs.map(p => `<li>${p.left} → ${p.right}</li>`).join('')}</ul></div>`;
+            html = `<div class="correct-answer"><strong>Helyes párosítás:</strong><ul>${task.pairs.map(p => `<li>${p.left} → ${p.right}</li>`).join('')}</ul></div>`;
+            break;
         case 'table-fill':
-            return `<div class="correct-answer"><strong>Helyes kitöltés:</strong><ul>${task.rows.map(r => Object.entries(r.answer).map(([col, val]) => `<li>${col}: ${val}</li>`).join('')).join('')}</ul></div>`;
+            html = `<div class="correct-answer"><strong>Helyes kitöltés:</strong><ul>${task.rows.map(r => Object.entries(r.answer).map(([col, val]) => `<li>${col}: ${val}</li>`).join('')).join('')}</ul></div>`;
+            break;
         case 'ordering':
-            return `<div class="correct-answer"><strong>Helyes sorrend:</strong><ol>${task.correctOrder.map(i => `<li>${task.items[i]}</li>`).join('')}</ol></div>`;
+            html = `<div class="correct-answer"><strong>Helyes sorrend:</strong><ol>${task.correctOrder.map(i => `<li>${task.items[i]}</li>`).join('')}</ol></div>`;
+            break;
         case 'short-answer':
-            return `<div class="correct-answer"><strong>Mintaválasz:</strong> ${task.sampleAnswer}</div>`;
-        default:
-            return '';
+            html = `<div class="correct-answer"><strong>Mintaválasz:</strong> ${task.sampleAnswer}</div>`;
+            break;
     }
+    if (task.explanation) {
+        html += `<div class="explanation"><strong>Magyarázat:</strong> ${task.explanation}</div>`;
+    }
+    return html;
 }
 
 function renderCheckResult(task, result) {
@@ -404,8 +414,10 @@ function renderCheckResult(task, result) {
 
     const correctAnswerHtml = getCorrectAnswerHtml(task);
 
+    const explanationHtml = task.explanation ? `<div class="explanation"><strong>Magyarázat:</strong> ${task.explanation}</div>` : '';
+
     if (result.correct === true) {
-        return `<div class="check-result correct"><span class="check-icon">&#10003;</span> Helyes! ${result.points}/${task.points} pont</div>`;
+        return `<div class="check-result correct"><span class="check-icon">&#10003;</span> Helyes! ${result.points}/${task.points} pont${explanationHtml}</div>`;
     } else if (result.correct === false) {
         let detail = '';
         if (result.correctCount !== undefined) {

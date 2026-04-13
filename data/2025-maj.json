@@ -20,35 +20,40 @@
                         "A fiatalok olvasási szokásainak romlása"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg egészén végighúzódó kérdés az, hogy a digitális technológia korában hogyan alakul a könyv – különösen a nyomtatott könyv – sorsa. Az összes többi téma (könyvtárak, e-könyvek technikája, fiatalok) csak részlete ennek az átfogó kérdésnek."
                 },
                 {
                     "id": "sz_02",
                     "type": "true-false",
                     "question": "A szöveg szerint a nyomtatott könyvek iránti kereslet drasztikusan csökkent az elmúlt évtizedben.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Hamis, mert a szöveg épp az ellenkezőjét állítja: a nyomtatott könyvek iránti kereslet 'sem csökkent drasztikusan', sőt egyes felmérések szerint a fiatalok körében újra erősödik a vonzerejük."
                 },
                 {
                     "id": "sz_03",
                     "type": "true-false",
                     "question": "A szöveg szerint egyes fiatal olvasók körében újra erősödik a nyomtatott könyvek vonzereje.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Igaz, mert a szöveg második bekezdése kifejezetten megemlíti, hogy paradox módon a fiatal olvasók körében újra erősödik a kézzelfogható, lapozható könyv iránti vonzalom, mintegy ellenreakcióként a digitális világgal szemben."
                 },
                 {
                     "id": "sz_04",
                     "type": "fill-in",
                     "question": "Melyik agykutató hívja fel a figyelmet a mélységi olvasás veszélyeztetettségére? (Csak a nevet írja!)",
                     "correct": ["Maryanne Wolf", "Wolf Maryanne", "Wolf"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Maryanne Wolf agykutató nevét a szöveg negyedik bekezdése tartalmazza; ő figyelmeztet arra, hogy a mélységi olvasás – az elmélyült, reflektív befogadás képessége – egyedülálló kulturális és kognitív értéket képvisel, amelyet a digitális olvasási szokások veszélyeztethetnek."
                 },
                 {
                     "id": "sz_05",
                     "type": "short-answer",
                     "question": "Milyen pozitív lehetőséget említ a szöveg a digitalizálással kapcsolatban a könyvtárak vonatkozásában?",
                     "sampleAnswer": "A digitalizálás lehetővé teszi, hogy korábban hozzáférhetetlen, ritka dokumentumok is széles közönség elé kerüljenek.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg harmadik bekezdése szerint a digitalizálás legfontosabb előnye a könyvtárak szempontjából az, hogy ritka, korábban csak kevesek számára elérhető dokumentumok széles közönség előtt is megnyílhatnak – ez a tudás demokratizálódását jelenti."
                 },
                 {
                     "id": "sz_06",
@@ -60,7 +65,8 @@
                         { "left": "digitális katalógus", "right": "online elérhető könyvtári állomány" },
                         { "left": "interaktív e-könyv", "right": "multimédiás tartalmakat is tartalmazó elektronikus kiadvány" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg mindegyik fogalmat a saját kontextusában definiálja: a mélységi olvasás Wolf agykutató kapcsán, a lineáris olvasás az elmélyülés leírásában, a digitális katalógus a könyvtárak átalakulásánál, az interaktív e-könyv a kiadók alkalmazkodásánál jelenik meg."
                 },
                 {
                     "id": "sz_07",
@@ -74,7 +80,8 @@
                         "Wolf agykutató figyelmeztet a mélységi olvasás veszélyeztetettségére."
                     ],
                     "correctOrder": [1, 3, 4, 0, 2],
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg logikai íve: először felvázolja az aggodalmat (digitális fejlődés), majd megállapítja, hogy a könyvpiac nem ad egyértelmű választ, ezután bemutatja Wolf figyelmeztetését, aztán a kiadók alkalmazkodását, végül optimista következtetéssel zárja, hogy az irodalom lényege változatlan marad."
                 },
                 {
                     "id": "sz_08",
@@ -91,14 +98,16 @@
                             "answer": { "Nyomtatott könyv": "fizikai könyvtári tér, találkozóhely", "Digitális könyv": "online katalógusok, széles elérés" }
                         }
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A szöveg mindkét médiumnak bemutatja az előnyeit: a nyomtatott könyv a kézzelfogható élményt és a fizikai közösségi teret nyújtja, míg a digitális könyv a ritka dokumentumok széles körű elérhetőségét és az online katalógusok kiterjedt hozzáférését biztosítja."
                 },
                 {
                     "id": "sz_09",
                     "type": "short-answer",
                     "question": "Hogyan fogalmazza meg a szöveg a valódi kérdést a könyv jövőjével kapcsolatban? Idézze vagy fogalmazza meg saját szavaival!",
                     "sampleAnswer": "A valódi kérdés nem az, hogy melyik médium (nyomtatott vagy digitális) győz, hanem hogy miképpen őrizhetjük meg az elmélyült, reflektív olvasás kultúráját a folytonos információáradat közepette.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg zárómondatában a szerző átfogalmazza a vitát: nem a médiumok versenyéről van szó, hanem arról, hogyan tartható fenn az elmélyült olvasás kultúrája az információáradat közepette – ez egy mélyebb, kulturális és pedagógiai kérdés."
                 },
                 {
                     "id": "sz_10",
@@ -111,21 +120,24 @@
                         "Fokozatosan, lépésről lépésre"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A 'paradox' szó görög eredetű, és látszólagos ellentmondást jelöl: az elvárással ellentétben (digitális korban a nyomtatott könyv visszaszorulna) épp az ellenkezője igaz, és ez a jelenség meglepőnek, mégis valósnak tűnik."
                 },
                 {
                     "id": "sz_11",
                     "type": "fill-in",
                     "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
                     "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg értekezés vagy esszé műfajú, mert egy elvont, társadalmi-kulturális kérdést (a könyv jövőjét) elemez, bizonyítékokat és érveket sorakoztat fel, és következtetéssel zárul – mindez a tudományos-ismeretterjesztő prózai műfaj jellemzője."
                 },
                 {
                     "id": "sz_12",
                     "type": "short-answer",
                     "question": "Melyek azok a könyvtárhoz kapcsolódó, nem pótolható élmények, amelyeket a szöveg felsorol? Legalább kettőt nevezzen meg!",
                     "sampleAnswer": "A szöveg szerint a fizikai könyvtárban nem pótolható a csendes olvasóterem, a könyvek illata és a közösségi találkozóhely lehetősége.",
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg harmadik bekezdése három konkrét, érzéki és közösségi elemet sorol fel, amelyeket a virtuális tér nem képes visszaadni: a csendes olvasótermet (nyugalom, koncentráció), a könyvek illatát (érzéki élmény) és a közösségi találkozóhely funkcióját (emberi kapcsolatok)."
                 }
             ]
         },
@@ -144,7 +156,8 @@
                         "Ez az a könyv, kit tegnap olvastam."
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az 'amelyet' a szabályos, választékos vonatkozó névmás tárgyesete, amely élettelen főnévre utal. Az 'amit' köznyelvi alaknak számít, a 'minek' és a 'kit' nyelvtanilag helytelenek ebben a szerkezetben (a 'kit' csak személyre utalhat)."
                 },
                 {
                     "id": "mu_02",
@@ -156,14 +169,16 @@
                         { "left": "Egri csillagok", "right": "Gárdonyi Géza" },
                         { "left": "Édes Anna", "right": "Kosztolányi Dezső" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Mind a négy mű a magyar irodalom alapkanonikus alkotása: Arany János a Toldit 1846-ban írta, Madách Az ember tragédiáját 1861-ben, Gárdonyi az Egri csillagokat 1901-ben, Kosztolányi pedig az Édes Annát 1926-ban – ezek ismerete elengedhetetlen az érettségire."
                 },
                 {
                     "id": "mu_03",
                     "type": "fill-in",
                     "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben az író élettelen tárgyakat vagy fogalmakat emberi tulajdonságokkal ruház fel? (Írja be a fogalom nevét!)",
                     "correct": ["megszemélyesítés", "perszonifikáció"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A megszemélyesítés (perszonifikáció) olyan stilisztikai eszköz, amellyel az író emberi vonásokat, érzéseket vagy cselekvéseket tulajdonít élettelen tárgyaknak, fogalmaknak vagy természeti jelenségeknek, így teszi szemléletesebbé és érzelmileg hatásosabbá a szöveget."
                 },
                 {
                     "id": "mu_04",
@@ -184,14 +199,16 @@
                             "answer": { "Szótári alak": "visszatér", "Igekötő": "vissza-" }
                         }
                     ],
-                    "points": 3
+                    "points": 3,
+                    "explanation": "Az igekötők a magyar igék elé járuló, a cselekvés irányát vagy befejezettségét jelölő morfémák. A szótári alak az igekötővel együtt értendő (megír, felolvas, visszatér), és az igekötőt a kötőjeles jelöléssel különítjük el: meg-, fel-, vissza-."
                 },
                 {
                     "id": "mu_05",
                     "type": "true-false",
                     "question": "A szonett 14 sorból áll, és jellemzően két négysorosból (kvartett) és két háromsorosból (tercett) épül fel.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Igaz, mert a szonett klasszikus (petrarcai) formája pontosan 14 sorból áll: két négysorosból (kvartett, kvartett) és két háromsorosból (tercett, tercett). Ez az olasz reneszánszban kialakult versforma az egyik legelterjedtebb a világirodalomban."
                 },
                 {
                     "id": "mu_06",
@@ -204,21 +221,24 @@
                         "A kifejezés mindig különírandó."
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A magyar helyesírás szerint határozói funkcióban az 'mindennap' egybeírandó (pl. 'mindennap elmegy'), míg a 'minden nap' különírva főnévi vagy számnévi jelzős szerkezetként értelmezhető (pl. 'minden nap egy új feladat'). A határozói alak tehát egybeírva helyes."
                 },
                 {
                     "id": "mu_07",
                     "type": "short-answer",
                     "question": "Mi a különbség az epika és a líra műnem között? Adjon egy-egy magyar irodalmi példát mindkettőre!",
                     "sampleAnswer": "Az epika elbeszélő műnem, amely eseményeket, cselekményt mesél el (pl. Arany János: Toldi). A líra a költő belső érzéseit, gondolatait fejezi ki, jellemzően verses formában (pl. Petőfi Sándor: Szeptember végén).",
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A két műnem alapvető különbsége a közlés módja: az epika elbeszélő jellegű, van cselekménye és szereplői vannak, míg a líra az alkotó szubjektív, belső világát tárja fel. A dráma a harmadik nagy műnem, amely párbeszéd formájában jelenít meg konfliktust."
                 },
                 {
                     "id": "mu_08",
                     "type": "true-false",
                     "question": "Ady Endre a Nyugat folyóirat egyik alapító és meghatározó alkotója volt.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Igaz, mert a Nyugat folyóirat 1908-ban indult, és Ady Endre az első évfolyamtól fogva annak egyik legmeghatározóbb költője volt. A Nyugat a 20. századi magyar irodalom megújítójának számít, és Ady szimbolista-impresszionista lírája ennek a megújulásnak a jelképe lett."
                 }
             ]
         },

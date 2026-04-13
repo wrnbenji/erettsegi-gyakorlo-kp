@@ -20,21 +20,24 @@
                         "12–20 éves korosztály"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg első bekezdése egyértelműen megnevezi, hogy a 2022-es hazai felmérés a 14–18 éves korosztályra vonatkozott, akik naponta átlagosan négy-öt órát töltenek különféle közösségi platformokon."
                 },
                 {
                     "id": "sz-02",
                     "type": "true-false",
                     "question": "A szöveg szerint a közösségi média kizárólag negatív hatással van a fiatalokra.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg kifejezetten kiegyensúlyozott képet fest: a második bekezdés részletesen tárgyalja a közösségi média előnyeit (kapcsolatok, közösségek, önkifejezés, oktatás), és csak ezután tér rá a hátrányokra – tehát egyáltalán nem állítja, hogy kizárólag negatív hatásai lennének."
                 },
                 {
                     "id": "sz-03",
                     "type": "true-false",
                     "question": "A szöveg szerint a közösségi média algoritmusai a felhasználókat folyamatos görgetésre ösztönzik.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg harmadik bekezdése pszichológiai kutatásokra hivatkozva állítja, hogy az Instagram és a TikTok algoritmusai kifejezetten a folyamatos görgetésre ösztönzik a felhasználókat, ami kényszeres használati mintákat alakíthat ki."
                 },
                 {
                     "id": "sz-04",
@@ -45,7 +48,8 @@
                         "végtelen scrolling",
                         "kényszeres görgetés"
                     ],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg a harmadik bekezdésben 'végtelen görgetés' névvel illeti azt a jelenséget, amelynél a felhasználó nem tudja, mikor kellene megállni, mivel a következő tartalom mindig azonnal elérhető – ez az algoritmikus tervezés tudatos következménye."
                 },
                 {
                     "id": "sz-05",
@@ -58,14 +62,16 @@
                         "A közösségi média kizárólag pozitív hatással van a serdülők mentális egészségére."
                     ],
                     "correct": 2,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg negyedik bekezdése egyértelműen kimondja, hogy kutatások összefüggést mutattak ki a fokozott közösségimédia-használat és a serdülők önértékelési problémái, szorongása, depressziója között – a tökéletes életeket mutató tartalmak összehasonlítási kényszert és irreális elvárásokat keltenek."
                 },
                 {
                     "id": "sz-06",
                     "type": "short-answer",
                     "question": "Milyen előnyöket említ a szöveg a közösségi médiahasználattal kapcsolatban? Legalább három előnyt soroljon fel!",
                     "sampleAnswer": "A szöveg szerint a közösségi média közel hozza a barátokat és rokonokat, megkönnyíti a közösségek szerveződését, lehetőséget ad az önkifejezésre, segítheti tehetségek kibontakoztatását, és oktatási tartalmakhoz is hozzáférést nyújt.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg második bekezdése öt konkrét előnyt sorol fel: a barátok és rokonok közelebb hozása, az érdeklődési körök mentén szerveződő közösségek kialakítása, az önkifejezés lehetősége, a tehetségek kibontakoztatása, valamint az oktatási tartalmakhoz való hozzáférés."
                 },
                 {
                     "id": "sz-07",
@@ -89,7 +95,8 @@
                             "right": "a platform által automatikusan összeállított, a felhasználót továbbnézésre ösztönző tartalomsorrend"
                         }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg mindegyik fogalmat a saját kontextusában értelmezi: a digitális jártasság a tudatos médiahasználat alapja, az azonnali megerősítés a serdülőkori agy különleges fogékonyságát magyarázza, az összehasonlítási kényszer a tökéletes képek lélektani hatása, az algoritmikus szerkesztés pedig a végtelen görgetés technikai mechanizmusa."
                 },
                 {
                     "id": "sz-08",
@@ -109,7 +116,8 @@
                         2,
                         0
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A szöveg a klasszikus értekezés-szerkezetet követi: adatokkal vezeti be a témát, majd előnyöket, aztán hátrányokat (előbb pszichológiai, majd önképre vonatkozó), végül a megoldást (digitális jártasság) tárgyalja – ez a pro–kontra felépítés jellemző az ismeretterjesztő esszékre."
                 },
                 {
                     "id": "sz-09",
@@ -140,14 +148,16 @@
                             }
                         }
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A szöveg párhuzamosan tárgyalja az előnyöket és hátrányokat mindkét szempontnál: szociálisan a kapcsolatteremtés előny, az összehasonlítási kényszer hátrány; pszichológiailag az önkifejezés erősíti az énképet, míg a kényszeres görgetés és a depresszió súlyos kockázatokat jelent."
                 },
                 {
                     "id": "sz-10",
                     "type": "short-answer",
                     "question": "Ki szerint felelős a közösségimédia-használat negatív hatásaiért a szöveg zárása alapján? Foglalja össze a szöveg végső üzenetét!",
                     "sampleAnswer": "A szöveg szerint nem maga a technológia felelős, hanem a nem tudatos, szabályozatlan használat. A digitális jártasság kialakításában az iskolák, szülők és a közpolitika egyaránt szerepet játszanak; a cél, hogy a fiatalok tudatos és alkotó résztvevőkként viszonyuljanak a digitális térhez.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg utolsó bekezdése felelősséget terít szét: nem a technológia önmagában káros, hanem a szabályozatlan, nem tudatos használat – ezért az iskoláknak, a szülőknek és a közpolitikának közösen kell kialakítani a digitális jártasságot, hogy a fiatalok alkotó résztvevők lehessenek."
                 },
                 {
                     "id": "sz-11",
@@ -160,7 +170,8 @@
                         "publicisztika",
                         "elemzés"
                     ],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg ismeretterjesztő értekezés vagy publicisztika: tárgyilagosan bemutat egy jelenséget, adatokat idéz, érveket sorakoztat, de nem mesél el fiktív történetet és nem tudósít egy konkrét eseményről – a logikus kifejtés és az egyensúlyra törekvő hangnem az értekezés vagy esszé műfajára utal."
                 },
                 {
                     "id": "sz-12",
@@ -173,7 +184,8 @@
                         "Orvosi beavatkozással módosított arcok"
                     ],
                     "correct": 1,
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg a 'szűrőkkel kozmetikázott' kifejezésben a 'kozmetikázott' szót átvitt értelemben használja: a digitális szűrők (filterek) a valóságot szépítik, módosítják, ahogy a kozmetikum az arcot – vagyis itt digitálisan manipulált, a valóságtól eltérő képekről van szó."
                 }
             ]
         },
@@ -203,7 +215,8 @@
                             "right": "Radnóti Miklós"
                         }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A Tajtékos ég és a Bori notesz Radnóti Miklós verseskötetei, amelyeket részben fogságban írt; Az arany ember Jókai Mór romantikus regénye; a Csongor és Tünde Vörösmarty Mihály drámai költeménye, amely a népmesék világát ötvözi filozofikus tartalmakkal."
                 },
                 {
                     "id": "m-02",
@@ -216,7 +229,8 @@
                         "A vers kizárólag a cigány zenészek életéről szól, nincs politikai tartalma."
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A Vén cigány (1854) Vörösmarty kései, nagy verse, amelyet az 1849-es szabadságharc bukása után írt: a reménytelenség és a feltámadás hite egyszerre van jelen benne, a cigányzenész motívuma a nemzet megpróbáltatásainak és kitartásának szimbóluma."
                 },
                 {
                     "id": "m-03",
@@ -227,14 +241,16 @@
                         "szórendi csere",
                         "szórendcsere"
                     ],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az inverzió (szórendi csere) stilisztikai eszköz, amelyben a szokásos szórendet megváltoztatják: egy elemet előre helyeznek, hogy nagyobb hangsúlyt kapjon, vagy hogy a vers ritmikája, érzelmi hatása erősebb legyen."
                 },
                 {
                     "id": "m-04",
                     "type": "true-false",
                     "question": "Radnóti Miklós munkaszolgálatosként vesztette életét a II. világháború idején, és eclogáit részben fogságban írta.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Radnóti Miklós valóban munkaszolgálatosként halt meg 1944-ben – a szerb Borból tartott halálmenet során lőtték le Abdán. Eclogáit (köztük a Hetedik eclogát) részben a bori fogságban írta, amelyeket a Bori notesz őrzött meg."
                 },
                 {
                     "id": "m-05",
@@ -274,7 +290,8 @@
                             }
                         }
                     ],
-                    "points": 3
+                    "points": 3,
+                    "explanation": "Az 'énekeltetek' a -tet- műveltető képzőt és az E/1. -ek személyragot tartalmazza; a 'legsötétebb' a leg- felsőfokjelet és az -ebb középfokjelet viseli (kettős fokozás); a 'hazáinkban' a T/1. -ink birtokos személyjelet és a -ban inessivus-ragot tartalmazza – ezek a morfológiai elemzés alapkategóriái."
                 },
                 {
                     "id": "m-06",
@@ -287,21 +304,24 @@
                         "Radnóti versei a háború borzalmait és az emberi méltóság megőrzését tematizálják."
                     ],
                     "correct": 2,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A harmadik mondatban a 'cimű' szó hibásan írott: a helyes alak 'című' (hosszú ű-vel), mivel a 'cím' szóból képzett melléknév az -ű képzőt kapja. A többi mondatban nincs helyesírási hiba."
                 },
                 {
                     "id": "m-07",
                     "type": "short-answer",
                     "question": "Mi az ecloga műfaja, és milyen hagyományra vezethető vissza? Mondjon egy példát a magyar irodalomból!",
                     "sampleAnswer": "Az ecloga (vagy ekloga) pásztori hangvételű, párbeszédes szerkezetű verses műfaj, amelynek gyökerei az antik, főként Vergilius-féle bukolikus hagyományra nyúlnak vissza. Magyar irodalomban Radnóti Miklós emelte újra magasra ezt a műfajt: Eclogái (1938–1944) a háborús borzalmakat a pásztori idill kontextusába helyezve szólaltatják meg.",
-                    "points": 3
+                    "points": 3,
+                    "explanation": "Radnóti Miklós eclogái az antik bukolikus hagyományt idézik meg a második világháború borzalmai közepette, ezzel teremtve feszültséget az idilli forma és a tragikus tartalom között – a műfaj tehát nem dekoráció, hanem az ellentmondás tudatos poétikai eszköze."
                 },
                 {
                     "id": "m-08",
                     "type": "true-false",
                     "question": "Jókai Mór regényeire jellemző a romantikus képzelőerő, a kalandos cselekmény és az idealizált hősök ábrázolása.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Jókai Mór (1825–1904) a magyar romantikus próza legnagyobb alakja: regényeit valóban a csodás képzelőerő, a kalandos, fordulatokban gazdag cselekményvezetés és az erkölcsileg idealizált, erényes főhősök jellemzik, amelyek a romantika stílusjegyeit tükrözik."
                 }
             ]
         },

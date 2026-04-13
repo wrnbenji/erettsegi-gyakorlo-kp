@@ -20,35 +20,40 @@
                         "A streaming szolgáltatások teljesen kiszorítják a színházat."
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg végig azt a gondolatot vezeti végig, hogy a színház – bár kihívásokkal küzd – nélkülözhetetlen kulturális és közösségi intézmény, és képes megújulni az immerzív előadások, a gyermekszínházak és az ifjúsági programok révén. Az első és utolsó bekezdés egyaránt ezt az állítást erősíti meg."
                 },
                 {
                     "id": "sz-02",
                     "type": "true-false",
                     "question": "A szöveg szerint a színházi előadás és a film egyaránt élő, valós idejű kapcsolatot teremt a néző és az előadó között.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg éppen azt emeli ki, hogy a színházi előadás egyedi, mert élő, valós idejű kapcsolatot teremt a néző és az előadó között – szemben a filmmel és a televízióval, amelyek rögzített médiumok, és nem tesznek lehetővé ilyen közvetlen interakciót."
                 },
                 {
                     "id": "sz-03",
                     "type": "true-false",
                     "question": "A szöveg szerint az immerzív előadások egyre nagyobb érdeklődést váltanak ki.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg negyedik bekezdése kifejezetten megemlíti, hogy a kísérletező, immerzív előadások – amelyekben a közönség maga is részese a cselekménynek – egyre nagyobb érdeklődést váltanak ki, és a kortárs színház megújulásának egyik útjaként értékeli őket."
                 },
                 {
                     "id": "sz-04",
                     "type": "fill-in",
                     "question": "Soroljon fel a szövegből két ókori görög drámaírót! (Csak a neveket írja, vesszővel elválasztva!)",
                     "correct": ["Szophoklész, Euripidész", "Szophoklész, Arisztophanész", "Euripidész, Arisztophanész", "Szophoklész és Euripidész", "Szophoklész és Arisztophanész", "Euripidész és Arisztophanész"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg első bekezdése három ókori görög drámaírót nevez meg: Szophoklészt, Euripidészt és Arisztophanészt. Mindhárom a Kr. e. 5. századi athéni drámairodalomban alkotott, és műveik – például az Oidipusz király vagy a Lysisztraté – máig a világirodalom alapművei közé tartoznak."
                 },
                 {
                     "id": "sz-05",
                     "type": "short-answer",
                     "question": "Milyen kihívásokkal kell a 21. századi színháznak szembenéznie a szöveg szerint? Nevezzen meg legalább kettőt!",
                     "sampleAnswer": "A szöveg szerint a 21. századi színháznak kihívást jelentenek az otthoni streamingszolgáltatások, a mozik és az online szórakoztatás, valamint a jegyek magas ára és a fiatal korosztályok csökkenő látogatottsága.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg harmadik bekezdése részletezi a 21. századi színház kihívásait: a streaming-szolgáltatások és az online szórakoztatás erős versenyt jelentenek, a fiatalok ritkábban járnak színházba, és a magas jegyárak is visszatartó tényezők lehetnek. Ezek valós társadalmi és gazdasági problémák, amelyek a kulturális intézmények fenntarthatóságát érintik."
                 },
                 {
                     "id": "sz-06",
@@ -60,7 +65,8 @@
                         { "left": "gyermekszínház", "right": "a fiatalabb generációkat vezeti be a műfajba" },
                         { "left": "amatőr színjátszás", "right": "személyiségfejlesztő és közösségépítő szerepet tölt be" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Ezek a fogalmak a szövegben egyértelműen meghatározott szerepekkel bírnak: az immerzív előadás bevon, a közösségi élmény összeköt, a gyermekszínház bevezet, az amatőr színjátszás fejleszt. A szöveg mindegyik fogalmat a színház pozitív értékeit illusztrálva használja."
                 },
                 {
                     "id": "sz-07",
@@ -74,7 +80,8 @@
                         "A színházi előadás egyedi, élő kapcsolatot teremt néző és előadó között."
                     ],
                     "correctOrder": [1, 4, 3, 0, 2],
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg gondolatmenete időrendi és logikai sorrendben halad: az ókori gyökerektől az élő előadás egyediségén és a modern kihívásokon át a megújulás lehetőségéig és végül a színjátszás személyes fejlesztő hatásáig. Ez a szerkezet az általánostól a konkrét felé haladó gondolatépítés klasszikus módja."
                 },
                 {
                     "id": "sz-08",
@@ -91,14 +98,16 @@
                             "answer": { "Színházlátogatás": "jegyvásárlás szükséges, esetleg drága", "Streaming/Film": "bárhonnan és bármikor elérhető" }
                         }
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A szöveg szembeállítja a színházlátogatás és a digitális médiafogyasztás jellemzőit: a színház élő, közösségi, de drágább és kevésbé rugalmas; a streaming kényelmes és olcsóbb, de rögzített és interakciót nem tesz lehetővé. A táblázat kitöltése a szöveg lényegi összehasonlítását tükrözi."
                 },
                 {
                     "id": "sz-09",
                     "type": "short-answer",
                     "question": "Milyen személyiségfejlesztő hatásokat említ a szöveg a színjátszással kapcsolatban? Legalább három készséget nevezzen meg!",
                     "sampleAnswer": "A szöveg szerint a színjátszás fejleszti az empatikus képességet, a nyilvános megszólalás bátorságát, az együttműködést és az önkifejezést.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg ötödik bekezdése négy konkrét személyiségfejlesztő hatást sorol fel: az empatikus képesség fejlesztését, a nyilvános megszólalás bátorságát, az együttműködést és az önkifejezést. Ezek olyan általánosan értékes készségek, amelyeket az iskolai és közösségi színjátszás is hatékonyan fejleszt."
                 },
                 {
                     "id": "sz-10",
@@ -111,21 +120,24 @@
                         "A kultúra egyik részterülete"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A 'fokmérő' szó átvitt értelemben jelzőt, mutatót jelent – azt fejezi ki, hogy valami alapján következtetni lehet egy tágabb jelenség állapotára. A szövegben a színház fennmaradása és megújulása annak mutatója, jelzője, hogy kultúránk mennyire egészséges és élő."
                 },
                 {
                     "id": "sz-11",
                     "type": "fill-in",
                     "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
                     "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg egy témát – a színház szerepét – több szempontból, érvelő és tájékoztató jelleggel mutat be, nincs cselekménye, és nem személyes hangvételű naplószerű írás. Ez az értekezés vagy ismeretterjesztő szöveg műfajának felel meg, amelyre jellemző a tárgyszerű, logikusan felépített kifejtés."
                 },
                 {
                     "id": "sz-12",
                     "type": "short-answer",
                     "question": "Hogyan zárja le a szöveg a gondolatmenetet? Fogalmazza meg saját szavaival a szöveg záró üzenetét!",
                     "sampleAnswer": "A szöveg azzal zárja gondolatmenetét, hogy a színház nemcsak szórakoztató, hanem nevelő, közösségépítő és gondolkodásra késztető funkciókat is betölt, és fennmaradása kultúránk állapotának mutatója.",
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg utolsó bekezdése összefoglalja az összes bemutatott funkciót – szórakoztatás, nevelés, közösségépítés, gondolkodásra serkentés –, majd egy erős metaforával zárja: a színház fennmaradása a kultúra egészségének mércéje. Ez az összefoglaló, értékelő lezárás az értekezés műfajának tipikus befejezési módja."
                 }
             ]
         },
@@ -144,7 +156,8 @@
                         "Cipruslombok Etelke sírjáról"
                     ],
                     "correct": 2,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Petőfi Sándor első önálló verseskötete a 'Versek' volt, amely 1844-ben jelent meg, és azonnal az irodalmi élet középpontjába emelte a fiatal költőt. A 'János vitéz' ugyanebben az évben jelent meg, de az elbeszélő költemény műfajában, a 'Cipruslombok' pedig 1845-ben, Petőfi Csapó Etelke iránt érzett gyászát feldolgozva."
                 },
                 {
                     "id": "m-02",
@@ -156,14 +169,16 @@
                         { "left": "Az én Pegasusom", "right": "Csokonai Vitéz Mihály" },
                         { "left": "János vitéz", "right": "Petőfi Sándor" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Ezek a magyar irodalom alapvető alkotásai és szerzőik: Jókai Mór romantikus regényírónk 'Az arany embert' 1872-ben írta; Kölcsey Ferenc a Himnuszt 1823-ban szerezte; Csokonai Vitéz Mihály 'Az én Pegasusom' önironikus versében a szegényes körülmények közt alkotó költőt jeleníti meg; Petőfi 'János vitéze' az 1844-es népies elbeszélő költemény."
                 },
                 {
                     "id": "m-03",
                     "type": "fill-in",
                     "question": "Hogyan nevezzük azt a versformát, amelyben a sorok szótagszáma kötött, és a hangsúlyos és hangsúlytalan szótagok szabályosan váltakoznak? (Írja be a fogalom nevét!)",
                     "correct": ["időmértékes verselés", "időmértékes versforma", "antik versforma", "klasszikus verselés"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az időmértékes verselés (más nevén antik vagy kvantitáló verselés) a görög-latin költészet hagyományából ered, ahol a hosszú és rövid szótagok szabályos váltakozása adja a ritmust. A magyar irodalomban Berzsenyi Dániel és Kölcsey Ferenc ódái, valamint Vörösmarty Mihály számos műve alkalmazza ezt a versformát."
                 },
                 {
                     "id": "m-04",
@@ -184,14 +199,16 @@
                             "answer": { "Eset": "accusativus (-t/-ot/-et/-öt)", "Mondatbeli szerep": "tárgy" }
                         }
                     ],
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A magyar nyelv agglutináló, azaz ragozó nyelv: a főnévhez különböző esetragokat illesztünk, amelyek meghatározzák a szó mondatbeli szerepét. Az inessivus (-ban/-ben) helyen belüli tartózkodást és helyhatározói szerepet jelöl; a dativus (-nak/-nek) a részeshatározót; az accusativus (-t) a tárgyat."
                 },
                 {
                     "id": "m-05",
                     "type": "true-false",
                     "question": "Kölcsey Ferenc a Himnuszt 1823-ban írta, és ez a vers lett a magyar nemzeti himnusz.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Kölcsey Ferenc valóban 1823. január 22-én fejezte be a Himnuszt, amelyet Erkel Ferenc zenésített meg 1844-ben. A vers a magyarok sorsát és az isteni oltalom iránti fohászt jeleníti meg, és azóta Magyarország törvényileg elismert nemzeti himnusza."
                 },
                 {
                     "id": "m-06",
@@ -204,21 +221,24 @@
                         "Ez a könyv, amit kerestem, megkerült."
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A helyes választás 'Az a könyv, amelyet kerestem, megkerült.' – az 'az a' mutató névmás + névelő szerkezet visszautal egy már ismert dologra, az 'amelyet' pedig az igényes írott nyelvben előnyben részesítendő vonatkozó névmási forma. Az 'amit' köznyelvi ugyan, de az 'az a' + 'amelyet' párosítása a legszabályosabb irodalmi norma szerint helyes."
                 },
                 {
                     "id": "m-07",
                     "type": "short-answer",
                     "question": "Mi jellemzi Csokonai Vitéz Mihály költészetét stílus szempontjából? Melyik irodalmi korszakhoz sorolható, és mi ennek a korszaknak a jellemzője?",
                     "sampleAnswer": "Csokonai Vitéz Mihály a felvilágosodás korának legjelentősebb magyar lírikusa. Költészetére a rokokó játékosság, az anakreóni életöröm és a szentimentalizmus egyszerre jellemző. A felvilágosodás irodalmát az ész kultusza, az erkölcsi és társadalmi reformok igénye, valamint a nemzeti nyelv fejlesztésének szándéka hatja át.",
-                    "points": 3
+                    "points": 3,
+                    "explanation": "Csokonai Vitéz Mihály (1773–1805) a magyar felvilágosodás legsokszínűbb és legeredetibb lírikusa. Életművében egyszerre van jelen a rokokó játékosság ('Tartózkodó kérelem'), az anakreóni életörömre épülő hangnem és a szentimentális fájdalom ('A Reményhez'). A felvilágosodás kora az észre, a tudományra és a társadalmi haladásra helyezte a hangsúlyt."
                 },
                 {
                     "id": "m-08",
                     "type": "true-false",
                     "question": "Jókai Mór elsősorban verseiről híresült el; regényírói munkásságát kevésbé tartja számon az irodalomtörténet.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Jókai Mór (1825–1904) a magyar romantikus próza legnagyobb alakja, akit elsősorban regényírói munkásságáért ismer az irodalomtörténet. Több mint száz regényt írt, köztük olyan kiemelkedő műveket, mint 'Az arany ember', 'A kőszívű ember fiai' vagy 'Az új földesúr'. Versei elenyésző részét képezik életművének."
                 }
             ]
         },

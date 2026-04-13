@@ -20,42 +20,48 @@
                         "A tizenévesek iskolai teljesítményének romlása"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg már a címében megjelöli a fő témát, és minden bekezdés ehhez kapcsolódik: a közösségi média lélektani hatásait, kockázatait és a lehetséges megoldásokat tárgyalja. A többi válaszlehetőség csupán érintőlegesen vagy egyáltalán nem szerepel a szövegben."
                 },
                 {
                     "id": "sz-02",
                     "type": "true-false",
                     "question": "A szöveg szerint a kutatások egységes, egyértelmű képet mutatnak a közösségi média hatásáról.",
                     "correct": false,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg második bekezdése kifejezetten azt írja: 'A kutatások nem egységes képet mutatnak.' Ez a mondat ellentmond az állításnak, ezért az hamis."
                 },
                 {
                     "id": "sz-03",
                     "type": "true-false",
                     "question": "A szöveg megemlíti, hogy a közösségi média egyes marginalizált fiatalok számára valódi közösségi támaszt nyújthat.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A második bekezdés konkrét példával szemlélteti ezt: az LMBTQ+ fiatalok digitális közösségekben találhatnak elfogadásra, amelyet szűkebb valós környezetükben nem kapnak meg. A szöveg tehát valóban megemlíti ezt a pozitív lehetőséget."
                 },
                 {
                     "id": "sz-04",
                     "type": "fill-in",
                     "question": "Melyik szerző írta 'The Anxious Generation' című könyvet, amelyre a szöveg hivatkozik? (Csak a nevet írja!)",
                     "correct": ["Jonathan Haidt", "Haidt", "Haidt Jonathan"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg negyedik bekezdése egyértelműen megnevezi: 'Jonathan Haidt szociálpszichológus 2023-ban megjelent könyvében (The Anxious Generation)'. A szerzőt tehát a szövegből közvetlenül ki lehet olvasni."
                 },
                 {
                     "id": "sz-05",
                     "type": "fill-in",
                     "question": "Hogyan nevezi a szöveg azt a jelenséget, amikor valaki nálánál sikeresebb emberekkel hasonlítja össze magát? (Írja be a pontos kifejezést!)",
                     "correct": ["felfelé irányuló társadalmi összehasonlítás", "felfelé irányuló összehasonlítás"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg harmadik bekezdése szó szerint idézőjelben közli ezt a szociálpszichológiai szakfogalmat: 'felfelé irányuló társadalmi összehasonlítás'. A 'felfelé irányuló' jelző arra utal, hogy olyanokhoz hasonlítjuk magunkat, akiket nálunknál jobbnak, szebbnek vagy sikeresebbnek látunk."
                 },
                 {
                     "id": "sz-06",
                     "type": "short-answer",
                     "question": "Milyen pozitív szerepet tölthet be a közösségi média egyes fiatalok életében a szöveg szerint? Fogalmazza meg saját szavaival!",
                     "sampleAnswer": "A szöveg szerint a közösségi média lehetőséget ad az önkifejezésre és a hasonló érdeklődésű emberekkel való kapcsolatfelvételre. Különösen azon fiatalok számára nyújthat támaszt, akik szűkebb környezetükben nem találnak elfogadásra – például az LMBTQ+ fiatalok, akik digitális közösségekben megtalálhatják azokat a kapcsolatokat, amelyek a valós életből hiányoznak.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A szöveg hangsúlyozza, hogy a közösségi média nem csupán káros: az önkifejezés és a hasonló érdeklődésű emberek megtalálásának lehetősége valódi értéket jelent, különösen azoknak, akik valós közegükben marginalizálva érzik magukat. A teljes pontszámért érdemes konkrét példát is hozni (pl. LMBTQ+ közösségek)."
                 },
                 {
                     "id": "sz-07",
@@ -67,7 +73,8 @@
                         { "left": "visszajelzés-alapú működés", "right": "lájkok, követők száma és kommentek világa" },
                         { "left": "serdülők lelki egészsége", "right": "szorongásos és depressziós tünetek növekedése a kutatások szerint" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Minden fogalom és magyarázat közvetlenül a szövegből ered. A helyes párosításhoz érdemes az egyes bekezdésekhez visszatérni: a 'visszajelzés-alapú működés' a harmadik bekezdésben, a 'digitális írástudás' az ötödikben szerepel. A fogalmak pontos értelmének ismerete segít az összekötésben."
                 },
                 {
                     "id": "sz-08",
@@ -81,7 +88,8 @@
                         "A közösségi média lehetséges pozitív szerepe marginalizált fiataloknál."
                     ],
                     "correctOrder": [1, 4, 3, 2, 0],
-                    "points": 5
+                    "points": 5,
+                    "explanation": "A szöveg felépítése klasszikus értekezési logikát követ: bevezeti a témát, bemutatja a pozitív oldalt, majd rátér a kockázatokra, ezután tudományos forrást idéz, végül megoldást javasol. Az 1→4→3→2→0 sorrend ezt a gondolatmenetet tükrözi."
                 },
                 {
                     "id": "sz-09",
@@ -98,7 +106,8 @@
                             "answer": { "Pozitív hatás": "hasonló érdeklődésűek megtalálása, elfogadás", "Negatív hatás": "szorongás, depresszió növekedése" }
                         }
                     ],
-                    "points": 6
+                    "points": 6,
+                    "explanation": "A szöveg szándékosan mutatja be mindkét oldalt, hogy árnyalt képet adjon. A pozitív hatásokat főként a második bekezdés tartalmazza, a negatívakat a harmadik és negyedik bekezdés. A táblázat kitöltésekor érdemes mindkét bekezdést alaposan átolvasni."
                 },
                 {
                     "id": "sz-10",
@@ -111,21 +120,24 @@
                         "Ismeretlen, névtelen"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A 'marginalizált' szó a latin 'margo' (perem, határ) tőből ered, és olyan személyt jelöl, akit a társadalom peremére szorítottak, kizártak a többségi csoportból. A szöveg összefüggéséből is következik: ezek azok a fiatalok, akik saját osztályközösségükben nem találnak elfogadásra."
                 },
                 {
                     "id": "sz-11",
                     "type": "short-answer",
                     "question": "Hogyan fogalmazza meg a szöveg a megoldás lényegét? Saját szavaival foglalja össze!",
                     "sampleAnswer": "A szöveg szerint a megoldás nem az eszközök betiltása, hanem a digitális írástudás fejlesztése. Ez magában foglalja a médiatartalmak kritikus értékelését, az algoritmusok megértését és az egészséges határok kialakítását. Ebben az iskolának és az otthoni nevelésnek egyaránt fontos szerepe van.",
-                    "points": 4
+                    "points": 4,
+                    "explanation": "Az ötödik bekezdés egyértelműen fogalmaz: a betiltás helyett a digitális írástudás fejlesztése a helyes út. Ez magában foglalja a kritikus szemléletet, az algoritmusok megértését és a határok felállítását – ezeket érdemes mind megemlíteni a teljes pontszámért."
                 },
                 {
                     "id": "sz-12",
                     "type": "fill-in",
                     "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, interjú...)",
                     "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés", "tanulmány"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szöveg egy tudományos-ismeretterjesztő témát (közösségi média hatása) tárgyal logikusan felépített, érvelő szerkezetben, kutatásokra és szakirodalomra hivatkozva. Ez a formai és tartalmi jelleg az értekezés vagy ismeretterjesztő szöveg műfajára utal – nem tartalmaz elbeszélést, párbeszédet vagy riportszerű elemeket."
                 },
                 {
                     "id": "sz-13",
@@ -138,7 +150,8 @@
                         "A közösségi média összességében pozitívan hat a fiatalok lelki egészségére."
                     ],
                     "correct": 0,
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A szöveg pontosan idézi Haidt következtetését: az okostelefon 'tömeges elterjedése a serdülők körében egybeesett a szorongásos és depressziós tünetek jelentős növekedésével – különösen a lányok között.' Fontos, hogy a szöveg nem állít közvetlen ok-okozati viszonyt (ezt a szerző maga is hangsúlyozza), csupán egybeesést."
                 }
             ]
         },
@@ -157,7 +170,8 @@
                         "boldogít"
                     ],
                     "correct": 1,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A 'boldogság' főnév, mert elvont fogalmat jelöl és a '-ság' képző főneveket alkot melléknevekből. A 'boldogan' határozószó, a 'boldog' melléknév, a 'boldogít' pedig ige – ezek más szófajú szavak."
                 },
                 {
                     "id": "m-02",
@@ -169,21 +183,24 @@
                         { "left": "Édes Anna", "right": "Kosztolányi Dezső" },
                         { "left": "Fekete kolostor", "right": "Kuncz Aladár" }
                     ],
-                    "points": 4
+                    "points": 4,
+                    "explanation": "A 'Szeptember végén' Petőfi egyik legismertebb szerelmes verse (1847). Berzsenyi Dániel klasszicista-romantikus ódaköltő volt. Kosztolányi 'Édes Anna' c. regénye (1926) a cselédkérdést és az osztálykülönbségeket dolgozza fel. Kuncz Aladár 'Fekete kolostor' c. önéletrajzi regénye az első világháborús internálótábor élményét örökíti meg."
                 },
                 {
                     "id": "m-03",
                     "type": "fill-in",
                     "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben egy szó vagy szókapcsolat azonos vagy nagyon hasonló hangzású, de más jelentésű szóval való felcserélése komikus vagy ironikus hatást kelt? (Egyetlen szóval feleljen!)",
                     "correct": ["szójáték", "calembour", "paronomázia"],
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A szójáték (más nevén calembour vagy paronomázia) olyan retorikai alakzat, amely a hasonló hangzású, de különböző jelentésű szavak közötti kettős értelmet aknázza ki. Komikus és ironikus hatást kelt, mert az olvasó egyszerre több jelentést érzékel."
                 },
                 {
                     "id": "m-04",
                     "type": "true-false",
                     "question": "A haiku japán eredetű, háromsorosból álló versforma, amelynek sorai 5-7-5 szótagból állnak.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "A haiku valóban japán versforma, amelynek szigorú szótagszabálya van: az első sor 5, a második 7, a harmadik ismét 5 szótagból áll. Ez összesen 17 szótagot jelent. A haikuban rendszerint egy természeti kép és egy hangulatváltás (kireji) szerepel."
                 },
                 {
                     "id": "m-05",
@@ -204,7 +221,8 @@
                             "answer": { "Szófaj": "ige", "Toldalék(ok)": "-gat (gyakorító képző), -om (személyrag, tárgyas ragozás)" }
                         }
                     ],
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A szóelemzéskor mindig a tőtől haladunk a toldalékok felé. A 'házakban' esetén: tő=ház, -ak=többesjel, -ban=helyhatározórag. A 'legszebb' esetén: tő=szép (változással: szebb), leg-=felsőfok-képző előtag. Az 'olvasgatom' esetén: tő=olvas, -gat=gyakorítást fejez ki, -om=tárgyas ragozású személyrag."
                 },
                 {
                     "id": "m-06",
@@ -217,21 +235,24 @@
                         "Félelem nélkül lépett be a szobába."
                     ],
                     "correct": 2,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Az 'egymás után' határozószói szerkezetet külön kell írni, mert az 'egymás' névmás és az 'után' névutó önálló szavak. A helyes alak tehát: 'egymás után érkeztek a vendégek.' Az egybeírt 'Egymásután' forma hibás."
                 },
                 {
                     "id": "m-07",
                     "type": "short-answer",
                     "question": "Mi a különbség a metafora és a hasonlat között? Adjon-adjon egy-egy példát mindkét alakzatra!",
                     "sampleAnswer": "A hasonlat két dolog hasonlóságát kifejezetten jelöli, összehasonlítást végez (pl. 'olyan szép, mint egy angyal'). A metafora ezzel szemben azonosítást végez: a két fogalmat közvetlenül egymásra vetíti, a hasonlóságot jelző szó nélkül (pl. 'te vagy a lelkem napja'). A metafora tömörebb és erőteljesebb képet alkot.",
-                    "points": 3
+                    "points": 3,
+                    "explanation": "A hasonlat és a metafora közötti lényeges különbség az, hogy a hasonlatban mindig szerepel hasonlító szó ('mint', 'olyan … mint'), míg a metafora ezt elhagyja és közvetlen azonosítást végez. Ezért a metafora tömörebb és erőteljesebb képi hatást kelt, és az irodalomban az egyik leggyakrabban alkalmazott stíluseszköz."
                 },
                 {
                     "id": "m-08",
                     "type": "true-false",
                     "question": "Csokonai Vitéz Mihály a felvilágosodás és a rokokó korszakának egyik legjelentősebb magyar költője volt.",
                     "correct": true,
-                    "points": 2
+                    "points": 2,
+                    "explanation": "Csokonai Vitéz Mihály (1773–1805) valóban a magyar felvilágosodás kiemelkedő alakja, akinek költészetében a rokokó játékosság és az érzékenység (szentimentalizmus) egyaránt megjelenik. Legismertebb versei közé tartozik 'A Reményhez' és 'Tartózkodó kérelem'."
                 }
             ]
         },
