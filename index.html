@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magyar Erettsegi Gyakorlo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Magyar Erettsegi Gyakorlo</h1>
+            <p class="subtitle">Kozepszintu magyar nyelv es irodalom - Feladattipusok szerinti gyakorlas</p>
+        </div>
+    </header>
+
+    <nav id="main-nav">
+        <div class="container">
+            <button class="nav-btn active" data-section="home">Fooldal</button>
+            <button class="nav-btn" data-section="szovegertes">I. Szovegertes</button>
+            <button class="nav-btn" data-section="muveleti">II. Nyelvi-irodalmi muveletek</button>
+            <button class="nav-btn" data-section="szovegalkotas">III. Szovegalkotas</button>
+            <button class="nav-btn" data-section="feladatsorok">Teljes feladatsorok</button>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Home Section -->
+        <section id="home" class="section active">
+            <div class="intro-card">
+                <h2>Udvozollek!</h2>
+                <p>Ez az oldal segit felkeszulni a kozepszintu magyar erettsegi irasbeli vizsgara. Valassz feladattipust es kezdj el gyakorolni!</p>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">7</div>
+                    <div class="stat-label">Feladatsor (2022-2025)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Feladattipus</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">150</div>
+                    <div class="stat-label">Pont ossz.</div>
+                </div>
+            </div>
+
+            <div class="task-type-cards">
+                <div class="type-card" data-goto="szovegertes">
+                    <div class="type-icon">I.</div>
+                    <h3>Szovegertes</h3>
+                    <p>Szovegertesi feladatok - olvasd el a szoveget es valaszolj a kerdesekre. (40 pont)</p>
+                    <span class="type-link">Gyakorlas &rarr;</span>
+                </div>
+                <div class="type-card" data-goto="muveleti">
+                    <div class="type-icon">II.</div>
+                    <h3>Nyelvi-irodalmi muveletek</h3>
+                    <p>Nyelvtani, irodalomtorteneti es nyelvi ismeretek feladatai. (20 pont)</p>
+                    <span class="type-link">Gyakorlas &rarr;</span>
+                </div>
+                <div class="type-card" data-goto="szovegalkotas">
+                    <div class="type-icon">III.</div>
+                    <h3>Szovegalkotas</h3>
+                    <p>Erveles vagy muertelmezoelemzes - valaszthato feladatok. (40 pont)</p>
+                    <span class="type-link">Gyakorlas &rarr;</span>
+                </div>
+            </div>
+
+            <div class="exam-structure">
+                <h3>A vizsga felépítese</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Resz</th>
+                            <th>Feladattipus</th>
+                            <th>Ido</th>
+                            <th>Pont</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>I.</td>
+                            <td>Szovegertes</td>
+                            <td>~60 perc</td>
+                            <td>40</td>
+                        </tr>
+                        <tr>
+                            <td>II.</td>
+                            <td>Nyelvi-irodalmi muveleti feladatsor</td>
+                            <td>~40 perc</td>
+                            <td>20</td>
+                        </tr>
+                        <tr>
+                            <td>III.</td>
+                            <td>Szovegalkotas (erveles VAGY muertelmezoelemzes)</td>
+                            <td>~90 perc</td>
+                            <td>40</td>
+                        </tr>
+                        <tr class="total-row">
+                            <td colspan="2"><strong>Osszesen</strong></td>
+                            <td><strong>180 perc</strong></td>
+                            <td><strong>100</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Szovegertes Section -->
+        <section id="szovegertes" class="section">
+            <h2>I. Szovegertes</h2>
+            <p class="section-desc">A szovegertesi feladatsorban egy szoveget kapsz, amelyhez kulonbozo tipusu kerdesek tartoznak. Cél: a szoveg megertese, informaciok kinyerese, ertelmezese.</p>
+
+            <div class="tips-box">
+                <h4>Tippek a szovegerteshez</h4>
+                <ul>
+                    <li>Olvasd el figyelmesen a szoveget ketszer, mielott valaszolnal</li>
+                    <li>Figyelj a kerdes pontos megfogazasara</li>
+                    <li>A valasz legtobszor a szovegben talalhato - idezz, ha szukseges</li>
+                    <li>Figyelj az also tipusu kerdesekre: tenymegallapitas, kovetkeztetes, velemeny</li>
+                </ul>
+            </div>
+
+            <div class="exam-list" id="szovegertes-list">
+                <!-- Filled by JS -->
+            </div>
+        </section>
+
+        <!-- Muveleti Section -->
+        <section id="muveleti" class="section">
+            <h2>II. Nyelvi-irodalmi muveleti feladatsor</h2>
+            <p class="section-desc">Nyelvi es irodalmi ismereteket mero feladatok: nyelvtan, helyesiras, szokincset, irodalomtortenet, mufajismeret, stiliszika.</p>
+
+            <div class="tips-box">
+                <h4>Tippek a muveleti feladatokhoz</h4>
+                <ul>
+                    <li>Ismeteld at a legfontosabb irodalmi korszakokat es szerzokat</li>
+                    <li>Gyakorold a nyelvtani elemzes tipusait (szofajok, mondatreszek)</li>
+                    <li>Figyelj a stilisztikai es retorikai eszkozokre</li>
+                    <li>Ismerd a legfontosabb irodalmi mufajokat es jellemzoiket</li>
+                </ul>
+            </div>
+
+            <div class="exam-list" id="muveleti-list">
+                <!-- Filled by JS -->
+            </div>
+        </section>
+
+        <!-- Szovegalkotas Section -->
+        <section id="szovegalkotas" class="section">
+            <h2>III. Szovegalkotas</h2>
+            <p class="section-desc">Ket feladat kozul valaszthatsz: erveles (velemenykifejtoerofeg) vagy muertelmezoelemzes (irodalmi mu elemzese).</p>
+
+            <div class="choice-tabs">
+                <button class="choice-btn active" data-choice="erveles">Erveles</button>
+                <button class="choice-btn" data-choice="muertelmezo">Muertelmezoelemzes</button>
+            </div>
+
+            <div id="erveles-info" class="choice-content active">
+                <div class="tips-box">
+                    <h4>Tippek az erveleshez</h4>
+                    <ul>
+                        <li>Fogalmazd meg egyertelmuen az allaspontodat a beveetoben</li>
+                        <li>Hasznalj legalabb 3-4 ervet, peldakkal tamasztd ala</li>
+                        <li>Figyelj a logikai felepitesre: bevezetoeres-kifejtoeoszefoglalas</li>
+                        <li>Hasznalj ervtechnikakat: tekintelyre hivatkozas, pelda, statisztika</li>
+                        <li>Terjedelem: 250-350 szo</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="muertelmezo-info" class="choice-content">
+                <div class="tips-box">
+                    <h4>Tippek a muertelmezoelemzeshez</h4>
+                    <ul>
+                        <li>Ismertesd roviden a mu es a szerzoceletkori kontextusat</li>
+                        <li>Elemezd a mu temajat, motivumait, szerkeszeset</li>
+                        <li>Figyelj a nyelvi-stilisztikai eszkozokre</li>
+                        <li>Kapcsold ossze az irodalomtorteneti kontextussal</li>
+                        <li>Terjedelem: 300-400 szo</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="exam-list" id="szovegalkotas-list">
+                <!-- Filled by JS -->
+            </div>
+        </section>
+
+        <!-- Teljes feladatsorok Section -->
+        <section id="feladatsorok" class="section">
+            <h2>Teljes feladatsorok</h2>
+            <p class="section-desc">Az osszes feladatsor es megoldas letoltheto PDF formátumban az Oktatasi Hivatal oldalarol.</p>
+
+            <div class="exam-grid" id="feladatsorok-grid">
+                <!-- Filled by JS -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>A feladatsorok forrasa: <a href="https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok" target="_blank">Oktatasi Hivatal</a> |
+               <a href="https://erettsegigyakorlo.hu/Magyar/K%C3%B6z%C3%A9p" target="_blank">erettsegigyakorlo.hu</a></p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
