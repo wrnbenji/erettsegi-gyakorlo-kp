@@ -27,11 +27,11 @@ export async function startQuiz(examId, sectionType) {
     const container = document.getElementById('quiz-container');
     if (!container) return;
 
-    container.innerHTML = '<p style="text-align:center;padding:40px;">Betoltes...</p>';
+    container.innerHTML = '<p style="text-align:center;padding:40px;">Betöltés...</p>';
 
     const examData = await loadExam(examId);
     if (!examData || !examData.sections || !examData.sections[sectionType]) {
-        container.innerHTML = '<p style="text-align:center;padding:40px;color:var(--accent);">Nem talalhato feladatsor.</p>';
+        container.innerHTML = '<p style="text-align:center;padding:40px;color:var(--accent);">A feladatsor betöltése sikertelen.</p>';
         return;
     }
 
@@ -56,38 +56,38 @@ export function initQuizEngine() {
 
 function renderModeSelection(container, examData, sectionType, section) {
     const sectionLabels = {
-        szovegertes: 'I. Szovegertes',
-        muveleti: 'II. Nyelvi-irodalmi muveletek',
-        szovegalkotas: 'III. Szovegalkotas'
+        szovegertes: 'I. Szövegértés',
+        muveleti: 'II. Nyelvi-irodalmi műveletek',
+        szovegalkotas: 'III. Szövegalkotás'
     };
     const title = `${examData.year} ${examData.session} - ${sectionLabels[sectionType] || sectionType}`;
 
     container.innerHTML = `
         <div class="quiz-start">
             <h2>${title}</h2>
-            <p>Feladatok szama: <strong>${currentTasks.length}</strong> | Maximalis pontszam: <strong>${section.maxPoints}</strong> | Ido: <strong>${section.timeLimit} perc</strong></p>
+            <p>Feladatok száma: <strong>${currentTasks.length}</strong> | Maximális pontszám: <strong>${section.maxPoints}</strong> | Idő: <strong>${section.timeLimit} perc</strong></p>
             <div class="mode-selection">
-                <h3>Valasszon ellenorzesi modot:</h3>
+                <h3>Ellenőrzési mód:</h3>
                 <div class="mode-options">
                     <label class="mode-option">
                         <input type="radio" name="quiz-mode" value="each" checked>
                         <div class="mode-card">
-                            <strong>Feladatonkenti ellenorzes</strong>
-                            <p>Minden feladat utan azonnal latja az eredmenyt.</p>
+                            <strong>Feladatonkénti ellenőrzés</strong>
+                            <p>Minden feladat után megtudod, helyes-e a válaszod.</p>
                         </div>
                     </label>
                     <label class="mode-option">
                         <input type="radio" name="quiz-mode" value="summary">
                         <div class="mode-card">
-                            <strong>Osszesites a vegen</strong>
-                            <p>A feladatsor vegen egyutt latja az osszes eredmenyt.</p>
+                            <strong>Összesítés a végén</strong>
+                            <p>A feladatsor végén kapsz részletes összesítést.</p>
                         </div>
                     </label>
                 </div>
             </div>
             <div style="display:flex;gap:12px;justify-content:center;margin-top:24px;">
                 <button class="btn-back" id="quiz-back-btn">Vissza</button>
-                <button class="btn-start-quiz" id="quiz-start-btn">Inditas</button>
+                <button class="btn-start-quiz" id="quiz-start-btn">Indítás</button>
             </div>
         </div>
     `;
@@ -107,9 +107,9 @@ function renderModeSelection(container, examData, sectionType, section) {
 
 function startQuizSession(container, examData, sectionType, section) {
     const sectionLabels = {
-        szovegertes: 'I. Szovegertes',
-        muveleti: 'II. Nyelvi-irodalmi muveletek',
-        szovegalkotas: 'III. Szovegalkotas'
+        szovegertes: 'I. Szövegértés',
+        muveleti: 'II. Nyelvi-irodalmi műveletek',
+        szovegalkotas: 'III. Szövegalkotás'
     };
     const title = `${examData.year} ${examData.session} - ${sectionLabels[sectionType] || sectionType}`;
     const hasSource = sectionType === 'szovegertes' && sourceText;
@@ -119,7 +119,7 @@ function startQuizSession(container, examData, sectionType, section) {
             <div class="quiz-header">
                 <div class="quiz-title">${title}</div>
                 <div class="quiz-header-right">
-                    <button class="btn-pause" id="btn-pause">Szunet</button>
+                    <button class="btn-pause" id="btn-pause">Szünet</button>
                     <span id="timer-display">00:00</span>
                 </div>
             </div>
@@ -128,8 +128,8 @@ function startQuizSession(container, examData, sectionType, section) {
                 ${hasSource ? `
                 <div class="source-panel" id="source-panel">
                     <div class="source-header">
-                        <span>Forrasszoveg</span>
-                        <button class="source-toggle" id="source-toggle">Elrejtes</button>
+                        <span>Forrászszöveg</span>
+                        <button class="source-toggle" id="source-toggle">Összecsukás</button>
                     </div>
                     <div class="source-content" id="source-content">${formatSourceText(sourceText)}</div>
                 </div>` : ''}
@@ -137,7 +137,7 @@ function startQuizSession(container, examData, sectionType, section) {
             </div>
             <div class="quiz-footer" id="quiz-footer"></div>
             <div class="quiz-pause-overlay" id="pause-overlay" style="display:none;">
-                <div class="pause-message">Szunet - Kattintson a folytatáshoz</div>
+                <div class="pause-message">Szünet – Kattints a folytatáshoz</div>
             </div>
         </div>
     `;
@@ -177,10 +177,10 @@ function handlePause() {
     const btn = document.getElementById('btn-pause');
     if (paused) {
         overlay.style.display = 'flex';
-        btn.textContent = 'Folytatas';
+        btn.textContent = 'Folytatás';
     } else {
         overlay.style.display = 'none';
-        btn.textContent = 'Szunet';
+        btn.textContent = 'Szünet';
     }
 }
 
@@ -191,10 +191,10 @@ function toggleSource() {
     const btn = document.getElementById('source-toggle');
     if (content.style.display === 'none') {
         content.style.display = 'block';
-        btn.textContent = 'Elrejtes';
+        btn.textContent = 'Összecsukás';
     } else {
         content.style.display = 'none';
-        btn.textContent = 'Megjelenes';
+        btn.textContent = 'Kinyitás';
     }
 }
 
@@ -249,6 +249,7 @@ function renderTask(index) {
         case 'short-answer': html += renderShortAnswer(task); break;
         case 'ordering': html += renderOrdering(task); break;
         case 'essay': html += renderEssay(task); break;
+        default: html += `<p>Ismeretlen feladattípus.</p>`; break;
     }
 
     html += '</div>';
@@ -287,7 +288,7 @@ function renderTrueFalse(task) {
 }
 
 function renderFillIn(task) {
-    return `<input type="text" class="fill-input" id="fill-input-${task.id}" placeholder="Irja be a valaszt..." autocomplete="off">`;
+    return `<input type="text" class="fill-input" id="fill-input-${task.id}" placeholder="Írd be a választ..." autocomplete="off">`;
 }
 
 function renderMatching(task) {
@@ -298,7 +299,7 @@ function renderMatching(task) {
         <div class="matching-row">
             <div class="matching-left">${pair.left}</div>
             <select class="matching-select" data-index="${i}">
-                <option value="">-- Valasszon --</option>
+                <option value="">-- Válassz --</option>
                 ${shuffled.map(opt => `<option value="${opt}">${opt}</option>`).join('')}
             </select>
         </div>
@@ -328,10 +329,10 @@ function renderTableFill(task) {
 
 function renderShortAnswer(task) {
     return `
-        <textarea class="short-answer-input" id="short-answer-${task.id}" placeholder="Irja be valaszat..." rows="4"></textarea>
-        <button class="btn-show-sample" data-task-id="${task.id}">Mintavalasz megtekintese</button>
+        <textarea class="short-answer-input" id="short-answer-${task.id}" placeholder="Írd be a válaszod..." rows="4"></textarea>
+        <button class="btn-show-sample" data-task-id="${task.id}">Mutasd a mintaválaszt</button>
         <div class="sample-answer" id="sample-${task.id}" style="display:none;">
-            <strong>Mintavalasz:</strong> ${task.sampleAnswer}
+            <strong>Mintaválasz:</strong> ${task.sampleAnswer}
         </div>
     `;
 }
@@ -354,10 +355,10 @@ function renderOrdering(task) {
 }
 
 function renderEssay(task) {
-    const wordInfo = task.minWords && task.maxWords ? `(${task.minWords}-${task.maxWords} szo)` : '';
+    const wordInfo = task.minWords && task.maxWords ? `(${task.minWords}-${task.maxWords} szó, ajánlott)` : '';
     return `
-        <textarea class="essay-input" id="essay-${task.id}" placeholder="Irja be fogalmazasat..." rows="12"></textarea>
-        <div class="word-counter" id="word-counter-${task.id}">0 szo ${wordInfo}</div>
+        <textarea class="essay-input" id="essay-${task.id}" placeholder="Írd meg a szöveget..." rows="12"></textarea>
+        <div class="word-counter" id="word-counter-${task.id}">0 szó ${wordInfo}</div>
     `;
 }
 
@@ -367,9 +368,9 @@ function renderCheckResult(task, result) {
     if (result.needsManualReview) {
         let html = `<div class="check-result manual">
             <span class="check-icon">&#9998;</span>
-            Onertekeles szukseges.`;
+            Önértékelés szükséges.`;
         if (result.sampleAnswer) {
-            html += `<div class="sample-answer" style="display:block;margin-top:8px;"><strong>Mintavalasz:</strong> ${result.sampleAnswer}</div>`;
+            html += `<div class="sample-answer" style="display:block;margin-top:8px;"><strong>Mintaválasz:</strong> ${result.sampleAnswer}</div>`;
         }
         html += '</div>';
 
@@ -398,14 +399,14 @@ function renderCheckResult(task, result) {
 function renderRubric(task) {
     const saved = userAnswers[task.id + '_rubric'] || {};
     let html = `<div class="rubric-self-eval" data-task-id="${task.id}">
-        <h4>Onertekeles - pontozas</h4>`;
+        <h4>Önértékelés – pontozás</h4>`;
 
     task.rubric.forEach((crit, i) => {
         const savedVal = saved[i] !== undefined ? saved[i] : '';
         html += `<div class="rubric-row">
             <label><strong>${crit.criterion}</strong> (max ${crit.maxPoints} pont)</label>
             <select class="rubric-select" data-crit-index="${i}">
-                <option value="">-- Valasszon --</option>
+                <option value="">-- Válassz --</option>
                 ${crit.levels.map((level, li) => {
                     const match = level.match(/^(\d+(?:[–-]\d+)?)/);
                     const val = match ? match[1].split(/[–-]/).pop() : li;
@@ -415,7 +416,7 @@ function renderRubric(task) {
         </div>`;
     });
 
-    html += `<button class="btn-save-rubric" data-task-id="${task.id}">Mentes</button></div>`;
+    html += `<button class="btn-save-rubric" data-task-id="${task.id}">Mentés</button></div>`;
     return html;
 }
 
@@ -506,9 +507,9 @@ function updateWordCounter(task) {
 
     const text = textarea.value.trim();
     const count = text ? text.split(/\s+/).length : 0;
-    const info = task.minWords && task.maxWords ? ` (${task.minWords}-${task.maxWords} szo)` : '';
+    const info = task.minWords && task.maxWords ? ` (${task.minWords}-${task.maxWords} szó, ajánlott)` : '';
 
-    counter.textContent = `${count} szo${info}`;
+    counter.textContent = `${count} szó${info}`;
     counter.classList.remove('word-under', 'word-over', 'word-ok');
     if (task.minWords && count < task.minWords) {
         counter.classList.add('word-under');
@@ -666,16 +667,16 @@ function renderFooter() {
     const alreadyChecked = !!taskResults[task.id];
 
     let html = '';
-    html += `<button class="btn-quiz-nav" id="btn-prev" ${isFirst ? 'disabled' : ''}>Elozo</button>`;
+    html += `<button class="btn-quiz-nav" id="btn-prev" ${isFirst ? 'disabled' : ''}>Előző</button>`;
 
     if (checkMode === 'each' && !alreadyChecked) {
-        html += `<button class="btn-quiz-check" id="btn-check">Ellenorzes</button>`;
+        html += `<button class="btn-quiz-check" id="btn-check">Ellenőrzés</button>`;
     }
 
     if (isLast) {
-        html += `<button class="btn-quiz-finish" id="btn-finish">Befejezes</button>`;
+        html += `<button class="btn-quiz-finish" id="btn-finish">Befejezés</button>`;
     } else {
-        html += `<button class="btn-quiz-nav" id="btn-next">Kovetkezo</button>`;
+        html += `<button class="btn-quiz-nav" id="btn-next">Következő</button>`;
     }
 
     footer.innerHTML = html;
@@ -781,14 +782,14 @@ function renderSummary(totalPoints, maxPoints, percentage, elapsed) {
     let taskRows = currentTasks.map((task, i) => {
         const result = taskResults[task.id] || { points: 0 };
         const typeLabels = {
-            'multiple-choice': 'Valasztos',
+            'multiple-choice': 'Választós',
             'true-false': 'Igaz/Hamis',
-            'fill-in': 'Kitoltos',
-            'matching': 'Parositas',
-            'table-fill': 'Tablazat',
-            'short-answer': 'Rovid valasz',
-            'ordering': 'Sorrendbe rakos',
-            'essay': 'Fogalmazas'
+            'fill-in': 'Kitöltős',
+            'matching': 'Párosítás',
+            'table-fill': 'Táblázat',
+            'short-answer': 'Rövid válasz',
+            'ordering': 'Sorrendbe rakós',
+            'essay': 'Fogalmazás'
         };
         const statusIcon = result.correct === true ? '&#10003;' :
                           result.correct === false ? '&#10007;' :
@@ -807,29 +808,29 @@ function renderSummary(totalPoints, maxPoints, percentage, elapsed) {
     container.innerHTML = `
         <div class="quiz-summary">
             <div class="summary-header">
-                <h2>Eredmenyek</h2>
+                <h2>Összesítés</h2>
                 <p>${currentExam.year} ${currentExam.session} - ${currentSection}</p>
             </div>
             <div class="summary-stats">
                 <div class="summary-stat">
                     <div class="summary-number ${pctClass}">${percentage}%</div>
-                    <div class="summary-label">Szazalek</div>
+                    <div class="summary-label">Eredmény</div>
                 </div>
                 <div class="summary-stat">
                     <div class="summary-number">${totalPoints}/${maxPoints}</div>
-                    <div class="summary-label">Pontszam</div>
+                    <div class="summary-label">Pontszám</div>
                 </div>
                 <div class="summary-stat">
                     <div class="summary-number">${timeStr}</div>
-                    <div class="summary-label">Eltelt ido</div>
+                    <div class="summary-label">Eltelt idő</div>
                 </div>
             </div>
             <div class="summary-tasks">
-                <h3>Feladatonkenti eredmeny</h3>
+                <h3>Feladatonkénti eredmény</h3>
                 ${taskRows}
             </div>
             <div class="summary-actions">
-                <button class="btn-back" id="summary-back">Vissza a feladatsorokhoz</button>
+                <button class="btn-back" id="summary-back">Vissza a főoldalra</button>
             </div>
         </div>
     `;
@@ -870,7 +871,7 @@ function saveRubricScores(btn) {
     }
 
     btn.textContent = 'Mentve!';
-    setTimeout(() => { btn.textContent = 'Mentes'; }, 1500);
+    setTimeout(() => { btn.textContent = 'Mentés'; }, 1500);
 }
 
 // --- Timer Alert ---
@@ -878,7 +879,11 @@ function saveRubricScores(btn) {
 function showTimerAlert(minutes) {
     const alertEl = document.createElement('div');
     alertEl.className = `timer-alert ${minutes <= 5 ? 'danger' : 'warning'}`;
-    alertEl.textContent = `Meg ${minutes} perc van hatra!`;
+    if (minutes === 0) {
+        alertEl.textContent = 'Az idő lejárt!';
+    } else {
+        alertEl.textContent = `Már csak ${minutes} perc van hátra!`;
+    }
     document.body.appendChild(alertEl);
     setTimeout(() => {
         if (alertEl.parentNode) alertEl.parentNode.removeChild(alertEl);

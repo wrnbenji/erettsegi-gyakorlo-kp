@@ -85,7 +85,7 @@ function applyFilters(sectionId) {
         if (!noResults) {
             noResults = document.createElement('p');
             noResults.className = 'no-results';
-            noResults.textContent = 'Nincs talalat a megadott szurokkel.';
+            noResults.textContent = 'Nincs találat a megadott szűrőkkel.';
             container.appendChild(noResults);
         }
         noResults.style.display = '';
