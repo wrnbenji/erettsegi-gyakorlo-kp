@@ -1641,3 +1641,53 @@ footer a:hover {
         border-bottom: none;
     }
 }
+
+/* Results page */
+.results-averages {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.results-avg-card {
+    background: white;
+    border-radius: 10px;
+    padding: 24px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.results-avg-num { font-size: 1.8rem; font-weight: 700; color: #1a5276; }
+.results-avg-label { color: #7f8c8d; font-size: 0.85rem; margin-top: 4px; }
+
+.results-table-wrap {
+    background: white;
+    border-radius: 10px;
+    overflow-x: auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    margin-bottom: 20px;
+}
+
+.results-table { width: 100%; border-collapse: collapse; }
+.results-table th, .results-table td { padding: 12px 16px; text-align: left; border-bottom: 1px solid #dcdde1; }
+.results-table th { background: #f5f6fa; font-size: 0.85rem; text-transform: uppercase; color: #7f8c8d; }
+.results-table td.good { color: #27ae60; font-weight: 600; }
+.results-table td.bad { color: #e74c3c; font-weight: 600; }
+
+.btn-clear-results {
+    background: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+}
+
+.btn-clear-results:hover { background: #c0392b; }
+
+@media (max-width: 768px) {
+    .results-averages { grid-template-columns: 1fr; }
+}

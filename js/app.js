@@ -1,6 +1,7 @@
 import { initRouter, navigateToQuiz } from './router.js';
 import { startQuiz, initQuizEngine } from './quiz-engine.js';
 import { initSearch } from './search.js';
+import { getAllResults, clearAllResults, getAverageBySection, getCompletedExamCount, getOverallAverage } from './scoring.js';
 
 // Exam data: all középszintű magyar érettségi feladatsorok 2022-2025
 const BASE_URL = 'https://dload-oktatas.educatio.hu/erettsegi';
@@ -229,6 +230,102 @@ function initChoiceTabs() {
     });
 }
 
+// --- Results page ---
+function renderResults() {
+    const container = document.getElementById('eredmenyek-content');
+    if (!container) return;
+
+    const results = getAllResults();
+
+    if (results.length === 0) {
+        container.innerHTML = '<p class="empty-msg">Meg nincs eredmenyed. Kezdj el gyakorolni!</p>';
+        return;
+    }
+
+    const szAvg = getAverageBySection('szovegertes');
+    const muAvg = getAverageBySection('muveleti');
+    const saAvg = getAverageBySection('szovegalkotas');
+
+    const rows = results.map(r => {
+        const pct = r.maxPoints > 0 ? Math.round((r.points / r.maxPoints) * 100) : 0;
+        const cls = pct >= 50 ? 'good' : 'bad';
+        const mins = Math.floor(r.seconds / 60);
+        const secs = String(r.seconds % 60).padStart(2, '0');
+        return `<tr>
+            <td>${r.date}</td>
+            <td>${r.examId}</td>
+            <td>${r.section}</td>
+            <td>${r.points}/${r.maxPoints}</td>
+            <td class="${cls}">${pct}%</td>
+            <td>${mins}:${secs}</td>
+        </tr>`;
+    }).join('');
+
+    container.innerHTML = `
+        <div class="results-averages">
+            <div class="results-avg-card">
+                <div class="results-avg-num">${szAvg !== null ? szAvg + '%' : '-'}</div>
+                <div class="results-avg-label">Szovegertes atlag</div>
+            </div>
+            <div class="results-avg-card">
+                <div class="results-avg-num">${muAvg !== null ? muAvg + '%' : '-'}</div>
+                <div class="results-avg-label">Muveleti atlag</div>
+            </div>
+            <div class="results-avg-card">
+                <div class="results-avg-num">${saAvg !== null ? saAvg + '%' : '-'}</div>
+                <div class="results-avg-label">Szovegalkotas atlag</div>
+            </div>
+        </div>
+        <div class="results-table-wrap">
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th>Datum</th>
+                        <th>Feladatsor</th>
+                        <th>Szekcio</th>
+                        <th>Pont</th>
+                        <th>%</th>
+                        <th>Ido</th>
+                    </tr>
+                </thead>
+                <tbody>${rows}</tbody>
+            </table>
+        </div>
+        <button class="btn-clear-results" id="btn-clear-results">Eredmenyek torlese</button>
+    `;
+
+    document.getElementById('btn-clear-results').addEventListener('click', () => {
+        if (confirm('Biztosan torolni szeretned az osszes eredmenyt?')) {
+            clearAllResults();
+            renderResults();
+            renderDynamicStats();
+        }
+    });
+}
+
+// --- Dynamic home page stats ---
+function renderDynamicStats() {
+    const results = getAllResults();
+    if (results.length === 0) return;
+
+    const statNums = document.querySelectorAll('.stat-num');
+    const statLabels = document.querySelectorAll('.stat-label');
+    if (statNums.length < 3 || statLabels.length < 3) return;
+
+    const completed = getCompletedExamCount();
+    const overall = getOverallAverage();
+    const total = results.length;
+
+    statNums[0].textContent = `${completed}/21`;
+    statLabels[0].textContent = 'Kitoltott szekcio';
+
+    statNums[1].textContent = `${overall}%`;
+    statLabels[1].textContent = 'Atlagos eredmeny';
+
+    statNums[2].textContent = `${total}`;
+    statLabels[2].textContent = 'Osszes kitoltes';
+}
+
 // --- Init ---
 document.addEventListener('DOMContentLoaded', () => {
     initRouter();
@@ -239,12 +336,18 @@ document.addEventListener('DOMContentLoaded', () => {
     renderExamList('szovegalkotas-list', 'szovegalkotas');
     renderFullExams();
     initSearch();
+    renderDynamicStats();
 
     document.addEventListener('click', (e) => {
         const btn = e.target.closest('.btn-gyakorlas');
         if (btn) {
             navigateToQuiz(btn.dataset.examId, btn.dataset.section);
             startQuiz(btn.dataset.examId, btn.dataset.section);
+        }
+
+        const eredmenyekBtn = e.target.closest('[data-section="eredmenyek"]');
+        if (eredmenyekBtn) {
+            renderResults();
         }
     });
     initQuizEngine();
