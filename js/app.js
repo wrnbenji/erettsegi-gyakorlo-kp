@@ -1,4 +1,5 @@
-import { initRouter } from './router.js';
+import { initRouter, navigateToQuiz } from './router.js';
+import { startQuiz, initQuizEngine } from './quiz-engine.js';
 
 // Exam data: all középszintű magyar érettségi feladatsorok 2022-2025
 const BASE_URL = 'https://dload-oktatas.educatio.hu/erettsegi';
@@ -182,6 +183,7 @@ function renderExamList(containerId, taskType) {
                     <a href="${exam.online}" target="_blank" class="btn-online">
                         &#127760; Online gyakorlas
                     </a>
+                    <button class="btn-gyakorlas" data-exam-id="${exam.id}" data-section="${taskType}">Gyakorlas</button>
                 </div>
             </div>
         `;
@@ -235,4 +237,13 @@ document.addEventListener('DOMContentLoaded', () => {
     renderExamList('muveleti-list', 'muveleti');
     renderExamList('szovegalkotas-list', 'szovegalkotas');
     renderFullExams();
+
+    document.addEventListener('click', (e) => {
+        const btn = e.target.closest('.btn-gyakorlas');
+        if (btn) {
+            navigateToQuiz(btn.dataset.examId, btn.dataset.section);
+            startQuiz(btn.dataset.examId, btn.dataset.section);
+        }
+    });
+    initQuizEngine();
 });
