@@ -152,6 +152,8 @@ const exams = [
     }
 ];
 
+export { exams };
+
 // --- Navigation ---
 function initNavigation() {
     document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -183,6 +185,8 @@ function showSection(sectionId) {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 }
+
+export { showSection };
 
 // --- Render exam items for a task type ---
 function renderExamList(containerId, taskType) {
