@@ -364,6 +364,27 @@ function renderEssay(task) {
 
 // --- Check Result ---
 
+function getCorrectAnswerHtml(task) {
+    switch (task.type) {
+        case 'multiple-choice':
+            return `<div class="correct-answer"><strong>Helyes válasz:</strong> ${String.fromCharCode(65 + task.correct)}) ${task.options[task.correct]}</div>`;
+        case 'true-false':
+            return `<div class="correct-answer"><strong>Helyes válasz:</strong> ${task.correct ? 'Igaz' : 'Hamis'}</div>`;
+        case 'fill-in':
+            return `<div class="correct-answer"><strong>Helyes válasz:</strong> ${task.correct.join(' / ')}</div>`;
+        case 'matching':
+            return `<div class="correct-answer"><strong>Helyes párosítás:</strong><ul>${task.pairs.map(p => `<li>${p.left} → ${p.right}</li>`).join('')}</ul></div>`;
+        case 'table-fill':
+            return `<div class="correct-answer"><strong>Helyes kitöltés:</strong><ul>${task.rows.map(r => Object.entries(r.answer).map(([col, val]) => `<li>${col}: ${val}</li>`).join('')).join('')}</ul></div>`;
+        case 'ordering':
+            return `<div class="correct-answer"><strong>Helyes sorrend:</strong><ol>${task.correctOrder.map(i => `<li>${task.items[i]}</li>`).join('')}</ol></div>`;
+        case 'short-answer':
+            return `<div class="correct-answer"><strong>Mintaválasz:</strong> ${task.sampleAnswer}</div>`;
+        default:
+            return '';
+    }
+}
+
 function renderCheckResult(task, result) {
     if (result.needsManualReview) {
         let html = `<div class="check-result manual">
@@ -381,6 +402,8 @@ function renderCheckResult(task, result) {
         return html;
     }
 
+    const correctAnswerHtml = getCorrectAnswerHtml(task);
+
     if (result.correct === true) {
         return `<div class="check-result correct"><span class="check-icon">&#10003;</span> Helyes! ${result.points}/${task.points} pont</div>`;
     } else if (result.correct === false) {
@@ -391,7 +414,7 @@ function renderCheckResult(task, result) {
         if (result.correctCells !== undefined) {
             detail = ` (${result.correctCells}/${result.totalCells} helyes)`;
         }
-        return `<div class="check-result incorrect"><span class="check-icon">&#10007;</span> Helytelen. ${result.points}/${task.points} pont${detail}</div>`;
+        return `<div class="check-result incorrect"><span class="check-icon">&#10007;</span> Helytelen. ${result.points}/${task.points} pont${detail}${correctAnswerHtml}</div>`;
     }
     return '';
 }
