@@ -1,0 +1,358 @@
+{
+    "id": "2025-maj",
+    "year": 2025,
+    "session": "Majus",
+    "date": "2025. majus 5.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "A könyv jövője a digitális korban\n\nAz olvasás évezredes hagyománya napjainkban mélyreható átalakuláson megy keresztül. A digitális technológia rohamos fejlődése nyomán sokan aggódva kérdezik: vajon fennmarad-e a hagyományos, papíralapú könyv, vagy végleg háttérbe szorul az elektronikus olvasási eszközök árnyékában?\n\nA könyvpiac adatai egyelőre nem adnak egyértelmű választ erre a kérdésre. Az e-könyvek értékesítése az elmúlt évtizedben jelentős növekedést mutatott, ugyanakkor a nyomtatott könyvek iránti kereslet sem csökkent drasztikusan. Egyes felmérések szerint a fiatal olvasók körében paradox módon újra erősödik a nyomtatott könyvek vonzereje – sokan a képernyők mindenütt jelenlévő világa ellenében keresik a kézzelfogható, lapozható könyv élményét.\n\nA könyvtárak szerepe szintén átértékelődik. Miközben a digitális katalógusok és az online elérhető állomány folyamatosan bővül, a fizikai könyvtári tér sem veszít vonzerejéből. A csendes olvasótermet, a könyvek illatát, a közösségi találkozóhelyet pótolni nehéz virtuális térben. Ugyanakkor a digitalizálás lehetővé teszi, hogy korábban hozzáférhetetlen, ritka dokumentumok is széles közönség elé kerüljenek.\n\nAz irodalomtudósok egy része úgy véli, hogy a médium megváltozása szükségszerűen átalakítja az olvasási szokásokat és ezzel együtt az értelmezési stratégiákat is. A lineáris, elmélyült olvasást felválthatja a szövegek között ugráló, felszínesebb befogadási mód. Erre a veszélyre hívja fel a figyelmet Maryanne Wolf agykutató is, aki szerint a mélységi olvasás képessége – az a fajta elmélyülés, amelyre a regénytől a tudományos értekezésig számos műfaj épít – egyedülálló kulturális és kognitív értéket képvisel.\n\nA kiadók alkalmazkodnak az új helyzethez: interaktív e-könyveket, multimédiás tartalmakat, hangoskönyveket fejlesztenek. A könyv fogalma maga is tágul és alakul. Mégis, az irodalom lényege – a gondolatok, érzések, tapasztalatok nyelvbe öntése és megosztása – változatlan marad, akár papíron, akár képernyőn találkozunk vele. A kérdés nem az, hogy melyik médium győz, hanem hogy miképpen őrizhetjük meg az elmélyült, reflektív olvasás kultúráját a folytonos információáradat közepette.",
+            "tasks": [
+                {
+                    "id": "sz_01",
+                    "type": "multiple-choice",
+                    "question": "Mi a szöveg fő témája?",
+                    "options": [
+                        "A könyvtárak megszüntetésének veszélye",
+                        "A nyomtatott és digitális könyv jövője a digitális korban",
+                        "Az e-könyvek műszaki fejlesztése",
+                        "A fiatalok olvasási szokásainak romlása"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz_02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a nyomtatott könyvek iránti kereslet drasztikusan csökkent az elmúlt évtizedben.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz_03",
+                    "type": "true-false",
+                    "question": "A szöveg szerint egyes fiatal olvasók körében újra erősödik a nyomtatott könyvek vonzereje.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz_04",
+                    "type": "fill-in",
+                    "question": "Melyik agykutató hívja fel a figyelmet a mélységi olvasás veszélyeztetettségére? (Csak a nevet írja!)",
+                    "correct": ["Maryanne Wolf", "Wolf Maryanne", "Wolf"],
+                    "points": 2
+                },
+                {
+                    "id": "sz_05",
+                    "type": "short-answer",
+                    "question": "Milyen pozitív lehetőséget említ a szöveg a digitalizálással kapcsolatban a könyvtárak vonatkozásában?",
+                    "sampleAnswer": "A digitalizálás lehetővé teszi, hogy korábban hozzáférhetetlen, ritka dokumentumok is széles közönség elé kerüljenek.",
+                    "points": 4
+                },
+                {
+                    "id": "sz_06",
+                    "type": "matching",
+                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
+                    "pairs": [
+                        { "left": "mélységi olvasás", "right": "elmélyült, reflektív befogadásmód, amelyre számos műfaj épít" },
+                        { "left": "lineáris olvasás", "right": "folyamatos, megszakítás nélküli szövegkövetés" },
+                        { "left": "digitális katalógus", "right": "online elérhető könyvtári állomány" },
+                        { "left": "interaktív e-könyv", "right": "multimédiás tartalmakat is tartalmazó elektronikus kiadvány" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz_07",
+                    "type": "ordering",
+                    "question": "Rendezze időrendi vagy logikai sorrendbe a szövegben tárgyalt jelenségeket úgy, ahogy a szöveg felépíti az érvelést!",
+                    "items": [
+                        "A kiadók alkalmazkodnak: interaktív e-könyvek, hangoskönyvek jelennek meg.",
+                        "A digitális technológia fejlődése aggodalmakat kelt a könyv jövőjével kapcsolatban.",
+                        "Az irodalom lényege – gondolatok megosztása – változatlan marad.",
+                        "A könyvpiac adatai nem adnak egyértelmű választ az e-könyv vs. nyomtatott könyv vitájára.",
+                        "Wolf agykutató figyelmeztet a mélységi olvasás veszélyeztetettségére."
+                    ],
+                    "correctOrder": [1, 3, 4, 0, 2],
+                    "points": 5
+                },
+                {
+                    "id": "sz_08",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a nyomtatott könyv és a digitális könyv előnyeit a szöveg szerint!",
+                    "headers": ["Szempont", "Nyomtatott könyv", "Digitális könyv"],
+                    "rows": [
+                        {
+                            "given": { "Szempont": "Hozzáférhetőség" },
+                            "answer": { "Nyomtatott könyv": "kézzelfogható, lapozható élmény", "Digitális könyv": "ritka dokumentumok is elérhetővé válnak" }
+                        },
+                        {
+                            "given": { "Szempont": "Közösségi szerep" },
+                            "answer": { "Nyomtatott könyv": "fizikai könyvtári tér, találkozóhely", "Digitális könyv": "online katalógusok, széles elérés" }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz_09",
+                    "type": "short-answer",
+                    "question": "Hogyan fogalmazza meg a szöveg a valódi kérdést a könyv jövőjével kapcsolatban? Idézze vagy fogalmazza meg saját szavaival!",
+                    "sampleAnswer": "A valódi kérdés nem az, hogy melyik médium (nyomtatott vagy digitális) győz, hanem hogy miképpen őrizhetjük meg az elmélyült, reflektív olvasás kultúráját a folytonos információáradat közepette.",
+                    "points": 4
+                },
+                {
+                    "id": "sz_10",
+                    "type": "multiple-choice",
+                    "question": "Mit jelent a szövegben a 'paradox' szó ('paradox módon újra erősödik a nyomtatott könyvek vonzereje')?",
+                    "options": [
+                        "Természetes következményként",
+                        "Látszólag ellentmondásos, mégis igaz módon",
+                        "Tudományosan bizonyítottan",
+                        "Fokozatosan, lépésről lépésre"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz_11",
+                    "type": "fill-in",
+                    "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
+                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
+                    "points": 2
+                },
+                {
+                    "id": "sz_12",
+                    "type": "short-answer",
+                    "question": "Melyek azok a könyvtárhoz kapcsolódó, nem pótolható élmények, amelyeket a szöveg felsorol? Legalább kettőt nevezzen meg!",
+                    "sampleAnswer": "A szöveg szerint a fizikai könyvtárban nem pótolható a csendes olvasóterem, a könyvek illata és a közösségi találkozóhely lehetősége.",
+                    "points": 5
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "mu_01",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondatban helyes a vonatkozó névmás használata?",
+                    "options": [
+                        "Ez az a könyv, amit tegnap olvastam.",
+                        "Ez az a könyv, amelyet tegnap olvastam.",
+                        "Ez az a könyv, minek tegnap olvastam.",
+                        "Ez az a könyv, kit tegnap olvastam."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "mu_02",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
+                    "pairs": [
+                        { "left": "Toldi", "right": "Arany János" },
+                        { "left": "Az ember tragédiája", "right": "Madách Imre" },
+                        { "left": "Egri csillagok", "right": "Gárdonyi Géza" },
+                        { "left": "Édes Anna", "right": "Kosztolányi Dezső" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "mu_03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben az író élettelen tárgyakat vagy fogalmakat emberi tulajdonságokkal ruház fel? (Írja be a fogalom nevét!)",
+                    "correct": ["megszemélyesítés", "perszonifikáció"],
+                    "points": 2
+                },
+                {
+                    "id": "mu_04",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Adja meg az igék szótári alakját és igekötő nélküli változatát!",
+                    "headers": ["Igealak", "Szótári alak", "Igekötő"],
+                    "rows": [
+                        {
+                            "given": { "Igealak": "megírta" },
+                            "answer": { "Szótári alak": "megír", "Igekötő": "meg-" }
+                        },
+                        {
+                            "given": { "Igealak": "felolvasták" },
+                            "answer": { "Szótári alak": "felolvas", "Igekötő": "fel-" }
+                        },
+                        {
+                            "given": { "Igealak": "visszatér" },
+                            "answer": { "Szótári alak": "visszatér", "Igekötő": "vissza-" }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "mu_05",
+                    "type": "true-false",
+                    "question": "A szonett 14 sorból áll, és jellemzően két négysorosból (kvartett) és két háromsorosból (tercett) épül fel.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "mu_06",
+                    "type": "multiple-choice",
+                    "question": "Melyik kifejezés a helyes írásmód?",
+                    "options": [
+                        "minden nap (határozói funkcióban: 'minden nap elmegy')",
+                        "mindennap (határozói funkcióban: 'mindennap elmegy')",
+                        "Mindkettő helyes ugyanabban a mondatban.",
+                        "A kifejezés mindig különírandó."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "mu_07",
+                    "type": "short-answer",
+                    "question": "Mi a különbség az epika és a líra műnem között? Adjon egy-egy magyar irodalmi példát mindkettőre!",
+                    "sampleAnswer": "Az epika elbeszélő műnem, amely eseményeket, cselekményt mesél el (pl. Arany János: Toldi). A líra a költő belső érzéseit, gondolatait fejezi ki, jellemzően verses formában (pl. Petőfi Sándor: Szeptember végén).",
+                    "points": 3
+                },
+                {
+                    "id": "mu_08",
+                    "type": "true-false",
+                    "question": "Ady Endre a Nyugat folyóirat egyik alapító és meghatározó alkotója volt.",
+                    "correct": true,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa_01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a digitális eszközök (okostelefon, tablet, e-olvasó) segítik-e vagy hátráltatják az elmélyült olvasást! Érvelésébe vonjon be konkrét példákat saját tapasztalataiból vagy olvasmányaiból! Fogalmazásában mutasson rá az álláspont melletti és az azzal szemben felhozható legfontosabb érvekre, majd foglalja össze saját következtetését!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "A digitális eszközök és az elmélyült olvasás viszonya napjaink egyik legtöbbet vitatott kérdése. Egyesek szerint az okostelefonok és tableteken elérhető e-könyvek demokratizálják az olvasást: bárhol, bármikor hozzáférhetünk könyvtárnyi anyaghoz. Kétségtelen, hogy ez az elérhetőség előny – például utazás közben nem kell nehéz köteteket cipelni.\n\nAzonban a digitális eszközök természete megnehezíti az elmélyülést. Az értesítések, az alkalmazások közötti ugrálás és a közösségi média folyamatos jelenléte szétszabdalja a figyelmet. Kutatások szerint az olvasók digitális szövegeket jellemzően átfutnak, nem pedig elolvasnak – a mélységi befogadás csorbul.\n\nSaját tapasztalatom szerint egy regényt papíron sokkal jobban megértek és jobban emlékezem rá, míg képernyőn olvasva hamar elkalandozom. Ugyanakkor a digitális szótárak és a szövegközi jegyzetek lehetősége valóban segíthet a megértésben.\n\nÖsszességében úgy gondolom, hogy a digitális eszközök önmagukban nem jók vagy rosszak: a tudatos, fegyelmezett használat dönt. Ha az olvasó ki tudja kapcsolni az értesítéseket és valóban a szövegre összpontosít, az e-olvasó épp olyan elmélyülést tesz lehetővé, mint a nyomtatott könyv. A felelősség az olvasón és a nevelésen múlik.",
+                    "rubric": [
+                        {
+                            "criterion": "Tartalom és érvelés",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
+                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
+                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
+                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                            ]
+                        },
+                        {
+                            "criterion": "Szövegszerkesztés és szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
+                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
+                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
+                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség és stílus",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Sok helyesírási és grammatikai hiba, stílustalan.",
+                                "3–5: Néhány hiba, de érthető és megfelelő stílusú.",
+                                "6–7: Kevés hiba, változatos mondatszerkesztés.",
+                                "8: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Szókincs és kifejezésmód",
+                            "maxPoints": 4,
+                            "levels": [
+                                "0–1: Szegényes szókincs, ismétlések.",
+                                "2–3: Megfelelő szókincs, némi változatossággal.",
+                                "4: Gazdag, árnyalt szóhasználat, kornak megfelelő terminológia."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem betartása",
+                            "maxPoints": 4,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "4: A terjedelmi követelmény teljesül (200–400 szó)."
+                            ]
+                        },
+                        {
+                            "criterion": "Cím és műfaji megfelelés",
+                            "maxPoints": 4,
+                            "levels": [
+                                "0: Nincs cím, nem érvelő műfaj.",
+                                "2: Van cím, de a műfaj nem következetes.",
+                                "4: Önálló, találó cím; a szöveg egyértelműen érvelő fogalmazás."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa_02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Arany János 'Szondi két apródja' című balladájában az emlékezés és a hűség témája jelenik meg. Értelmezze a balladát ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a ballada műfaji jellemzőire, a két apród szerepére, valamint az emlékezés szimbolikus jelentésére! Zárásként fejtse ki, hogy Ön szerint miért maradandó ez az alkotás!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Arany János 'Szondi két apródja' (1856) a magyar ballada egyik csúcsteljesítménye. A mű Drégely várának 1552-es oszmán ostromát és Szondi György kapitány hősi halálát dolgozza fel. A ballada párhuzamos szerkezete – a két apród éneke és Ali bég követének szavai – drámai feszültséget teremt.\n\nA két apród alakja az emlékezés és a hűség megtestesítője. Miközben Ali bég követe a megadást és az életet kínálja, az apródok folyamatosan énekük által idézik fel uruk emlékét. Az ének maga az emlékezet: az apródok akkor is énekelnek, amikor a halál árnyéka vetül rájuk. Ez a magatartás a hűség legmagasabb fokát képviseli – nem az érdek, hanem az erkölcsi elkötelezettség vezérli őket.\n\nA ballada műfaji jellemzői jól megfigyelhetők: a homályos utalások ('tragikus homály'), a párbeszédes forma, a ballada-sűrítés, a többszólamúság. Arany nem meséli el részletesen Szondi halálát – csak az emlékezés aktusán keresztül rekonstruálhatjuk a múltat.\n\nAz emlékezés szimbolikus értelemben a kultúra továbbélését jelenti: az apródok éneke akkor is fennmarad, ha ők maguk elpusztulnak. Ez az alkotás maradandóságának oka is: Arany rámutat, hogy az emberi méltóság és hűség a halállal szemben is győzedelmeskedhet az emlékezetben. A vers ma is érvényes üzenetet hordoz: az erkölcsi helytállás és az emlékezés felelőssége minden korban időszerű.",
+                    "rubric": [
+                        {
+                            "criterion": "Szövegértés és elemzés mélysége",
+                            "maxPoints": 14,
+                            "levels": [
+                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
+                                "5–8: Alapvető összefüggések felismerése, de elemzés hiányos.",
+                                "9–11: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
+                                "12–14: Árnyalt, önálló elemzés; műfaj, szerkezet, szimbólumok bemutatása; érett irodalmi szemlélet."
+                            ]
+                        },
+                        {
+                            "criterion": "Szövegszerkesztés és szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
+                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
+                                "6–7: Jól tagolt, logikus felépítés.",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                            ]
+                        },
+                        {
+                            "criterion": "Irodalmi ismeretek alkalmazása",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Hiányzó vagy téves irodalmi ismeretek.",
+                                "3–5: Alapismeretek megvannak, de nem mindig megfelelően alkalmazva.",
+                                "6–7: Helyes és változatos irodalmi terminológia.",
+                                "8: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség és stílus",
+                            "maxPoints": 6,
+                            "levels": [
+                                "0–1: Sok hiba, nehezen érthető.",
+                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "4–5: Kevés hiba, jó stílus.",
+                                "6: Hibátlan vagy közel hibátlan, igényes fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Saját vélemény kifejtése",
+                            "maxPoints": 4,
+                            "levels": [
+                                "0: Nincs önálló álláspont.",
+                                "2: Van saját meglátás, de elnagyolt.",
+                                "4: Meggyőző, kifejtett, indokolt személyes értékelés."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
