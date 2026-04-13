@@ -1,3 +1,5 @@
+import { initRouter } from './router.js';
+
 // Exam data: all középszintű magyar érettségi feladatsorok 2022-2025
 const BASE_URL = 'https://dload-oktatas.educatio.hu/erettsegi';
 const ONLINE_BASE = 'https://erettsegigyakorlo.hu/Magyar/K%C3%B6z%C3%A9p';
@@ -154,40 +156,6 @@ const exams = [
 
 export { exams };
 
-// --- Navigation ---
-function initNavigation() {
-    document.querySelectorAll('.nav-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const target = btn.dataset.section;
-            showSection(target);
-        });
-    });
-
-    // Type cards on home page
-    document.querySelectorAll('.type-card').forEach(card => {
-        card.addEventListener('click', () => {
-            showSection(card.dataset.goto);
-        });
-    });
-}
-
-function showSection(sectionId) {
-    // Update nav
-    document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-    const activeBtn = document.querySelector(`.nav-btn[data-section="${sectionId}"]`);
-    if (activeBtn) activeBtn.classList.add('active');
-
-    // Update sections
-    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
-    const section = document.getElementById(sectionId);
-    if (section) {
-        section.classList.add('active');
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-}
-
-export { showSection };
-
 // --- Render exam items for a task type ---
 function renderExamList(containerId, taskType) {
     const container = document.getElementById(containerId);
@@ -260,7 +228,7 @@ function initChoiceTabs() {
 
 // --- Init ---
 document.addEventListener('DOMContentLoaded', () => {
-    initNavigation();
+    initRouter();
     initChoiceTabs();
 
     renderExamList('szovegertes-list', 'szovegertes');
