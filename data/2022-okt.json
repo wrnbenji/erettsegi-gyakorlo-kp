@@ -1,0 +1,349 @@
+{
+    "id": "2022-okt",
+    "year": 2022,
+    "session": "Oktober",
+    "date": "2022. oktober 17.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "Környezetvédelem és fenntarthatóság a 21. században\n\nA klímaváltozás napjaink egyik legégetőbb globális problémájává vált. A tudósok egyöntetűen figyelmeztetnek: ha az emberiség nem változtat fogyasztási szokásain és energiafelhasználásán, a Föld átlaghőmérséklete tovább emelkedik, ami visszafordíthatatlan következményekhez vezet. Szélsőséges időjárási jelenségek, tengerszint-emelkedés, ökoszisztémák pusztulása – ezek a veszélyek már ma is érezhetők.\n\nA fenntartható fejlődés elve azt jelenti, hogy a jelen generációk igényeit úgy elégítjük ki, hogy ne veszélyeztessük a jövő generációk lehetőségeit. Ez az elv az 1987-es Brundtland-jelentésben jelent meg először, és azóta a környezetvédelmi politika alapköve lett. A gyakorlatban ez a megújuló energiaforrások – napenergia, szélenergia, vízenergia – térnyerését, a hulladékgazdálkodás korszerűsítését és a fogyasztás tudatos mérséklését jelenti.\n\nAz egyén szintjén is számos lehetőség kínálkozik a környezetterhelés csökkentésére. A szelektív hulladékgyűjtés, a tömegközlekedés használata, a helyi termékek vásárlása, az energiatakarékos eszközök alkalmazása – mind hozzájárulhatnak ahhoz, hogy kisebb ökológiai lábnyomot hagyjunk magunk után. Bár sokan úgy vélik, hogy az egyéni tetteknek csekély hatása van a globális folyamatokra, valójában a tudatos fogyasztói döntések összeadódnak, és képesek befolyásolni a piaci folyamatokat.\n\nA vállalatok és az ipar felelőssége ugyanakkor kiemelkedő. A legnagyobb szén-dioxid-kibocsátók között globális nagyvállalatok szerepelnek. Ezért a szigorú környezetvédelmi szabályozás, a szennyezők megadóztatása és a zöld technológiák támogatása elengedhetetlen. Az Európai Unió zöld megállapodása (Green Deal) célja, hogy 2050-re Európa klímasemlegessé váljon.\n\nA fiatalok szerepe a fenntarthatóság terén egyre hangsúlyosabb. A Fridays for Future mozgalom és más ifjúsági kezdeményezések azt bizonyítják, hogy a következő generáció tudatában van a tétnek, és változást követel. Az oktatásban is egyre több helyen kerülnek előtérbe a fenntarthatóság szempontjai: iskolai kertek, ökoprogram, energiatakarékossági projektek jelzik, hogy a változás szemléletszintű lehet.\n\nA környezetvédelem tehát nemcsak tudományos, hanem erkölcsi kérdés is: felelősek vagyunk azokért, akik utánunk jönnek.",
+            "tasks": [
+                {
+                    "id": "sz-01",
+                    "type": "multiple-choice",
+                    "question": "Mi a szöveg fő mondanivalója?",
+                    "options": [
+                        "A klímaváltozás nem valós fenyegetés, csupán politikai eszköz.",
+                        "A környezetvédelem egyéni, vállalati és társadalmi szintű felelősséget egyaránt igényel.",
+                        "Csak a nagyvállalatok tehetnek a klímaváltozás ellen.",
+                        "A megújuló energiaforrások teljes mértékben megoldják a klímaproblémát."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a fenntartható fejlődés elvét először az 1992-es Rio de Janeirói Csúcson fogalmazták meg.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz-03",
+                    "type": "true-false",
+                    "question": "A szöveg szerint az Európai Unió zöld megállapodásának célja, hogy 2050-re Európa klímasemlegessé váljon.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz-04",
+                    "type": "fill-in",
+                    "question": "Melyik évben és milyen dokumentumban jelent meg először a fenntartható fejlődés elve? (Írja be az évet és a dokumentum nevét!)",
+                    "correct": ["1987-es Brundtland-jelentés", "Brundtland-jelentés, 1987", "1987, Brundtland-jelentés"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-05",
+                    "type": "short-answer",
+                    "question": "Milyen egyéni lehetőségeket említ a szöveg a környezetterhelés csökkentésére? Soroljon fel legalább hármat!",
+                    "sampleAnswer": "A szöveg szerint az egyén csökkentheti a környezetterhelést a szelektív hulladékgyűjtéssel, a tömegközlekedés használatával, a helyi termékek vásárlásával és az energiatakarékos eszközök alkalmazásával.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-06",
+                    "type": "matching",
+                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
+                    "pairs": [
+                        { "left": "fenntartható fejlődés", "right": "a jelen igényeinek kielégítése a jövő generációk lehetőségeinek veszélyeztetése nélkül" },
+                        { "left": "ökológiai lábnyom", "right": "az egyén által a természetre gyakorolt környezeti terhelés mértéke" },
+                        { "left": "megújuló energiaforrás", "right": "napenergia, szélenergia, vízenergia" },
+                        { "left": "Fridays for Future", "right": "ifjúsági klímavédelmi mozgalom" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz-07",
+                    "type": "ordering",
+                    "question": "Rendezze logikai sorrendbe a szöveg főbb gondolatait úgy, ahogy a szöveg tárgyalja őket!",
+                    "items": [
+                        "Az egyén szintjén is számos lehetőség kínálkozik a környezetterhelés csökkentésére.",
+                        "A klímaváltozás napjaink egyik legégetőbb globális problémájává vált.",
+                        "A környezetvédelem erkölcsi felelősség is: felelősek vagyunk az utánunk jövőkért.",
+                        "A fenntartható fejlődés elve az 1987-es Brundtland-jelentésben jelent meg.",
+                        "A fiatalok szerepe a fenntarthatóság terén egyre hangsúlyosabb."
+                    ],
+                    "correctOrder": [1, 3, 0, 4, 2],
+                    "points": 5
+                },
+                {
+                    "id": "sz-08",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a különböző szintek felelősségét és lehetőségeit a fenntarthatóság terén!",
+                    "headers": ["Szint", "Felelősség / Lehetőség"],
+                    "rows": [
+                        {
+                            "given": { "Szint": "Egyéni" },
+                            "answer": { "Felelősség / Lehetőség": "szelektív hulladékgyűjtés, tömegközlekedés, helyi termékek, energiatakarékosság" }
+                        },
+                        {
+                            "given": { "Szint": "Vállalati" },
+                            "answer": { "Felelősség / Lehetőség": "szén-dioxid-kibocsátás csökkentése, zöld technológiák alkalmazása" }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-09",
+                    "type": "short-answer",
+                    "question": "A szöveg szerint sokan úgy vélik, hogy az egyéni tetteknek csekély hatása van. Hogyan cáfolja ezt a szöveg? Fogalmazza meg saját szavaival!",
+                    "sampleAnswer": "A szöveg azzal cáfolja ezt a nézetet, hogy a tudatos fogyasztói döntések összeadódnak, és képesek befolyásolni a piaci folyamatokat, tehát az egyéni cselekvésnek is van közösségi hatása.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-10",
+                    "type": "multiple-choice",
+                    "question": "Mit jelent a szövegben az 'ökoszisztéma' szó?",
+                    "options": [
+                        "Egy ország gazdasági rendszere",
+                        "Az élőlények és élettelen környezetük kölcsönhatásainak rendszere",
+                        "Környezetbarát ipari technológia",
+                        "Természetvédelmi törvény"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-11",
+                    "type": "fill-in",
+                    "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
+                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-12",
+                    "type": "short-answer",
+                    "question": "Hogyan értékeli a szöveg a fiatalok szerepét a fenntarthatóság terén? Idézzen vagy fogalmazzon meg legalább két konkrét példát a szövegből!",
+                    "sampleAnswer": "A szöveg szerint a fiatalok szerepe egyre hangsúlyosabb: a Fridays for Future mozgalom bizonyítja, hogy a következő generáció tudatában van a tétnek és változást követel. Az iskolai kertek, ökoprogramok és energiatakarékossági projektek azt mutatják, hogy a változás szemléletszintű lehet.",
+                    "points": 5
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "m-01",
+                    "type": "multiple-choice",
+                    "question": "Zrínyi Miklós 'Szigeti veszedelem' című eposzának témája melyik történelmi esemény?",
+                    "options": [
+                        "A mohácsi csata (1526)",
+                        "Szigetvár ostroma és Zrínyi Miklós hősi halála (1566)",
+                        "Az esztergomi vár visszafoglalása (1595)",
+                        "A muhi csata (1241)"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "m-02",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
+                    "pairs": [
+                        { "left": "Szigeti veszedelem", "right": "Zrínyi Miklós" },
+                        { "left": "Bánk bán", "right": "Katona József" },
+                        { "left": "Egy szép virágnak...", "right": "Balassi Bálint" },
+                        { "left": "Fogságom naplója", "right": "Kazinczy Ferenc" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "m-03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a nyelvi jelenséget, amelynek során egy régi, elavult szó új szóból keletkező szinonimájának megjelenése után kikopik a használatból? (Írja be a fogalom nevét!)",
+                    "correct": ["archaizmus", "archaikus szó", "elavult szó", "avult szó"],
+                    "points": 2
+                },
+                {
+                    "id": "m-04",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Adja meg a melléknevek fokait!",
+                    "headers": ["Alapfok", "Középfok", "Felsőfok"],
+                    "rows": [
+                        {
+                            "given": { "Alapfok": "szép" },
+                            "answer": { "Középfok": "szebb", "Felsőfok": "legszebb" }
+                        },
+                        {
+                            "given": { "Alapfok": "nagy" },
+                            "answer": { "Középfok": "nagyobb", "Felsőfok": "legnagyobb" }
+                        },
+                        {
+                            "given": { "Alapfok": "jó" },
+                            "answer": { "Középfok": "jobb", "Felsőfok": "legjobb" }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "m-05",
+                    "type": "true-false",
+                    "question": "Kazinczy Ferenc a nyelvújítási mozgalom vezéralakja volt, aki a magyar irodalmi nyelv megújítását és gazdagítását tűzte ki célul.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "m-06",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondat tartalmaz helyesírási hibát?",
+                    "options": [
+                        "A könyv, amelyet olvastam, nagyon érdekes volt.",
+                        "Ő az, akit kerestem.",
+                        "Nem tudom, hogy mikor jön.",
+                        "Nem tudom hogy mikor jön."
+                    ],
+                    "correct": 3,
+                    "points": 2
+                },
+                {
+                    "id": "m-07",
+                    "type": "short-answer",
+                    "question": "Mi jellemzi Balassi Bálint költészetét, és miért tartjuk őt a magyar líra egyik úttörőjének?",
+                    "sampleAnswer": "Balassi Bálint a 16. század legnagyobb magyar lírikusa, akit a magyar nyelvű szerelmi líra megteremtőjeként tartunk számon. Verseit a petrarkista szerelmi hagyomány és a vitézi életforma inspirálta. Istenes, szerelmes és vitézi verseket egyaránt írt. Balassi volt az első, aki tudatosan, magas művészi szinten alkotott magyarul, és ezzel megalapozta a magyar irodalmi hagyomány egyik legjelentősebb ágát.",
+                    "points": 3
+                },
+                {
+                    "id": "m-08",
+                    "type": "true-false",
+                    "question": "Katona József 'Bánk bán' című drámáját még életében bemutatták a pesti Nemzeti Színházban, és azonnal nagy közönségsikert aratott.",
+                    "correct": false,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa-01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a modern technológia lusábbá teszi-e az embereket! Érvelésébe vonjon be konkrét példákat a mindennapi életből, saját tapasztalataiból vagy olvasmányaiból! Mutasson rá mindkét álláspont melletti és ellene szóló legfontosabb érvekre, majd foglalja össze saját következtetését!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "A modern technológia rohamos fejlődése alapjaiban alakítja át mindennapi életünket. Sokan felteszik a kérdést: vajon a kényelmet nyújtó eszközök – okostelefonok, navigációs rendszerek, mesterséges intelligencia – lusábbá teszik-e az embereket?\n\nAz egyik álláspont szerint igen. A GPS használata miatt sokan elfelejtik a térkép olvasását és a tájékozódás hagyományos módszereit. Az automatikus helyesírás-ellenőrző csökkenti a helyesírás iránti figyelmet. A közösségi médiában eltöltött idő a fizikai aktivitás rovására megy. Ezek valós aggályok: ha a technológia elvégez helyettünk feladatokat, bizonyos készségek valóban sorvadhatnak.\n\nMásrészről azonban a technológia az emberi teljesítmény új határait nyitja meg. Olyan feladatokra szabadít fel energiát és időt, amelyekre korábban nem volt lehetőség. Az orvos, aki szoftver segítségével elemzi a betegadatokat, nem lusta – hanem hatékonyabb. A mérnök, aki számítógépes tervezőprogramot használ, több és pontosabb munkát végez. A technológia eszköz: annak lusaságát tükrözi, aki ilyen módon használja.\n\nSaját tapasztalatom szerint a technológia attól függ, hogyan alkalmazzuk. Én magam is érzem, hogy a keresőmotorok miatt kevésbé kell emlékeznem tényekre – de több időm marad mélyebb összefüggések megértésére.\n\nÖsszességében úgy vélem, hogy a technológia nem tesz lusábbá, csupán átalakítja, hogy mire fordítjuk energiánkat. A kritikus gondolkodás és a tudatos technológiahasználat az, ami megakadályozza az ellusulást.",
+                    "rubric": [
+                        {
+                            "criterion": "Téma kifejtése és érvelés",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
+                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
+                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
+                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
+                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
+                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
+                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 10,
+                            "levels": [
+                                "0–3: Sok helyesírási és grammatikai hiba, stílustalan.",
+                                "4–6: Néhány hiba, de érthető és megfelelő stílusú.",
+                                "7–8: Kevés hiba, változatos mondatszerkesztés.",
+                                "9–10: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (200–400 szó)."
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció és műfaji megfelelés",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Nincs cím, nem érvelő műfaj.",
+                                "2–3: Van cím, de a műfaj nem következetes.",
+                                "4–5: Önálló, találó cím; a szöveg egyértelműen érvelő fogalmazás."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Balassi Bálint 'Hogy Júliára talála, így köszöne néki' című versének témája a szerelem és a szépség megéneklése. Értelmezze a verset ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a vers szerkezetére, a petrarkista hagyomány jelenlétére, valamint a lírai én és Júlia kapcsolatának ábrázolására! Zárásként fejtse ki, hogy Ön szerint miért maradandó ez az alkotás!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Balassi Bálint 'Hogy Júliára talála, így köszöne néki' (1588 körül) a magyar reneszánsz líra egyik legszebb darabja. A vers az európai petrarkista szerelmi hagyomány magyar változata: a lírai én egy véletlen találkozás alkalmával köszönti Júliát, és szépségét ódai magasztossággal írja le.\n\nA vers szerkezete szabályos strófákból áll, amelyek mindegyike Júlia valamely szépségét vagy erényét emeli ki. Ez a katalógusszerű felépítés a reneszánsz költészet jellemző eszköze: a kedves szépségét részletesen, szinte festői pontossággal írják le az alkotók. Balassi Júliájában az isteni és az emberi szépség egybefonódik – a vers többször is mennyei metaforákkal jellemzi az asszonyt.\n\nA petrarkista hagyomány jól megfigyelhető a vers hangnemében: a lírai én alázatos, imádó, a kedves szinte elérhetetlen magasságban van. Júlia nem válaszol, nem szólal meg – a vers kizárólag a lírai én szemszögéből mutatja be a találkozást. Ez a távolság és elérhetetlenség a petrarkista szerelmi líra alapja.\n\nA vers maradandóságát az adja, hogy Balassi a hódolat és a szépség megéneklésének egy örök emberi igényét szólaltatja meg. Ugyanakkor a vers a magyar irodalom szempontjából különösen fontos: bizonyítja, hogy a 16. századi Magyarországon is létezett magas szintű, tudatosan megkomponált lírai hagyomány. Balassi verse ma is megrendítő erejű, mert az érzelem őszinteségét és a formai fegyelmet egyszerre képviseli.",
+                    "rubric": [
+                        {
+                            "criterion": "Mű értelmezése",
+                            "maxPoints": 15,
+                            "levels": [
+                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
+                                "5–9: Alapvető összefüggések felismerése, de elemzés hiányos.",
+                                "10–12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
+                                "13–15: Árnyalt, önálló elemzés; szerkezet, petrarkista hagyomány, lírai én bemutatása; érett irodalmi szemlélet."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
+                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
+                                "6–7: Jól tagolt, logikus felépítés.",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                            ]
+                        },
+                        {
+                            "criterion": "Szaknyelv",
+                            "maxPoints": 7,
+                            "levels": [
+                                "0–2: Hiányzó vagy téves irodalmi ismeretek.",
+                                "3–4: Alapismeretek megvannak, de nem mindig megfelelően alkalmazva.",
+                                "5–6: Helyes és változatos irodalmi terminológia.",
+                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Sok hiba, nehezen érthető.",
+                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "4: Kevés hiba, jó stílus.",
+                                "5: Hibátlan vagy közel hibátlan, igényes fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: Nem éri el a minimumot vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (250–500 szó)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

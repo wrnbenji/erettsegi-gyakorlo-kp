@@ -1,0 +1,431 @@
+{
+    "id": "2023-maj",
+    "year": 2023,
+    "session": "Majus",
+    "date": "2023. majus 8.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "A magyar nyelv megőrzésének kihívásai a XXI. században\n\nA magyar nyelv egyedülálló jelenség Európa nyelvi térképén: az uráli nyelvcsaládba tartozó, finnugor gyökerű idiómát mintegy tizennégy millió ember beszéli a világon, amelyből körülbelül tízmillió él Magyarország határain belül. A határon túli magyarság – Erdélyben, Felvidéken, Vajdaságban és másutt – sajátos kettős identitással él: anyanyelvét otthon és közösségben őrzi, miközben az államnyelvet a közéletben és sokszor a munkahelyen is kénytelen használni.\n\nA globalizáció és az internet terjedése új kihívások elé állítja a magyar nyelvet. Az angol szavak áradása különösen a fiatalabb generációkat érinti: a mindennapi beszédben és az internetes kommunikációban egyre több anglicizmus jelenik meg. Olyan kifejezések, mint a „meeting”, „deadline” vagy „feedback” fokozatosan kiszorítják a meglévő magyar megfelelőket. A nyelvészek egy része aggódva figyeli ezt a folyamatot, mások azonban úgy vélik, hogy a nyelvek mindig is kölcsönöztek egymástól, és az új jövevényszavak a nyelv életerejének jelei.\n\nA Magyar Tudományos Akadémia Nyelvtudományi Intézete és számos civil szervezet aktívan dolgozik a magyar nyelv megőrzésén és fejlesztésén. A Magyar értelmező kéziszótár rendszeres frissítése, az anyanyelvi nevelés erősítése az iskolákban, valamint a határon túli magyar iskolák támogatása mind fontos eszközök a nyelvmegőrzés szolgálatában. Az interneten is megjelentek olyan platformok, amelyek játékos formában tanítják és népszerűsítik a helyes magyar nyelvhasználatot.\n\nKülön figyelmet érdemel a kisebbségi magyar közösségek helyzete. A szórványban élő magyarok – akik kis szigeteket alkotnak idegen nyelvű tengerben – különösen nehéz helyzetben vannak: a vegyes házasságok, az asszimilációs nyomás és az anyanyelvi iskolák hiánya mind a nyelvvesztés irányába hatnak. Ugyanakkor a modern technológia – az internet, a streaming-szolgáltatások, a magyar nyelvű tartalmak elérhetősége – új kapcsot jelent a diaszpóra és az anyaország között.\n\nA magyar nyelv gazdagsága – a hajlékony szóalkotás, az árnyalt igerendszer, a sokféle névutó és rag – egyedülálló kifejezési lehetőségeket biztosít. Olyan szavak, mint a „bánkódik”, „mereng” vagy „szépelgő”, aligha fordíthatók le egyetlen szóval más nyelvekre. Ez a kifejezésbeli gazdagság egyrészt büszkeség forrása, másrészt komoly érv amellett, hogy érdemes a magyar nyelvet ápolni és fejleszteni. A kérdés az: hogyan lehet megőrizni ezt az örökséget úgy, hogy a nyelv élő, dinamikus és vonzó maradjon a fiatal generációk számára is.",
+            "tasks": [
+                {
+                    "id": "sz-01",
+                    "type": "multiple-choice",
+                    "question": "Hány embert tesz ki a magyar anyanyelvűek becsült száma a világon a szöveg szerint?",
+                    "options": [
+                        "Körülbelül tízmillió",
+                        "Körülbelül tizennégy millió",
+                        "Körülbelül húszmillió",
+                        "Körülbelül nyolcmillió"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a magyar nyelv az indoeurópai nyelvcsaládba tartozik.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz-03",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a modern technológia és az internet új lehetőséget jelent a diaszpóra és az anyaország közötti kapcsolattartásra.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz-04",
+                    "type": "fill-in",
+                    "question": "Melyik tudományos intézményt nevezi meg a szöveg, amely aktívan dolgozik a magyar nyelv megőrzésén? (A teljes nevet írja!)",
+                    "correct": [
+                        "Magyar Tudományos Akadémia Nyelvtudományi Intézete",
+                        "MTA Nyelvtudományi Intézete",
+                        "Nyelvtudományi Intézet"
+                    ],
+                    "points": 2
+                },
+                {
+                    "id": "sz-05",
+                    "type": "multiple-choice",
+                    "question": "Mit nevez a szöveg 'kettős identitásnak' a határon túli magyarok esetében?",
+                    "options": [
+                        "Azt, hogy egyszerre magyarok és európaiak.",
+                        "Azt, hogy anyanyelvüket otthon őrzik, miközben az államnyelvet a közéletben használják.",
+                        "Azt, hogy egyszerre két nyelven is folyékonyan beszélnek.",
+                        "Azt, hogy kettős állampolgársággal rendelkeznek."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-06",
+                    "type": "short-answer",
+                    "question": "Milyen tényezők hatnak a szórványban élő magyarok esetében a nyelvvesztés irányába? Nevezzen meg legalább hármat a szöveg alapján!",
+                    "sampleAnswer": "A szöveg szerint a szórványban élő magyaroknál a nyelvvesztést a vegyes házasságok, az asszimilációs nyomás és az anyanyelvi iskolák hiánya segíti elő.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-07",
+                    "type": "matching",
+                    "question": "Párosítsa a szövegben szereplő kifejezéseket a hozzájuk illő magyarázatokkal!",
+                    "pairs": [
+                        {
+                            "left": "anglicizmus",
+                            "right": "az angol nyelvből átvett idegen szó vagy kifejezés"
+                        },
+                        {
+                            "left": "asszimiláció",
+                            "right": "beolvadás a környező, többségi kultúrába és nyelvbe"
+                        },
+                        {
+                            "left": "szórvány",
+                            "right": "kis szigeteket alkotó kisebbségi közösség idegen nyelvű környezetben"
+                        },
+                        {
+                            "left": "jövevényszó",
+                            "right": "más nyelvből átvett, de a befogadó nyelvbe beilleszkedett szó"
+                        }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz-08",
+                    "type": "ordering",
+                    "question": "Rendezze logikai sorrendbe a szöveg fő gondolatait úgy, ahogy azok a szövegben egymást követik!",
+                    "items": [
+                        "A szórványban élő magyarok különösen nehéz helyzetben vannak a nyelvvesztés szempontjából.",
+                        "A magyar nyelv egyedülálló az európai nyelvi térképen, mintegy tizennégy millió ember anyanyelvéről van szó.",
+                        "A magyar nyelv gazdagsága egyedülálló kifejezési lehetőségeket biztosít, megőrzése fontos feladat.",
+                        "A globalizáció és az internet új kihívások elé állítja a magyar nyelvet.",
+                        "Intézmények és civil szervezetek aktívan dolgoznak a nyelv megőrzésén."
+                    ],
+                    "correctOrder": [
+                        1,
+                        3,
+                        4,
+                        0,
+                        2
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-09",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a magyar nyelvvesztés fenyegetéseit és a nyelvmegőrzés lehetőségeit!",
+                    "headers": [
+                        "Szempont",
+                        "Fenyegetések / Kihívások",
+                        "Lehetőségek / Megoldások"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Szempont": "Globalizáció hatása"
+                            },
+                            "answer": {
+                                "Fenyegetések / Kihívások": "anglicizmusok terjedése, idegen szavak kiszorítják a magyar megfelelőket",
+                                "Lehetőségek / Megoldások": "internetes platformok, játékos nyelvtanítás"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szempont": "Határon túli magyarság"
+                            },
+                            "answer": {
+                                "Fenyegetések / Kihívások": "vegyes házasságok, asszimilációs nyomás, anyanyelvi iskolák hiánya",
+                                "Lehetőségek / Megoldások": "internet, streaming-szolgáltatások, magyar nyelvű tartalmak"
+                            }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-10",
+                    "type": "short-answer",
+                    "question": "Miért hozza fel a szöveg a 'bánkódik', 'mereng' és 'szépelgő' szavakat? Mit kíván bizonyítani ezekkel?",
+                    "sampleAnswer": "A szöveg ezekkel a szavakkal a magyar nyelv kifejezésbeli gazdagságát szemlélteti: ezek a szavak más nyelveken aligha fordíthatók le egyetlen szóval, ami a magyar nyelv megőrzése melletti egyik fontos érv.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-11",
+                    "type": "fill-in",
+                    "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, tudományos cikk...)",
+                    "correct": [
+                        "értekezés",
+                        "ismeretterjesztő szöveg",
+                        "esszé",
+                        "publicisztika",
+                        "elemzés",
+                        "tudományos ismeretterjesztés"
+                    ],
+                    "points": 2
+                },
+                {
+                    "id": "sz-12",
+                    "type": "multiple-choice",
+                    "question": "Hogyan viszonyul a szöveg az anglicizmusok terjedéséhez? Melyik állítás fejezi ki leghívebben a szöveg álláspontját?",
+                    "options": [
+                        "Egyértelműen elítéli az idegen szavak használatát.",
+                        "Mindkét nézetet bemutatja: az aggodalmaskodókét és az elfogadókét is.",
+                        "Határozottan amellett érvel, hogy az anglicizmusok gazdagítják a magyar nyelvet.",
+                        "Nem foglal állást, mert a kérdést nem tartja fontosnak."
+                    ],
+                    "correct": 1,
+                    "points": 4
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "m-01",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
+                    "pairs": [
+                        {
+                            "left": "A fekete város",
+                            "right": "Mikszáth Kálmán"
+                        },
+                        {
+                            "left": "Halálfiai",
+                            "right": "Babits Mihály"
+                        },
+                        {
+                            "left": "Légy jó mindhalálig",
+                            "right": "Móricz Zsigmond"
+                        },
+                        {
+                            "left": "Beszterce ostroma",
+                            "right": "Mikszáth Kálmán"
+                        }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "m-02",
+                    "type": "multiple-choice",
+                    "question": "Melyik állítás igaz Mikszáth Kálmán irodalmi pályájára vonatkozóan?",
+                    "options": [
+                        "A Nyugat folyóirat alapító tagja és szerkesztője volt.",
+                        "A romantika főbb képviselője volt, és Vörösmarty kortársa.",
+                        "A realista-anekdotikus prózastílus egyik legjelentősebb képviselője, főbb művei a 19. század végén születtek.",
+                        "Kizárólag lírai műveket alkotott, regényt nem írt."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a verslábat, amely egy hangsúlyos és egy hangsúlytalan szótagból áll (– ∪)? (Írja be a fogalom nevét!)",
+                    "correct": [
+                        "trocheus",
+                        "trochaikus versláb"
+                    ],
+                    "points": 2
+                },
+                {
+                    "id": "m-04",
+                    "type": "true-false",
+                    "question": "Babits Mihály 'Jónás könyve' című műve egy ószövetségi történet modern feldolgozása, amelyet a szerző 1938-ban írt.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "m-05",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Adja meg a szavak szófaját és toldalékát!",
+                    "headers": [
+                        "Szóalak",
+                        "Szófaj",
+                        "Toldalék(ok)"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Szóalak": "olvasgatva"
+                            },
+                            "answer": {
+                                "Szófaj": "határozói igenév",
+                                "Toldalék(ok)": "-gatva (képző + igenévképző)"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szóalak": "legszebben"
+                            },
+                            "answer": {
+                                "Szófaj": "melléknév (felsőfok, határozói alak)",
+                                "Toldalék(ok)": "leg- (felsőfokjel) + -en (határozórag)"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szóalak": "könyvekből"
+                            },
+                            "answer": {
+                                "Szófaj": "főnév",
+                                "Toldalék(ok)": "-k (többesjel) + -ből (határozórag)"
+                            }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "m-06",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondat tartalmaz helyesírási hibát?",
+                    "options": [
+                        "Móricz Zsigmond az Árvácska című regényét 1941-ben fejezte be.",
+                        "A mű főhősnője egy árva kislány, akit mostoha körülmények között nevelnek.",
+                        "Az író szociális érzékenysége egész életmüvét meghatározza.",
+                        "Babits Mihály a Nyugat szerkesztőjeként is jelentős szerepet játszott."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-07",
+                    "type": "short-answer",
+                    "question": "Mi a különbség a metafora és a hasonlat között? Alkosson egy-egy példát mindkét stílusalakzatra!",
+                    "sampleAnswer": "A hasonlat két dolog közötti hasonlóságot fejez ki összehasonlító kötőszóval (mint, akár): pl. 'Olyan bátor volt, mint az oroszlán.' A metafora ezzel szemben azonosítja a két fogalmat, a kötőszó elmarad: pl. 'Oroszlán volt a harcban.' Mindkét esetben képi, szemléletes kifejezésmódról van szó, de a metafora tömörebb és erőteljesebb.",
+                    "points": 3
+                },
+                {
+                    "id": "m-08",
+                    "type": "true-false",
+                    "question": "Móricz Zsigmond 'Sárarany' című regénye a paraszti élet és a vidéki társadalom naturalisztikus ábrázolásával vált ismertté.",
+                    "correct": true,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa-01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Az olvasási szokások gyökeresen megváltoztak a digitális korban – sokan kevesebbet olvasnak, mások pedig a képernyőkön fogyasztanak egyre több szöveget. Fejtse ki véleményét arról, hogy az olvasás – különösen a szépirodalmi olvasás – megőrizte-e jelentőségét a digitális eszközök korában! Érvelésébe vonjon be konkrét példákat, és mutasson rá mind a hagyományos olvasás mellett, mind ellene szóló szempontokra! Fogalmazásának végén foglaljon határozott álláspontot!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "Az olvasás válságáról sokat hallani, de vajon valóban eltűnőben van-e a szépirodalmi olvasás kultúrája? A kérdés nem egyszerű, és a válasz sem fekete-fehér.\n\nA hagyományos, papíralapú olvasás visszaszorulása kétségtelenül mérhető jelenség: felmérések szerint a fiatalok egyre kevesebb időt töltenek regényekkel, és egyre többet közösségi médiával. Az elmélyült, hosszú szövegek befogadásához szükséges koncentráció nehezebben alakul ki, ha az értesítések folyamatosan megszakítják az olvasást. Ráadásul a szórakoztatóipar – filmek, sorozatok, videójátékok – egyre erősebb versenytársa az irodalomnak.\n\nMégis, a szépirodalmi olvasás pótolhatatlan értékeket kínál. Egyetlen film sem képes arra, amit egy jól megírt regény: belülről mutatni meg egy idegen ember gondolatait, érzéseit, dilemmáit. Az empátia fejlesztésében, az önismeret mélyítésében és a kritikai gondolkodás formálásában az irodalomnak nincs igazi vetélytársa. Olyan regények, mint Móricz Zsigmond Légy jó mindhalálig-ja vagy Babits Mihály Halálfiai-a, máig érvényes képet festenek az emberi küzdelmekről.\n\nÚgy vélem, az olvasás nem tűnik el, hanem átalakul. A tudatosan olvasó fiatal is megtalálja az utat a könyvek felé – ehhez azonban megfelelő iskolai nevelés, inspiráló tanárok és hozzáférhető könyvtárak szükségesek. A digitális kor nem az olvasás ellensége, de az olvasás kultúráját tudatosan kell megőrizni és erősíteni.",
+                    "rubric": [
+                        {
+                            "criterion": "Téma kifejtése és érvelés",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
+                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
+                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
+                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
+                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
+                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
+                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 10,
+                            "levels": [
+                                "0–3: Sok helyesírási és grammatikai hiba, nehezen érthető.",
+                                "4–6: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "7–9: Kevés hiba, változatos mondatszerkesztés.",
+                                "10: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem betartása",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (200–400 szó)."
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció és stílus",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Szegényes szókincs, stílustalan, sematikus.",
+                                "2–3: Megfelelő szókincs, némi változatossággal.",
+                                "4–5: Gazdag, árnyalt szóhasználat; találó cím; egyéni hang."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Ady Endre 'Góg és Magóg fia vagyok én' kezdetű versét (1906) a Nyugat-mozgalom egyik programverskéntként tartják számon. Értelmezze a költeményt! Fogalmazásában térjen ki a vers alapszituációjára és a lírai én helyzetére, a mitológiai és bibliai utalások szerepére, a magyarságkép összetettségére, valamint a vers jelképes és programadó jellegére! Zárásként fejtse ki, mit jelent Ön szerint ez a vers ma, a 21. századi olvasó számára!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Ady Endre 'Góg és Magóg fia vagyok én' kezdetű verse (1906) az Új versek kötet nyitódarabja, s egyszerre önvallomás és programnyilatkozat. A lírai én a vers első sorától fogva kettős identitással lép elénk: a bibliai Góg és Magóg – a pusztítás és a kívülállás szimbólumai – utódaként határozza meg magát, ugyanakkor magyar sorsvállalóként törekszik betörni a zárt, mozdulatlan falak közé.\n\nAz alapszituáció drámai: a lírai én a Kárpátok „bércein” áttörve igyekszik belépni egy olyan Magyarországba, amely elzárkózik az újítástól. A Verecke és Dévény helynevek nem csupán földrajzi pontok, hanem szimbolikus kapuk: a keleti örökség és a Nyugat felé való nyitás jelképei. A versben megjelenő feszültség – keleti gyökerek és nyugati vágy között – Ady egész életművét jellemzi.\n\nA mitológiai utalások (Góg és Magóg, a bibliai apokalipszis népeinek felidézése) a költő vátesz-szerepét erősítik: a lírai én nem egyszerű vándor, hanem küldetéses próféta, aki az újító gondolatokat akarja bevinni a mozdulatatlan Magyarországra. A 'hiába' ismétlése ugyanakkor a kísérlet reménytelenségét is megpendíti – a vers tehát nem egyszerűen diadalmaskodó, hanem tragikus elhivatottságot fejez ki.\n\nMa, a 21. században a vers üzenete az újítás és a megmerevedett hagyomány örök konfliktusáról szól. Ady kérdése – hogyan lehet megújítani, felrázni egy önmagába zárt közösséget – minden korban érvényes. Ez teszi a verset maradandóvá: nem csupán irodalomtörténeti dokumentum, hanem az emberi törekvés és kudarc örök metaforája.",
+                    "rubric": [
+                        {
+                            "criterion": "Mű értelmezése",
+                            "maxPoints": 15,
+                            "levels": [
+                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
+                                "5–9: Alapvető összefüggések felismerése, de az elemzés hiányos.",
+                                "10–12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
+                                "13–15: Árnyalt, önálló elemzés; szimbólumok, utalások, szerkezet bemutatása; érett irodalmi szemlélet."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
+                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
+                                "6–7: Jól tagolt, logikus felépítés.",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                            ]
+                        },
+                        {
+                            "criterion": "Szaknyelv alkalmazása",
+                            "maxPoints": 7,
+                            "levels": [
+                                "0–2: Hiányzó vagy téves irodalmi fogalmak.",
+                                "3–4: Alapfogalmak megvannak, de nem mindig helyesen alkalmazva.",
+                                "5–6: Helyes és változatos irodalmi terminológia.",
+                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Sok hiba, nehezen érthető.",
+                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "4–5: Kevés hiba, jó stílus, igényes fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem betartása",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (250–500 szó)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

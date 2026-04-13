@@ -1,0 +1,358 @@
+{
+    "id": "2024-maj",
+    "year": 2024,
+    "session": "Majus",
+    "date": "2024. majus 6.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "A közösségi média hatása a fiatalok önképére\n\nAz okostelefon és a közösségi platformok elterjedésével a tizenévesek mindennapjai gyökeresen megváltoztak. Az Instagram, a TikTok és hasonló alkalmazások ma már nem csupán szórakoztatnak: aktívan formálják a fiatalok önértékelését, társadalmi kapcsolatait és a világról alkotott képét. Egyre több pszichológus és szülő teszi fel a kérdést: valójában milyen hatást gyakorol ez a folyamatos digitális jelenlét a serdülők lelki egészségére?\n\nA kutatások nem egységes képet mutatnak. Egyes vizsgálatok szerint a közösségi média lehetőséget ad az önkifejezésre és a hasonló érdeklődésű emberek megtalálására – különösen azok számára, akik szűkebb környezetükben marginalizálva érzik magukat. Egy brit tizenéves például LMBTQ+ csoportokban találhat elfogadásra, amelyet a saját osztályközösségében nem kap meg. Ilyen esetekben a digitális közösség valódi támaszt nyújthat.\n\nAzonban a visszajelzés-alapú működés – a lájkok, követők száma, a kommentek világa – súlyos pszichológiai kockázatokat rejt. A folyamatos összehasonlítás mások gondosan szerkesztett képeivel torz önképet alakíthat ki. A szociálpszichológia már régóta ismeri az úgynevezett 'felfelé irányuló társadalmi összehasonlítás' jelenségét: ha valaki nálunknál sikeresebb, szebb vagy boldogabbnak tűnő emberekkel hasonlítja össze magát, az önértékelése csökken. A közösségi média ezt a mechanizmust fokozza fel – és teszi szinte folyamatossá.\n\nJonathan Haidt szociálpszichológus 2023-ban megjelent könyvében ('The Anxious Generation') összefoglalja az elmúlt évtized kutatásait, és arra a következtetésre jut, hogy az okostelefon tömeges elterjedése a serdülők körében egybeesett a szorongásos és depressziós tünetek jelentős növekedésével – különösen a lányok között. A szerző óvatosságra int az egyenes ok-okozati következtetésekkel, de sürgeti a szabályozást és a digitális nevelés erősítését.\n\nA megoldás nem egyszerűen az eszközök betiltása. A digitális írástudás – a médiatartalmak kritikus értékelése, az algoritmusok működésének megértése, az egészséges határok kialakítása – mára alapvető készséggé vált. Az iskolai és otthoni közegnek egyaránt szerepe van abban, hogy a fiatalok ne passzív fogyasztóként, hanem tudatos felhasználóként viszonyuljanak a közösségi médiához.",
+            "tasks": [
+                {
+                    "id": "sz-01",
+                    "type": "multiple-choice",
+                    "question": "Mi a szöveg központi témája?",
+                    "options": [
+                        "Az okostelefonok műszaki fejlődése",
+                        "A közösségi média hatása a fiatalok önképére és lelki egészségére",
+                        "A digitális tartalmak szabályozásának jogi kérdései",
+                        "A tizenévesek iskolai teljesítményének romlása"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a kutatások egységes, egyértelmű képet mutatnak a közösségi média hatásáról.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz-03",
+                    "type": "true-false",
+                    "question": "A szöveg megemlíti, hogy a közösségi média egyes marginalizált fiatalok számára valódi közösségi támaszt nyújthat.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz-04",
+                    "type": "fill-in",
+                    "question": "Melyik szerző írta 'The Anxious Generation' című könyvet, amelyre a szöveg hivatkozik? (Csak a nevet írja!)",
+                    "correct": ["Jonathan Haidt", "Haidt", "Haidt Jonathan"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-05",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezi a szöveg azt a jelenséget, amikor valaki nálánál sikeresebb emberekkel hasonlítja össze magát? (Írja be a pontos kifejezést!)",
+                    "correct": ["felfelé irányuló társadalmi összehasonlítás", "felfelé irányuló összehasonlítás"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-06",
+                    "type": "short-answer",
+                    "question": "Milyen pozitív szerepet tölthet be a közösségi média egyes fiatalok életében a szöveg szerint? Fogalmazza meg saját szavaival!",
+                    "sampleAnswer": "A szöveg szerint a közösségi média lehetőséget ad az önkifejezésre és a hasonló érdeklődésű emberekkel való kapcsolatfelvételre. Különösen azon fiatalok számára nyújthat támaszt, akik szűkebb környezetükben nem találnak elfogadásra – például az LMBTQ+ fiatalok, akik digitális közösségekben megtalálhatják azokat a kapcsolatokat, amelyek a valós életből hiányoznak.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-07",
+                    "type": "matching",
+                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
+                    "pairs": [
+                        { "left": "felfelé irányuló társadalmi összehasonlítás", "right": "önértékelés csökkenti, ha sikeresebb emberekkel hasonlítjuk össze magunkat" },
+                        { "left": "digitális írástudás", "right": "médiatartalmak kritikus értékelése és az algoritmusok megértése" },
+                        { "left": "visszajelzés-alapú működés", "right": "lájkok, követők száma és kommentek világa" },
+                        { "left": "serdülők lelki egészsége", "right": "szorongásos és depressziós tünetek növekedése a kutatások szerint" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz-08",
+                    "type": "ordering",
+                    "question": "Rendezze logikai sorrendbe a szöveg gondolatmenetének főbb lépéseit!",
+                    "items": [
+                        "A digitális írástudás és a tudatos felhasználás fontossága.",
+                        "A közösségi média mindennapi életbe való beépülése és az aggodalmak felmerülése.",
+                        "Jonathan Haidt kutatási következtetései és figyelmeztetései.",
+                        "A visszajelzés-alapú működés pszichológiai kockázatai.",
+                        "A közösségi média lehetséges pozitív szerepe marginalizált fiataloknál."
+                    ],
+                    "correctOrder": [1, 4, 3, 2, 0],
+                    "points": 5
+                },
+                {
+                    "id": "sz-09",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a közösségi média pozitív és negatív hatásait!",
+                    "headers": ["Szempont", "Pozitív hatás", "Negatív hatás"],
+                    "rows": [
+                        {
+                            "given": { "Szempont": "Önértékelés" },
+                            "answer": { "Pozitív hatás": "önkifejezés lehetősége", "Negatív hatás": "torz önkép, csökkenő önértékelés az összehasonlítás miatt" }
+                        },
+                        {
+                            "given": { "Szempont": "Közösség" },
+                            "answer": { "Pozitív hatás": "hasonló érdeklődésűek megtalálása, elfogadás", "Negatív hatás": "szorongás, depresszió növekedése" }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-10",
+                    "type": "multiple-choice",
+                    "question": "Mit jelent a szövegben a 'marginalizált' szó ('marginalizálva érzik magukat')?",
+                    "options": [
+                        "Különösen népszerű és elismert",
+                        "Peremre szorított, kirekesztett",
+                        "Tehetséges, de félénk",
+                        "Ismeretlen, névtelen"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-11",
+                    "type": "short-answer",
+                    "question": "Hogyan fogalmazza meg a szöveg a megoldás lényegét? Saját szavaival foglalja össze!",
+                    "sampleAnswer": "A szöveg szerint a megoldás nem az eszközök betiltása, hanem a digitális írástudás fejlesztése. Ez magában foglalja a médiatartalmak kritikus értékelését, az algoritmusok megértését és az egészséges határok kialakítását. Ebben az iskolának és az otthoni nevelésnek egyaránt fontos szerepe van.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-12",
+                    "type": "fill-in",
+                    "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, interjú...)",
+                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés", "tanulmány"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-13",
+                    "type": "multiple-choice",
+                    "question": "A szöveg szerint Jonathan Haidt könyve milyen következtetésre jut a serdülők lelki egészségével kapcsolatban?",
+                    "options": [
+                        "Az okostelefon elterjedése egybeesett a szorongás és depresszió növekedésével a serdülők körében.",
+                        "Az okostelefon bizonyítottan az egyetlen oka a fiatalok szorongásának.",
+                        "A lányok körében csökkent, a fiúk körében nőtt a szorongásos tünetek száma.",
+                        "A közösségi média összességében pozitívan hat a fiatalok lelki egészségére."
+                    ],
+                    "correct": 0,
+                    "points": 3
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "m-01",
+                    "type": "multiple-choice",
+                    "question": "Melyik szó főnév az alábbiak közül?",
+                    "options": [
+                        "boldogan",
+                        "boldogság",
+                        "boldog",
+                        "boldogít"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "m-02",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
+                    "pairs": [
+                        { "left": "Szeptember végén", "right": "Petőfi Sándor" },
+                        { "left": "Oda a Naphoz", "right": "Berzsenyi Dániel" },
+                        { "left": "Édes Anna", "right": "Kosztolányi Dezső" },
+                        { "left": "Fekete kolostor", "right": "Kuncz Aladár" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "m-03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben egy szó vagy szókapcsolat azonos vagy nagyon hasonló hangzású, de más jelentésű szóval való felcserélése komikus vagy ironikus hatást kelt? (Egyetlen szóval feleljen!)",
+                    "correct": ["szójáték", "calembour", "paronomázia"],
+                    "points": 2
+                },
+                {
+                    "id": "m-04",
+                    "type": "true-false",
+                    "question": "A haiku japán eredetű, háromsorosból álló versforma, amelynek sorai 5-7-5 szótagból állnak.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "m-05",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Adja meg a szavak szófaját és toldalékait!",
+                    "headers": ["Szóalak", "Szófaj", "Toldalék(ok)"],
+                    "rows": [
+                        {
+                            "given": { "Szóalak": "házakban" },
+                            "answer": { "Szófaj": "főnév", "Toldalék(ok)": "-ak (többesjel), -ban (helyhatározórag)" }
+                        },
+                        {
+                            "given": { "Szóalak": "legszebb" },
+                            "answer": { "Szófaj": "melléknév (felsőfok)", "Toldalék(ok)": "leg- (felsőfok-képző), -ebb (középfok-jel)" }
+                        },
+                        {
+                            "given": { "Szóalak": "olvasgatom" },
+                            "answer": { "Szófaj": "ige", "Toldalék(ok)": "-gat (gyakorító képző), -om (személyrag, tárgyas ragozás)" }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "m-06",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondat tartalmaz helyesírási hibát?",
+                    "options": [
+                        "A könyvet egyfolytában olvastam.",
+                        "Egész nap otthon maradtam.",
+                        "Egymásután érkeztek a vendégek.",
+                        "Félelem nélkül lépett be a szobába."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-07",
+                    "type": "short-answer",
+                    "question": "Mi a különbség a metafora és a hasonlat között? Adjon-adjon egy-egy példát mindkét alakzatra!",
+                    "sampleAnswer": "A hasonlat két dolog hasonlóságát kifejezetten jelöli, összehasonlítást végez (pl. 'olyan szép, mint egy angyal'). A metafora ezzel szemben azonosítást végez: a két fogalmat közvetlenül egymásra vetíti, a hasonlóságot jelző szó nélkül (pl. 'te vagy a lelkem napja'). A metafora tömörebb és erőteljesebb képet alkot.",
+                    "points": 3
+                },
+                {
+                    "id": "m-08",
+                    "type": "true-false",
+                    "question": "Csokonai Vitéz Mihály a felvilágosodás és a rokokó korszakának egyik legjelentősebb magyar költője volt.",
+                    "correct": true,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa-01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a közösségi média összességében inkább hasznos vagy inkább káros-e a középiskolások számára! Érvelésében hozzon fel érveket mindkét oldal mellett, majd foglalja össze saját, indokolt álláspontját! Fogalmazásában támaszkodjon saját tapasztalataira és a szövegértési részben olvasott szövegre is!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "A közösségi média szerepe a középiskolások életében mára megkerülhetetlen kérdéssé vált. Sokan azt állítják, hogy hasznos eszköz: lehetőséget ad az önkifejezésre, az ismeretszerzésre és a kapcsolattartásra. Valóban, az Instagram vagy a YouTube révén fiatalok ezrei juthatnak hozzá oktatási tartalmakhoz, inspiráló személyiségek munkásságához, és találhatnak hasonló érdeklődésű barátokra.\n\nAzonban nem hagyhatjuk figyelmen kívül a visszaélési lehetőségeket és a pszichológiai kockázatokat. A lájkok és követők számán alapuló visszajelzési rendszer komoly önértékelési problémákat okozhat. Saját tapasztalatom szerint osztálytársaim közül többen szorongtak amiatt, hogy posztjaik nem kaptak elég figyelmet. A gondosan szerkesztett képek torz valóságképet közvetítenek, amellyel az átlagos tini képtelen azonosulni.\n\nA szövegértési feladatban olvasott cikk is rámutat: Jonathan Haidt kutatásai szerint az okostelefon elterjedése egybeesett a serdülők körében tapasztalható szorongás növekedésével. Ez komolyan veendő figyelmeztetés.\n\nÖssszegzésképpen úgy gondolom, hogy a közösségi média nem önmagában jó vagy rossz, hanem a használat módján múlik minden. Aki tudatosan, kritikusan és mértékkel veszi igénybe, az sokat nyerhet belőle. Aki azonban kontroll nélkül sodródik, az könnyen áldozatává válhat. A megoldás a digitális nevelés: megtanítani a fiatalokat arra, hogy aktív alakítói legyenek digitális életüknek, ne csupán passzív fogyasztói.",
+                    "rubric": [
+                        {
+                            "criterion": "A tema kifejtese, az erveles minosege",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0-4: Hianyos kifejtés, nincs érdemi érvelés",
+                                "5-8: Megfelelo kifejtés, néhány érv megjelenik",
+                                "9-12: Igényes érveles, mindkét oldal bemutatása, határozott következtetés"
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet, koherencia",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0-2: Hianyos, logikátlan felépítés",
+                                "3-5: Megfelelo, felismerhető szerkezet",
+                                "6-8: Logikus, jól tagolt, arányos bevezetés-tárgyalás-befejezés"
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesseg, stilus",
+                            "maxPoints": 10,
+                            "levels": [
+                                "0-3: Sok hiba, stílustalan",
+                                "4-7: Kisebb hibak, de érthető és megfelelő",
+                                "8-10: Igenyes, szinte hibátlan, változatos mondatszerkesztés"
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
+                                "3: Kozelito, közel a kért terjedelemhez",
+                                "5: Megfelelo, 200-400 szó"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikacio",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0-1: Gyenge, nem meggyőző",
+                                "2-3: Olvashato, érthető szándék",
+                                "4-5: Igenyes, meggyőző, célirányos kommunikáció"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Petőfi Sándor 'Egy gondolat bánt engemet' című versének középpontjában a halál és a szabadság témája áll. Értelmezze a verset ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a vers műfajára, szerkezetére, a szabadság képzetének megjelenési formáira, valamint arra, hogy a vers milyen eszmei üzenetet hordoz! Zárásként fejtse ki, miért tartja időszerűnek vagy maradandónak ezt az alkotást!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Petőfi Sándor 'Egy gondolat bánt engemet' (1846) az egyik legismertebb és legmegrendítőbb magyar forradalmi vers. Petőfi itt nem a csöndes, ágyban való halált kívánja, hanem a csatában, a szabadságért vívott küzdelemben bekövetkező hősi halált.\n\nA vers szerkezete két részre osztható. Az első rész (1-12. sor) a kínos, elszigetelt halált festi le – azt, amelyet a költő el kíván kerülni: a betegágyon, lassan elsorvadva halni meg. Ez a kép valóban 'bántó gondolat'. A vers második részétől (13. sortól) a hangnem gyökeresen megváltozik: megjelenik a csata víziója, a csatazaj, az elhullott hősök képe.\n\nA szabadság képzete a versben szorosan összefonódik a néppel és a közösséggel. Petőfi nem egyéni hőstettről álmodik, hanem a népek szabadsága melletti, közös küzdelemről. A 'világszabadság' szóban ez a kozmikus, messiáni látomás sűrűsödik össze.\n\nMűfaja ódai elemeket tartalmazó, szabad ritmikájú lírai vers, amely a romantika jegyében fogant. Az erős képek, a szenvedélyes hang és az élethalál-tematika a romantikus irodalom jellegzetes vonásai.\n\nA vers maradandóságát az adja, hogy az egyéni halál és a közösségi ügy összekapcsolása örök emberi kérdést érint: minek érdemes feláldozni az életet? Petőfi válasza egyértelmű és szenvedélyes: a szabadságért. Ez az üzenet minden elnyomással szemben küzdő ember számára ma is érvényes és megindító.",
+                    "rubric": [
+                        {
+                            "criterion": "A mu ertelmezese",
+                            "maxPoints": 15,
+                            "levels": [
+                                "0-4: Felületes, tartalmi tévedésekkel teli összefoglalás",
+                                "5-9: Alapvető összefüggések felismerése, de elemzés hiányos",
+                                "10-12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás",
+                                "13-15: Árnyalt, önálló elemzés; műfaj, szerkezet, szimbólumok bemutatása"
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0-2: Rendezetlen gondolatok, hiányzó szerkezet",
+                                "3-5: Felismerhető szerkezet, de arányok egyenetlenek",
+                                "6-7: Jól tagolt, logikus felépítés",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés"
+                            ]
+                        },
+                        {
+                            "criterion": "Szaknyelv",
+                            "maxPoints": 7,
+                            "levels": [
+                                "0-2: Hiányzó vagy téves irodalmi terminológia",
+                                "3-4: Alapfogalmak megvannak, de nem mindig megfelelően alkalmazva",
+                                "5-6: Helyes és változatos irodalmi terminológia",
+                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása"
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesseg",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0-1: Sok hiba, nehezen érthető",
+                                "2-3: Néhány hiba, de értelmező szándék félreérthetetlen",
+                                "4-5: Kevés hiba, jó stílus, igényes fogalmazás"
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
+                                "3: Kozelito, közel a kért terjedelemhez",
+                                "5: Megfelelo, 250-500 szó"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "id": "2022-maj",
+    "year": 2022,
+    "session": "Majus",
+    "date": "2022. majus 2.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "A színház szerepe az emberi kultúrában\n\nA színház az emberiség egyik legősibb művészeti formája. Már az ókori görögöknél is meghatározó szerepet töltött be a közösség életében: a drámaelőadások nemcsak szórakoztattak, hanem az erkölcsi és társadalmi kérdéseket is a nyilvánosság elé tárták. Szophoklész, Euripidész és Arisztophanész művei ma is élnek, és folyamatosan újraértelmezik őket a világ minden táján.\n\nA színházi előadás olyan közösségi élményt nyújt, amelyet semmi más nem képes pótolni. A néző és a színész között különleges, élő kapcsolat jön létre: a közönség valós időben reagál a történésekre, a taps és a csend egyaránt üzenetet hordoz. Ez az interakció teszi a színházat egyedivé a rögzített médiumokkal – a filmmel, a televízióval – szemben.\n\nAzonban a 21. századi színháznak komoly kihívásokkal kell szembenéznie. Az otthoni streamingszolgáltatások, a mozik és az online szórakoztatás erős versenyt jelentenek. Egyes statisztikák szerint a fiatal korosztályok ritkábban látogatnak színházba, mint a korábbi generációk. Sokan úgy vélik, hogy a jegyek magas ára is akadályt jelent.\n\nUgyanakkor a kortárs színház megújulásra képes. A kísérletező, immerzív előadások – amelyekben a közönség maga is részese a cselekménynek – egyre nagyobb érdeklődést váltanak ki. A tánc, a zene, a képzőművészet és a dráma ötvözése új formákat szül. A gyermekszínházak és iskolai előadások révén a fiatalabb generációk is megismerkedhetnek ezzel a műfajjal.\n\nA színész mesterségének elsajátítása is rendkívüli személyiségfejlesztő erővel bír. Az empatikus képesség fejlesztése, a nyilvános megszólalás bátorsága, az együttműködés és az önkifejezés mind olyan készségek, amelyeket a színjátszás kibontakoztat. Nem véletlen, hogy sok iskola és közösség fontosnak tartja az amatőr és ifjúsági színjátszó csoportok működtetését.\n\nA színház tehát nemcsak szórakoztat és gyönyörködtet, hanem nevel, közösséget épít és gondolkodásra serkent. Fennmaradása és megújulása kultúránk egészségének fokmérője.",
+            "tasks": [
+                {
+                    "id": "sz-01",
+                    "type": "multiple-choice",
+                    "question": "Mi a szöveg fő állítása a színházzal kapcsolatban?",
+                    "options": [
+                        "A színház elavult műfaj, amelyet a film és a televízió felváltott.",
+                        "A színház nélkülözhetetlen közösségi és kulturális intézmény, amely ma is képes megújulni.",
+                        "A görög dráma az egyetlen valódi színházi hagyomány.",
+                        "A streaming szolgáltatások teljesen kiszorítják a színházat."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a színházi előadás és a film egyaránt élő, valós idejű kapcsolatot teremt a néző és az előadó között.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz-03",
+                    "type": "true-false",
+                    "question": "A szöveg szerint az immerzív előadások egyre nagyobb érdeklődést váltanak ki.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz-04",
+                    "type": "fill-in",
+                    "question": "Soroljon fel a szövegből két ókori görög drámaírót! (Csak a neveket írja, vesszővel elválasztva!)",
+                    "correct": ["Szophoklész, Euripidész", "Szophoklész, Arisztophanész", "Euripidész, Arisztophanész", "Szophoklész és Euripidész", "Szophoklész és Arisztophanész", "Euripidész és Arisztophanész"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-05",
+                    "type": "short-answer",
+                    "question": "Milyen kihívásokkal kell a 21. századi színháznak szembenéznie a szöveg szerint? Nevezzen meg legalább kettőt!",
+                    "sampleAnswer": "A szöveg szerint a 21. századi színháznak kihívást jelentenek az otthoni streamingszolgáltatások, a mozik és az online szórakoztatás, valamint a jegyek magas ára és a fiatal korosztályok csökkenő látogatottsága.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-06",
+                    "type": "matching",
+                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
+                    "pairs": [
+                        { "left": "immerzív előadás", "right": "a közönség maga is részese a cselekménynek" },
+                        { "left": "közösségi élmény", "right": "a néző és a színész között élő kapcsolat jön létre" },
+                        { "left": "gyermekszínház", "right": "a fiatalabb generációkat vezeti be a műfajba" },
+                        { "left": "amatőr színjátszás", "right": "személyiségfejlesztő és közösségépítő szerepet tölt be" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz-07",
+                    "type": "ordering",
+                    "question": "Rendezze logikai sorrendbe a szöveg főbb gondolatait úgy, ahogy a szöveg tárgyalja őket!",
+                    "items": [
+                        "A kortárs színház megújulásra képes immerzív és kísérleti formákkal.",
+                        "Az ókori görög dráma közösségi és erkölcsi szerepet töltött be.",
+                        "A színházi mesterség személyiségfejlesztő erővel bír.",
+                        "A 21. századi színház kihívásokkal küzd a digitális szórakoztatás miatt.",
+                        "A színházi előadás egyedi, élő kapcsolatot teremt néző és előadó között."
+                    ],
+                    "correctOrder": [1, 4, 3, 0, 2],
+                    "points": 5
+                },
+                {
+                    "id": "sz-08",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a színházlátogatás és a streaming/film előnyeit!",
+                    "headers": ["Szempont", "Színházlátogatás", "Streaming/Film"],
+                    "rows": [
+                        {
+                            "given": { "Szempont": "Élmény jellege" },
+                            "answer": { "Színházlátogatás": "élő, valós idejű, közösségi", "Streaming/Film": "rögzített, otthoni kényelemben nézhető" }
+                        },
+                        {
+                            "given": { "Szempont": "Hozzáférhetőség" },
+                            "answer": { "Színházlátogatás": "jegyvásárlás szükséges, esetleg drága", "Streaming/Film": "bárhonnan és bármikor elérhető" }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-09",
+                    "type": "short-answer",
+                    "question": "Milyen személyiségfejlesztő hatásokat említ a szöveg a színjátszással kapcsolatban? Legalább három készséget nevezzen meg!",
+                    "sampleAnswer": "A szöveg szerint a színjátszás fejleszti az empatikus képességet, a nyilvános megszólalás bátorságát, az együttműködést és az önkifejezést.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-10",
+                    "type": "multiple-choice",
+                    "question": "Mit jelent a szövegben a 'fokmérő' szó ('kultúránk egészségének fokmérője')?",
+                    "options": [
+                        "Mérőeszköz a hőmérséklet mérésére",
+                        "Jelzője, mutatója valaminek",
+                        "Tudományos szaknyelvi terminus",
+                        "A kultúra egyik részterülete"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-11",
+                    "type": "fill-in",
+                    "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
+                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-12",
+                    "type": "short-answer",
+                    "question": "Hogyan zárja le a szöveg a gondolatmenetet? Fogalmazza meg saját szavaival a szöveg záró üzenetét!",
+                    "sampleAnswer": "A szöveg azzal zárja gondolatmenetét, hogy a színház nemcsak szórakoztató, hanem nevelő, közösségépítő és gondolkodásra késztető funkciókat is betölt, és fennmaradása kultúránk állapotának mutatója.",
+                    "points": 5
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "m-01",
+                    "type": "multiple-choice",
+                    "question": "Petőfi Sándor melyik verseskötete jelent meg 1844-ben, és tette őt az irodalmi élet figyelmének középpontjává?",
+                    "options": [
+                        "János vitéz",
+                        "A helység kalapácsa",
+                        "Versek (1844)",
+                        "Cipruslombok Etelke sírjáról"
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-02",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
+                    "pairs": [
+                        { "left": "Az arany ember", "right": "Jókai Mór" },
+                        { "left": "Himnusz", "right": "Kölcsey Ferenc" },
+                        { "left": "Az én Pegasusom", "right": "Csokonai Vitéz Mihály" },
+                        { "left": "János vitéz", "right": "Petőfi Sándor" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "m-03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a versformát, amelyben a sorok szótagszáma kötött, és a hangsúlyos és hangsúlytalan szótagok szabályosan váltakoznak? (Írja be a fogalom nevét!)",
+                    "correct": ["időmértékes verselés", "időmértékes versforma", "antik versforma", "klasszikus verselés"],
+                    "points": 2
+                },
+                {
+                    "id": "m-04",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Adja meg a főnevek esetragjait és mondatbeli szerepét!",
+                    "headers": ["Főnévi alak", "Eset", "Mondatbeli szerep"],
+                    "rows": [
+                        {
+                            "given": { "Főnévi alak": "a házban" },
+                            "answer": { "Eset": "inessivus (-ban/-ben)", "Mondatbeli szerep": "helyhatározó" }
+                        },
+                        {
+                            "given": { "Főnévi alak": "az embernek" },
+                            "answer": { "Eset": "dativus (-nak/-nek)", "Mondatbeli szerep": "részeshatározó" }
+                        },
+                        {
+                            "given": { "Főnévi alak": "a könyvet" },
+                            "answer": { "Eset": "accusativus (-t/-ot/-et/-öt)", "Mondatbeli szerep": "tárgy" }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "m-05",
+                    "type": "true-false",
+                    "question": "Kölcsey Ferenc a Himnuszt 1823-ban írta, és ez a vers lett a magyar nemzeti himnusz.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "m-06",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondatban helyes a névelő és a vonatkozó névmás használata?",
+                    "options": [
+                        "Az a könyv, amit kerestem, megkerült.",
+                        "Az a könyv, amelyet kerestem, megkerült.",
+                        "Azon könyv, amelyet kerestem, megkerült.",
+                        "Ez a könyv, amit kerestem, megkerült."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "m-07",
+                    "type": "short-answer",
+                    "question": "Mi jellemzi Csokonai Vitéz Mihály költészetét stílus szempontjából? Melyik irodalmi korszakhoz sorolható, és mi ennek a korszaknak a jellemzője?",
+                    "sampleAnswer": "Csokonai Vitéz Mihály a felvilágosodás korának legjelentősebb magyar lírikusa. Költészetére a rokokó játékosság, az anakreóni életöröm és a szentimentalizmus egyszerre jellemző. A felvilágosodás irodalmát az ész kultusza, az erkölcsi és társadalmi reformok igénye, valamint a nemzeti nyelv fejlesztésének szándéka hatja át.",
+                    "points": 3
+                },
+                {
+                    "id": "m-08",
+                    "type": "true-false",
+                    "question": "Jókai Mór elsősorban verseiről híresült el; regényírói munkásságát kevésbé tartja számon az irodalomtörténet.",
+                    "correct": false,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa-01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a csapatsportok vagy az egyéni sportok értékesek-e jobban az ember fejlődése szempontjából! Érvelésébe vonjon be konkrét példákat ismert sportolók életéből, saját tapasztalataiból vagy olvasmányaiból! Mutasson rá mindkét álláspont melletti és ellene szóló legfontosabb érvekre, majd foglalja össze saját következtetését!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "A sport az emberi fejlődés egyik leghatékonyabb eszköze, ám a csapatsportok és az egyéni sportok más-más értéket közvetítenek.\n\nA csapatsportok – mint a labdarúgás, a kosárlabda vagy a kézilabda – az együttműködés, a közös cél iránti elkötelezettség és a kompromisszumkészség fejlesztőállomásai. A csapatban sportoló tanuló megtanulja, hogy a saját sikerénél fontosabb lehet a csoport eredménye. Ezek a készségek a munkaerőpiacon és a társadalmi életben egyaránt felbecsülhetetlen értékűek.\n\nAz egyéni sportok – mint az úszás, a tenisz vagy az atlétika – ezzel szemben az önfegyelmet, a belső motivációt és az egyéni felelősségvállalást fejlesztik. Ha egy atléta elveszít egy versenyt, nincs kire hárítani a felelősséget: ez kemény, de értékes tanulság. Federer vagy Hosszú Katinka karrierje azt mutatja, hogy az egyéni sport rendkívüli önismeretet és kitartást követel.\n\nSaját tapasztalatom szerint mindkettőre szükség van. Gyerekkoromban focizni tanultam – a csapatszellem és a barátság élményét ott sajátítottam el. Később úszást kezdtem, ahol rájöttem, hogy csak saját magamra számíthatok, és ez új erőt adott.\n\nÖsszességében úgy vélem, hogy a két sportforma nem verseng egymással: kiegészítik egymást. Az ideális nevelés mindkét típust beemeli a fiatalok életébe, hiszen az egészséges személyiségfejlődéshez egyaránt szükség van az együttműködésre és az önállóságra.",
+                    "rubric": [
+                        {
+                            "criterion": "Téma kifejtése és érvelés",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
+                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
+                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
+                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
+                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
+                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
+                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 10,
+                            "levels": [
+                                "0–3: Sok helyesírási és grammatikai hiba, stílustalan.",
+                                "4–6: Néhány hiba, de érthető és megfelelő stílusú.",
+                                "7–8: Kevés hiba, változatos mondatszerkesztés.",
+                                "9–10: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (200–400 szó)."
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció és műfaji megfelelés",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Nincs cím, nem érvelő műfaj.",
+                                "2–3: Van cím, de a műfaj nem következetes.",
+                                "4–5: Önálló, találó cím; a szöveg egyértelműen érvelő fogalmazás."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Petőfi Sándor 'Szeptember végén' című versének témája az elmúlás és a szerelem. Értelmezze a verset ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a vers szerkezetére, a természeti képek szerepére, valamint a lírai én érzelmi fejlődésére a versen belül! Zárásként fejtse ki, hogy Ön szerint miért maradandó ez az alkotás!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Petőfi Sándor 'Szeptember végén' (1847) a magyar líra egyik legismertebb és legérzékenyebb szerelmes verse. A verset Szendrey Júliának ajánlotta, és az elmúlás, a halál és a szerelem hármasára épít.\n\nA vers szerkezete három strófából áll, és különleges érzelmi ívvel rendelkezik. Az első versszakban a lírai én a természetet szemléli: a nyár végének és az ősz kezdetének képei – a zöld fa és a sárgulás – az idő múlásának metaforáivá válnak. A kettős látásmód – virág és tövis, nyár és ősz – már az első sorokban feszültséget teremt.\n\nA második strófában a természeti képek az emberi életre vetítődnek: a lírai én saját elmúlásán töpreng. Tudatosul benne, hogy ő megöregszik vagy meghal, míg szerelme fiatal marad. Ez a gondolat félelmet és szomorúságot szül, de egyben a szerelem mélységét is mutatja.\n\nA harmadik strófa a vers érzelmi csúcspontja: a lírai én elképzeli, hogy Júlia esetleg majd mást szeret, és ez a lehetséges hűtlenség szinte elviselhetetlennek tűnik. Az utolsó sor – 'Síromat ásni ne menj te, te édes' – megrázó kéréssel zárul: a halálba is egyedül akar menni, nem akar terhet rakni szerelmére.\n\nA vers maradandóságát az adja, hogy az elmúlás félelme és a szerelem védelmi vágya örök emberi érzések. Petőfi nem idealizálja a szerelmet: beleszövi a halál árnyékát, mégis az egész vers a szerelem mélységéről szól. Ez a kettősség teszi a 'Szeptember végén'-t minden korban aktuálissá és megrendítővé.",
+                    "rubric": [
+                        {
+                            "criterion": "Mű értelmezése",
+                            "maxPoints": 15,
+                            "levels": [
+                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
+                                "5–9: Alapvető összefüggések felismerése, de elemzés hiányos.",
+                                "10–12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
+                                "13–15: Árnyalt, önálló elemzés; szerkezet, szimbólumok, lírai én bemutatása; érett irodalmi szemlélet."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
+                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
+                                "6–7: Jól tagolt, logikus felépítés.",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                            ]
+                        },
+                        {
+                            "criterion": "Szaknyelv",
+                            "maxPoints": 7,
+                            "levels": [
+                                "0–2: Hiányzó vagy téves irodalmi ismeretek.",
+                                "3–4: Alapismeretek megvannak, de nem mindig megfelelően alkalmazva.",
+                                "5–6: Helyes és változatos irodalmi terminológia.",
+                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Sok hiba, nehezen érthető.",
+                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "4: Kevés hiba, jó stílus.",
+                                "5: Hibátlan vagy közel hibátlan, igényes fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: Nem éri el a minimumot vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (250–500 szó)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "id": "2023-okt",
+    "year": 2023,
+    "session": "Oktober",
+    "date": "2023. oktober 16.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "A fiatalok és a közösségi média: kapcsolat vagy függőség?\n\nA közösségi média mára a fiatalok életének meghatározó részévé vált. Egy 2022-es hazai felmérés szerint a 14–18 éves korosztály naponta átlagosan négy-öt órát tölt különféle platformokon – Instagramon, TikTokon, YouTube-on és hasonlókon. Ez az adat önmagában is elgondolkodtató: négy-öt óra a nap egyötödét teszi ki, figyelembe véve az alvást és az iskolát.\n\nA közösségi média kétségkívül számos előnnyel jár. Közel hozza egymáshoz a barátokat és a rokonokat, megkönnyíti a különféle érdeklődési körök mentén szerveződő közösségek kialakulását, és lehetőséget ad az önkifejezésre. A kreatív tartalmak megosztása – legyen az zene, képzőművészet vagy humorisztikus videó – valódi tehetségek kibontakoztatásához vezethet. Emellett a platformok egyre több oktatási tartalmat is kínálnak, amelyek révén a fiatalok tudásukat is bővíthetik.\n\nAzonban a kép árnyoldalai sem elhanyagolhatók. Pszichológiai kutatások szerint az Instagram és a TikTok algoritmusai a felhasználókat folyamatos görgetésre ösztönzik, ami könnyen kialakíthat kényszeres használati mintákat. A végtelen görgetés jelensége azzal jár, hogy a felhasználó nem tudja, mikor kellene megállni: a következő videó, a következő poszt mindig ott van, egy ujjmozdulatnyira. Különösen veszélyes lehet ez a serdülőkori agyra, amely a jutalmazási rendszer szempontjából különösen fogékony az azonnali megerősítésre.\n\nA közösségi médiának az önképre gyakorolt hatása szintén komoly figyelmet érdemel. A tökéletes élet illúziójára épülő tartalmak – a gondosan szerkesztett fotók, a szűrőkkel kozmetikázott arcok, a sikerek és nyaralások kirakós képei – irreális elvárásokat kelthetnek, és összehasonlítási kényszert szülhetnek. Kutatások összefüggést mutattak ki a fokozott közösségimédia-használat és a serdülők önértékelési problémái, szorongása, depressziója között.\n\nUgyanakkor fontos hangsúlyozni: nem maga a technológia a felelős, hanem a nem tudatos, szabályozatlan használat. A digitális jártasság – a média kritikus olvasásának képessége, az algoritmikus szerkesztés megértése, az egészséges határok kialakítása – egyre fontosabb készséggé válik. Az iskolák, a szülők és a közpolitika egyaránt szerepet játszik abban, hogy a fiatalok ne passzív fogyasztóként, hanem tudatos és alkotó résztvevőkként viszonyuljanak a digitális térhez.",
+            "tasks": [
+                {
+                    "id": "sz-01",
+                    "type": "multiple-choice",
+                    "question": "Melyik korcsoportra vonatkozik a szövegben idézett 2022-es hazai felmérés?",
+                    "options": [
+                        "10–14 éves korosztály",
+                        "14–18 éves korosztály",
+                        "18–25 éves korosztály",
+                        "12–20 éves korosztály"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a közösségi média kizárólag negatív hatással van a fiatalokra.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz-03",
+                    "type": "true-false",
+                    "question": "A szöveg szerint a közösségi média algoritmusai a felhasználókat folyamatos görgetésre ösztönzik.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz-04",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezi a szöveg azt a jelenséget, amikor a felhasználó nem tud leállni a tartalmak böngészésével? (Két szóból álló kifejezést írjon!)",
+                    "correct": [
+                        "végtelen görgetés",
+                        "végtelen scrolling",
+                        "kényszeres görgetés"
+                    ],
+                    "points": 2
+                },
+                {
+                    "id": "sz-05",
+                    "type": "multiple-choice",
+                    "question": "Milyen összefüggést mutattak ki a kutatások a fokozott közösségimédia-használat és a serdülők mentális állapota között?",
+                    "options": [
+                        "A fokozott használat javítja az önértékelést és csökkenti a szorongást.",
+                        "Nem mutattak ki összefüggést az önértékelési problémák és a közösségimédia-használat között.",
+                        "Összefüggést találtak a fokozott használat és az önértékelési problémák, szorongás, depresszió között.",
+                        "A közösségi média kizárólag pozitív hatással van a serdülők mentális egészségére."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "sz-06",
+                    "type": "short-answer",
+                    "question": "Milyen előnyöket említ a szöveg a közösségi médiahasználattal kapcsolatban? Legalább három előnyt soroljon fel!",
+                    "sampleAnswer": "A szöveg szerint a közösségi média közel hozza a barátokat és rokonokat, megkönnyíti a közösségek szerveződését, lehetőséget ad az önkifejezésre, segítheti tehetségek kibontakoztatását, és oktatási tartalmakhoz is hozzáférést nyújt.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-07",
+                    "type": "matching",
+                    "question": "Párosítsa a szövegben szereplő fogalmakat a hozzájuk illő magyarázatokkal!",
+                    "pairs": [
+                        {
+                            "left": "digitális jártasság",
+                            "right": "a média kritikus olvasásának és az algoritmikus szerkesztés megértésének képessége"
+                        },
+                        {
+                            "left": "azonnali megerősítés",
+                            "right": "a jutalmazási rendszer gyors visszajelzése, amely a serdülőkori agyra különösen hat"
+                        },
+                        {
+                            "left": "összehasonlítási kényszer",
+                            "right": "a tökéletes életeket ábrázoló tartalmak hatására keletkező belső nyomás"
+                        },
+                        {
+                            "left": "algoritmikus szerkesztés",
+                            "right": "a platform által automatikusan összeállított, a felhasználót továbbnézésre ösztönző tartalomsorrend"
+                        }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz-08",
+                    "type": "ordering",
+                    "question": "Rendezze logikai sorrendbe a szöveg főbb gondolati egységeit úgy, ahogy azok egymást követik a szövegben!",
+                    "items": [
+                        "A digitális jártasság fontossága: tudatos, alkotó részvétel a digitális térben.",
+                        "Az adatok bemutatása: a fiatalok napi közösségimédia-használatának mértéke.",
+                        "A közösségi média önképre és mentális egészségre gyakorolt negatív hatásai.",
+                        "A közösségi média előnyei: kapcsolatok, közösségek, önkifejezés, tanulás.",
+                        "A pszichológiai kockázatok: végtelen görgetés, kényszeres használat, az algoritmusok szerepe."
+                    ],
+                    "correctOrder": [
+                        1,
+                        3,
+                        4,
+                        2,
+                        0
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-09",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a közösségi média előnyeit és hátrányait a szöveg érvei alapján!",
+                    "headers": [
+                        "Szempont",
+                        "Előnyök",
+                        "Hátrányok / Kockázatok"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Szempont": "Szociális hatás"
+                            },
+                            "answer": {
+                                "Előnyök": "barátok, rokonok közel hozása; közösségek szerveződése",
+                                "Hátrányok / Kockázatok": "önértékelési problémák, összehasonlítási kényszer"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szempont": "Pszichológiai hatás"
+                            },
+                            "answer": {
+                                "Előnyök": "önkifejezés, tehetség kibontakoztatása",
+                                "Hátrányok / Kockázatok": "kényszeres használat, szorongás, depresszió, végtelen görgetés"
+                            }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-10",
+                    "type": "short-answer",
+                    "question": "Ki szerint felelős a közösségimédia-használat negatív hatásaiért a szöveg zárása alapján? Foglalja össze a szöveg végső üzenetét!",
+                    "sampleAnswer": "A szöveg szerint nem maga a technológia felelős, hanem a nem tudatos, szabályozatlan használat. A digitális jártasság kialakításában az iskolák, szülők és a közpolitika egyaránt szerepet játszanak; a cél, hogy a fiatalok tudatos és alkotó résztvevőkként viszonyuljanak a digitális térhez.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-11",
+                    "type": "fill-in",
+                    "question": "Milyen szövegfajtát olvasott? (pl.: elbeszélés, értekezés, publicisztika, riport, tudományos cikk...)",
+                    "correct": [
+                        "értekezés",
+                        "ismeretterjesztő szöveg",
+                        "esszé",
+                        "publicisztika",
+                        "elemzés"
+                    ],
+                    "points": 2
+                },
+                {
+                    "id": "sz-12",
+                    "type": "multiple-choice",
+                    "question": "Mit értünk a szövegkörnyezet alapján a 'kozmetikázott' szón a 'szűrőkkel kozmetikázott arcok' kifejezésben?",
+                    "options": [
+                        "Valódi kozmetikumokkal, sminkkekkel kezelt arcok",
+                        "Digitálisan módosított, szépített, a valóságtól eltérő képek",
+                        "Szakszerűen megvilágított stúdiófotók",
+                        "Orvosi beavatkozással módosított arcok"
+                    ],
+                    "correct": 1,
+                    "points": 4
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "m-01",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
+                    "pairs": [
+                        {
+                            "left": "Tajtékos ég",
+                            "right": "Radnóti Miklós"
+                        },
+                        {
+                            "left": "Az arany ember",
+                            "right": "Jókai Mór"
+                        },
+                        {
+                            "left": "Csongor és Tünde",
+                            "right": "Vörösmarty Mihály"
+                        },
+                        {
+                            "left": "Bori notesz",
+                            "right": "Radnóti Miklós"
+                        }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "m-02",
+                    "type": "multiple-choice",
+                    "question": "Melyik állítás igaz Vörösmarty Mihály 'Vén cigány' című versére?",
+                    "options": [
+                        "A vers 1820-ban keletkezett, és Vörösmarty ifjúkori optimizmusát fejezi ki.",
+                        "A vers 1854-ben született, a szabadságharc bukása utáni reménytelenséget és a feltámadás hitét fejezi ki.",
+                        "A vers a romantika helyett a klasszicizmus stílusjegyeit viseli magán.",
+                        "A vers kizárólag a cigány zenészek életéről szól, nincs politikai tartalma."
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "m-03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben a mondatban a szokásos szórendhez képest egy elemet előre helyeznek a hangsúlyozás kedvéért? (Írja be a fogalom nevét!)",
+                    "correct": [
+                        "inverzió",
+                        "szórendi csere",
+                        "szórendcsere"
+                    ],
+                    "points": 2
+                },
+                {
+                    "id": "m-04",
+                    "type": "true-false",
+                    "question": "Radnóti Miklós munkaszolgálatosként vesztette életét a II. világháború idején, és eclogáit részben fogságban írta.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "m-05",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Határozza meg a szavak morfológiai szerkezetét (tő + toldalék)!",
+                    "headers": [
+                        "Szóalak",
+                        "Szótő",
+                        "Toldalék(ok)"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Szóalak": "énekeltetek"
+                            },
+                            "answer": {
+                                "Szótő": "énekel-",
+                                "Toldalék(ok)": "-tet- (műveltető képző) + -ek (személyrag, E/1.)"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szóalak": "legsötétebb"
+                            },
+                            "answer": {
+                                "Szótő": "sötét-",
+                                "Toldalék(ok)": "leg- (felsőfokjel) + -ebb (középfokjel)"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szóalak": "hazáinkban"
+                            },
+                            "answer": {
+                                "Szótő": "haza-",
+                                "Toldalék(ok)": "-ink (T/1. birtokos személyjel) + -ban (határozórag)"
+                            }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "m-06",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondat tartalmaz helyesírási hibát?",
+                    "options": [
+                        "Jókai Mór regényei a romantikus irodalom csúcsteljesítményei közé tartoznak.",
+                        "A Kőszívű ember fiai a szabadságharcot és az önfeláldozást ünnepli.",
+                        "Vörösmarty Zalán futása cimű eposzával vált ismertté.",
+                        "Radnóti versei a háború borzalmait és az emberi méltóság megőrzését tematizálják."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-07",
+                    "type": "short-answer",
+                    "question": "Mi az ecloga műfaja, és milyen hagyományra vezethető vissza? Mondjon egy példát a magyar irodalomból!",
+                    "sampleAnswer": "Az ecloga (vagy ekloga) pásztori hangvételű, párbeszédes szerkezetű verses műfaj, amelynek gyökerei az antik, főként Vergilius-féle bukolikus hagyományra nyúlnak vissza. Magyar irodalomban Radnóti Miklós emelte újra magasra ezt a műfajt: Eclogái (1938–1944) a háborús borzalmakat a pásztori idill kontextusába helyezve szólaltatják meg.",
+                    "points": 3
+                },
+                {
+                    "id": "m-08",
+                    "type": "true-false",
+                    "question": "Jókai Mór regényeire jellemző a romantikus képzelőerő, a kalandos cselekmény és az idealizált hősök ábrázolása.",
+                    "correct": true,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa-01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Egyes iskolák kötelező iskolai egyenruha bevezetését fontolgatják. Fejtse ki véleményét arról, hogy indokolt-e az iskolai egyenruha kötelező viselése! Érvelésébe vonjon be konkrét szempontokat, és mutasson rá mind az egyenruha bevezetése melletti, mind az ellene szóló érvekre! Fogalmazásának végén foglaljon határozott álláspontot!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "Az iskolai egyenruha kérdése megosztja a közvéleményt. Azok, akik mellette érvelnek, elsősorban az egyenlőségteremtő szerepét hangsúlyozzák: ha mindenki ugyanolyan ruhában jelenik meg, a szociális különbségek kevésbé láthatóak, csökken a divat miatti versengés és zaklatás. Az egyenruha fegyelemre és az iskolai közösséghez tartozás tudatára is nevelhet.\n\nAz ellenzők azonban rámutatnak, hogy az egyenruha korlátozza az egyéni önkifejezést: a ruházat az identitás és a személyiség része, és a kötelező uniformizálás ezt a szabadságot veszi el a fiataloktól. Ráadásul az egyenruha bevezetése nem oldja meg a valódi szociális problémákat: a tehetősebb és szegényebb tanulók közötti különbségek más területeken – iskolai felszerelés, szabadidős tevékenységek – is megmutatkoznak.\n\nÚgy vélem, az iskolai egyenruha önmagában nem csodaszer, de megfelelő iskolai kultúrával kiegészítve valóban hozzájárulhat a befogadóbb közeg kialakításához. A kulcs azonban nem az egyenruha, hanem az iskolai közösség értékei, a pedagógusok hozzáállása és a szülői nevelés. Ha egy iskola tudatosan törekszik az elfogadásra és a befogadásra, az egyenruha hasznos kiegészítő lehet – de önmagában nem helyettesítheti a mélyebb változásokat.",
+                    "rubric": [
+                        {
+                            "criterion": "Téma kifejtése és érvelés",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
+                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
+                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
+                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
+                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
+                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
+                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 10,
+                            "levels": [
+                                "0–3: Sok helyesírási és grammatikai hiba, nehezen érthető.",
+                                "4–6: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "7–9: Kevés hiba, változatos mondatszerkesztés.",
+                                "10: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem betartása",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (200–400 szó)."
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció és stílus",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Szegényes szókincs, stílustalan, sematikus.",
+                                "2–3: Megfelelő szókincs, némi változatossággal.",
+                                "4–5: Gazdag, árnyalt szóhasználat; találó cím; egyéni hang."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Radnóti Miklós 'Hetedik ecloga' (1944) című verse a háborús fogság és az emberi kitartás dokumentuma. Értelmezze a verset! Fogalmazásában térjen ki az ecloga műfajának hagyományára és Radnóti egyéni használatára, a fogság és az otthon ellentétére, a vers időkezelésére és a lírai én belső küzdelmére, valamint a vers záró soraiban megjelenő reményre vagy reménytelenségre! Zárásként fejtse ki, miért tekinthető ez a vers az emberi méltóság dokumentumának!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Radnóti Miklós Hetedik eclogája (1944) a Bori notesz egyik legmegrázóbb darabja. A vers munkaszolgálatos fogságban keletkezett – a Lager Heidenau nevű szerb táborban –, és két világ, a fogság pokla és az otthon utáni vágy között feszül.\n\nAz ecloga műfaját Radnóti tudatosan választotta: az antik pásztori hagyomány (Vergilius) idilli, nyugodt közeget idéz fel, amelyet a lírai én szembeállít a tábor valóságával. Ez az ironikus ellentét – az antik forma és a modern barbárság – adja a vers egyik feszültségét. Radnóti nem egyszerűen átörökíti a műfajt, hanem szét is feszíti: az ecloga keretébe a háborús szenvedést helyezi.\n\nA vers időkezelése összetett: az éjszakai sötétség nemcsak a fogság pillanatát jelöli, hanem az emlékezés, az álom terét is. A lírai én Fannihoz – a feleséghez – fordul, és ez az odafordulás az otthon iránti vágy legkonkrétabb kifejezése. Az alvó foglyok leírásában a kis parasztok, gyárosok, papok felsorolása a magyarság keresztmetszetét adja: a tábor a társadalom egészét fogolynak mutatja.\n\nA vers zárása ambivalens: a hazatérés reménye és a reménytelenség szimultán van jelen. Ez az ambivalencia emberi és művészileg is hiteles – Radnóti nem hazudott, nem adott hamis vigaszt. Épp ezért válhatott a vers az emberi méltóság dokumentumává: a szenvedés közepette is megőrzött alkotói fegyelem, a szavakba öntött belső világ azt bizonyítja, hogy a lélek nem adható fel a test fogságba esésével.",
+                    "rubric": [
+                        {
+                            "criterion": "Mű értelmezése",
+                            "maxPoints": 15,
+                            "levels": [
+                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
+                                "5–9: Alapvető összefüggések felismerése, de az elemzés hiányos.",
+                                "10–12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
+                                "13–15: Árnyalt, önálló elemzés; szimbólumok, műfaj, szerkezet, időkezelés bemutatása; érett irodalmi szemlélet."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
+                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
+                                "6–7: Jól tagolt, logikus felépítés.",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                            ]
+                        },
+                        {
+                            "criterion": "Szaknyelv alkalmazása",
+                            "maxPoints": 7,
+                            "levels": [
+                                "0–2: Hiányzó vagy téves irodalmi fogalmak.",
+                                "3–4: Alapfogalmak megvannak, de nem mindig helyesen alkalmazva.",
+                                "5–6: Helyes és változatos irodalmi terminológia.",
+                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesség",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0–1: Sok hiba, nehezen érthető.",
+                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
+                                "4–5: Kevés hiba, jó stílus, igényes fogalmazás."
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem betartása",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
+                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
+                                "5: A terjedelmi követelmény teljesül (250–500 szó)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

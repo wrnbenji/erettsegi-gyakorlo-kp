@@ -1,0 +1,358 @@
+{
+    "id": "2024-okt",
+    "year": 2024,
+    "session": "Oktober",
+    "date": "2024. oktober 14.",
+    "sections": {
+        "szovegertes": {
+            "timeLimit": 60,
+            "maxPoints": 40,
+            "sourceText": "A természet és az ember viszonya a XXI. században\n\nAz emberiség és a természet kapcsolata az évezredek során folyamatosan változott. Az ipari forradalom előtt az ember alapvetően a természet részeként tekintett önmagára: a vadász-gyűjtögető társadalmaktól a mezőgazdasági civilizációkig az emberek tudták, hogy fennmaradásuk a természeti körülményektől függ. A modernizáció azonban gyökeresen átírta ezt a viszonyt: a technológiai fejlődés és az iparosodás azt az illúziót keltette, hogy az ember képes uralni és tetszés szerint átalakítani a természetet.\n\nA XXI. században azonban egyre nyilvánvalóbb, hogy ez az illúzió súlyos következményekkel jár. Az éghajlatváltozás, a biodiverzitás csökkenése és az egyre szélsőségesebbé váló időjárási jelenségek mind-mind az ember és természet megbomlott egyensúlyának tünetei. A tudósok és a döntéshozók egyre sürgetőbben figyelmeztetnek: ha nem változik az ember és a természet viszonya, az ökológiai összeomlás elkerülhetetlenné válhat.\n\nA fenntarthatóság gondolata ebben a kontextusban vált az egyik legfontosabb vezérelvvé. A fenntartható fejlődés azt jelenti, hogy a jelen generáció szükségleteit úgy elégíti ki, hogy nem veszélyezteti a jövő generációk lehetőségeit. Ez a megfogalmazás az 1987-es Brundtland-jelentésből származik, és azóta is a fenntarthatósági gondolkodás alapköve.\n\nAz egyéni és a közösségi felelősség kérdése szintén kulcsfontosságú. Sokan úgy érvelnek, hogy a klímaváltozás megoldása elsősorban az egyéneken múlik: ha mindenki csökkenti a szén-dioxid-kibocsátását, kevesebbet utazik repülővel és változtat étkezési szokásain, az összesített hatás jelentős lehet. Mások szerint ez a megközelítés naiv: a rendszerszintű változás – a megújuló energiák elterjesztése, az ipar átalakítása, a politikai szabályozás megerősítése – nélkül az egyéni erőfeszítések csupán jelképes gesztusok maradnak.\n\nA természethez való viszony kulturális és szemléleti átalakulást is igényel. A japán 'shinrin-yoku' (erdőfürdőzés) gyakorlata, a permakultúra mozgalom vagy az ún. 'slow life' irányzat mind arra utalnak, hogy egyre többen keresik a természettel való mélyebb kapcsolatot. Az ökopszichológia nevű tudományterület azt vizsgálja, hogyan hat a természeti környezet az emberi jólétre és mentális egészségre. A kutatások egybehangzóan mutatják: a természetben töltött idő csökkenti a stresszt, javítja a koncentrációt és erősíti az általános közérzetet.",
+            "tasks": [
+                {
+                    "id": "sz-01",
+                    "type": "multiple-choice",
+                    "question": "Mi a szöveg fő témája?",
+                    "options": [
+                        "A japán természetszemléleti hagyományok bemutatása",
+                        "Az ember és a természet változó viszonya, különös tekintettel a XXI. századi kihívásokra",
+                        "A megújuló energiák technológiai fejlesztési lehetőségei",
+                        "A Brundtland-jelentés történelmi háttere"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-02",
+                    "type": "true-false",
+                    "question": "A szöveg szerint az ipari forradalom előtt az ember a természet urának tekintette magát.",
+                    "correct": false,
+                    "points": 2
+                },
+                {
+                    "id": "sz-03",
+                    "type": "true-false",
+                    "question": "A Brundtland-jelentés 1987-ben fogalmazta meg a fenntartható fejlődés alapköveként számontartott meghatározást.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "sz-04",
+                    "type": "fill-in",
+                    "question": "Hogyan hívják a japán természetgyógyászati gyakorlatot, amelyet a szöveg említ? (Pontosan írja be a nevet!)",
+                    "correct": ["shinrin-yoku", "shinrin yoku"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-05",
+                    "type": "fill-in",
+                    "question": "Melyik tudományterület foglalkozik azzal, hogyan hat a természeti környezet az emberi jólétre és mentális egészségre? (Írja be a pontos fogalmat!)",
+                    "correct": ["ökopszichológia"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-06",
+                    "type": "short-answer",
+                    "question": "Foglalja össze a szöveg alapján, miben különbözik az egyéni és a rendszerszintű megközelítés a klímaváltozás kezelésében!",
+                    "sampleAnswer": "Az egyéni megközelítés szerint mindenki csökkentse a saját szén-dioxid-kibocsátását, változtasson életmódján (pl. kevesebbet repüljön, máshogy étkezzen). A rendszerszintű megközelítés szerint ezek csupán jelképes gesztusok maradnak, ha nem változik az ipar, nem terjednek el a megújuló energiák, és nem erősödik meg a politikai szabályozás.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-07",
+                    "type": "matching",
+                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
+                    "pairs": [
+                        { "left": "fenntartható fejlődés", "right": "a jelen szükségletek kielégítése anélkül, hogy a jövő generációk lehetőségei veszélybe kerülnének" },
+                        { "left": "shinrin-yoku", "right": "japán erdőfürdőzés, természetben töltött gyógyító idő" },
+                        { "left": "ökopszichológia", "right": "a természeti környezet emberi jólétre és mentális egészségre gyakorolt hatását vizsgáló tudományterület" },
+                        { "left": "biodiverzitás csökkenése", "right": "az élővilág sokféleségének szegényedése, az ember és természet megbomlott egyensúlyának tünete" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "sz-08",
+                    "type": "ordering",
+                    "question": "Rendezze logikai sorrendbe a szöveg gondolatmenetének főbb lépéseit!",
+                    "items": [
+                        "Az ökopszichológia eredményei: a természet jótékony hatása az emberi jólétre.",
+                        "Az ipari forradalomig az ember a természet részeként tekintett önmagára.",
+                        "A fenntarthatóság fogalmának megjelenése és a Brundtland-jelentés.",
+                        "A XXI. századi ökológiai válság tünetei: éghajlatváltozás, biodiverzitás csökkenése.",
+                        "Az egyéni és rendszerszintű felelősség vitája."
+                    ],
+                    "correctOrder": [1, 3, 2, 4, 0],
+                    "points": 5
+                },
+                {
+                    "id": "sz-09",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel az egyéni és a rendszerszintű megközelítés jellemzőit!",
+                    "headers": ["Szempont", "Egyéni megközelítés", "Rendszerszintű megközelítés"],
+                    "rows": [
+                        {
+                            "given": { "Szempont": "Változás helye" },
+                            "answer": { "Egyéni megközelítés": "az egyén életmódja, szokásai", "Rendszerszintű megközelítés": "ipar, politika, energetika" }
+                        },
+                        {
+                            "given": { "Szempont": "Korlát / kritika" },
+                            "answer": { "Egyéni megközelítés": "naiv, csupán jelképes gesztusok", "Rendszerszintű megközelítés": "nehéz megvalósítani egyéni döntések nélkül" }
+                        }
+                    ],
+                    "points": 6
+                },
+                {
+                    "id": "sz-10",
+                    "type": "multiple-choice",
+                    "question": "Mit jelent a szövegben az 'ökológiai összeomlás' kifejezés?",
+                    "options": [
+                        "A természeti katasztrófák számának csökkenése",
+                        "A természeti rendszerek olyan mértékű megbomlása, amely az emberi civilizáció fennmaradását is veszélyezteti",
+                        "A megújuló energiák elterjedésének kudarca",
+                        "Az erdőirtás megállíthatatlan folyamata"
+                    ],
+                    "correct": 1,
+                    "points": 2
+                },
+                {
+                    "id": "sz-11",
+                    "type": "short-answer",
+                    "question": "Milyen konkrét előnyöket említ a szöveg a természetben töltött idő kapcsán? Legalább kettőt nevezzen meg!",
+                    "sampleAnswer": "A szöveg szerint a természetben töltött idő csökkenti a stresszt, javítja a koncentrációt és erősíti az általános közérzetet.",
+                    "points": 4
+                },
+                {
+                    "id": "sz-12",
+                    "type": "fill-in",
+                    "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, interjú...)",
+                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés", "tanulmány"],
+                    "points": 2
+                },
+                {
+                    "id": "sz-13",
+                    "type": "multiple-choice",
+                    "question": "Melyik mozgalmat vagy irányzatot NEM említi a szöveg a természethez való visszatérés kapcsán?",
+                    "options": [
+                        "permakultúra",
+                        "slow life",
+                        "shinrin-yoku",
+                        "minimalizmus"
+                    ],
+                    "correct": 3,
+                    "points": 3
+                }
+            ]
+        },
+        "muveleti": {
+            "timeLimit": 40,
+            "maxPoints": 20,
+            "tasks": [
+                {
+                    "id": "m-01",
+                    "type": "multiple-choice",
+                    "question": "Melyik mondatban szerepel tárgy mondatrész?",
+                    "options": [
+                        "A madár szépen énekel.",
+                        "A fiú gyorsan fut.",
+                        "Mari olvas egy könyvet.",
+                        "Az ég kék."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-02",
+                    "type": "matching",
+                    "question": "Párosítsa az irodalmi műveket azok irodalmi korszakával!",
+                    "pairs": [
+                        { "left": "Halotti Beszéd és Könyörgés", "right": "középkor" },
+                        { "left": "Csongor és Tünde (Vörösmarty)", "right": "romantika" },
+                        { "left": "A Pál utcai fiúk (Molnár Ferenc)", "right": "realizmus / századelő" },
+                        { "left": "Himnusz (Kölcsey Ferenc)", "right": "reformkor / romantika" }
+                    ],
+                    "points": 4
+                },
+                {
+                    "id": "m-03",
+                    "type": "fill-in",
+                    "question": "Hogyan nevezzük azt a költői alakzatot, amelyben a vers sorai azonos hanggal vagy szótaggal kezdődnek? (Egy szóval feleljen!)",
+                    "correct": ["anafora", "anaforás ismétlés"],
+                    "points": 2
+                },
+                {
+                    "id": "m-04",
+                    "type": "true-false",
+                    "question": "A dráma olyan irodalmi műnem, amelyet alapvetően előadásra szánnak, és jellemzője a párbeszédes (dialogikus) forma.",
+                    "correct": true,
+                    "points": 2
+                },
+                {
+                    "id": "m-05",
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot! Adja meg az igék ragozási adatait!",
+                    "headers": ["Igealak", "Személy", "Szám", "Ragozás típusa"],
+                    "rows": [
+                        {
+                            "given": { "Igealak": "látom" },
+                            "answer": { "Személy": "1.", "Szám": "egyes", "Ragozás típusa": "tárgyas" }
+                        },
+                        {
+                            "given": { "Igealak": "látnak" },
+                            "answer": { "Személy": "3.", "Szám": "többes", "Ragozás típusa": "alanyi" }
+                        },
+                        {
+                            "given": { "Igealak": "lássátok" },
+                            "answer": { "Személy": "2.", "Szám": "többes", "Ragozás típusa": "tárgyas (felszólító mód)" }
+                        }
+                    ],
+                    "points": 3
+                },
+                {
+                    "id": "m-06",
+                    "type": "multiple-choice",
+                    "question": "Melyik a helyes írásmód?",
+                    "options": [
+                        "hosszú-táv",
+                        "hosszútáv",
+                        "hosszú táv",
+                        "Mindhárom helyes attól függően, hogy jelző-e vagy önálló főnév."
+                    ],
+                    "correct": 2,
+                    "points": 2
+                },
+                {
+                    "id": "m-07",
+                    "type": "short-answer",
+                    "question": "Mi a különbség a tragédia és a komédia műfaja között? Adjon-adjon egy-egy magyar vagy külföldi irodalmi példát mindkettőre!",
+                    "sampleAnswer": "A tragédia olyan drámai műfaj, amelynek hőse végzetes, megoldhatatlan konfliktusba kerül, és a mű tragikus véggel – általában a főhős halálával vagy pusztulásával – zárul (pl. Shakespeare: Hamlet; Katona József: Bánk bán). A komédia ezzel szemben vidám, humoros és tréfás hangvételű dráma, amelynek célja a nevettetés és a társadalmi hibák szatirikus bemutatása; jellemzően boldog, derűs befejezéssel zárul (pl. Molière: A fösvény; Molnár Ferenc: A testőr).",
+                    "points": 3
+                },
+                {
+                    "id": "m-08",
+                    "type": "true-false",
+                    "question": "Mikszáth Kálmán a 19. századi magyar realizmus egyik legjelentősebb prózaírója volt, legismertebb regényei közé tartozik a 'Szent Péter esernyője' és a 'Beszterce ostroma'.",
+                    "correct": true,
+                    "points": 2
+                }
+            ]
+        },
+        "szovegalkotas": {
+            "timeLimit": 90,
+            "maxPoints": 40,
+            "tasks": [
+                {
+                    "id": "sa-01",
+                    "type": "essay",
+                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy az iskolai oktatásnak milyen szerepet kellene játszania a környezeti nevelésben és a fenntarthatóságra való felkészítésben! Érveit konkrét példákkal támassza alá! Fogalmazásában mutasson rá az iskolai környezeti nevelés lehetőségeire és korlátaira, majd foglalja össze saját, indokolt álláspontját!",
+                    "minWords": 200,
+                    "maxWords": 400,
+                    "sampleAnswer": "A XXI. századi iskola egyik legfontosabb feladata, hogy felkészítse a fiatalokat a bolygónk jövőjét meghatározó ökológiai kihívásokra. A fenntarthatóság nem csupán biológiaórai fogalom, hanem életmódbeli szemlélet, amelyet az iskolának kell megalapoznia.\n\nA környezeti nevelés számos módon megvalósítható. Az elméleti ismereteken túl – az éghajlatváltozás mechanizmusainak megértésén – legalább ilyen fontos a gyakorlati tapasztalatszerzés: iskolakert, szelektív hulladékgyűjtés, fenntarthatósági projektek. Ezek a tevékenységek ráébreszthetik a diákokat, hogy a környezeti felelősség nem elvont fogalom, hanem napi döntéseinkben megjelenő valóság.\n\nAzonban korlátai is vannak az iskolai nevelésnek. Önmagában az iskola nem képes megváltoztatni azokat a társadalmi és gazdasági struktúrákat, amelyek a környezeti problémák valódi forrásai. Ha otthon a szülők nem szelektálnak, ha a politika nem támogatja a megújuló energiát, az iskolai erőfeszítések hatása csekély marad.\n\nSaját véleményem szerint az iskola mégis kulcsszereplő: a szemléletváltozás csakis az újabb generációktól várható, és ennek alapjait az iskola rakja le. Ezért a fenntarthatóságot nem egy tantárgy részeként, hanem az egész iskolai élet átívelő elvként kellene kezelni. A legfontosabb, amit az iskola adhat: azt a belső meggyőződést, hogy minden döntésünkkel felelős tagjai vagyunk ennek a bolygónak.",
+                    "rubric": [
+                        {
+                            "criterion": "A tema kifejtese, az erveles minosege",
+                            "maxPoints": 12,
+                            "levels": [
+                                "0-4: Hianyos kifejtés, nincs érdemi érvelés",
+                                "5-8: Megfelelo kifejtés, néhány érv megjelenik",
+                                "9-12: Igényes érveles, mindkét oldal bemutatása, határozott következtetés"
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet, koherencia",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0-2: Hianyos, logikátlan felépítés",
+                                "3-5: Megfelelo, felismerhető szerkezet",
+                                "6-8: Logikus, jól tagolt, arányos bevezetés-tárgyalás-befejezés"
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesseg, stilus",
+                            "maxPoints": 10,
+                            "levels": [
+                                "0-3: Sok hiba, stílustalan",
+                                "4-7: Kisebb hibak, de érthető és megfelelő",
+                                "8-10: Igenyes, szinte hibátlan, változatos mondatszerkesztés"
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
+                                "3: Kozelito, közel a kért terjedelemhez",
+                                "5: Megfelelo, 200-400 szó"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikacio",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0-1: Gyenge, nem meggyőző",
+                                "2-3: Olvashato, érthető szándék",
+                                "4-5: Igenyes, meggyőző, célirányos kommunikáció"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-02",
+                    "type": "essay",
+                    "prompt": "Műértelmező fogalmazás: Madách Imre 'Az ember tragédiája' című drámai költeményének egyik kulcskérdése: van-e értelme az emberi küzdelemnek? Értelmezze ezt a kérdést a mű tükrében! Fogalmazásában térjen ki a mű műfajára, az Ádám–Lucifer párhuzamra, valamint a záró szín üzenetére! Zárásként fejtse ki, hogy Ön szerint mit válaszol Madách erre a kérdésre!",
+                    "minWords": 250,
+                    "maxWords": 500,
+                    "sampleAnswer": "Madách Imre 'Az ember tragédiája' (1861) az európai drámairodalomnak egyik legambiciózusabb alkotása: egy drámai költemény, amely az emberiség egész históriáját átfogó keretben teszi fel a legfontosabb egzisztenciális kérdést – van-e értelme az emberi küzdelemnek?\n\nA mű műfaja drámai költemény: nem előadásra írt színpadi dráma, hanem olvasásra szánt, lírai betétekkel átszőtt filozofikus dialógus. A három főszereplő – Ádám, Éva és Lucifer – hármassága drámai motort alkot: Ádám az emberi törekvés és hit, Lucifer a kételkedés és tagadás megtestesítője.\n\nA tizenöt szín mindegyike egy-egy történelmi korszakot mutat be, amelyekben Ádám újra és újra illúzióiba vetett hittel indul el, majd csalódik. Athén, Róma, Konstantinápoly, a párizsi forradalom – mind azt sugallják, hogy az emberiség körbe jár, és az eszmék rendre visszájukra fordulnak. Lucifer látszólag győz: megmutatja, hogy minden emberi törekvés hiábavaló.\n\nAzonban a záró szín az Úr szavaival fordítja meg ezt az értelmezést: 'Mondottam, ember: küzdj és bízva bízzál!' Ez a sor a mű igazi üzenete. Madách nem nihilizmust hirdet, hanem azt mondja: az értelmes élet feltétele a küzdés, még akkor is, ha a végeredmény bizonytalan.\n\nSzerintem Madách válasza tehát paradox, de mélyen humánus: az emberi küzdelem értelme maga a küzdés folyamatában rejlik, nem a győzelemben. Ez az üzenet ma is érvényes: az ember méltóságát a célok és eszmék melletti kitartás adja.",
+                    "rubric": [
+                        {
+                            "criterion": "A mu ertelmezese",
+                            "maxPoints": 15,
+                            "levels": [
+                                "0-4: Felületes, tartalmi tévedésekkel teli összefoglalás",
+                                "5-9: Alapvető összefüggések felismerése, de elemzés hiányos",
+                                "10-12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás",
+                                "13-15: Árnyalt, önálló elemzés; műfaj, szerkezet, szimbólumok bemutatása"
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 8,
+                            "levels": [
+                                "0-2: Rendezetlen gondolatok, hiányzó szerkezet",
+                                "3-5: Felismerhető szerkezet, de arányok egyenetlenek",
+                                "6-7: Jól tagolt, logikus felépítés",
+                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés"
+                            ]
+                        },
+                        {
+                            "criterion": "Szaknyelv",
+                            "maxPoints": 7,
+                            "levels": [
+                                "0-2: Hiányzó vagy téves irodalmi terminológia",
+                                "3-4: Alapfogalmak megvannak, de nem mindig megfelelően alkalmazva",
+                                "5-6: Helyes és változatos irodalmi terminológia",
+                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása"
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvhelyesseg",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0-1: Sok hiba, nehezen érthető",
+                                "2-3: Néhány hiba, de értelmező szándék félreérthetetlen",
+                                "4-5: Kevés hiba, jó stílus, igényes fogalmazás"
+                            ]
+                        },
+                        {
+                            "criterion": "Terjedelem",
+                            "maxPoints": 5,
+                            "levels": [
+                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
+                                "3: Kozelito, közel a kért terjedelemhez",
+                                "5: Megfelelo, 250-500 szó"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
