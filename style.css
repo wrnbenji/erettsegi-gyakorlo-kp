@@ -567,6 +567,83 @@ footer a:hover {
     to { opacity: 0; transform: translateY(-10px); }
 }
 
+/* Filter bar */
+.filter-bar {
+    background: white;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+}
+
+.filter-group { display: flex; align-items: center; gap: 6px; }
+
+.filter-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #7f8c8d;
+    white-space: nowrap;
+}
+
+.filter-year, .filter-session {
+    padding: 6px 14px;
+    border: 1px solid #dcdde1;
+    background: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+}
+
+.filter-year:hover, .filter-session:hover { border-color: #2980b9; }
+
+.filter-year.active, .filter-session.active {
+    background: #1a5276;
+    color: white;
+    border-color: #1a5276;
+}
+
+.filter-text {
+    padding: 8px 14px;
+    border: 1px solid #dcdde1;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    min-width: 200px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.filter-text:focus { border-color: #2980b9; }
+
+.filter-clear {
+    padding: 6px 14px;
+    border: none;
+    background: #f5f6fa;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: #7f8c8d;
+    transition: all 0.2s;
+}
+
+.filter-clear:hover { background: #e74c3c; color: white; }
+
+.no-results {
+    text-align: center;
+    color: #7f8c8d;
+    padding: 40px 20px;
+    font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+    .filter-bar { flex-direction: column; align-items: stretch; }
+    .filter-text { min-width: unset; width: 100%; }
+}
+
 /* ==================== QUIZ ENGINE STYLES ==================== */
 
 /* Gyakorlas button */

@@ -1,5 +1,6 @@
 import { initRouter, navigateToQuiz } from './router.js';
 import { startQuiz, initQuizEngine } from './quiz-engine.js';
+import { initSearch } from './search.js';
 
 // Exam data: all középszintű magyar érettségi feladatsorok 2022-2025
 const BASE_URL = 'https://dload-oktatas.educatio.hu/erettsegi';
@@ -167,7 +168,7 @@ function renderExamList(containerId, taskType) {
     container.innerHTML = sortedExams.map(exam => {
         const info = exam[taskType];
         return `
-            <div class="exam-item">
+            <div class="exam-item" data-exam-id="${exam.id}">
                 <div class="exam-item-header">
                     <span class="exam-item-title">${info.title}</span>
                     <span class="exam-badge">${exam.date}</span>
@@ -198,7 +199,7 @@ function renderFullExams() {
     const sortedExams = [...exams].reverse();
 
     container.innerHTML = sortedExams.map(exam => `
-        <div class="exam-full-card">
+        <div class="exam-full-card" data-exam-id="${exam.id}">
             <div class="exam-full-header">
                 <h3>${exam.year}. ${exam.session}</h3>
                 <div class="date">${exam.date}</div>
@@ -237,6 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
     renderExamList('muveleti-list', 'muveleti');
     renderExamList('szovegalkotas-list', 'szovegalkotas');
     renderFullExams();
+    initSearch();
 
     document.addEventListener('click', (e) => {
         const btn = e.target.closest('.btn-gyakorlas');
