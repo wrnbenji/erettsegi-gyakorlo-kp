@@ -345,4 +345,34 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
     initQuizEngine();
+    initThemeToggle();
 });
+
+// --- Dark mode ---
+function initThemeToggle() {
+    const saved = localStorage.getItem('magyar-erettsegi-theme');
+    if (saved === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        updateToggleIcon(true);
+    }
+
+    const btn = document.getElementById('theme-toggle');
+    if (btn) {
+        btn.addEventListener('click', () => {
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            if (isDark) {
+                document.documentElement.removeAttribute('data-theme');
+                localStorage.setItem('magyar-erettsegi-theme', 'light');
+            } else {
+                document.documentElement.setAttribute('data-theme', 'dark');
+                localStorage.setItem('magyar-erettsegi-theme', 'dark');
+            }
+            updateToggleIcon(!isDark);
+        });
+    }
+}
+
+function updateToggleIcon(isDark) {
+    const btn = document.getElementById('theme-toggle');
+    if (btn) btn.innerHTML = isDark ? '&#9788;' : '&#9790;';
+}

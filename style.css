@@ -16,6 +16,39 @@
     --success: #27ae60;
     --warning: #f39c12;
     --radius: 10px;
+    --card-hover: rgba(0,0,0,0.08);
+    --correct-bg: #eafaf1;
+    --incorrect-bg: #fdedec;
+    --manual-bg: #fef9e7;
+    --tips-bg: #eaf2f8;
+    --overlay-bg: rgba(0,0,0,0.8);
+    --nav-bg: #ffffff;
+    --footer-bg: #2c3e50;
+    --header-gradient-start: #1a5276;
+    --header-gradient-end: #2980b9;
+}
+
+[data-theme="dark"] {
+    --primary: #3498db;
+    --primary-light: #5dade2;
+    --accent: #e74c3c;
+    --bg: #1a1a2e;
+    --card-bg: #16213e;
+    --text: #eaeaea;
+    --text-light: #a0a0b0;
+    --border: #2a2a4a;
+    --success: #2ecc71;
+    --warning: #f39c12;
+    --card-hover: rgba(255,255,255,0.05);
+    --correct-bg: #1a3a2a;
+    --incorrect-bg: #3a1a1a;
+    --manual-bg: #3a3a1a;
+    --tips-bg: #1a2a3e;
+    --overlay-bg: rgba(0,0,0,0.9);
+    --nav-bg: #16213e;
+    --footer-bg: #0f0f23;
+    --header-gradient-start: #0f3460;
+    --header-gradient-end: #16213e;
 }
 
 body {
@@ -33,7 +66,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+    background: linear-gradient(135deg, var(--header-gradient-start) 0%, var(--header-gradient-end) 100%);
     color: white;
     padding: 40px 0 30px;
     text-align: center;
@@ -52,7 +85,7 @@ header h1 {
 
 /* Navigation */
 nav {
-    background: white;
+    background: var(--nav-bg);
     border-bottom: 2px solid var(--border);
     padding: 0;
     position: sticky;
@@ -121,7 +154,7 @@ nav .container {
 
 /* Intro card */
 .intro-card {
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     padding: 30px;
     margin-bottom: 30px;
@@ -142,7 +175,7 @@ nav .container {
 }
 
 .stat-card {
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     padding: 24px;
     text-align: center;
@@ -170,7 +203,7 @@ nav .container {
 }
 
 .type-card {
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     padding: 28px;
     cursor: pointer;
@@ -218,7 +251,7 @@ nav .container {
 
 /* Exam structure table */
 .exam-structure {
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     padding: 28px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
@@ -257,7 +290,7 @@ th {
 
 /* Tips box */
 .tips-box {
-    background: #eaf2f8;
+    background: var(--tips-bg);
     border-radius: var(--radius);
     padding: 24px;
     margin-bottom: 24px;
@@ -298,7 +331,7 @@ th {
 .choice-btn {
     padding: 10px 24px;
     border: 2px solid var(--border);
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     cursor: pointer;
     font-size: 0.95rem;
@@ -332,7 +365,7 @@ th {
 }
 
 .exam-item {
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     padding: 24px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
@@ -427,7 +460,7 @@ th {
 }
 
 .exam-full-card {
-    background: white;
+    background: var(--card-bg);
     border-radius: var(--radius);
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
@@ -486,7 +519,7 @@ th {
 
 /* Footer */
 footer {
-    background: var(--text);
+    background: var(--footer-bg);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -525,13 +558,13 @@ footer a:hover {
     text-align: center;
 }
 
-.timer-green { color: #27ae60; background: #eafaf1 !important; }
-.timer-yellow { color: #f39c12; background: #fef9e7 !important; }
-.timer-red { color: #e74c3c; background: #fdedec !important; }
+.timer-green { color: var(--success); background: var(--correct-bg) !important; }
+.timer-yellow { color: var(--warning); background: var(--manual-bg) !important; }
+.timer-red { color: var(--accent); background: var(--incorrect-bg) !important; }
 
 .timer-blink {
-    color: #e74c3c;
-    background: #fdedec !important;
+    color: var(--accent);
+    background: var(--incorrect-bg) !important;
     animation: timerBlink 0.5s ease-in-out infinite alternate;
 }
 
@@ -569,7 +602,7 @@ footer a:hover {
 
 /* Filter bar */
 .filter-bar {
-    background: white;
+    background: var(--card-bg);
     border-radius: 10px;
     padding: 16px 20px;
     margin-bottom: 20px;
@@ -585,31 +618,31 @@ footer a:hover {
 .filter-label {
     font-size: 0.85rem;
     font-weight: 600;
-    color: #7f8c8d;
+    color: var(--text-light);
     white-space: nowrap;
 }
 
 .filter-year, .filter-session {
     padding: 6px 14px;
-    border: 1px solid #dcdde1;
-    background: white;
+    border: 1px solid var(--border);
+    background: var(--card-bg);
     border-radius: 6px;
     cursor: pointer;
     font-size: 0.85rem;
     transition: all 0.2s;
 }
 
-.filter-year:hover, .filter-session:hover { border-color: #2980b9; }
+.filter-year:hover, .filter-session:hover { border-color: var(--primary-light); }
 
 .filter-year.active, .filter-session.active {
-    background: #1a5276;
+    background: var(--primary);
     color: white;
-    border-color: #1a5276;
+    border-color: var(--primary);
 }
 
 .filter-text {
     padding: 8px 14px;
-    border: 1px solid #dcdde1;
+    border: 1px solid var(--border);
     border-radius: 6px;
     font-size: 0.9rem;
     min-width: 200px;
@@ -617,16 +650,16 @@ footer a:hover {
     transition: border-color 0.2s;
 }
 
-.filter-text:focus { border-color: #2980b9; }
+.filter-text:focus { border-color: var(--primary-light); }
 
 .filter-clear {
     padding: 6px 14px;
     border: none;
-    background: #f5f6fa;
+    background: var(--bg);
     border-radius: 6px;
     cursor: pointer;
     font-size: 0.85rem;
-    color: #7f8c8d;
+    color: var(--text-light);
     transition: all 0.2s;
 }
 
@@ -634,7 +667,7 @@ footer a:hover {
 
 .no-results {
     text-align: center;
-    color: #7f8c8d;
+    color: var(--text-light);
     padding: 40px 20px;
     font-size: 1rem;
 }
@@ -718,7 +751,7 @@ footer a:hover {
     border-radius: var(--radius);
     padding: 20px 16px;
     transition: all 0.2s;
-    background: white;
+    background: var(--card-bg);
 }
 
 .mode-card strong {
@@ -735,7 +768,7 @@ footer a:hover {
 
 .mode-option input:checked + .mode-card {
     border-color: var(--primary);
-    background: #eaf2f8;
+    background: var(--tips-bg);
     box-shadow: 0 0 0 2px rgba(26,82,118,0.15);
 }
 
@@ -818,7 +851,7 @@ footer a:hover {
     display: flex;
     gap: 6px;
     padding: 12px 16px;
-    background: white;
+    background: var(--card-bg);
     border-bottom: 1px solid var(--border);
     flex-wrap: wrap;
     justify-content: center;
@@ -829,7 +862,7 @@ footer a:hover {
     height: 36px;
     border-radius: 50%;
     border: 2px solid var(--border);
-    background: white;
+    background: var(--card-bg);
     color: var(--text);
     font-weight: 600;
     font-size: 0.85rem;
@@ -869,7 +902,7 @@ footer a:hover {
 .quiz-body {
     display: flex;
     min-height: 500px;
-    background: white;
+    background: var(--card-bg);
 }
 
 .quiz-body.no-source .task-panel {
@@ -974,7 +1007,7 @@ footer a:hover {
 }
 
 .btn-quiz-nav {
-    background: white;
+    background: var(--card-bg);
     color: var(--text);
     border: 2px solid var(--border);
     padding: 10px 24px;
@@ -1047,12 +1080,12 @@ footer a:hover {
 
 .mc-option:hover {
     border-color: var(--primary-light);
-    background: #f8f9fc;
+    background: var(--bg);
 }
 
 .mc-option.selected {
     border-color: var(--primary);
-    background: #eaf2f8;
+    background: var(--tips-bg);
 }
 
 .mc-letter {
@@ -1090,7 +1123,7 @@ footer a:hover {
     padding: 14px 24px;
     border: 2px solid var(--border);
     border-radius: 8px;
-    background: white;
+    background: var(--card-bg);
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
@@ -1150,7 +1183,7 @@ footer a:hover {
     border: 2px solid var(--border);
     border-radius: 6px;
     font-size: 0.9rem;
-    background: white;
+    background: var(--card-bg);
     cursor: pointer;
     outline: none;
 }
@@ -1235,7 +1268,7 @@ footer a:hover {
 .sample-answer {
     margin-top: 12px;
     padding: 14px 18px;
-    background: #eaf2f8;
+    background: var(--tips-bg);
     border-radius: 8px;
     border-left: 4px solid var(--primary-light);
     font-size: 0.93rem;
@@ -1256,7 +1289,7 @@ footer a:hover {
     padding: 12px 14px;
     border: 2px solid var(--border);
     border-radius: 8px;
-    background: white;
+    background: var(--card-bg);
     transition: all 0.15s;
 }
 
@@ -1348,15 +1381,15 @@ footer a:hover {
 }
 
 .check-result.correct {
-    background: #eafaf1;
+    background: var(--correct-bg);
     color: var(--success);
-    border: 1px solid #a9dfbf;
+    border: 1px solid var(--success);
 }
 
 .check-result.incorrect {
-    background: #fdedec;
+    background: var(--incorrect-bg);
     color: var(--accent);
-    border: 1px solid #f5b7b1;
+    border: 1px solid var(--accent);
     flex-direction: column;
     align-items: flex-start;
 }
@@ -1364,7 +1397,7 @@ footer a:hover {
 .correct-answer {
     margin-top: 10px;
     padding: 12px 16px;
-    background: #eafaf1;
+    background: var(--correct-bg);
     border-radius: 6px;
     border-left: 3px solid var(--success);
     color: var(--text);
@@ -1382,9 +1415,9 @@ footer a:hover {
 }
 
 .check-result.manual {
-    background: #fef9e7;
+    background: var(--manual-bg);
     color: var(--warning);
-    border: 1px solid #f9e79f;
+    border: 1px solid var(--warning);
 }
 
 .check-icon {
@@ -1422,7 +1455,7 @@ footer a:hover {
     border: 1px solid var(--border);
     border-radius: 6px;
     font-size: 0.85rem;
-    background: white;
+    background: var(--card-bg);
     cursor: pointer;
     outline: none;
 }
@@ -1673,18 +1706,18 @@ footer a:hover {
 }
 
 .results-avg-card {
-    background: white;
+    background: var(--card-bg);
     border-radius: 10px;
     padding: 24px;
     text-align: center;
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 
-.results-avg-num { font-size: 1.8rem; font-weight: 700; color: #1a5276; }
-.results-avg-label { color: #7f8c8d; font-size: 0.85rem; margin-top: 4px; }
+.results-avg-num { font-size: 1.8rem; font-weight: 700; color: var(--primary); }
+.results-avg-label { color: var(--text-light); font-size: 0.85rem; margin-top: 4px; }
 
 .results-table-wrap {
-    background: white;
+    background: var(--card-bg);
     border-radius: 10px;
     overflow-x: auto;
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
@@ -1692,10 +1725,10 @@ footer a:hover {
 }
 
 .results-table { width: 100%; border-collapse: collapse; }
-.results-table th, .results-table td { padding: 12px 16px; text-align: left; border-bottom: 1px solid #dcdde1; }
-.results-table th { background: #f5f6fa; font-size: 0.85rem; text-transform: uppercase; color: #7f8c8d; }
-.results-table td.good { color: #27ae60; font-weight: 600; }
-.results-table td.bad { color: #e74c3c; font-weight: 600; }
+.results-table th, .results-table td { padding: 12px 16px; text-align: left; border-bottom: 1px solid var(--border); }
+.results-table th { background: var(--bg); font-size: 0.85rem; text-transform: uppercase; color: var(--text-light); }
+.results-table td.good { color: var(--success); font-weight: 600; }
+.results-table td.bad { color: var(--accent); font-weight: 600; }
 
 .btn-clear-results {
     background: #e74c3c;
@@ -1709,6 +1742,40 @@ footer a:hover {
 }
 
 .btn-clear-results:hover { background: #c0392b; }
+
+/* Dark mode toggle */
+.theme-toggle {
+    background: none;
+    border: 2px solid rgba(255,255,255,0.3);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.theme-toggle:hover {
+    background: rgba(255,255,255,0.1);
+    border-color: rgba(255,255,255,0.5);
+}
+
+header {
+    position: relative;
+}
+
+/* Smooth transitions for dark mode */
+body, .section, nav, .exam-item, .stat-card, .type-card, .intro-card, .exam-structure, .tips-box, .filter-bar, .exam-full-card {
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
 
 @media (max-width: 768px) {
     .results-averages { grid-template-columns: 1fr; }
