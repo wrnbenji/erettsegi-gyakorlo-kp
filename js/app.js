@@ -1,8 +1,9 @@
 import { initRouter, navigateToQuiz } from './router.js';
 import { startQuiz, initQuizEngine } from './quiz-engine.js';
 import { initSearch } from './search.js';
-import { loadAllExams } from './data-loader.js';
+import { loadAllExams, loadExam } from './data-loader.js';
 import { getAllResults, clearAllResults, getAverageBySection, getCompletedExamCount, getOverallAverage } from './scoring.js';
+import { getActive, getArchived, clearAll as clearAllMistakes } from './mistakes.js';
 
 // Exam data: all középszintű magyar érettségi feladatsorok 2022-2025
 const BASE_URL = 'https://dload-oktatas.educatio.hu/erettsegi';
@@ -388,6 +389,114 @@ function renderResults() {
     });
 }
 
+// --- Mistakes (Hibáim) ---
+let currentMistakeTab = 'active';
+
+function findExamMetaById(examId) {
+    return exams.find(e => e.id === examId) || historyExams.find(e => e.id === examId);
+}
+
+function findSectionForTask(examData, taskId) {
+    if (!examData || !examData.sections) return null;
+    for (const [sectionKey, section] of Object.entries(examData.sections)) {
+        if (section && Array.isArray(section.tasks)) {
+            if (section.tasks.some(t => t.id === taskId)) return sectionKey;
+        }
+    }
+    return null;
+}
+
+function formatDate(ts) {
+    const d = new Date(ts);
+    return `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`;
+}
+
+async function renderMistakes() {
+    const container = document.getElementById('mistakes-container');
+    if (!container) return;
+
+    const active = getActive();
+    const archived = getArchived();
+    const activeEl = document.getElementById('active-count');
+    const archivedEl = document.getElementById('archived-count');
+    if (activeEl) activeEl.textContent = active.length;
+    if (archivedEl) archivedEl.textContent = archived.length;
+
+    const list = currentMistakeTab === 'active' ? active : archived;
+
+    if (list.length === 0) {
+        container.innerHTML = `<p class="empty-msg">${
+            currentMistakeTab === 'active'
+                ? 'Még nem gyűjtöttél hibákat. Gyakorolj egy feladatsort, az eltévesztett feladatok itt jelennek meg.'
+                : 'Még nem javítottál ki hibát. Próbáld újra az aktív hibákat!'
+        }</p>`;
+        return;
+    }
+
+    // Preload relevant exam data for retry navigation
+    const examIds = [...new Set(list.map(m => m.examId))];
+    await Promise.all(examIds.map(id => loadExam(id)));
+
+    container.innerHTML = list.map(m => {
+        const meta = findExamMetaById(m.examId);
+        const subject = m.examId.startsWith('tort-') ? 'Történelem' : 'Magyar';
+        const name = meta ? `${meta.year}. ${meta.session}` : m.examId;
+        const firstDate = formatDate(m.firstFailedAt);
+        const status = m.correctedAt
+            ? `<span class="mistake-status ok">&#10004; Javítva ${formatDate(m.correctedAt)}</span>`
+            : `<span class="mistake-status fail">${m.attemptCount} próbálkozás</span>`;
+        return `
+            <div class="mistake-item">
+                <div class="mistake-top">
+                    <div>
+                        <div class="mistake-subject">${subject}</div>
+                        <div class="mistake-exam">${name}</div>
+                    </div>
+                    <div class="mistake-task-id"><code>${m.taskId}</code></div>
+                </div>
+                <div class="mistake-meta">
+                    <span>Első hibázás: ${firstDate}</span>
+                    ${status}
+                </div>
+                <div class="mistake-actions">
+                    <button class="btn-replay" data-exam-id="${m.examId}" data-task-id="${m.taskId}">${m.correctedAt ? 'Újra próbálom' : 'Próbáld újra'}</button>
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    if (archived.length > 0 && currentMistakeTab === 'archived') {
+        container.innerHTML += `<button class="btn-clear-results" id="btn-clear-mistakes">Összes hiba törlése</button>`;
+        const btn = document.getElementById('btn-clear-mistakes');
+        if (btn) btn.addEventListener('click', () => {
+            if (confirm('Biztosan törölni szeretnéd az összes rögzített hibát?')) {
+                clearAllMistakes();
+                renderMistakes();
+            }
+        });
+    }
+}
+
+function initMistakeTabs() {
+    document.querySelectorAll('.mistakes-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.mistakes-tab').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentMistakeTab = btn.dataset.tab;
+            renderMistakes();
+        });
+    });
+}
+
+async function startReplay(examId, taskId) {
+    const data = await loadExam(examId);
+    if (!data) return;
+    const sectionKey = findSectionForTask(data, taskId);
+    if (!sectionKey) return;
+    navigateToQuiz(examId, sectionKey);
+    startQuiz(examId, sectionKey, { filterTaskIds: [taskId] });
+}
+
 // --- Dynamic home page stats ---
 function renderDynamicStats() {
     const results = getAllResults();
@@ -422,6 +531,7 @@ document.addEventListener('DOMContentLoaded', () => {
     renderFullExams();
     renderHistoryExams();
     renderDynamicStats();
+    initMistakeTabs();
 
     // Pre-load exam data for search, then init search
     loadAllExams().then(() => initSearch());
@@ -436,6 +546,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const eredmenyekBtn = e.target.closest('[data-section="eredmenyek"]');
         if (eredmenyekBtn) {
             renderResults();
+        }
+
+        const hibaimBtn = e.target.closest('[data-section="hibaim"]');
+        if (hibaimBtn) {
+            renderMistakes();
+        }
+
+        const replayBtn = e.target.closest('.btn-replay');
+        if (replayBtn) {
+            startReplay(replayBtn.dataset.examId, replayBtn.dataset.taskId);
         }
     });
     initQuizEngine();

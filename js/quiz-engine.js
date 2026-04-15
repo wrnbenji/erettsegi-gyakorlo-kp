@@ -3,6 +3,7 @@
 import { loadExam } from './data-loader.js';
 import { startTimer, stopTimer, togglePause, isTimerPaused, getElapsedSeconds, isTimerExpired } from './timer.js';
 import { checkAnswer, saveQuizResult } from './scoring.js';
+import { trackResult } from './mistakes.js';
 import { navigateTo } from './router.js';
 
 let currentExam = null;
@@ -22,7 +23,7 @@ let sourceText = '';
 
 // --- Public API ---
 
-export async function startQuiz(examId, sectionType) {
+export async function startQuiz(examId, sectionType, options = {}) {
     quizFinished = false;
     userAnswers = {};
     taskResults = {};
@@ -42,7 +43,11 @@ export async function startQuiz(examId, sectionType) {
 
     currentExam = examData;
     const section = examData.sections[sectionType];
-    currentTasks = section.tasks || [];
+    let tasks = section.tasks || [];
+    if (options.filterTaskIds && options.filterTaskIds.length) {
+        tasks = tasks.filter(t => options.filterTaskIds.includes(t.id));
+    }
+    currentTasks = tasks;
     sourceText = section.sourceText || '';
 
     renderModeSelection(container, examData, sectionType, section);
@@ -765,6 +770,10 @@ function checkCurrentTask() {
     const result = checkAnswer(task, answer);
     taskResults[task.id] = result;
 
+    if (result && result.correct !== null && currentExam) {
+        trackResult(currentExam.id, task.id, result.correct, task.type);
+    }
+
     renderTask(currentTaskIndex);
     renderTaskNav();
     renderFooter();
@@ -784,6 +793,10 @@ function finishQuiz() {
         if (!taskResults[task.id]) {
             const answer = userAnswers[task.id];
             taskResults[task.id] = checkAnswer(task, answer);
+        }
+        const r = taskResults[task.id];
+        if (r && r.correct !== null && currentExam) {
+            trackResult(currentExam.id, task.id, r.correct, task.type);
         }
     });
 

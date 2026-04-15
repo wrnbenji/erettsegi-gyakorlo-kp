@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magyar Érettségi Gyakorló</title>
+    <title>Érettségi Gyakorló</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Magyar Érettségi Gyakorló</h1>
-            <p class="subtitle">Középszintű magyar nyelv és irodalom - Feladattípusok szerinti gyakorlás</p>
+            <h1>Érettségi Gyakorló</h1>
+            <p class="subtitle">Középszintű magyar nyelv és irodalom + történelem — feladatsor és feladattípus szerinti gyakorlás</p>
         </div>
         <button class="theme-toggle" id="theme-toggle" title="Sötét/világos mód">&#9790;</button>
     </header>
@@ -23,6 +23,7 @@
             <button class="nav-btn" data-section="szovegalkotas">III. Szövegalkotás</button>
             <button class="nav-btn" data-section="feladatsorok">Teljes feladatsorok</button>
             <button class="nav-btn" data-section="tortenelem">Történelem</button>
+            <button class="nav-btn" data-section="hibaim">Hibáim</button>
             <button class="nav-btn" data-section="eredmenyek">Eredményeim</button>
         </div>
     </nav>
@@ -32,47 +33,69 @@
         <section id="home" class="section active">
             <div class="intro-card">
                 <h2>Üdvözöllek!</h2>
-                <p>Ez az oldal segít felkészülni a középszintű magyar érettségi írásbeli vizsgára. Válassz feladattípust és kezdj el gyakorolni!</p>
+                <p>Ez az oldal a középszintű magyar nyelv és irodalom, valamint történelem érettségi írásbeli vizsgákra készít fel. Válassz tantárgyat és feladattípust, és kezdj el gyakorolni!</p>
             </div>
 
             <div class="stats-grid">
                 <div class="stat-card">
-                    <div class="stat-number">7</div>
+                    <div class="stat-number" id="stat-exam-count">14</div>
                     <div class="stat-label">Feladatsor (2022-2025)</div>
                 </div>
                 <div class="stat-card">
-                    <div class="stat-number">3</div>
-                    <div class="stat-label">Feladattípus</div>
+                    <div class="stat-number">2</div>
+                    <div class="stat-label">Tantárgy</div>
                 </div>
                 <div class="stat-card">
-                    <div class="stat-number">150</div>
-                    <div class="stat-label">Pont össz.</div>
+                    <div class="stat-number">200</div>
+                    <div class="stat-label">Pont / vizsga (össz.)</div>
                 </div>
             </div>
 
-            <div class="task-type-cards">
-                <div class="type-card" data-goto="szovegertes">
-                    <div class="type-icon">I.</div>
-                    <h3>Szövegértés</h3>
-                    <p>Szövegértési feladatok - olvasd el a szöveget és válaszolj a kérdésekre. (40 pont)</p>
-                    <span class="type-link">Gyakorlás &rarr;</span>
+            <div class="subject-block">
+                <h3 class="subject-title">Magyar nyelv és irodalom</h3>
+                <div class="task-type-cards">
+                    <div class="type-card" data-goto="szovegertes">
+                        <div class="type-icon">I.</div>
+                        <h3>Szövegértés</h3>
+                        <p>Szövegértési feladatok - olvasd el a szöveget és válaszolj a kérdésekre. (40 pont)</p>
+                        <span class="type-link">Gyakorlás &rarr;</span>
+                    </div>
+                    <div class="type-card" data-goto="muveleti">
+                        <div class="type-icon">II.</div>
+                        <h3>Nyelvi-irodalmi műveletek</h3>
+                        <p>Nyelvtani, irodalomtörténeti és nyelvi ismeretek feladatai. (20 pont)</p>
+                        <span class="type-link">Gyakorlás &rarr;</span>
+                    </div>
+                    <div class="type-card" data-goto="szovegalkotas">
+                        <div class="type-icon">III.</div>
+                        <h3>Szövegalkotás</h3>
+                        <p>Érvelés vagy műértelmező elemzés - választható feladatok. (40 pont)</p>
+                        <span class="type-link">Gyakorlás &rarr;</span>
+                    </div>
                 </div>
-                <div class="type-card" data-goto="muveleti">
-                    <div class="type-icon">II.</div>
-                    <h3>Nyelvi-irodalmi műveletek</h3>
-                    <p>Nyelvtani, irodalomtörténeti és nyelvi ismeretek feladatai. (20 pont)</p>
-                    <span class="type-link">Gyakorlás &rarr;</span>
-                </div>
-                <div class="type-card" data-goto="szovegalkotas">
-                    <div class="type-icon">III.</div>
-                    <h3>Szövegalkotás</h3>
-                    <p>Érvelés vagy műértelmező elemzés - választható feladatok. (40 pont)</p>
-                    <span class="type-link">Gyakorlás &rarr;</span>
+            </div>
+
+            <div class="subject-block">
+                <h3 class="subject-title">Történelem</h3>
+                <div class="task-type-cards">
+                    <div class="type-card" data-goto="tortenelem">
+                        <div class="type-icon">I.</div>
+                        <h3>Rövid feladatok</h3>
+                        <p>Egyszerű, rövid választ igénylő feladatok (teszt, kiegészítés, párosítás). (50 pont)</p>
+                        <span class="type-link">Gyakorlás &rarr;</span>
+                    </div>
+                    <div class="type-card" data-goto="tortenelem">
+                        <div class="type-icon">II.</div>
+                        <h3>Szöveges feladatok</h3>
+                        <p>Rövid és hosszú esszé típusú feladatok magyar és egyetemes történelemből. (50 pont)</p>
+                        <span class="type-link">Gyakorlás &rarr;</span>
+                    </div>
                 </div>
             </div>
 
             <div class="exam-structure">
-                <h3>A vizsga felépítése</h3>
+                <h3>A vizsgák felépítése</h3>
+                <h4 class="structure-subheader">Magyar nyelv és irodalom</h4>
                 <table>
                     <thead>
                         <tr>
@@ -104,6 +127,37 @@
                         <tr class="total-row">
                             <td colspan="2"><strong>Összesen</strong></td>
                             <td><strong>180 perc</strong></td>
+                            <td><strong>100</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h4 class="structure-subheader">Történelem</h4>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rész</th>
+                            <th>Feladattípus</th>
+                            <th>Idő</th>
+                            <th>Pont</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>I.</td>
+                            <td>Egyszerű, rövid feladatok</td>
+                            <td>~90 perc</td>
+                            <td>50</td>
+                        </tr>
+                        <tr>
+                            <td>II.</td>
+                            <td>Szöveges, kifejtendő feladatok (2 rövid + 2 hosszú esszé közül választható)</td>
+                            <td>~150 perc</td>
+                            <td>50</td>
+                        </tr>
+                        <tr class="total-row">
+                            <td colspan="2"><strong>Összesen</strong></td>
+                            <td><strong>240 perc</strong></td>
                             <td><strong>100</strong></td>
                         </tr>
                     </tbody>
@@ -359,6 +413,20 @@
             <div id="results-container">
             </div>
         </section>
+
+        <!-- Hibáim Section -->
+        <section id="hibaim" class="section">
+            <h2>Hibáim</h2>
+            <p class="section-desc">Az eltévesztett feladatok listája. Próbáld újra őket, és javítsd ki a hibáidat.</p>
+
+            <div class="mistakes-tabs">
+                <button class="mistakes-tab active" data-tab="active">Aktív hibák <span class="tab-count" id="active-count">0</span></button>
+                <button class="mistakes-tab" data-tab="archived">Archivált <span class="tab-count" id="archived-count">0</span></button>
+            </div>
+
+            <div id="mistakes-container"></div>
+        </section>
+
     </main>
 
     <footer>
