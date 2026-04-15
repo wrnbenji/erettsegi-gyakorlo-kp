@@ -1,0 +1,27 @@
+{
+  "name": "magyar-erettsegi",
+  "version": "1.0.0",
+  "description": "Magyar nyelv és irodalom + történelem **középszintű érettségi** gyakorló webalkalmazás. 2022–2025 közötti hivatalos feladatsorokkal, azonnali ellenőrzéssel és hiba-követéssel.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrnbenji/erettsegi-gyakorlo-kp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wrnbenji/erettsegi-gyakorlo-kp/issues"
+  },
+  "homepage": "https://github.com/wrnbenji/erettsegi-gyakorlo-kp#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
