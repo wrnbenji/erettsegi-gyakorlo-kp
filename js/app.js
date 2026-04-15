@@ -338,12 +338,12 @@ function renderResults() {
         const d = new Date(r.date);
         const dateStr = `${d.getFullYear()}.${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}`;
         return `<tr>
-            <td>${dateStr}</td>
-            <td>${r.examId}</td>
-            <td>${r.section}</td>
-            <td>${r.score}/${r.maxScore}</td>
-            <td class="${cls}">${pct}%</td>
-            <td>${mins}:${secs}</td>
+            <td data-label="Dátum">${dateStr}</td>
+            <td data-label="Feladatsor">${r.examId}</td>
+            <td data-label="Szekció">${r.section}</td>
+            <td data-label="Pont">${r.score}/${r.maxScore}</td>
+            <td data-label="%" class="${cls}">${pct}%</td>
+            <td data-label="Idő">${mins}:${secs}</td>
         </tr>`;
     }).join('');
 

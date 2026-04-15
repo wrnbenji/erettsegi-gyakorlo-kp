@@ -522,9 +522,20 @@ footer {
     background: var(--footer-bg);
     color: white;
     padding: 20px 0;
-    text-align: center;
     font-size: 0.9rem;
     margin-top: 40px;
+}
+
+footer .footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.footer-credit {
+    margin: 0;
 }
 
 footer a {
@@ -534,6 +545,25 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+.footer-insta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.08);
+    color: #fff !important;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+.footer-insta:hover {
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    text-decoration: none !important;
+}
+.footer-insta .ig-icon {
+    flex-shrink: 0;
 }
 
 /* Responsive */
@@ -1941,4 +1971,230 @@ body, .section, nav, .exam-item, .stat-card, .type-card, .intro-card, .exam-stru
 }
 .btn-replay:hover {
     background: var(--primary-light);
+}
+
+/* ============================================ */
+/* Mobile-first responsive polish (<=768px)     */
+/* Quick-practice focus: readable, tappable, no */
+/* horizontal overflow, stacked layouts.        */
+/* ============================================ */
+@media (max-width: 768px) {
+    /* --- Global --- */
+    html { -webkit-text-size-adjust: 100%; }
+    body { font-size: 16px; line-height: 1.55; }
+    .container { padding-inline: 16px; }
+
+    /* Prevent iOS zoom on input focus */
+    input[type="text"],
+    input[type="number"],
+    input[type="email"],
+    textarea,
+    select {
+        font-size: 16px;
+    }
+
+    /* --- Header --- */
+    header { padding: 14px 0; }
+    header h1 { font-size: 1.35rem; margin-bottom: 4px; }
+    .subtitle { font-size: 0.9rem; line-height: 1.4; }
+    .theme-toggle { width: 36px; height: 36px; right: 12px; }
+
+    /* --- Nav --- */
+    nav .container { padding: 8px 12px; gap: 2px; }
+    .nav-btn {
+        padding: 10px 12px;
+        font-size: 0.85rem;
+        min-height: 40px;
+    }
+
+    /* --- Sections --- */
+    .section { padding: 20px 0 40px; }
+    h2 { font-size: 1.4rem; }
+    h3 { font-size: 1.15rem; }
+
+    /* --- Home cards & stats --- */
+    .stats-grid { grid-template-columns: 1fr; gap: 12px; }
+    .stat-card { padding: 20px 16px; }
+    .stat-number { font-size: 2rem; }
+    .task-type-cards { grid-template-columns: 1fr; gap: 12px; }
+    .type-card { padding: 20px 16px; }
+    .subject-title { font-size: 1.2rem; margin-bottom: 12px; }
+
+    /* --- Exam structure table → card rows on mobile --- */
+    .exam-structure { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .exam-structure table {
+        display: block;
+        width: 100%;
+    }
+    .exam-structure thead { display: none; }
+    .exam-structure tbody,
+    .exam-structure tr,
+    .exam-structure td {
+        display: block;
+        width: 100%;
+    }
+    .exam-structure tr {
+        background: var(--card-bg);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        margin-bottom: 10px;
+        padding: 12px;
+    }
+    .exam-structure td {
+        padding: 4px 0;
+        border: none;
+        font-size: 0.95rem;
+    }
+    .exam-structure td::before {
+        content: attr(data-label);
+        display: inline-block;
+        width: 88px;
+        font-weight: 600;
+        color: var(--text-light);
+    }
+    .exam-structure tr.total-row { background: var(--primary); color: white; }
+    .exam-structure tr.total-row td::before { color: rgba(255,255,255,0.85); }
+
+    /* --- Exam lists (exam-item) --- */
+    .exam-item { padding: 14px; }
+    .exam-item-header { flex-direction: column; align-items: flex-start; gap: 6px; }
+    .exam-badge { font-size: 0.8rem; }
+    .exam-item-links {
+        flex-direction: column;
+        gap: 8px;
+    }
+    .exam-item-links a,
+    .exam-item-links .btn-gyakorlas,
+    .exam-item-links .btn-feladat,
+    .exam-item-links .btn-megoldas {
+        width: 100%;
+        min-height: 44px;
+        justify-content: center;
+        display: inline-flex;
+        align-items: center;
+    }
+
+    /* --- Exam full cards (Feladatsorok, Történelem) --- */
+    .exam-full-card .exam-item-links { margin-top: 10px; }
+    .exam-full-card .btn-gyakorlas {
+        width: 100%;
+        min-height: 44px;
+    }
+
+    /* --- Results table → cards --- */
+    .results-table-wrap { overflow: visible; }
+    .results-table { display: block; }
+    .results-table thead { display: none; }
+    .results-table tbody,
+    .results-table tr,
+    .results-table td { display: block; width: 100%; }
+    .results-table tr {
+        background: var(--card-bg);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 12px;
+        margin-bottom: 10px;
+    }
+    .results-table td {
+        padding: 4px 0;
+        border: none;
+    }
+    .results-table td::before {
+        content: attr(data-label);
+        display: inline-block;
+        width: 100px;
+        font-weight: 600;
+        color: var(--text-light);
+    }
+    .results-averages { grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+    .results-avg-card { padding: 12px 8px; }
+    .results-avg-num { font-size: 1.4rem; }
+    .results-avg-label { font-size: 0.75rem; }
+
+    /* --- Mistakes (Hibáim) --- */
+    .mistakes-tabs { gap: 0; overflow-x: auto; }
+    .mistakes-tab { padding: 12px 14px; font-size: 0.95rem; flex-shrink: 0; }
+    .mistake-item { padding: 14px; }
+    .mistake-top { flex-direction: column; gap: 6px; align-items: flex-start; }
+    .mistake-meta {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+    }
+    .btn-replay {
+        width: 100%;
+        min-height: 44px;
+    }
+    .mistake-actions { margin-top: 4px; }
+
+    /* --- Quiz: stacked view, collapsible source --- */
+    .quiz-header { flex-direction: column; gap: 10px; text-align: center; padding: 12px; }
+    .quiz-body { flex-direction: column; }
+    .source-panel {
+        width: 100%;
+        max-height: 40vh;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+    }
+    .task-panel { width: 100%; max-height: none; padding: 16px 12px; }
+    .task-nav-list { flex-wrap: wrap; gap: 4px; }
+    .task-nav-list button { min-width: 38px; min-height: 38px; }
+    .quiz-footer {
+        flex-direction: column;
+        gap: 8px;
+        padding: 10px 12px;
+    }
+    .quiz-footer button { width: 100%; min-height: 44px; }
+    .mode-options { flex-direction: column; align-items: stretch; }
+    .mode-option { max-width: 100%; }
+
+    /* Answer inputs larger tap targets */
+    .task-panel label,
+    .task-panel .choice-label {
+        min-height: 40px;
+        padding: 8px 10px;
+    }
+    .task-panel input[type="radio"],
+    .task-panel input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+    }
+
+    /* --- Intro / tips boxes --- */
+    .intro-card, .tips-box { padding: 16px; }
+
+    /* --- Filter bar (search) --- */
+    .filter-bar { flex-direction: column; align-items: stretch; gap: 8px; }
+    .filter-text { min-width: unset; width: 100%; }
+    .filter-bar select, .filter-bar input { min-height: 40px; }
+
+    /* --- Footer --- */
+    footer .footer-row {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+    .footer-insta { min-height: 40px; padding: 8px 14px; }
+}
+
+/* --- Phone-specific (<=480px) --- */
+@media (max-width: 480px) {
+    header h1 { font-size: 1.2rem; }
+    .subtitle { font-size: 0.82rem; }
+    .container { padding-inline: 12px; }
+    .nav-btn { padding: 9px 10px; font-size: 0.8rem; }
+    h2 { font-size: 1.25rem; }
+
+    .stat-number { font-size: 1.75rem; }
+    .stat-label { font-size: 0.8rem; }
+    .type-card h3 { font-size: 1.05rem; }
+    .type-card p { font-size: 0.9rem; }
+
+    .results-averages { grid-template-columns: 1fr; }
+    .exam-structure td::before { width: 70px; font-size: 0.85rem; }
+    .results-table td::before { width: 80px; font-size: 0.85rem; }
+
+    /* Mistake card: keep status visible but compact */
+    .mistake-exam { font-size: 1rem; }
+    .mistake-subject { font-size: 0.78rem; }
 }
