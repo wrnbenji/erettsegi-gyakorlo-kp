@@ -8,6 +8,11 @@ import { navigateTo } from './router.js';
 let currentExam = null;
 let currentSection = null;
 let currentTasks = [];
+
+function backSection(sectionType) {
+    if (sectionType === 'rovid' || sectionType === 'szoveges') return 'tortenelem';
+    return sectionType;
+}
 let currentTaskIndex = 0;
 let checkMode = 'summary'; // 'each' or 'summary'
 let userAnswers = {};
@@ -58,7 +63,9 @@ function renderModeSelection(container, examData, sectionType, section) {
     const sectionLabels = {
         szovegertes: 'I. Szövegértés',
         muveleti: 'II. Nyelvi-irodalmi műveletek',
-        szovegalkotas: 'III. Szövegalkotás'
+        szovegalkotas: 'III. Szövegalkotás',
+        rovid: 'I. Rövid feladatok',
+        szoveges: 'II. Szöveges feladatok'
     };
     const title = `${examData.year} ${examData.session} - ${sectionLabels[sectionType] || sectionType}`;
 
@@ -93,7 +100,7 @@ function renderModeSelection(container, examData, sectionType, section) {
     `;
 
     document.getElementById('quiz-back-btn').addEventListener('click', () => {
-        navigateTo(sectionType);
+        navigateTo(backSection(sectionType));
     });
 
     document.getElementById('quiz-start-btn').addEventListener('click', () => {
@@ -109,7 +116,9 @@ function startQuizSession(container, examData, sectionType, section) {
     const sectionLabels = {
         szovegertes: 'I. Szövegértés',
         muveleti: 'II. Nyelvi-irodalmi műveletek',
-        szovegalkotas: 'III. Szövegalkotás'
+        szovegalkotas: 'III. Szövegalkotás',
+        rovid: 'I. Rövid feladatok',
+        szoveges: 'II. Szöveges feladatok'
     };
     const title = `${examData.year} ${examData.session} - ${sectionLabels[sectionType] || sectionType}`;
     const hasSource = sectionType === 'szovegertes' && sourceText;
@@ -871,7 +880,7 @@ function renderSummary(totalPoints, maxPoints, percentage, elapsed) {
     `;
 
     document.getElementById('summary-back').addEventListener('click', () => {
-        navigateTo(currentSection);
+        navigateTo(backSection(currentSection));
     });
 }
 

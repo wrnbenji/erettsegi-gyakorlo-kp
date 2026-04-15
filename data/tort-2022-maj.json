@@ -1,0 +1,949 @@
+{
+    "id": "tort-2022-maj",
+    "subject": "tortenelem",
+    "year": 2022,
+    "session": "Május",
+    "date": "2022. május 4.",
+    "sections": {
+        "rovid": {
+            "timeLimit": 90,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t01-a",
+                    "type": "fill-in",
+                    "question": "1. feladat – A zsidó valláshoz kapcsolódik.\n\nVálassza ki a képeken látható tárgyakhoz / jelenethez kapcsolódó bibliai parancsolatokat! Írja a megfelelő parancsolat sorszámát a kép alá a kipontozott vonalra! Egy helyre egy sorszámot írjon! Két sorszám kimarad.\n\n1. „Ne csinálj magadnak faragott képet vagy hasonmást arról, ami fent van az égben, vagy lent a földön, vagy a vizekben a föld alatt. Ne borulj le ilyen képek előtt és ne tiszteld őket, mert én, az Úr, a te Istened féltékeny Isten vagyok.”\n2. „Uradnak, Istenednek a nevét ne vedd hiába [a szádra], mert az Úr nem hagyja büntetlenül azt, aki a nevét hiába veszi.”\n3. „Gondolj a szombatra és szenteld meg. Hat napig dolgozzál és végezd minden munkádat. A hetedik nap azonban […] semmiféle munkát nem szabad végezned. […] Az Úr […] a hetedik napon azonban megpihent.”\n4. „Tiszteld apádat és anyádat, hogy sokáig élj azon a földön, amelyet az Úr, a te Istened ad neked.”\n5. „Ezeket a parancsolatokat, amelyeket ma szabok neked, őrizd meg szívedben […]. Igen, jelként kösd őket a kezedre, legyenek ék a homlokodon. Írd fel őket házad ajtófélfájára és kapujára!”\n\n<div class=\"image-placeholder\">🖼 Imaszöveget tartalmazó tok (mezuza) — lásd feladatsor PDF (3. oldal)</div>\n\na) Melyik parancsolat sorszáma illik a mezuzához?",
+                    "correct": [
+                        "5"
+                    ],
+                    "points": 1,
+                    "explanation": "A mezuza a házak ajtófélfájára erősített tok, amely a Tóra-idézetet tartalmazza; az 5. parancsolat („jelként kösd őket a kezedre […] írd fel őket házad ajtófélfájára”) közvetlenül erre utal."
+                },
+                {
+                    "id": "t01-b",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Zsidó vallás\n\n<div class=\"image-placeholder\">🖼 Hétágú gyertyatartó (menóra) — lásd feladatsor PDF (3. oldal)</div>\n\nb) Melyik parancsolat sorszáma illik a hétágú gyertyatartóhoz (menórához)?",
+                    "correct": [
+                        "3"
+                    ],
+                    "points": 1,
+                    "explanation": "A menóra hét ága a teremtés hét napját idézi: hat munkanap és a hetedik, a szombat (sábát). A 3. parancsolat a szombat megszentelését írja elő."
+                },
+                {
+                    "id": "t01-c",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Zsidó vallás\n\n<div class=\"image-placeholder\">🖼 Mózes összetöri az aranyborjút (miniatúra) — lásd feladatsor PDF (3. oldal)</div>\n\nc) Melyik parancsolat sorszáma illik ahhoz a jelenethez, amelyben Mózes összetöri az aranyborjút?",
+                    "correct": [
+                        "1"
+                    ],
+                    "points": 1,
+                    "explanation": "Az aranyborjú bálványkép volt, amelyet a nép imádott. Az 1. parancsolat tiltja a faragott képek készítését és imádatát, így Mózes haragja ehhez kapcsolódik."
+                },
+                {
+                    "id": "t01-d",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Zsidó vallás\n\nd) Nevezze meg a zsidó vallásnak azt a – több forrásszövegben is megjelenő – legfontosabb sajátosságát, amely megkülönböztette az ókori Kelet más, korábban kialakult vallásaitól!",
+                    "correct": [
+                        "egyistenhit",
+                        "monoteizmus",
+                        "monoteista vallás",
+                        "monoteista vallas"
+                    ],
+                    "points": 1,
+                    "explanation": "A zsidó vallás az első monoteista (egyistenhívő) vallás: Jahve az egyetlen Isten, aki szövetséget kötött a zsidó néppel – szemben a kor többistenhívő (politeista) vallásaival."
+                },
+                {
+                    "id": "t02-a",
+                    "type": "short-answer",
+                    "question": "2. feladat – A reneszánsz kultúrával kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 A) Leonardo da Vinci: Angyali üdvözlet; B) Leonardo da Vinci: Mona Lisa; C) Antonio da Correggio: Zeusz és Antiopé — lásd feladatsor PDF (4. oldal)</div>\n\na) A feladatban szereplő képek közül kettő vallási témájú. Nevezze meg azt a két vallást, amelyhez a képek témája kapcsolódik!",
+                    "sampleAnswer": "kereszténység (Angyali üdvözlet) és ókori görög(-római) / antik vallás, görög mitológia (Zeusz és Antiopé)",
+                    "points": 1,
+                    "explanation": "Az Angyali üdvözlet bibliai jelenet (keresztény / katolikus vallás), a Zeusz és Antiopé kép az antik görög-római mitológiához (görög vallás) kötődik. A reneszánsz kultúra mindkét forrást felhasználta."
+                },
+                {
+                    "id": "t02-b",
+                    "type": "multiple-choice",
+                    "question": "2. feladat (folytatás) – Reneszánsz kultúra\n\nb) Mi jellemezte a reneszánsz festészetben az emberi alakok ábrázolását? Karikázza be az egyetlen helyes választ a feladatban szereplő képek alapján!",
+                    "options": [
+                        "A túlvilági létet fontosabbnak gondolták a földi életnél, ezért a portréfestészetben sem törekedtek egyéni vonások megörökítésére.",
+                        "Az emberi test nem számított tabunak, az azzal kapcsolatos (anatómiai) ismeretek gyarapodását felhasználva törekedtek a valósághű ábrázolásra.",
+                        "Az emberek arcvonásait és mozdulatait a korabeli technikákkal még nem tudták ábrázolni, ezért érzelmeket, szándékokat nem tudtak kifejezni."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A reneszánsz emberközpontú (humanista) szemléletéből következően a művészek az anatómiai ismeretek fejlődését kihasználva valósághű, egyénített emberábrázolásra törekedtek."
+                },
+                {
+                    "id": "t02-c",
+                    "type": "short-answer",
+                    "question": "2. feladat (folytatás) – Reneszánsz kultúra\n\nc) A reneszánsz festészet mely jellemzőjét mutatja mindhárom kép háttere?",
+                    "sampleAnswer": "A természet / táj ábrázolását. / A térbeliség (perspektíva) érzékeltetését. / Perspektivikus ábrázolást.",
+                    "points": 1,
+                    "explanation": "Mindhárom festmény hátterében kidolgozott táj vagy térbeli környezet szerepel – ez a reneszánsz perspektivikus, természethű ábrázolásmód jellemzője."
+                },
+                {
+                    "id": "t03-a",
+                    "type": "short-answer",
+                    "question": "3. feladat – Hunyadi Mátyáshoz kapcsolódik.\n\nA) „Először, hogy Magyarországnak a törökök ellen való megvédelmezése céljából […] országszerte egy aranyforintot kell fizetni a következő módon:\n1. § Hogy mi főpapok, bárók és országlakók végeztük és határoztuk, hogy azt minden fekvő jószág [földterület / telek] után, […] elengedhetetlenül kell fizetni.”\n\na) Nevezze meg az A) betűjelű forrásban leírt adót!",
+                    "correct": [
+                        "rendkívüli hadiadó",
+                        "rendkivuli hadiado",
+                        "hadiadó",
+                        "hadiado"
+                    ],
+                    "points": 1,
+                    "explanation": "A Mátyás által bevezetett (rendkívüli) hadiadó – telkenként egy aranyforint – a törökellenes háború finanszírozását szolgálta, és a király kincstárát jelentősen gyarapította."
+                },
+                {
+                    "id": "t03-b",
+                    "type": "short-answer",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás\n\nb) Nevezze meg azt az intézményt, amelyik megalkotta az A) betűjelű forrásban leírt jogszabályt!",
+                    "correct": [
+                        "rendi országgyűlés",
+                        "rendi orszaggyules",
+                        "országgyűlés",
+                        "orszaggyules",
+                        "rendi gyűlés",
+                        "rendi gyules"
+                    ],
+                    "points": 1,
+                    "explanation": "A forrásban „mi főpapok, bárók és országlakók” fogalmazzák meg a rendelkezést – ez a rendi országgyűlés (rendi gyűlés), amely a király mellett törvényhozó szerv volt."
+                },
+                {
+                    "id": "t03-c",
+                    "type": "short-answer",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás\n\nc) Nevezze meg azt a társadalmi réteget, amelyik jellemzően fizette az A) betűjelű forrásban leírt adót!",
+                    "correct": [
+                        "jobbágyok",
+                        "jobbagyok",
+                        "jobbágyság",
+                        "jobbagysag"
+                    ],
+                    "points": 1,
+                    "explanation": "A „fekvő jószág” (telek) utáni adót a telken élő jobbágyság fizette. (A parasztok / parasztság / földművesek megnevezés nem elfogadható, mert itt a jogi kategória a jobbágy.)"
+                },
+                {
+                    "id": "t03-d",
+                    "type": "multiple-choice",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás\n\nB) „Ha egy egész telken vagy ülésen […] egy portán belül csak egy [család] lakik, az fizessen 20 dénárt. Ha pedig ketten kapnának egy telket […] [a kettő együtt] fizessen egy és egy fél porta szerint.”\n\nd) Válassza ki a B) betűjelű forrásra vonatkozó igaz állítást! Karikázza be az egyetlen helyes állítás sorszámát!",
+                    "options": [
+                        "A tized beszedését szabályozta.",
+                        "A kincstár jobban járt, ha egy portán egy család lakott.",
+                        "A töredéktelken élők 20 dénárnál kevesebbet fizettek családonként."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "Ha egy telken két család lakott, együtt másfél portát fizettek – vagyis családonként 15 dénárt, ami kevesebb a teljes 20 dénárnál. A töredéktelken élők így kisebb terhet viseltek családonként."
+                },
+                {
+                    "id": "t04-a",
+                    "type": "multiple-choice",
+                    "question": "4. feladat – A reformációval kapcsolatos.\n\n„Az egyházi összejövetelek pedig ne legyenek titkosak és rejtettek, hanem nyilvánosak és gyakoriak, hacsak […] nem teszik lehetetlenné azok nyilvánosságát. […] Az istentiszteleti helyek tisztességesek legyenek. […] Válasszanak e célra tágas épületeket vagy templomokat, és távolítsanak el mindent, ami az egyházhoz nem illik. […] Ezért a keresztyének templomaitól és imaházaitól távol kell tartani minden fényűző ruházkodást, hivalkodást és mindent, ami nem illik a keresztyén alázatossághoz, fegyelemhez és szerénységhez. A templomok igaz ékességét nem az elefántcsont, az arany és a drágakő teszi, hanem a templomba járók igazlelkűsége, kegyessége és erényei. […] Mindent a nép nyelvén kell előadni, amelyet a helybeli emberek a gyülekezetben megértenek.” (Henrik Bullinger svájci reformátor által összeállított hitvallás, 1566)\n\n<div class=\"image-placeholder\">🖼 A) Fehérre meszelt protestáns (református) templombelső szószékkel; B) Díszes barokk katolikus templombelső oltárral; C) Díszes ikonosztázos ortodox templombelső — lásd feladatsor PDF (6. oldal)</div>\n\na) Döntse el a forrás segítségével, melyik képen szerepel valamely protestáns felekezethez tartozó templom! Karikázza be az egyetlen megfelelő kép betűjelét!",
+                    "options": [
+                        "A) – egyszerű, dísztelen templombelső",
+                        "B) – díszes oltárral ellátott templombelső",
+                        "C) – ikonokkal és gazdag díszítéssel ellátott templombelső"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A forrás szerint a protestáns templom szerény, dísztelen, nincs benne fényűzés – ez az A) képen látható egyszerű, fehérre meszelt belső tér felel meg. A B) katolikus (barokk), a C) ortodox."
+                },
+                {
+                    "id": "t04-b",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – Reformáció\n\nb) Mire utal a szöveges forrásban idézett hitvallás aláhúzott része („nem teszik lehetetlenné azok nyilvánosságát”)? Karikázza be az egyetlen helyes magyarázat sorszámát!",
+                    "options": [
+                        "A járványok időszakában korlátozták a tömegrendezvényeket.",
+                        "Számoltak az indián őslakosok támadásaival.",
+                        "Európában sok helyen üldözték a protestánsokat."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 16. század közepén (1566) Európa több országában üldözték a protestánsokat (pl. Franciaország, Spanyolország, Habsburg-területek), ezért nem mindig lehetett nyilvánosan gyülekezniük."
+                },
+                {
+                    "id": "t04-c",
+                    "type": "short-answer",
+                    "question": "4. feladat (folytatás) – Reformáció\n\nc) A hitvallás utolsóként idézett mondatában egy másik, nem a templomok berendezésére vonatkozó előírás is található. A reformáció mely kulturális hatása következett ebből? Fogalmazza meg saját szavaival a szöveg alapján!",
+                    "sampleAnswer": "Anyanyelvi igehirdetés / az anyanyelv fejlődése / a Biblia anyanyelvre fordítása.",
+                    "points": 1,
+                    "explanation": "A reformáció az anyanyelvi istentisztelet és a Biblia nemzeti nyelvre fordítása révén jelentősen hozzájárult a nemzeti nyelvek és az írásbeliség fejlődéséhez (pl. Károli Gáspár Vizsolyi Bibliája, 1590)."
+                },
+                {
+                    "id": "t04-d",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – Reformáció\n\nd) Mely folyamattal függ össze az idézett forrás születése? Karikázza be az egyetlen helyes magyarázat sorszámát!",
+                    "options": [
+                        "A nem keresztény vallásúak körében zajló hittérítéssel.",
+                        "A református egyház európai megszerveződésével.",
+                        "Azzal, hogy a protestánsok azonos jogokat vívtak ki a katolikusokkal."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "Bullinger 1566-os svájci (helvét) hitvallása a református egyház európai megszervezésének fontos dokumentuma – a közös hitvallás egységes egyházszervezeti alapot teremtett."
+                },
+                {
+                    "id": "t05-a",
+                    "type": "multiple-choice",
+                    "question": "5. feladat – Magyarország 16. századi történelméhez kapcsolódik.\n\n<div class=\"image-placeholder\">🖼 Bástyatípusok ábrája (körbástya holttérrel és olaszbástya) — lásd feladatsor PDF (7. oldal)</div>\n\na) Válassza ki a forrás és ismeretei alapján az igaz állítást! Karikázza be az egyetlen helyes állítás sorszámát!",
+                    "options": [
+                        "A körbástya jobban ellenállt a támadásnak, mert nagyobb volt a fegyverek holttere.",
+                        "Az olaszbástya alkalmazásával a támadók fölénybe kerültek a várostromok során.",
+                        "Az olaszbástyák hatékonyabbá tették a várvédelmet."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "Az olaszbástya (ötszögletű, rézsútos falú) minimálisra csökkentette a holtteret – a védők a szomszédos bástyákról oldalazó tűzzel lőhették a támadókat, ezért hatékonyabb volt a kör-/rondellabástyánál."
+                },
+                {
+                    "id": "t05-b",
+                    "type": "short-answer",
+                    "question": "5. feladat (folytatás) – Magyarország a 16. században\n\nb) Nevezze meg az ábra alapján, melyik fegyvernem vált egyre jelentősebbé a várvédelemben!",
+                    "correct": [
+                        "tüzérség",
+                        "tuzerseg",
+                        "ágyú",
+                        "agyu",
+                        "ágyúk",
+                        "agyuk",
+                        "tűzfegyverek",
+                        "tuzfegyverek"
+                    ],
+                    "points": 1,
+                    "explanation": "Az ábrán a bástyákon látható ágyúk mutatják, hogy a 16. században a tüzérség (tűzfegyverek) vált meghatározóvá a várvédelemben – emiatt kellett új, lőfegyverekhez igazított erődítéseket (olaszbástya) építeni."
+                },
+                {
+                    "id": "t05-c",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Magyarország a 16. században\n\n<div class=\"image-placeholder\">🖼 Térképvázlat: Magyarország 1568 után a török Hódoltság határával; 1–7 számokkal jelölt helyszínek — lásd feladatsor PDF (8. oldal)</div>\n\nC) „Az tömlöcbástyánál Dobó vala,\nOtt ő apróggyát ellőtték vala,\nŐ keze-lába sebösült vala,\nOtt asszonnépek vitézködnek vala.” (Tinódi Lantos Sebestyén művéből)\n\nc) Rendelje a C) forráshoz a térképvázlat jelölt helyszínét! Térképen szereplő sorszám:",
+                    "correct": [
+                        "4"
+                    ],
+                    "points": 1,
+                    "explanation": "A forrás Dobó István védekezését, az 1552-es egri várostromot írja le. Eger Észak-Magyarországon található, a térképen a 4. számmal jelölt helyszín."
+                },
+                {
+                    "id": "t05-d",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Magyarország a 16. században\n\nD) „Ihon előttetek Zrini áll fegyverben,\nHon van az török Márs vakmerő szüvében,\nDelimán? hon száz más ebben az seregben,\nKik Zrini vérét szomjuzták békeségben?\n\nÉdes az vitézség az ember szájában,\nDe nagy s rettenetes halálos próbában:\nEzt rettegve nézi vakmerő Delimán,\nMint nyárlevél, ugy reszket szultán Szulimán.” (Egy 17. századi eposzból)\n\nd) Rendelje a D) forráshoz a térképvázlat jelölt helyszínét! Térképen szereplő sorszám:",
+                    "correct": [
+                        "7"
+                    ],
+                    "points": 1,
+                    "explanation": "A Zrínyi Miklós által vezetett 1566-os szigetvári várvédelemről szól (Zrínyi Miklós dédunokája, a költő írta a Szigeti veszedelem című eposzt). Szigetvár Dél-Dunántúlon, a térkép 7. számú helyszíne."
+                },
+                {
+                    "id": "t06-a",
+                    "type": "multiple-choice",
+                    "question": "6. feladat – A 19. századi politikai eszmékhez kapcsolódik.\n\n„Húsz-huszonötmilliós nép vagyunk, melyet emberemlékezet óta ugyanazzal a névvel illetnek, […] melyet az Isten által valaha húzott legpontosabb természetes határok zárnak körül, mely ugyanazon nyelvet beszéli, ugyanazon hitet vallja, melynek ugyanazok a szokásai és hagyományai, amely büszke Európa-szerte ismert politikai, tudományos és művészeti múltjára, és amely kétszer is az egység szavával és kötelékével ajándékozta meg az emberiséget, először a császárok Rómájával, később pedig, midőn még nem árulta el hivatását, a pápákéval. […] Nincs zászlónk, nincs állami nevünk, nincs rangunk az európai nemzetek között. Nincs közös központunk, közös [társadalmi] szerződésünk, közös piacunk. Hét államra vagyunk feldarabolva.” (Giuseppe Mazzini, 1845)\n\na) Melyik területre utal a forrás szerzője az aláhúzott szövegrészben? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Appennini-félsziget",
+                        "Balkán-félsziget",
+                        "Ibériai-félsziget"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "Mazzini Olaszországról, az Appennini-félszigetről beszél: a Római Birodalom és a pápaság említése, a hét államra feldaraboltság az itáliai egységtörekvésekre utal."
+                },
+                {
+                    "id": "t06-b",
+                    "type": "multiple-choice",
+                    "question": "6. feladat (folytatás) – 19. századi politikai eszmék\n\nb) Az európai civilizáció melyik vívmánya táplálta a forrásban leírt nemzet öntudatát? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Itt született meg a demokrácia.",
+                        "Itt bontakozott ki először az ipari forradalom.",
+                        "Itt virágzott az antik kultúra."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "Mazzini a Római Birodalomra és a reneszánszra utalva az antik (és humanista) kulturális örökségre alapozza az olasz nemzet büszkeségét."
+                },
+                {
+                    "id": "t06-c",
+                    "type": "multiple-choice",
+                    "question": "6. feladat (folytatás) – 19. századi politikai eszmék\n\nc) Melyik az az összekötő kapocs, amely a forrásban leírt nemzet tagjainak túlnyomó többségére jellemző, de a német nemzetre nem? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "közös nyelv",
+                        "közös felekezet",
+                        "közös piac"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "Az olaszok túlnyomóan katolikusok, míg a németek vallásilag megosztottak (katolikusok és protestánsok). A közös felekezet így az olasz, de nem a német nemzetre jellemző."
+                },
+                {
+                    "id": "t06-d",
+                    "type": "short-answer",
+                    "question": "6. feladat (folytatás) – 19. századi politikai eszmék\n\nd) Mi volt a Mazzini által szorgalmazott nemzeti mozgalom legfontosabb konkrét politikai célja? Fogalmazza meg a forrás alapján!",
+                    "sampleAnswer": "A nemzetállam létrehozása. / Itália / Olaszország egyesítése. / Az olasz egységállam megteremtése a hét kis állam egyesítésével.",
+                    "points": 1,
+                    "explanation": "Mazzini szerint az olaszok hét államra feldarabolva élnek, így a cél az egységes olasz nemzetállam (Itália / Olaszország) megteremtése – ez 1861-ben részben meg is valósult."
+                },
+                {
+                    "id": "t07-a",
+                    "type": "multiple-choice",
+                    "question": "7. feladat – A reformkori Magyarországgal kapcsolatos.\n\n„Honunkban [a)] az alkotmányos szabadság ne legyen […] [egyes] osztályoknak a nép szolgaságán épülő kiváltsága, hanem legyen az egész magyar népnek közös osztatlan tulajdona.\nÍgy gondolkoznak [b)] mindazok, kikkel egy párthoz tartozni szerencsém van. […]\n[c)] Akarunk monarchiát [értsd: Magyar Királyságot], respublicáról [köztársaságról] nem ábrándozunk; […] elszakadásról nem álmodozunk; […] Magyarhon boldogsága az ausztriai összes birodalom boldogságával nem csak nincs ellentétben, sőt […] a kettő együtt kapcsolatban van. […]\nAkarjuk, hogy jog uralkodjék, s [d)] uralkodjék törvény, mely a nemzet akaratának a király által szentesített dictatuma [parancsa].” (Kossuth Lajos beszéde Pest megye közgyűlésén, 1844)\n\na) Mely reformjavaslat célozta az a) betűjellel jelölt, aláhúzott részben leírtak megvalósulását? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "a cenzúra eltörlése",
+                        "a jobbágyfelszabadítás",
+                        "a magyar államnyelv bevezetése"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A „nép szolgaságán épülő kiváltságok” eltörlése alatt a jobbágyfelszabadítást érti Kossuth, amely révén a szabadság minden magyar közös jogává válik."
+                },
+                {
+                    "id": "t07-b",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Reformkori Magyarország\n\nb) Melyik csoport feleltethető meg a b) betűjellel jelölt, aláhúzott részben leírtaknak? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "forradalmi ifjúság",
+                        "liberális nemesség",
+                        "udvarhű előkelők"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "Kossuth pártja a reformkori liberális (ellenzéki) nemesség volt, amely alkotmányos reformokat, jobbágyfelszabadítást és polgári átalakulást követelt."
+                },
+                {
+                    "id": "t07-c",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Reformkori Magyarország\n\nc) Melyik kifejezés írja le a c) betűjellel jelzett, aláhúzott résznek megfelelően Magyarország Habsburg Birodalomhoz való viszonyát? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "függetlenné válás a birodalomtól",
+                        "központosított birodalmi kormányzat elismerése",
+                        "önállóság a birodalmon belül"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "Kossuth 1844-ben még nem szakadást akar: a Magyar Királyság monarchia marad, de Ausztriával közös boldogulásban – ez a birodalmon belüli önállóság programja."
+                },
+                {
+                    "id": "t07-d",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Reformkori Magyarország\n\nd) Melyik kormányzati forma feleltethető meg a d) betűjellel jelölt, aláhúzott részben leírtaknak? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "alkotmányos monarchia",
+                        "felvilágosult abszolutizmus",
+                        "demokratikus köztársaság"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A nemzet által megalkotott és a király által szentesített törvény uralma az alkotmányos monarchia jellemzője – ez Kossuthék fő célja a reformkorban."
+                },
+                {
+                    "id": "t08",
+                    "type": "short-answer",
+                    "question": "8. feladat – A két világháború közötti szovjet-orosz történelemhez kapcsolódik.\n\n<div class=\"image-placeholder\">🖼 Szovjet propagandaplakát, 1920 — „Lenin elvtárs megtisztítja a Földet a piszkoktól”; Lenin söpri le a cárokat, papokat, kapitalistákat a glóbuszról — lásd feladatsor PDF (11. oldal)</div>\n\nA bolsevik ideológia mely elemei jelennek meg a plakáton? Karikázza be a mondat négy helyes befejezésének sorszámát! Öt sorszám kimarad.\n\nA plakáton a bolsevik ideológia elemei közül megjelenik…\n\n1. a köztulajdon gondolata.\n2. az osztályharc gondolata.\n3. az iparfejlesztés elképzelése.\n4. a kulákok kényszermunkára hurcolása.\n5. az antiszemitizmus.\n6. a kapitalizmusellenesség.\n7. a vallásellenesség.\n8. az erőszak szükségességének gondolata.\n9. a munkás-paraszt szövetség gondolata.\n\n(Írja be a négy helyes sorszámot!)",
+                    "correct": [
+                        "2, 6, 7, 8",
+                        "2,6,7,8",
+                        "2., 6., 7., 8.",
+                        "2. 6. 7. 8.",
+                        "2 6 7 8"
+                    ],
+                    "points": 4,
+                    "explanation": "2. (osztályharc – Lenin söpri le az uralkodó osztályokat), 6. (kapitalizmusellenesség – a polgár / tőkés is célpont), 7. (vallásellenesség – a pap is lesöprésre kerül), 8. (erőszak – maga a söprés erőszakos tett). A többi elem a plakáton nem jelenik meg."
+                },
+                {
+                    "id": "t09-a",
+                    "type": "short-answer",
+                    "question": "9. feladat – A Horthy-korszak társadalmával kapcsolatos.\n\n„Felkérem méltóságodat, szíveskedjék hivatali és társadalmi tekintélyének teljes súlyával odahatni, hogy a [világgazdasági válság következtében kialakult] jelenlegi nehéz viszonyok között a békés polgárságnál is visszatetszést szülő, a proletár tömegeknél pedig egyenesen forradalmi agitációs [értsd: mozgósító] eszközül kínálkozó indokolatlan, és az alsóbb néposztályok szeme láttára lefolyó […] fényűző ünnepségek vagy szórakozások (luxuslakomák, agarászat, lovaspóló stb.) mellőztessenek. Természetesen a vallásos és hazafias érzés ápolását célzó […] ünnepségek, összejövetelek, előadások elé nem kívánok akadályt gördíteni.” (A belügyminiszter körrendelete a helyi hatalom vezetőinek, 1931)\n\na) Karikázza be annak a három állításnak a sorszámát, amelyet alátámaszt a forrás idézett része!\n\n1. A hatalom tartott a kommunista mozgalom megerősödésétől.\n2. A belügyminiszter idézett rendeletének célja a társadalmi egyenlőtlenségek csökkentése volt.\n3. A rendszer fontosnak tartotta a nemzeti és keresztény hagyományok ápolását.\n4. A belügyminiszter idézett rendelete egy meghatározott összeghatár felett megtiltotta a rendezvények szervezését.\n5. A belügyminiszter idézett rendelete elsősorban azért született, mert szükségessé vált az állami kiadások csökkentése.\n6. A nehéz gazdasági helyzet kiélezte a nagy vagyoni különbségek miatt meglévő feszültségeket.\n7. A hatalom a háborús körülményekre tekintettel korlátozta az alapvető emberi jogok gyakorlását.\n\n(Írja be a három kiválasztott sorszámot!)",
+                    "correct": [
+                        "1, 3, 6",
+                        "1,3,6",
+                        "1., 3., 6.",
+                        "1. 3. 6.",
+                        "1 3 6"
+                    ],
+                    "points": 3,
+                    "explanation": "1. – a „proletár tömegek forradalmi agitációja” a kommunista mozgalomtól való félelmet mutatja. 3. – a rendelet kifejezetten kivételt tesz a vallásos és hazafias ünnepségekkel. 6. – a nehéz gazdasági helyzet és a fényűzés együtt növelte a társadalmi feszültséget."
+                },
+                {
+                    "id": "t09-b",
+                    "type": "multiple-choice",
+                    "question": "9. feladat (folytatás) – Horthy-korszak társadalma\n\nb) A felsoroltak közül mely társadalmi rétegre vonatkozhatott leginkább a forrásban leírt korlátozás? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "arisztokraták",
+                        "kispolgárok",
+                        "munkások",
+                        "parasztok"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A fényűző lakomák, agarászat, lovaspóló az arisztokrácia jellegzetes szórakozásai voltak – a rendelet tehát elsősorban a nagybirtokos főnemesi rétegre vonatkozott."
+                },
+                {
+                    "id": "t10-a",
+                    "type": "short-answer",
+                    "question": "10. feladat – A hidegháború korához kapcsolódik.\n\nA) „A világtörténelem jelen pillanatában csaknem minden nemzetnek választania kell a két életmód […] között. […] Az [1.] egyik életforma a többség akaratán alakul, jellemzői a szabad intézmények, a népképviseleti kormányzás, a szabad választások, az egyéni, és a vallásszabadság biztosítéka, a politikai elnyomás alóli mentesség. A [2.] másik életforma alapja, hogy a kisebbség ráerőszakolja akaratát a többségre. Terror és elnyomás uralkodik, a sajtót cenzúrázzák, a választások eredményeit meghamisítják, és elfojtják az egyéni szabadságot.” (Az egyik hatalmi tömb által megfogalmazott hidegháborús nemzetközi politikai elv, 1947)\n\nB) „Ily módon két tábor alakult ki: az imperialista, [3.] demokráciaellenes tábor, melynek célja […] a demokrácia szétzúzása, valamint az imperialistaellenes, [4.] demokratikus tábor […]. A két ellentétes tábor […] harca a kapitalizmus általános válságának további kiéleződése, a kapitalizmus erőinek gyengülése, a szocializmus és a demokrácia erőinek gyarapodása közepette megy végbe.” (A másik hatalmi tömb által megfogalmazott hidegháborús nemzetközi politikai elv, 1947)\n\na) Az idézett politikai elvek megfogalmazása szerint melyik, a forrásokban sorszámmal és aláhúzással jelölt kategóriába tartozott a korabeli Nagy-Britannia? Adja meg a két megfelelő kategória sorszámát!",
+                    "correct": [
+                        "1, 3",
+                        "1,3",
+                        "1. 3.",
+                        "1 3",
+                        "3, 1",
+                        "3,1",
+                        "3. 1.",
+                        "3 1"
+                    ],
+                    "points": 2,
+                    "explanation": "Nagy-Britannia a nyugati (amerikai) tömb része: 1. a szabad intézményekre, választásokra épülő demokratikus életforma (az USA szemszögéből) és 3. a demokráciaellenes / imperialista tábor (a szovjet szemszögből)."
+                },
+                {
+                    "id": "t10-b",
+                    "type": "multiple-choice",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nb) Miért tekintett magára demokratikusként a B) betűjelű forrást megfogalmazó hatalmi tömb? Karikázza be az egyetlen helyes megoldás sorszámát!",
+                    "options": [
+                        "Azt hirdették magukról, hogy tiszteletben tartják a tulajdonhoz való jogot.",
+                        "Azt hirdették magukról, hogy széles társadalmi rétegek érdekeit képviselik.",
+                        "Azt hirdették magukról, hogy fenntartják a társadalmi békét és együttműködést."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A szovjet (B) értelmezés szerint a demokrácia azt jelenti, hogy a hatalom a dolgozók (munkások, parasztok – a társadalom nagy többsége) érdekeit képviseli – ez volt a „népi demokrácia” ideológiai alapja."
+                },
+                {
+                    "id": "t10-c",
+                    "type": "multiple-choice",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nc) Mire utal az A) betűjelű forrás első mondata? Karikázza be az egyetlen helyes megoldás sorszámát!",
+                    "options": [
+                        "A nemzetiszocializmus elleni fellépés szükségességére.",
+                        "A magyar forradalom és szabadságharc által előidézett helyzetre.",
+                        "A kétpólusú világrend kialakulására."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "1947-ben a Truman-elv megfogalmazása a hidegháború és a kétpólusú világrend (USA kontra Szovjetunió) kialakulását jelzi: minden nemzetnek választania kell a két tömb között."
+                },
+                {
+                    "id": "t11-a",
+                    "type": "short-answer",
+                    "question": "11. feladat – A Rákosi-korszakkal kapcsolatos (komplex teszt).\n\nDöntse el, hogy a források közül melyikre igazak a táblázatban szereplő állítások! Írja a forrás(ok) betűjelét a táblázat megfelelő mezőjébe! Egy mezőbe egy betűjelet írjon! Egy betűjel többször is előfordulhat. Egy betűjel kimarad.\n\n<div class=\"image-placeholder\">🖼 A) Bán Béla: Kónyi elvtárs, a Ganz villamossági gyár élmunkása (sztahanovistája), 1950 — szocreál festmény — lásd feladatsor PDF (14. oldal)</div>\n\nB) „Ha nem tartunk mértéket, akkor mint rántott csirkét, megesszük azt a tyúkot, amely jövőre aranytojást tojna, és ötéves tervünk gyárait, üzemeit, kultúrházait már az idén csemegevaj és borjúsült formájában elfogyasztjuk.” (Rákosi Mátyás, 1950)\n\nC) „[Célunk] kiszorítani a reakciós befolyást, elsősorban a munkásság és a parasztság köréből. Mindszenty [József] tevékenységét és a mindszentyizmust rendőrileg, politikailag, gazdaságilag lehetetlenné tenni.” (Javaslatok az MDP Politikai Bizottságának tagjai számára 1948. november 24.)\n\nD) „A mi udvarunkban lakik egy péksegéd. Ő mesélte, hogy akármennyi kenyeret sütnek az üzemükben, mind elfogy. Feltűnt nekünk itt a körzetben, hogy Vecsésről, Üllőről nap mint nap bejárnak egyesek, s 4-5 kenyeret is elhordanak zsákban. Pedig 4-5 kenyér naponta nem kell egy családnak, ha csak azon élne is. De biztos ezek is […] állatokkal etetik fel a mi drága szép kenyerünket.” (Szabad Nép, 1951. január 5. Felszólalás a budapesti népnevelő értekezleten.)\n\na) Melyik forrásra igaz? „Az előírt termelési mennyiséget túlteljesítő munkásokat példaképként állították a többi munkás elé.”",
+                    "correct": [
+                        "A"
+                    ],
+                    "points": 1,
+                    "explanation": "Az A) kép a sztahanovista (az élmunkás, aki a tervet jelentősen túlteljesíti) mozgalom propagandisztikus ábrázolása: őt mint példaképet állították a többi munkás elé."
+                },
+                {
+                    "id": "t11-b",
+                    "type": "short-answer",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak\n\nb) Melyik két forrásra igaz? „Egyes társadalmi csoportokat a rendszer ellenségeinek tekintettek.”",
+                    "correct": [
+                        "C, D",
+                        "C,D",
+                        "C. D.",
+                        "C D",
+                        "D, C",
+                        "D,C",
+                        "D. C.",
+                        "D C"
+                    ],
+                    "points": 2,
+                    "explanation": "C) a katolikus egyházat (Mindszenty) nyilvánítja reakciósnak (ellenségnek); D) a falusi parasztokat (Vecsés, Üllő) bélyegzi meg „kenyérellopókként” – mindkettő ellenségképet hoz létre."
+                },
+                {
+                    "id": "t11-c",
+                    "type": "short-answer",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak\n\nc) Melyik forrásra igaz? „A koncepciós per eszközét is alkalmazták.”",
+                    "correct": [
+                        "C"
+                    ],
+                    "points": 1,
+                    "explanation": "A C) forrás a Mindszenty-per előkészítését célozza; Mindszentyt 1949-ben koncepciós perben ítélték el – a rendőri, politikai, gazdasági eszközök egyértelműen erre utalnak."
+                },
+                {
+                    "id": "t11-d",
+                    "type": "short-answer",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak\n\nd) Nevezze meg szakkifejezéssel azt a gazdaságirányítási módszert, amelyre a B) betűjelű forrás utal!",
+                    "correct": [
+                        "tervgazdálkodás",
+                        "tervgazdalkodas",
+                        "tervgazdaság",
+                        "tervgazdasag",
+                        "tervutasításos rendszer",
+                        "tervutasitasos rendszer"
+                    ],
+                    "points": 1,
+                    "explanation": "Az „ötéves terv” említése a szovjet mintájú tervgazdálkodásra (tervutasításos rendszer) utal – központilag határozták meg a termelési mennyiségeket és az elosztást."
+                },
+                {
+                    "id": "t11-e",
+                    "type": "short-answer",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak\n\ne) Mi volt a C) betűjelű forrásban megnevezett személy legmagasabb tisztsége?",
+                    "correct": [
+                        "esztergomi érsek",
+                        "esztergomi ersek",
+                        "bíboros",
+                        "biboros",
+                        "hercegprímás",
+                        "hercegprimas",
+                        "érsek",
+                        "ersek",
+                        "prímás",
+                        "primas"
+                    ],
+                    "points": 1,
+                    "explanation": "Mindszenty József esztergomi érsek, Magyarország bíboros hercegprímása volt – a magyar katolikus egyház legmagasabb rangú vezetője."
+                },
+                {
+                    "id": "t12-a",
+                    "type": "short-answer",
+                    "question": "12. feladat – A magyarországi romákhoz kapcsolódik.\n\nMagyarország teljes népességének és a magyarországi roma népességnek a megoszlása településtípusok szerint (2003):\n\n| | Teljes népesség létszáma (fő) | Teljes népesség aránya (%) | Roma népesség létszáma (fő) | Roma népesség aránya (%) |\n|---|---|---|---|---|\n| Budapest | 1 719 000 | 17,0% | 60 000 | 10,4% |\n| A többi város | 4 863 000 | 48,0% | 282 000 | 49,7% |\n| Községek | 3 560 000 | 35,0% | 227 000 | 39,9% |\n| Összesen | 10 142 000 | 100,0% | 569 000 | 100,0% |\n\n(A roma népességre vonatkozó adatok forrása szociológusok által végzett felmérés.)\n\na) Válassza ki a táblázat adatainak alapján a három igaz állítást! Karikázza be a sorszámukat!\n\n1. A táblázat adatai alapján Budapesten körülbelül minden tizedik lakos roma.\n2. A táblázat adatai alapján a romák alig fele él városban.\n3. A táblázat adatai alapján Magyarország lakosainak 5-6%-a roma.\n4. A táblázat adatai alapján a roma lakosságra kevésbé jellemző az urbanizáció, mint a teljes népességre.\n5. A táblázat adatai alapján a magyarországi falvakban több roma él, mint nem roma.\n6. A táblázat adatai alapján a magyarországi népesség kicsit több mint harmada él falvakban.\n7. A táblázat adatai alapján Magyarországon nő a roma lakosság aránya.\n\n(Írja be a három kiválasztott sorszámot!)",
+                    "correct": [
+                        "3, 4, 6",
+                        "3,4,6",
+                        "3. 4. 6.",
+                        "3 4 6"
+                    ],
+                    "points": 3,
+                    "explanation": "3. – 569 000 / 10 142 000 ≈ 5,6%. 4. – a romák 10,4%-a él Budapesten, szemben a 17%-os országos aránnyal – kevésbé urbanizáltak. 6. – a népesség 35%-a (több mint harmada) él községekben."
+                },
+                {
+                    "id": "t12-b",
+                    "type": "multiple-choice",
+                    "question": "12. feladat (folytatás) – Magyarországi romák\n\nb) Melyik – a lakóhelyhez köthető – jelenség ronthatja a magyarországi romák életfeltételeit? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "antiszemitizmus",
+                        "integráció",
+                        "szegregáció"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A szegregáció a térbeli-társadalmi elkülönülés (pl. roma telepek, falvakba szorulás), amely rontja az oktatási, munkaerőpiaci és életfeltételeket. Az integráció ennek ellentéte, az antiszemitizmus pedig a zsidósággal kapcsolatos."
+                }
+            ]
+        },
+        "szoveges": {
+            "timeLimit": 150,
+            "maxPoints": 100,
+            "tasks": [
+                {
+                    "id": "t13",
+                    "type": "essay",
+                    "question": "13. feladat – Athéni demokrácia (RÖVID, egyetemes történelem, 1849-ig)\n\nMutassa be a forrás és ismeretei segítségével, miként biztosították az athéni demokráciában a polgárok részvételét a közügyekben!\n\nForrás: „Így azután a színházi pénzekkel, a törvényszéki napidíjakkal, s a más címeken kifizetett összegekkel és községélyekkel [Periklész] megnyerte magának a népet.” (Plutarkhosz ókori történetíró)\n\n(Rövid feladat, egyetemes történelem, 1849 előtti korszak. Maximum 17 pont.)",
+                    "minWords": 120,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti a feladatot",
+                                "1 – Részlegesen érti",
+                                "2 – Alapvetően az athéni polgároknak a demokráciában való részvételét mutatja be, a forrás felhasználásával összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli/időbeli elem",
+                                "1 – Legalább egy szerepel",
+                                "2 – Rögzíti, hogy az athéni demokrácia a Kr. e. 5. században élte virágkorát, és Athénra vonatkoznak a megállapítások"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs szakkifejezés",
+                                "1 – 1-2 szakkifejezést használ",
+                                "2 – Legalább 3 szakkifejezés: demokrácia, polgár, népgyűlés, sorsolás/választás"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Szavakból álló vázlat / sok hiba",
+                                "1 – Több hiba, rosszul szerkesztett",
+                                "2 – Értelmes mondatok, logikus felépítés, nincs súlyos nyelvhelyességi hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés, források használata (F)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs helyes tény vagy megállapítás",
+                                "1 – Van tény vagy megállapítás",
+                                "2 – Pontatlan megállapítás",
+                                "3 – Rögzíti, hogy Periklész fizetett a színházi előadásokon / a népbíróságokon való részvételért, és megállapítja, hogy ez lehetővé tette a szegények részvételét a közügyekben"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E1) – népgyűlés",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részlegesen",
+                                "3 – Rögzíti, hogy a népgyűléseken minden athéni polgár részt vehetett, és megállapítja, hogy csak a felnőtt, szabad férfiak lehettek polgárok; a népgyűlés tagjai vettek részt a cserépszavazásban, a népgyűlésen szavaztak a törvényekről, választottak tisztségviselőket; a politikai jogok gyakorlása területi alapú beosztás szerint történt"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E2) – tisztségek",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzít egy lényeges tényt a tisztségek betöltésével kapcsolatban (pl. a tisztségek többségét sorsolással töltötték be; a sztratégoszt választották), és ezzel kapcsolatban lényegi megállapítást tesz (pl. mindenkinek ugyanakkora esélye volt; a sorsolás esetén nem számított az anyagi háttér a tisztségek betöltésénél; az egyéni képességek is számítottak a választásnál; egyes hivatalokat / a sztratégoszi tisztséget csak a legvagyonosabb réteg tagjai tölthették be)"
+                            ]
+                        }
+                    ],
+                    "explanation": "Az athéni demokrácia Kr. e. 5. században (Periklész kora) a közvetlen részvétel rendszere volt: népgyűlés (ekklészia), sorsolás a tisztségekre, esküdtbíróságok, majd a periklészi fizetés (diéta) révén a szegények is részt vehettek a közügyekben. Polgárjog csak a felnőtt, szabad, athéni születésű férfiakat illette meg."
+                },
+                {
+                    "id": "t14",
+                    "type": "essay",
+                    "question": "14. feladat – A második ipari forradalom (RÖVID, egyetemes történelem, 1849 utáni)\n\nMutassa be a forrás és ismeretei segítségével az autógyártás megindulását és jelentőségét a második ipari forradalom korában!\n\n<div class=\"image-placeholder\">🖼 Munka a Ford-autógyárban (Detroit, 1910-es évek) — futószalagos autógyártás fényképe — lásd feladatsor PDF (17. oldal)</div>\n\n(Rövid feladat, egyetemes történelem, 1849 utáni korszak. Maximum 17 pont.)",
+                    "minWords": 120,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően az autógyártás jelentőségét mutatja be a második ipari forradalom korában, lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli/időbeli elem",
+                                "1 – Egy van",
+                                "2 – Rögzíti, hogy a 19. század második felében / utolsó harmadában / a 20. század elején zajlott a második ipari forradalom, és hogy az autógyártás fejlődő központja az Amerikai Egyesült Államok / Németország volt"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3: ipar, gyár, második ipari forradalom, futószalag(os termelés)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat / sok hiba",
+                                "1 – Néhány hiba",
+                                "2 – Értelmes, logikus, nincs súlyos nyelvhelyességi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés, források (F)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény",
+                                "2 – Pontatlan megállapítás",
+                                "3 – Rögzíti, hogy Ford üzemében / az autógyártásban bevezették a futószalagos gyártást, és lényegi megállapítást tesz (pl. ez tette olcsóbbá / tömegtermékké az autót; segítette az elektromotor / az elektromos világítás megjelenését)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E1) – előzmények",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti, hogy az autógyártás előzménye / feltétele a robbanómotor feltalálása volt, és lényegi megállapítást tesz (pl. emiatt nőtt a kőolajkitermelés / -finomítás; emiatt további fejlődött a vas- / acélgyártás; ez eredményezte a gumigyártás / vegyipar fejlődését; az autógyártás a második ipari forradalom egyik húzóágazata vált)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E2) – hatások",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy az autógyártás forradalmasította a közúti közlekedést, és lényegi megállapítást tesz (pl. a 19. században még csak kevesek engedhették meg maguknak az autót; az autó csak a két világháború között / a második világháború után vált tömegtermékké; átalakította a városi közlekedést / tömegközlekedést; megkezdődött az utak aszfaltozása, kidolgozták a közlekedési szabályokat; az autó a szabadság, a fiatalság / az amerikai életforma jelképévé vált; a szárazföldi közlekedés nagyobbrészt továbbra is vasúton zajlott)"
+                            ]
+                        }
+                    ],
+                    "explanation": "A 19. század végén – 20. század elején zajló második ipari forradalom új húzóágazata volt az autógyártás. A robbanómotor (Otto, Daimler, Benz) feltalálása után Henry Ford vezette be a futószalagos tömegtermelést (Model T, 1913), amely olcsóvá tette az autót és átalakította a közlekedést, az életmódot, a városokat."
+                },
+                {
+                    "id": "t15",
+                    "type": "essay",
+                    "question": "15. feladat – A tatárjárás (HOSSZÚ, magyar történelem, 1849-ig)\n\nMutassa be a tatárjárás menetét, és világítson rá közvetlen következményeire! A tatárjárást követő újjáépítésről nem kell írnia. Használja a középiskolai történelmi atlaszt!\n\n<div class=\"image-placeholder\">🖼 Mongol harcosok középkori ábrázolása — lásd feladatsor PDF (19. oldal)</div>\n\nForrás 1: „Tudja meg tehát Szentatyaságtok, hogy a Keresztre feszített ellenségei, akiket tatároknak hívnak […] Magyarországra törve, az ország legnagyobb részét […] elpusztították. Mi […] elég sokan és megfelelően felfegyverezve behúzódtunk Fehérvár, Esztergom, Veszprém, Tihany, Győr, Pannonhalma, Moson, Sopron, Vasvár, Németújvár, Zala, Léka várába és más Dunán inneni várakba és erődített helyekre, a túlsó oldalon pedig Pozsony, Nyitra, Komárom, Fülek, Abaúj-vár és más várakba, és hasonlóképpen megerősített helyekre.” (Egyházi és világi előkelők levele a pápának, 1242. február 2.)\n\nForrás 2: „Elkezdtük bejárni a puszta és elhagyott földet, amelyet [a tatárok] elmenetelükkor pusztítottak el. Az egyházak tornyai voltak útmutató jeleink egyik helységből a másikba, és ezek is borzalmas utat jelöltek. Mert az utak és ösvények el voltak törölve, fű meg hiányzó bozót lepte be őket. Hagyma, […] répa és fokhagyma, ami a parasztok kertjében megmaradt, ha néhol rájuk bukkantam, nyalánkságszámba mentek számomra. […] Végre odahagytuk az erdő magányát, és a nyolcadik napon Gyulafehérvár városába érkeztünk, ahol semmit sem találtunk, csak a megöltek csontjait és koponyáit, a bazilikák és paloták szétrombolt és aláásott falait, amelyeket szerfölött sok keresztény vér kiontásával mocskoltak be.” (Rogerius itáliai származású magyar főpap korabeli leírása)\n\n(Hosszú feladat, magyar történelem, 1849 előtti korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően a tatárjárás menetét és közvetlen következményeit mutatja be, összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T1 (idő)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs időbeli elem",
+                                "1 – Részben",
+                                "2 – Rögzíti a tatárjárás idejét: 1241–1242"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T2 (tér)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli elem",
+                                "1 – Egy van",
+                                "2 – Rögzíti a téma legalább két térbeli elemét (pl. a tatárok kelet felől érkeztek; elfoglalták Kijevet; három irányból törtek be az országba; a főserag a Vereckei-hágón át érkezett; a döntő ütközetre Muhinál került sor, eleinte az Alföldet pusztították, később átkeltek a Dunántúlra, IV. Béla Dalmáciába / Trau várába menekült)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K1 (általános fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3 általános fogalom: hadsereg, harcmodor, uralkodó / király, csata, népesség"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K2 (konkrét történelmi fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3: tatárjárás, (könnyű)lovas, (kő)vár, éhezés / éhínség"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K3 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat",
+                                "1 – Sok hiba",
+                                "2 – Értelmes, logikus, helyes"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F1 (mongol harcmodor)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a forrás egy lényegi elemét (pl. a mongolok / tatárok jellemzően könnyűlovasok voltak; fontos fegyverük volt az íj), és lényegi megállapítást tesz (pl. harcmodoruk hasonlított a honfoglalás kori magyarokéra; ez jelentősen eltért a Magyarországon / Európában elterjedt nehézpáncélos hadviseléstől; előnyük volt a gyorsaság; a tatárok a Mongol Birodalom egy népe / segédhadserege voltak)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F2 (várak, menekülés)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy az előkelő réteg / a lakosság egy része várakba menekült, és lényegi megállapítást tesz (pl. a tatárok a kővárakat nem tudták bevenni; nem hoztak Magyarországra elegendő ostromgépet; nem készültek fel ilyen sok erődített településre; a magyar előkelők a pápától vártak segítséget; a megígért keresztes hadak nem érkeztek meg)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F3 (pusztítás)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a forrás egy lényegi elemét (pl. a tatárok elpusztított földeket / településeket hagytak maguk után; sok embert megöltek; a tatárjárás éhínséget okozott), és lényegi megállapítást tesz (pl. a tatárjárás jelentős népességcsökkenést okozott; a legnagyobb pusztulás az Alföldön történt; a népességpusztulást járványok is fokozták)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E1 (menete, IV. Béla)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít egy lényeges tényt a tatárjárás körülményeire (pl. Batu kán volt a Magyarországra támadó sereg vezére; Julianus barát hírt adott a mongol fenyegetésről; IV. Béla befogadta a tatárok elől menekülő kunokat; a tatárok áttörtek a gyepün / legyőzték a nádor seregét), és lényegi megállapítást tesz (pl. a mongolok nagy népet leigázva hatalmas birodalmat hoztak létre; Julianus eredetileg a magyar őshazát kereste; IV. Béla Magyarországot akarta megerősíteni a könnyűlovas kunokkal; a kunok összetűzése keveredett a magyarokkal, és kivonultak; a nádor serege megpróbálta eltorlaszolni a Kárpátok hágóit)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E2 (Muhi)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a magyar főseregt Muhinál vereség érte, és lényegi megállapítást tesz rá (pl. a vereség fő oka a tatárok túlereje volt; IV. Béla sikerült kimenekítenie a csatából)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E3 (tatárok elhagyják)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a tatárok elhagyták az országot / a tatár uralom nem vált tartóssá, és lényegi megállapítást tesz rá (pl. váratlan távozásuk oka máig vitatott; a magyarországi hadjárat jelentős veszteséget okozott a tatárok számára; IV. Bélát nem tudták elfogni / adófizetővé tenni)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Korlátozott",
+                                "3 – Önálló ismeretekkel, helyes megállapításokkal kiegészíti és alátámasztja az elemzést"
+                            ]
+                        }
+                    ],
+                    "explanation": "A tatárjárás 1241–1242-ben zajlott: Batu kán mongol serege Julianus barát figyelmeztetése ellenére három irányból tört be Magyarországra, a főerő a Vereckei-hágón jött. A döntő muhi csatában (1241. április 11.) IV. Béla serege vereséget szenvedett. A király Dalmáciába, Trau várába menekült. A tatárok az Alföldet és a Dunántúlt is feldúlták, 1242 tavaszán – máig vitatott okból – váratlanul elhagyták az országot. Nagy volt a népességvesztés, a kővárak viszont bizonyították védelmi jelentőségüket."
+                },
+                {
+                    "id": "t16",
+                    "type": "essay",
+                    "question": "16. feladat – A Kádár-korszak gazdaságpolitikája (HOSSZÚ, magyar történelem, 1849 utáni)\n\nMutassa be a források és ismeretei segítségével a Kádár-korszak gazdaságpolitikáját és az életszínvonallal kapcsolatos politikáját az 1960-as és az 1970-es években!\n\nForrás 1 – A mezőgazdaság szövetkezetesítése 1956–1961:\n\n| Év | A szövetkezetek száma | A szövetkezeti tagok száma (1000 fő) | A szövetkezetek földterülete (1000 hektár) |\n|---|---|---|---|\n| 1956 | 2089 | 119 | 597 |\n| 1957 | 3394 | 156 | 820 |\n| 1958 | 3507 | 169 | 958 |\n| 1959 | 4489 | 565 | 2620 |\n| 1960 | 4576 | 960 | 3941 |\n| 1961 | 4681 | 1221 | 4539 |\n\nForrás 2: „A gazdasági növekedés fontos forrásai, tartalékai erősen kimerülőben vannak, s a jövőbeni gyors növekedése csakis a gazdaság belső tartalékainak intenzívebb feltárása, a műszaki fejlődés meggyorsítása révén lehetséges. A reform […] arra törekszik, hogy az egyes dolgozó életszínvonala a jelenleginél jobban függjön munkája társadalmi hasznosságától, egyéni teljesítményétől és a kollektív munka eredményességétől.” (Az MSZMP Központi Bizottságának határozata, 1966. május)\n\n<div class=\"image-placeholder\">🖼 „Új és bontásra ítélt régi házak Óbudán, 1971” — panel-lakótelepek és lerobbant régi házak egymás mellett — lásd feladatsor PDF (20. oldal)</div>\n\n(Hosszú feladat, magyar történelem, 1849 utáni korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően a Kádár-korszak gazdasági jellegzetességeit és az életszínvonal vonásait mutatja be az 1960-as és 1970-es években, a források felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T1 (idő)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzíti a Kádár-korszak időbeli határait: 1956–1988/89, vagy rögzíti az új gazdasági mechanizmus bevezetésének időpontját: 1968"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T2 (tér)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzíti a téma egy térbeli elemét (pl. Magyarország a szovjet tömb része volt), vagy említ legalább egy szocialista iparvárost"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K1 (általános fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 általános történelmi fogalom: diktatúra, államosítás, parasztság / munkásság, életszínvonal"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K2 (konkrét történelmi fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3: új gazdasági mechanizmus, háztáji, kollektivizálás, tervgazdaság / tervutasításos rendszer"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K3 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat",
+                                "1 – Sok hiba",
+                                "2 – Értelmes, logikus, helyes"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F1 (szövetkezetesítés)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a táblázat egy lényegi elemét (pl. nőtt a szövetkezetek / szövetkezetekben dolgozók / szövetkezeti földterületek száma; megvalósult a szövetkezetesítés / kollektivizálás), és lényegi megállapítást tesz (pl. a kollektivizálást a Rákosi-korszakban nem tudták teljesen véghezvinni; a kollektivizálásért cserébe megengedték a háztáji gazdaságok működését; a szövetkezetek létrehozásában pozitív ösztönzést is alkalmaztak; a kollektivizálás miatt a parasztság jelentős része a városi munkásréteg tagjává vált / felhagyott a mezőgazdasággal; a magántulajdon aránya a mezőgazdaságban minimálisra csökkent; növelték a termelés hatékonyságát)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F2 (új gazdasági mechanizmus)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a forrás egy lényegi elemét (pl. a gazdasági növekedés megállt; a gazdasági növekedés a belső tartalékokra / műszaki fejlődésre épülhet; a dolgozó teljesítménye határozza meg az életszínvonalát), és lényegi megállapítást tesz (pl. felismerték, hogy a viszonylagos jólét / magasabb életszínvonalat sem képes a gazdaság fenntartani; az életszínvonal megőrzése / növelése volt a reform célja; az árak és a bérek bizonyos területeken emelkedtek; a tervgazdaság alapjait nem változtatták meg, ezért a reform nem volt sikeres; valójában csak gazdaságirányítási reform volt; az állami tulajdont nem magánosították; a reformot politikai okokból néhány éven belül leállították)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F3 (életkörülmények, lakótelepek)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a kép egy lényegi elemét (pl. lakótelepek épültek; a városok elveszítették hagyományos arculatukat), és lényegi megállapítást tesz (pl. csökkent a lakáshiány; a lakáshoz jutás nehézkes volt; a lakótelepek összkomfortot biztosítottak lakóiknak; nőtt a városi lakosság; a lakótelepi lakások jól felszereltek voltak; a háztartási cikkek viszonylagos bősége miatt fridzsiderszocializmusnak is nevezték a korszakot; a lakótelepeket a munkaerő iparba / városba áramlása miatt építették; a kis lakótelepi lakások negatívan hatottak a gyermekvállalásra; fellendült az építőipar; a lakótelep-építés felgyorsította az urbanizációt)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E1 (tervgazdaság)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a tervgazdaság maradt a rendszer gazdasági alapja, és lényegi megállapítást tesz (pl. az Állami Tervhivatal határozta meg a termelés mennyiségét / a béreket és az árakat; a gazdaság fenntartása politikai / ideológiai okokból szükséges volt; a gazdaságra nagyrészt az állami tulajdon volt jellemző; az ötéves tervek az életszínvonal javítására irányultak, fenntartották a nehézipar fontosságát, de a fogyasztási cikkek gyártását is ösztönözték; a tervgazdaság nem volt hatékony)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E2 (életszínvonal)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a Kádár-rendszer célja az életszínvonal növelése volt, és lényegi megállapítást tesz (pl. az életszínvonal fenntartása hozzájárult a rendszer társadalmi elfogadásához; az életszínvonal fenntartása jelentős többletmunkával volt biztosítható; a háztájiban végzett pluszmunka jelentősen javította az élelmiszer-ellátást; ez javította a Kádár-rendszer elfogadottságát; a jobb életkörülmények miatt szokták a rendszert gulyáskommunizmusnak / fridzsiderszocializmusnak nevezni; a kádári alku szerint a lakosság a jobb életkörülményekért cserében nem politizált)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E3 (életkörülmények javítása)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít egy, az életkörülmények javítását szolgáló – forrásban nem szereplő – intézkedést (pl. az iskolahálózat bővítése; az élelmiszerárak alacsonyan tartása; a társadalombiztosítás kiterjesztése; a sport támogatása; családtámogatások – pl. gyes – bevezetése), és lényegi megállapítást tesz rá vonatkozóan (pl. nőtt az iskolázottság; a korszakban már nem volt jellemző az éhezés; a sporteredményeket a politikai propaganda kihasználta; a családtámogatások átmenetileg pozitívan hatottak a gyermekvállalásra)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Korlátozott",
+                                "3 – Önálló ismeretekkel, helyes megállapításokkal kiegészíti és alátámasztja az elemzést"
+                            ]
+                        }
+                    ],
+                    "explanation": "A Kádár-korszak (1956–1988/89) gazdaságpolitikája kettős: megmaradt a szovjet mintájú tervgazdálkodás (állami tulajdon, Állami Tervhivatal), de 1968-ban bevezették az új gazdasági mechanizmust, amely piaci elemeket is megengedett. A szövetkezetesítés (kollektivizálás) 1959–1961-re lezajlott, a háztáji gazdaság mérsékelte a feszültséget. Az életszínvonal emelése volt a rendszer legitimációs alapja: lakótelep-építés, tartós fogyasztási cikkek, családtámogatások – ezt nevezik „gulyáskommunizmusnak” vagy „fridzsiderszocializmusnak”. Az eladósodás a 70-es évekre mindezt veszélyeztette."
+                }
+            ]
+        }
+    }
+}

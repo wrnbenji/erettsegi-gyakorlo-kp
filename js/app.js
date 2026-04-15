@@ -152,6 +152,67 @@ const exams = [
 
 export { exams };
 
+const historyExams = [
+    {
+        id: 'tort-2022-maj',
+        year: 2022,
+        session: 'Május',
+        date: '2022. május 4.',
+        feladatsor: `${BASE_URL}/feladatok_2022tavasz_kozep/k_tort_22maj_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2022tavasz_kozep/k_tort_22maj_ut.pdf`
+    },
+    {
+        id: 'tort-2022-okt',
+        year: 2022,
+        session: 'Október',
+        date: '2022. október 19.',
+        feladatsor: `${BASE_URL}/feladatok_2022osz_kozep/k_tort_22okt_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2022osz_kozep/k_tort_22okt_ut.pdf`
+    },
+    {
+        id: 'tort-2023-maj',
+        year: 2023,
+        session: 'Május',
+        date: '2023. május 10.',
+        feladatsor: `${BASE_URL}/feladatok_2023tavasz_kozep/k_tort_23maj_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2023tavasz_kozep/k_tort_23maj_ut.pdf`
+    },
+    {
+        id: 'tort-2023-okt',
+        year: 2023,
+        session: 'Október',
+        date: '2023. október 18.',
+        feladatsor: `${BASE_URL}/feladatok_2023osz_kozep/k_tort_23okt_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2023osz_kozep/k_tort_23okt_ut.pdf`
+    },
+    {
+        id: 'tort-2024-maj',
+        year: 2024,
+        session: 'Május',
+        date: '2024. május 8.',
+        feladatsor: `${BASE_URL}/feladatok_2024tavasz_kozep/k_tort_24maj_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2024tavasz_kozep/k_tort_24maj_ut.pdf`
+    },
+    {
+        id: 'tort-2024-okt',
+        year: 2024,
+        session: 'Október',
+        date: '2024. október 16.',
+        feladatsor: `${BASE_URL}/feladatok_2024osz_kozep/k_tort_24okt_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2024osz_kozep/k_tort_24okt_ut.pdf`
+    },
+    {
+        id: 'tort-2025-maj',
+        year: 2025,
+        session: 'Május',
+        date: '2025. május 7.',
+        feladatsor: `${BASE_URL}/feladatok_2025tavasz_kozep/k_tort_25maj_fl.pdf`,
+        megoldas: `${BASE_URL}/feladatok_2025tavasz_kozep/k_tort_25maj_ut.pdf`
+    }
+];
+
+export { historyExams };
+
 // --- Render exam items for a task type ---
 function renderExamList(containerId, taskType) {
     const container = document.getElementById(containerId);
@@ -180,6 +241,38 @@ function renderExamList(containerId, taskType) {
             </div>
         `;
     }).join('');
+}
+
+// --- Render történelem exam cards ---
+function renderHistoryExams() {
+    const container = document.getElementById('tortenelem-grid');
+    if (!container) return;
+
+    const sortedExams = [...historyExams].reverse();
+
+    if (sortedExams.length === 0) {
+        container.innerHTML = '<p class="empty-msg">Még nincs feltöltött történelem feladatsor.</p>';
+        return;
+    }
+
+    container.innerHTML = sortedExams.map(exam => `
+        <div class="exam-full-card" data-exam-id="${exam.id}">
+            <div class="exam-full-header">
+                <h3>${exam.year}. ${exam.session}</h3>
+                <div class="date">${exam.date}</div>
+            </div>
+            <div class="exam-full-body">
+                <ul class="links-list">
+                    <li><a href="${exam.feladatsor}" target="_blank">&#128196; Feladatsor letöltése (PDF)</a></li>
+                    <li><a href="${exam.megoldas}" target="_blank">&#9989; Javítási útmutató (PDF)</a></li>
+                </ul>
+                <div class="exam-item-links" style="margin-top:12px;">
+                    <button class="btn-gyakorlas" data-exam-id="${exam.id}" data-section="rovid">I. Rövid feladatok</button>
+                    <button class="btn-gyakorlas" data-exam-id="${exam.id}" data-section="szoveges">II. Szöveges feladatok</button>
+                </div>
+            </div>
+        </div>
+    `).join('');
 }
 
 // --- Render full exam cards ---
@@ -327,6 +420,7 @@ document.addEventListener('DOMContentLoaded', () => {
     renderExamList('muveleti-list', 'muveleti');
     renderExamList('szovegalkotas-list', 'szovegalkotas');
     renderFullExams();
+    renderHistoryExams();
     renderDynamicStats();
 
     // Pre-load exam data for search, then init search

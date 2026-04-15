@@ -1,258 +1,450 @@
 {
     "id": "2024-maj",
     "year": 2024,
-    "session": "Majus",
-    "date": "2024. majus 6.",
+    "session": "Május",
+    "date": "2024. május 6.",
     "sections": {
         "szovegertes": {
             "timeLimit": 60,
             "maxPoints": 40,
-            "sourceText": "A közösségi média hatása a fiatalok önképére\n\nAz okostelefon és a közösségi platformok elterjedésével a tizenévesek mindennapjai gyökeresen megváltoztak. Az Instagram, a TikTok és hasonló alkalmazások ma már nem csupán szórakoztatnak: aktívan formálják a fiatalok önértékelését, társadalmi kapcsolatait és a világról alkotott képét. Egyre több pszichológus és szülő teszi fel a kérdést: valójában milyen hatást gyakorol ez a folyamatos digitális jelenlét a serdülők lelki egészségére?\n\nA kutatások nem egységes képet mutatnak. Egyes vizsgálatok szerint a közösségi média lehetőséget ad az önkifejezésre és a hasonló érdeklődésű emberek megtalálására – különösen azok számára, akik szűkebb környezetükben marginalizálva érzik magukat. Egy brit tizenéves például LMBTQ+ csoportokban találhat elfogadásra, amelyet a saját osztályközösségében nem kap meg. Ilyen esetekben a digitális közösség valódi támaszt nyújthat.\n\nAzonban a visszajelzés-alapú működés – a lájkok, követők száma, a kommentek világa – súlyos pszichológiai kockázatokat rejt. A folyamatos összehasonlítás mások gondosan szerkesztett képeivel torz önképet alakíthat ki. A szociálpszichológia már régóta ismeri az úgynevezett 'felfelé irányuló társadalmi összehasonlítás' jelenségét: ha valaki nálunknál sikeresebb, szebb vagy boldogabbnak tűnő emberekkel hasonlítja össze magát, az önértékelése csökken. A közösségi média ezt a mechanizmust fokozza fel – és teszi szinte folyamatossá.\n\nJonathan Haidt szociálpszichológus 2023-ban megjelent könyvében ('The Anxious Generation') összefoglalja az elmúlt évtized kutatásait, és arra a következtetésre jut, hogy az okostelefon tömeges elterjedése a serdülők körében egybeesett a szorongásos és depressziós tünetek jelentős növekedésével – különösen a lányok között. A szerző óvatosságra int az egyenes ok-okozati következtetésekkel, de sürgeti a szabályozást és a digitális nevelés erősítését.\n\nA megoldás nem egyszerűen az eszközök betiltása. A digitális írástudás – a médiatartalmak kritikus értékelése, az algoritmusok működésének megértése, az egészséges határok kialakítása – mára alapvető készséggé vált. Az iskolai és otthoni közegnek egyaránt szerepe van abban, hogy a fiatalok ne passzív fogyasztóként, hanem tudatos felhasználóként viszonyuljanak a közösségi médiához.",
+            "sourceText": "Leczo Bence: Tekercsek, kódexek, átkok – történetek a könyvek születéséről\n\n1. A könyv általában a bölcsesség és az isteni tudás szimbóluma, kinyilvánított vagy ki nem nyilvánított voltára a könyv becsukott, illetve kinyitott állapota utal az ábrázolásokon. Egyiptomban a Halottak könyvét a halott mellé helyezték a sírba, hogy igazolja őt a túlvilágon. A könyv eredetileg – vagyis még írástekercsként – hatalmi szimbólum volt, amit az uralkodó tartott a kezében saját törvényeinek jelképeként.\nA Könyvek könyve, vagyis a Biblia nevét közvetetten Büblósz városáról kapta. A biblion ógörögül könyvtekercset jelent, és az egyiptomi papiruszjelentésű biblosz szóból származik, ami pedig Bübloszról kapta a nevét. [...] A kötet fedelén az alfa és az ómega, a kezdet és a vég betűje látható. Ez a könyv az isteni tudás szimbóluma. Leggyakrabban az evangélistákat ábrázolják könyvekkel. Az ikonográfiában az Ószövetség irattekercsként, míg az Újszövetség könyvként jelenik meg.\nA muszlimok hite szerint a Korán Allah része, és korábban keletkezett, mint a világ.\nA Biblia, a Korán vagy a kínai Si-king mindegyike könyvgyűjtemény, amik fára, kő- és agyagtáblákra, viaszlapokra, papirusztekercsekre készültek vagy szájhagyomány útján maradtak fenn. Ilyenkor maga a tudó a könyv, a hordozó.\n\n2. Ha könyvre gondolunk, azonnal a nyomtatás jut eszünkbe. De míg Gutenberg találmánya után valóban ezt jelenti a könyv, addig a középkorban a kódexek, az ókorban pedig a tekercsek látták el ugyanezt a funkciót. Az alexandriai könyvtárban vagy hétszázezer tekercset őriztek, de a jelenlegi becslések szerint is egy időben félmillió művet tároltak itt – ez az akkoriban létező összes könyv harminc és hetven százaléka között lehetett. Több mint száz tudós dolgozott itt, hogy kutassanak, fordítsanak, másoljanak.\n\n3. Nem a görögöknél indult azonban a műveltség: a babiloniak agyagtáblát használtak hordozóként. Ennél már csak a falfeliratok régebbiek. Az írás megjelenése végtelenül gyakorlatias: ha egy ember meghal, minden megszerzett tudása a sírba száll, és lehetetlenség reprodukálni azt, csak a csalóka emlékezetben bízhatunk. Az írás kezdetben fix helyekre – kőre, fára, falra – készült, csak később lett igény arra, hogy mobilis legyen, így lett a fa vagy agyagtábla hordozóvá, könyvvé. Ezeket aztán gyűrűkkel kapcsolták egymásba, ami ugyan mobilisabb volt, mint egy falra rótt szöveg, de még mindig súlyosak voltak – egyes történetek szerint a kínai vándorfilozófus, Mo Ti háromszekérnyi bambuszkötegkönyvvel utazgatott.\nBabilonban és Asszíriában az agyagtábla-irodalom hatalmas termeket töltött meg, miközben klasszikus könyvként jóval kisebb helyen is elférnének. A merev felületre való írás egyrészt nehezíti a hibák javítását, de egyébként magát az írást is energiaigényesebb feladattá teszi.\nÍgy a papirusz, a pergamen és a papír megkönnyítette az írást, és a hordozhatóságot is: sőt, az anyag definiálta a formát is. A papiruszt nem lehetett hajtogatni, mert megtörik, cserébe jól hajlítható, ezzel meg is született a tekercs. Ez a könnyebbség járulhatott hozzá, hogy terjedelmesebb művek is fennmaradtak, például Homérosz eposzai.\n\n4. A pergament – amely kezelt állatbőr – már lehetett hajtogatni, és a másik oldalára is lehetett írni, ami a papirusznál a rostozat miatt nehézkes: nagyobb terjedelmű művek így kisebb helyet foglaltak, mint korábban. És bár a pergamen jobb volt, mint a papirusz, egy Biblia lemásolásához egy komplett juhnyáj bőrére volt szükség. Egyre csak gyarapodott a leírandó tartalom, így a papír megjelenése – több más kritérium teljesülésével – nemcsak a könyvek nagy számú születését tette lehetővé, hanem azt is elérte, hogy a műveltség ne csak egy kisebbség privilégiumai közé tartozzon.\n\n5. A pergamen megjelenése mellett az ókori Rómában elkezdték összefűzni és falapokkal lezárni az oldalakat, ezzel pedig megszületett a könyv formátuma. Míg a papirusztekercsek tartásához olvasás közben két kézre volt szükség, addig a kódexet csak letámasztották, és jegyzetelni is lehetett böngészés közben. A kereszténység elterjedése pedig a kódex dominanciáját hozta magával, és a Kr. u. 6. századra teljesen felváltotta a tekercset. A könyv mellett a másik forradalmi újítás a könyvnyomtatás volt, amit Johannes Gutenberg találmányához kötünk, viszont ennek is voltak előzményei.\n\n6. Az első, keletkezési dátummal ellátott nyomtatott könyvet például nem Németországban, hanem Kínában kell keresni az első évezredben, ez volt a Gyémánt szútra 868 körül. A technika faragott fakockák felhasználásából állt. A Gyémánt szútra megtalálója egy taoista szerzetes volt 1900-ban, aki felfedezett egy, a 11. század óta lezárt üreget. Az első európai, aki láthatta az ott őrzött dokumentumokat, a magyar Sir Stein Aurél volt. [...]\nAz iratok között ott volt a Gyémánt szútra is. Az általa felfedezett csaknem félezer barlang a világ legnagyobb szabadtéri galériája, több mint negyvenötezer négyzetméternyi, élénk színű freskóval, amiket a sivatagi szél remekül megőrzött. Érdekes adalék, hogy ekkoriban a brit indiai kormányzat szolgálatában állott Stein Aurél, így a megtalált tárgyak a British Museum gyűjteményét gyarapították. Rövid budapesti látogatásaikor előadásokat is tartott, 1895-től az MTA tagja volt. Végrendeletében nyomtatott könyveit, kéziratai egy részét és hétezres fényképgyűjteményét az Akadémia könyvtárára hagyta.\n\n7. Mindeközben Európában másolóműhelyek működtek. Itt másolták, díszítették az egyházi és világi köteteket. Úgy kezelték, mint az Istenhez közelítés egy módját. A másolási procedúra hosszas volt, és rengeteg munkát igényelt, éppen ezért a másolók – jobb híján – átkokkal igyekeztek védeni a művet. Egy középkorból fennmaradt könyvátok így szól: „Ki e könyvet ellopta vagy kölcsönkérte, de vissza sose adta tulajdonosának, váljék e könyv kezében kígyóvá, mely szétmarcangolja. A bénulás átka sújtson reá és az összes rokonára.” [...]\n\n8. Gutenberg a 15. század közepén találta fel a nyomdagépet, s ezzel megnyílt az út a tömeggyártás és a kereskedelmi célú könyveladások tömegesítése előtt.\nA század végére Németországban már kb. háromszáz nyomda működött. A reneszánsz európai elterjedéséhez hozzájárult, hogy viszonylag olcsón váltak elérhetővé a nagy ókori klasszikusok. Azzal, hogy egyszerre sok ember ugyanazt a könyvet olvashatta, politikai és kulturális irányzatok alakulhattak ki, és terjedhettek el addig nem ismert gyorsaságban. A széles körben megismert könyveknek köszönhetően különböző országok tudósai relatíve hamar jutottak hozzá kollégáik munkáihoz, ami segítette a technológiai fejlődést is.\n\n9. Ezekhez a forradalmi változásokhoz kapcsolódik egy újabb paradigmaváltás, aminek a szemtanúi lehetünk. Az még nem mondható meg, hogy a digitalizált szöveg miként alakítja át a hozzá kötődő viszonyunkat: milyenek lesznek a szerzői jogok, ha egyáltalán lesznek, hogyan befolyásolják az olvasási szokásokat a digitális hordozók egy olyan korban, amikor a könyv nem tűnt el teljesen, de már nem számít elsődleges információhordozónak.",
             "tasks": [
                 {
-                    "id": "sz-01",
-                    "type": "multiple-choice",
-                    "question": "Mi a szöveg központi témája?",
-                    "options": [
-                        "Az okostelefonok műszaki fejlődése",
-                        "A közösségi média hatása a fiatalok önképére és lelki egészségére",
-                        "A digitális tartalmak szabályozásának jogi kérdései",
-                        "A tizenévesek iskolai teljesítményének romlása"
+                    "id": "sz-01a",
+                    "type": "short-answer",
+                    "question": "A Tekercsek, kódexek, átkok – történetek a könyvek születéséről című szöveg műfaja / szövegtípusa ismeretterjesztő szöveg. Melyik stílusrétegbe sorolható ez a műfaj?",
+                    "sampleAnswer": "A tudományos stílusrétegbe.",
+                    "correct": [
+                        "tudományos stílusréteg",
+                        "tudományos stílus",
+                        "tudományos"
                     ],
-                    "correct": 1,
+                    "points": 1,
+                    "explanation": "Az ismeretterjesztő szöveg a tudományos stílusrétegbe tartozik, mivel célja az ismeretközlés, tájékoztatás, szakszavakat használ, és a tárgyszerűségre törekszik."
+                },
+                {
+                    "id": "sz-01b",
+                    "type": "short-answer",
+                    "question": "Nevezze meg a tudományos stílusréteg két jellemzőjét a szöveg alapján!",
+                    "sampleAnswer": "Elsődleges célja az ismeretközlés, tájékoztatás. Gyakran használ szakszavakat, és magyarázó lábjegyzeteket tartalmaz.",
                     "points": 2,
-                    "explanation": "A szöveg már a címében megjelöli a fő témát, és minden bekezdés ehhez kapcsolódik: a közösségi média lélektani hatásait, kockázatait és a lehetséges megoldásokat tárgyalja. A többi válaszlehetőség csupán érintőlegesen vagy egyáltalán nem szerepel a szövegben."
+                    "explanation": "A tudományos stílusréteg jellemzői közé tartozik: ismeretközlés, pontos és egyértelmű megfogalmazás, tárgyszerűség, nyelvi és helyesírási norma követése, szakszavak használata, objektivitás, kijelentő mondatok túlsúlya, ok-okozati viszonyok, forráshivatkozás, magyarázó lábjegyzetek."
                 },
                 {
                     "id": "sz-02",
-                    "type": "true-false",
-                    "question": "A szöveg szerint a kutatások egységes, egyértelmű képet mutatnak a közösségi média hatásáról.",
-                    "correct": false,
+                    "type": "short-answer",
+                    "question": "Fogalmazza meg a szöveg témáját egy összetett mondatban! (Válasza a szöveg egészére vonatkozzon.)",
+                    "sampleAnswer": "A szöveg bemutatja a könyvek történetét az ókori tekercsektől a nyomtatásig, és ismerteti, hogyan változtak az információhordozók az idők során.",
                     "points": 2,
-                    "explanation": "A szöveg második bekezdése kifejezetten azt írja: 'A kutatások nem egységes képet mutatnak.' Ez a mondat ellentmond az állításnak, ezért az hamis."
+                    "explanation": "A válasznak tartalmilag helytállónak kell lennie (1 pont), és nyelvtanilag összetett mondatnak kell lennie (további 1 pont). A szöveg a könyvek és az írás történetét, az információhordozók fejlődését mutatja be az ókortól napjainkig."
                 },
                 {
                     "id": "sz-03",
-                    "type": "true-false",
-                    "question": "A szöveg megemlíti, hogy a közösségi média egyes marginalizált fiatalok számára valódi közösségi támaszt nyújthat.",
-                    "correct": true,
+                    "type": "fill-in",
+                    "question": "Melyik két számozott szövegegységhez kapcsolódhat leginkább az alábbi cím: „A könyv vallási szimbólum, az Istenhez közelítés módja”? Írja a szövegegységek számát!",
+                    "correct": [
+                        "1, 7",
+                        "7, 1",
+                        "1 és 7",
+                        "7 és 1"
+                    ],
                     "points": 2,
-                    "explanation": "A második bekezdés konkrét példával szemlélteti ezt: az LMBTQ+ fiatalok digitális közösségekben találhatnak elfogadásra, amelyet szűkebb valós környezetükben nem kapnak meg. A szöveg tehát valóban megemlíti ezt a pozitív lehetőséget."
+                    "explanation": "Az 1. szövegegység a könyvről mint vallási szimbólumról szól (a Biblia, a Korán, az isteni tudás szimbóluma). A 7. szövegegység a másolóműhelyekről szól, ahol a könyvmásolást „az Istenhez közelítés egy módjaként” kezelték. A két szövegegység sorrendje tetszőleges."
                 },
                 {
                     "id": "sz-04",
-                    "type": "fill-in",
-                    "question": "Melyik szerző írta 'The Anxious Generation' című könyvet, amelyre a szöveg hivatkozik? (Csak a nevet írja!)",
-                    "correct": ["Jonathan Haidt", "Haidt", "Haidt Jonathan"],
-                    "points": 2,
-                    "explanation": "A szöveg negyedik bekezdése egyértelműen megnevezi: 'Jonathan Haidt szociálpszichológus 2023-ban megjelent könyvében (The Anxious Generation)'. A szerzőt tehát a szövegből közvetlenül ki lehet olvasni."
+                    "type": "ordering",
+                    "question": "Állítsa megjelenésük szerinti időrendbe az alábbi információhordozókat a szöveg alapján! Az 1-es számot a legkorábbi információhordozó kapja!",
+                    "items": [
+                        "kódexek",
+                        "agyagtáblák",
+                        "szóbeliség",
+                        "falfeliratok"
+                    ],
+                    "correctOrder": [
+                        3,
+                        2,
+                        0,
+                        1
+                    ],
+                    "correct": {
+                        "kódexek": 4,
+                        "agyagtáblák": 3,
+                        "szóbeliség": 1,
+                        "falfeliratok": 2
+                    },
+                    "points": 1,
+                    "explanation": "A szöveg alapján a sorrend: 1. szóbeliség (szájhagyomány útján maradtak fenn), 2. falfeliratok (ennél már csak a falfeliratok régebbiek), 3. agyagtáblák (a babiloniak agyagtáblát használtak), 4. kódexek (a középkorban a kódexek látták el a könyv funkcióját). Csak a hibátlan sorrend ér pontot."
                 },
                 {
-                    "id": "sz-05",
-                    "type": "fill-in",
-                    "question": "Hogyan nevezi a szöveg azt a jelenséget, amikor valaki nálánál sikeresebb emberekkel hasonlítja össze magát? (Írja be a pontos kifejezést!)",
-                    "correct": ["felfelé irányuló társadalmi összehasonlítás", "felfelé irányuló összehasonlítás"],
+                    "id": "sz-05a",
+                    "type": "short-answer",
+                    "question": "Milyen jelentős változást hozott az írás megjelenése az emberiség történetében? Két eltérő válaszelemet fogalmazzon meg! (3. szövegrész)",
+                    "sampleAnswer": "A tudás átörökíthetővé vált a következő nemzedékek számára, az ember halálával nem szállt sírba a megszerzett tudása. Emellett nem kellett kizárólag az emlékezetre hagyatkozni, amely megbízhatatlan lehet.",
                     "points": 2,
-                    "explanation": "A szöveg harmadik bekezdése szó szerint idézőjelben közli ezt a szociálpszichológiai szakfogalmat: 'felfelé irányuló társadalmi összehasonlítás'. A 'felfelé irányuló' jelző arra utal, hogy olyanokhoz hasonlítjuk magunkat, akiket nálunknál jobbnak, szebbnek vagy sikeresebbnek látunk."
+                    "explanation": "A 3. szövegrész alapján az írás megjelenése lehetővé tette, hogy a tudás ne szálljon a sírba az emberrel együtt, illetve hogy ne csak a csalóka emlékezetre kelljen hagyatkozni. A terjedelmesebb művek fennmaradása is elfogadható válaszelem."
+                },
+                {
+                    "id": "sz-05b",
+                    "type": "table-fill",
+                    "question": "Különítse el az íráshordozók két csoportját az írás megjelenésének szempontjából a 3. szövegrész alapján! Mindegyikre írjon két-két példát!",
+                    "headers": [
+                        "Csoport neve",
+                        "Két példa"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Csoport neve": ""
+                            },
+                            "answer": {
+                                "Csoport neve": "Fix / merev helyekre való írás",
+                                "Két példa": "kő, fa / fal"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Csoport neve": ""
+                            },
+                            "answer": {
+                                "Csoport neve": "Mobilis információhordozók",
+                                "Két példa": "papirusz, pergamen / papír / tekercs"
+                            }
+                        }
+                    ],
+                    "points": 4,
+                    "explanation": "A szöveg két csoportot különít el: 1) fix helyekre készült írás (kő, fa, fal) – ezek a legkorábbiak; 2) mobilis hordozók (agyagtábla, papirusz, pergamen, papír, tekercs) – ezek később jelentek meg. Csoportonként 1 pont a meghatározásért, 1 pont a két példáért."
                 },
                 {
                     "id": "sz-06",
+                    "type": "table-fill",
+                    "question": "Jellemezze a papiruszt és a pergament a szöveg információi alapján! (3, 4, 5. szövegrész) Töltse ki a táblázatot egy-egy további jellemzővel!",
+                    "headers": [
+                        "Az információhordozók",
+                        "előnye",
+                        "hátránya"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Az információhordozók": "papirusz",
+                                "hátránya": "nem lehet hajtogatni, mert könnyen törik"
+                            },
+                            "answer": {
+                                "előnye": "jól hajlítható / megkönnyíti az írást és a hordozhatóságot / olcsóbb a pergamennél / a tekercsforma hosszabb szövegek tárolására is alkalmas"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Az információhordozók": "pergamen",
+                                "előnye": "mindkét oldalára lehetett írni"
+                            },
+                            "answer": {
+                                "hátránya": "kezelt állatbőr, ezért drága / egy Biblia lemásolásához egy komplett juhnyáj bőrére volt szükség"
+                            }
+                        }
+                    ],
+                    "points": 2,
+                    "explanation": "A papirusz előnyei a szöveg alapján: jól hajlítható, megkönnyíti az írást és a hordozhatóságot. A pergamen hátránya: kezelt állatbőr, ami drága, egy Biblia lemásolásához egy egész juhnyáj bőrére volt szükség."
+                },
+                {
+                    "id": "sz-07a",
                     "type": "short-answer",
-                    "question": "Milyen pozitív szerepet tölthet be a közösségi média egyes fiatalok életében a szöveg szerint? Fogalmazza meg saját szavaival!",
-                    "sampleAnswer": "A szöveg szerint a közösségi média lehetőséget ad az önkifejezésre és a hasonló érdeklődésű emberekkel való kapcsolatfelvételre. Különösen azon fiatalok számára nyújthat támaszt, akik szűkebb környezetükben nem találnak elfogadásra – például az LMBTQ+ fiatalok, akik digitális közösségekben megtalálhatják azokat a kapcsolatokat, amelyek a valós életből hiányoznak.",
-                    "points": 4,
-                    "explanation": "A szöveg hangsúlyozza, hogy a közösségi média nem csupán káros: az önkifejezés és a hasonló érdeklődésű emberek megtalálásának lehetősége valódi értéket jelent, különösen azoknak, akik valós közegükben marginalizálva érzik magukat. A teljes pontszámért érdemes konkrét példát is hozni (pl. LMBTQ+ közösségek)."
+                    "question": "Hogyan változott meg az olvasás módja, amikor a tekercseket felváltották a könyvek? Válaszát az 5. szövegegység alapján fogalmazza meg!",
+                    "sampleAnswer": "A tekercsek tartásához olvasás közben két kézre volt szükség, a kódexet viszont már csak letámasztották, így felszabadult a kéz.",
+                    "points": 1,
+                    "explanation": "Az 5. szövegrész kifejti, hogy míg a papirusztekercseket két kézzel kellett tartani olvasás közben, a kódexet letámaszthatták, ezzel felszabadult a kéz."
                 },
                 {
-                    "id": "sz-07",
-                    "type": "matching",
-                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
-                    "pairs": [
-                        { "left": "felfelé irányuló társadalmi összehasonlítás", "right": "önértékelés csökkenti, ha sikeresebb emberekkel hasonlítjuk össze magunkat" },
-                        { "left": "digitális írástudás", "right": "médiatartalmak kritikus értékelése és az algoritmusok megértése" },
-                        { "left": "visszajelzés-alapú működés", "right": "lájkok, követők száma és kommentek világa" },
-                        { "left": "serdülők lelki egészsége", "right": "szorongásos és depressziós tünetek növekedése a kutatások szerint" }
-                    ],
-                    "points": 4,
-                    "explanation": "Minden fogalom és magyarázat közvetlenül a szövegből ered. A helyes párosításhoz érdemes az egyes bekezdésekhez visszatérni: a 'visszajelzés-alapú működés' a harmadik bekezdésben, a 'digitális írástudás' az ötödikben szerepel. A fogalmak pontos értelmének ismerete segít az összekötésben."
+                    "id": "sz-07b",
+                    "type": "short-answer",
+                    "question": "Hogyan segítette az olvasási mód megváltozása a tanulást, milyen új lehetőséget nyitott a szövegekben való elmélyülésre? (5. szövegrész)",
+                    "sampleAnswer": "Mivel felszabadult a kéz, lehetővé vált a jegyzetelés böngészés közben.",
+                    "points": 1,
+                    "explanation": "A szöveg szerint a kódexet csak letámasztották, és így jegyzetelni is lehetett böngészés közben. A felszabadult kéz tette lehetővé a jegyzetelést."
                 },
                 {
-                    "id": "sz-08",
-                    "type": "ordering",
-                    "question": "Rendezze logikai sorrendbe a szöveg gondolatmenetének főbb lépéseit!",
-                    "items": [
-                        "A digitális írástudás és a tudatos felhasználás fontossága.",
-                        "A közösségi média mindennapi életbe való beépülése és az aggodalmak felmerülése.",
-                        "Jonathan Haidt kutatási következtetései és figyelmeztetései.",
-                        "A visszajelzés-alapú működés pszichológiai kockázatai.",
-                        "A közösségi média lehetséges pozitív szerepe marginalizált fiataloknál."
-                    ],
-                    "correctOrder": [1, 4, 3, 2, 0],
-                    "points": 5,
-                    "explanation": "A szöveg felépítése klasszikus értekezési logikát követ: bevezeti a témát, bemutatja a pozitív oldalt, majd rátér a kockázatokra, ezután tudományos forrást idéz, végül megoldást javasol. Az 1→4→3→2→0 sorrend ezt a gondolatmenetet tükrözi."
+                    "id": "sz-08a",
+                    "type": "short-answer",
+                    "question": "A szöveg szerzője több híres könyvtárat is említ. Vesse össze az alexandriai könyvtárat és a Magyar Tudományos Akadémia könyvtárát! Milyen közös jellemzői vannak a két könyvtárnak? Írjon két hasonlóságot a szöveg alapján! (2, 6. szövegrész)",
+                    "sampleAnswer": "Mindkettő kéziratokat, írott dokumentumokat őriz. Mindkettőben tudósok kutatnak és dolgoznak, tudományos célokat szolgálnak.",
+                    "points": 2,
+                    "explanation": "A két könyvtár közös jellemzői: kéziratokat/írott dokumentumokat őriznek; tudósok kutatnak/dolgoznak bennük; a kultúra és a tudás örökítői."
+                },
+                {
+                    "id": "sz-08b",
+                    "type": "short-answer",
+                    "question": "Vesse össze a két könyvtár állományát! Írjon egy különbséget a két könyvtár állományáról a szöveg alapján! (2, 6. szövegrész)",
+                    "sampleAnswer": "Az alexandriai könyvtárban tekercseket őriztek, míg az MTA könyvtárának állományában nyomtatott könyvek, kéziratok és fényképek is szerepelnek.",
+                    "points": 1,
+                    "explanation": "Az alexandriai könyvtárban a tudás hordozói tekercsek voltak. Az MTA könyvtárában viszont a könyvnyomtatás utáni információhordozók is részei az állománynak (nyomtatott könyvek, kéziratok, fényképgyűjtemény)."
                 },
                 {
                     "id": "sz-09",
-                    "type": "table-fill",
-                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a közösségi média pozitív és negatív hatásait!",
-                    "headers": ["Szempont", "Pozitív hatás", "Negatív hatás"],
-                    "rows": [
-                        {
-                            "given": { "Szempont": "Önértékelés" },
-                            "answer": { "Pozitív hatás": "önkifejezés lehetősége", "Negatív hatás": "torz önkép, csökkenő önértékelés az összehasonlítás miatt" }
-                        },
-                        {
-                            "given": { "Szempont": "Közösség" },
-                            "answer": { "Pozitív hatás": "hasonló érdeklődésűek megtalálása, elfogadás", "Negatív hatás": "szorongás, depresszió növekedése" }
-                        }
-                    ],
-                    "points": 6,
-                    "explanation": "A szöveg szándékosan mutatja be mindkét oldalt, hogy árnyalt képet adjon. A pozitív hatásokat főként a második bekezdés tartalmazza, a negatívakat a harmadik és negyedik bekezdés. A táblázat kitöltésekor érdemes mindkét bekezdést alaposan átolvasni."
+                    "type": "short-answer",
+                    "question": "A világ első, keletkezési dátummal ellátott nyomtatott könyve a Gyémánt szútra. A keresett szavak, szószerkezetek ezzel a művel állnak kapcsolatban. Írjon egy-egy példát az alábbiakra a 6. szövegegység 1–5. sorából!\n- tárgyas szószerkezet\n- határozóragos összetett szó\n- befejezett melléknévi igenév\n- szóelemek: szótő + főnévi igenév képzője\n- írásban jelölt teljes hasonulás",
+                    "sampleAnswer": "Tárgyas szószerkezet: könyvet keresni. Határozóragos összetett szó: Németországban. Befejezett melléknévi igenév: ellátott / nyomtatott / faragott. Szótő + főnévi igenév képzője: keresni. Írásban jelölt teljes hasonulás: dátummal.",
+                    "correct": {
+                        "tárgyas szószerkezet": [
+                            "könyvet keresni",
+                            "felfedezett egy üreget",
+                            "láthatta a dokumentumokat"
+                        ],
+                        "határozóragos összetett szó": [
+                            "Németországban",
+                            "évezredben",
+                            "felhasználásából"
+                        ],
+                        "befejezett melléknévi igenév": [
+                            "ellátott",
+                            "nyomtatott",
+                            "faragott",
+                            "lezárt",
+                            "őrzött"
+                        ],
+                        "szótő + főnévi igenév képzője": [
+                            "keresni"
+                        ],
+                        "írásban jelölt teljes hasonulás": [
+                            "dátummal"
+                        ]
+                    },
+                    "points": 5,
+                    "explanation": "Mindegyik nyelvi jelenségre egy-egy helyes példa adható a 6. szövegrész 1–5. sorából. Tárgyas szószerkezet pl. 'könyvet keresni'; határozóragos összetett szó pl. 'Németországban'; befejezett melléknévi igenév pl. 'ellátott', 'nyomtatott', 'faragott'; szótő + főnévi igenév képzője: 'keresni' (keres + ni); teljes hasonulás: 'dátummal' (dátum + val)."
                 },
                 {
-                    "id": "sz-10",
-                    "type": "multiple-choice",
-                    "question": "Mit jelent a szövegben a 'marginalizált' szó ('marginalizálva érzik magukat')?",
-                    "options": [
-                        "Különösen népszerű és elismert",
-                        "Peremre szorított, kirekesztett",
-                        "Tehetséges, de félénk",
-                        "Ismeretlen, névtelen"
+                    "id": "sz-10a",
+                    "type": "short-answer",
+                    "question": "Miért védték a középkori másolók átokkal művüket? Idézzen a 7. szövegegységből két okot!",
+                    "sampleAnswer": "„A másolási procedúra hosszas volt” és „rengeteg munkát igényelt.”",
+                    "correct": [
+                        "a másolási procedúra hosszas volt",
+                        "rengeteg munkát igényelt",
+                        "Úgy kezelték, mint az Istenhez közelítés egy módját"
                     ],
-                    "correct": 1,
                     "points": 2,
-                    "explanation": "A 'marginalizált' szó a latin 'margo' (perem, határ) tőből ered, és olyan személyt jelöl, akit a társadalom peremére szorítottak, kizártak a többségi csoportból. A szöveg összefüggéséből is következik: ezek azok a fiatalok, akik saját osztályközösségükben nem találnak elfogadásra."
+                    "explanation": "A 7. szövegrészből két ok idézhető: a másolási procedúra hosszas volt; rengeteg munkát igényelt; úgy kezelték, mint az Istenhez közelítés egy módját. Két pont akkor adható, ha mindkét válasz helyes és idézőjelben van. Egy pont, ha a válaszok helyesek, de nincsenek idézőjelben."
+                },
+                {
+                    "id": "sz-10b",
+                    "type": "short-answer",
+                    "question": "Az előző kérdésre adott válaszát (a két okot) saját szavaival/szinonimákkal is fogalmazza meg!",
+                    "sampleAnswer": "Sokáig tartott, sok időt vett igénybe egy-egy kötet lemásolása. Nagyon sokat kellett dolgozni, mire egy kötet elkészült.",
+                    "points": 2,
+                    "explanation": "A vizsgázónak saját szavaival kell megfogalmaznia az idézett okokat: pl. sokáig tartott / sok időt vett igénybe a másolás; nagyon sokat kellett dolgozni, mire elkészült egy kötet; szent / Istenhez kapcsolódó tevékenységnek tekintették."
                 },
                 {
                     "id": "sz-11",
                     "type": "short-answer",
-                    "question": "Hogyan fogalmazza meg a szöveg a megoldás lényegét? Saját szavaival foglalja össze!",
-                    "sampleAnswer": "A szöveg szerint a megoldás nem az eszközök betiltása, hanem a digitális írástudás fejlesztése. Ez magában foglalja a médiatartalmak kritikus értékelését, az algoritmusok megértését és az egészséges határok kialakítását. Ebben az iskolának és az otthoni nevelésnek egyaránt fontos szerepe van.",
-                    "points": 4,
-                    "explanation": "Az ötödik bekezdés egyértelműen fogalmaz: a betiltás helyett a digitális írástudás fejlesztése a helyes út. Ez magában foglalja a kritikus szemléletet, az algoritmusok megértését és a határok felállítását – ezeket érdemes mind megemlíteni a teljes pontszámért."
+                    "question": "Miért hozott jelentős változást a nyomtatás megjelenése az emberiség történetében? Két eltérő válaszelemet fogalmazzon meg a szöveg 8. része alapján!",
+                    "sampleAnswer": "Megindulhatott a tömeggyártás, tömegek juthattak könyvhöz. A tudósok megismerhették egymás munkáit, ami segítette a technológiai fejlődést.",
+                    "points": 2,
+                    "explanation": "A 8. szövegrész alapján: megindulhatott a tömeggyártás; olcsón váltak elérhetővé az ókori klasszikusok; gyorsan és széles körben terjedt a tudás; a tudósok megismerhették egymás munkáit; a technológia fejlődését segítette; kultúraalakító tényező lett a könyv."
                 },
                 {
                     "id": "sz-12",
-                    "type": "fill-in",
-                    "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, interjú...)",
-                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés", "tanulmány"],
-                    "points": 2,
-                    "explanation": "A szöveg egy tudományos-ismeretterjesztő témát (közösségi média hatása) tárgyal logikusan felépített, érvelő szerkezetben, kutatásokra és szakirodalomra hivatkozva. Ez a formai és tartalmi jelleg az értekezés vagy ismeretterjesztő szöveg műfajára utal – nem tartalmaz elbeszélést, párbeszédet vagy riportszerű elemeket."
+                    "type": "true-false",
+                    "question": "Döntse el az olvasott szöveg alapján az alábbi állításokról, hogy igazak-e vagy hamisak!",
+                    "statements": [
+                        {
+                            "text": "A fatáblára való írás nehezebb volt, mint a pergamenre írás.",
+                            "correct": true
+                        },
+                        {
+                            "text": "Homérosz eposzai gyűrűkkel összekapcsolt agyagtáblákon maradtak fenn.",
+                            "correct": false
+                        },
+                        {
+                            "text": "A szerzői jogok kérdése körül nem lehet vita napjainkban.",
+                            "correct": false
+                        },
+                        {
+                            "text": "A gutenbergi nyomdagép feltalálása idején kb. háromszáz nyomda működött Németországban.",
+                            "correct": false
+                        },
+                        {
+                            "text": "A Biblia a képi ábrázolásokon irattekercsként jelenik meg.",
+                            "correct": false
+                        }
+                    ],
+                    "points": 5,
+                    "explanation": "a) IGAZ – A merev felületre való írás energiaigényesebb feladattá teszi az írást. b) HAMIS – Homérosz eposzai papirusztekercseken maradtak fenn, nem agyagtáblákon. c) HAMIS – A szöveg szerint a szerzői jogok kérdése nyitott. d) HAMIS – A háromszáz nyomda a század végére működött, nem a feltalálás idején. e) HAMIS – Az ikonográfiában az Ószövetség jelenik meg irattekercsként, nem a Biblia; az Újszövetség könyvként jelenik meg."
                 },
                 {
                     "id": "sz-13",
-                    "type": "multiple-choice",
-                    "question": "A szöveg szerint Jonathan Haidt könyve milyen következtetésre jut a serdülők lelki egészségével kapcsolatban?",
-                    "options": [
-                        "Az okostelefon elterjedése egybeesett a szorongás és depresszió növekedésével a serdülők körében.",
-                        "Az okostelefon bizonyítottan az egyetlen oka a fiatalok szorongásának.",
-                        "A lányok körében csökkent, a fiúk körében nőtt a szorongásos tünetek száma.",
-                        "A közösségi média összességében pozitívan hat a fiatalok lelki egészségére."
-                    ],
-                    "correct": 0,
+                    "type": "short-answer",
+                    "question": "<div class=\"image-placeholder\">🖼 3 kép: 1. evangélista könyvvel, 2. középkori másolóműhely / másoló szerzetes, 3. Gutenberg-nyomdagép — lásd feladatsor PDF</div>\n\nAz alábbi képek a szöveg illusztrációi lehetnek. Írjon informatív képaláírást hozzájuk a szöveg alapján! (Idézetet is választhat a szövegből.) 1. kép, 2. kép, 3. kép.",
+                    "sampleAnswer": "1. kép: Az evangélistákat gyakran ábrázolják könyvekkel / a könyv az isteni tudás szimbóluma. 2. kép: Európában másolóműhelyek működtek / másoló szerzetes. 3. kép: Gutenberg nyomdagépe / Gutenberg a 15. század közepén találta fel a nyomdagépet.",
                     "points": 3,
-                    "explanation": "A szöveg pontosan idézi Haidt következtetését: az okostelefon 'tömeges elterjedése a serdülők körében egybeesett a szorongásos és depressziós tünetek jelentős növekedésével – különösen a lányok között.' Fontos, hogy a szöveg nem állít közvetlen ok-okozati viszonyt (ezt a szerző maga is hangsúlyozza), csupán egybeesést."
+                    "explanation": "A három képhez a szöveg tartalmára épülő informatív képaláírást kell írni. Az 1. kép a könyvvel ábrázolt evangélistához, a 2. kép a középkori másolóműhelyhez, a 3. kép a Gutenberg-nyomdagéphez kapcsolódik."
                 }
             ]
         },
         "muveleti": {
-            "timeLimit": 40,
+            "timeLimit": 30,
             "maxPoints": 20,
             "tasks": [
                 {
                     "id": "m-01",
-                    "type": "multiple-choice",
-                    "question": "Melyik szó főnév az alábbiak közül?",
-                    "options": [
-                        "boldogan",
-                        "boldogság",
-                        "boldog",
-                        "boldogít"
+                    "type": "matching",
+                    "question": "Az alábbi idézet Szophoklész Antigoné című drámájából való. Az idézetben szereplő istenek közül válasszon kettőt, majd nevezze meg, minek az istenei ők!\n\nKar:\nAkárcsak a földre lecsapva a sas,\nA szárnya: a pajzsa, mintha fehér\nHó fedne be mindent,\nFegyver rengeteg és\nLófark leng a sok sisakon.\nMeg-megállt palotánk felett\n– Gyilkos dárdasor áll körben\nSzegezve a város hét torkának –\nHogy vérünk habzsolja a csőre,\nS bástyáink koszorúját\nA szurokfáklyák tüze által\nHéphaisztosz foglalja el.\nIgy hullámzik a háta körül\nArész vad lármája, amíg\nFelgyürkőzik a harcra a sárkány.\nMert a dicsekvő nyelvet Zeusz\nGyűlöli és meglátva, hogy ők\nMint rohanó árvíz közelednek,\nÉs büszkén csörrent az arany,\nŐ arra vetette tüzét,\nKi éppen a célnál\nGyőzelmi dalára fakadni akart már.\n[...]\nMost már itt az idő\nA harcok után hosszú feledésre,\nS hogy az istenek szentélyeihez\nÉjjeli táncban menjünk mind s Thébaiban a hangos\nDionüszosz legyen úrrá.\n(Fordította: Trencsényi-Waldapfel Imre)",
+                    "pairs": [
+                        {
+                            "left": "Héphaisztosz",
+                            "right": "a tűz és a kovácsmesterség istene / az istenek fegyverkészítője"
+                        },
+                        {
+                            "left": "Arész",
+                            "right": "a háború istene / hadisten"
+                        },
+                        {
+                            "left": "Zeusz",
+                            "right": "főisten / az ég, a vihar és a villámok ura"
+                        },
+                        {
+                            "left": "Dionüszosz",
+                            "right": "a szőlő és a bor istene / a színjátszás patrónusa / a termékenység istene"
+                        }
                     ],
-                    "correct": 1,
+                    "instructions": "Válasszon kettőt az idézetben szereplő istenek közül, és nevezze meg szerepkörüket!",
                     "points": 2,
-                    "explanation": "A 'boldogság' főnév, mert elvont fogalmat jelöl és a '-ság' képző főneveket alkot melléknevekből. A 'boldogan' határozószó, a 'boldog' melléknév, a 'boldogít' pedig ige – ezek más szófajú szavak."
+                    "explanation": "A versrészletben négy isten szerepel: Héphaisztosz (tűz és kovácsmesterség istene), Arész (hadisten), Zeusz (főisten, villámok ura), Dionüszosz (bor, termékenység, színjátszás istene). Bármely kettő helyes megnevezése elfogadható."
                 },
                 {
-                    "id": "m-02",
-                    "type": "matching",
-                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
-                    "pairs": [
-                        { "left": "Szeptember végén", "right": "Petőfi Sándor" },
-                        { "left": "Oda a Naphoz", "right": "Berzsenyi Dániel" },
-                        { "left": "Édes Anna", "right": "Kosztolányi Dezső" },
-                        { "left": "Fekete kolostor", "right": "Kuncz Aladár" }
+                    "id": "m-02a",
+                    "type": "fill-in",
+                    "question": "Nevezze meg, hogy az alábbi meghatározás mely műfajra illik! Kötött versformájú nagyepikai műfaj. Hősei héroszok, akik különleges képességekkel rendelkeznek, isteni erők támogatják őket, és egy közösség életét meghatározó tettet visznek véghez.",
+                    "correct": [
+                        "eposz"
                     ],
-                    "points": 4,
-                    "explanation": "A 'Szeptember végén' Petőfi egyik legismertebb szerelmes verse (1847). Berzsenyi Dániel klasszicista-romantikus ódaköltő volt. Kosztolányi 'Édes Anna' c. regénye (1926) a cselédkérdést és az osztálykülönbségeket dolgozza fel. Kuncz Aladár 'Fekete kolostor' c. önéletrajzi regénye az első világháborús internálótábor élményét örökíti meg."
+                    "points": 1,
+                    "explanation": "A meghatározás az eposzra illik: kötött versforma, héroszok mint főszereplők, isteni támogatás, közösségi tett – ezek mind az eposz jellegzetes jegyei."
+                },
+                {
+                    "id": "m-02b",
+                    "type": "fill-in",
+                    "question": "Melyik magyar író mondhatta volna az alábbi üzenetrészletet: „Eltökéltem, hogy görbe tükröt tartok a világnak. Rövid novelláimban az alkotói közlést a lehetséges minimumra zsugorítom, hogy olvasóim a képzeletük maximumával fejtsék meg feladványszerű üzeneteimet.”",
+                    "correct": [
+                        "Örkény István"
+                    ],
+                    "points": 1,
+                    "explanation": "A leírás Örkény Istvánra illik: 'görbe tükör' (groteszk ábrázolás), rövid novellák (egyperces novellák), feladványszerű üzenetek. Örkény István az egyperces novella műfajának megteremtője."
                 },
                 {
                     "id": "m-03",
-                    "type": "fill-in",
-                    "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben egy szó vagy szókapcsolat azonos vagy nagyon hasonló hangzású, de más jelentésű szóval való felcserélése komikus vagy ironikus hatást kelt? (Egyetlen szóval feleljen!)",
-                    "correct": ["szójáték", "calembour", "paronomázia"],
-                    "points": 2,
-                    "explanation": "A szójáték (más nevén calembour vagy paronomázia) olyan retorikai alakzat, amely a hasonló hangzású, de különböző jelentésű szavak közötti kettős értelmet aknázza ki. Komikus és ironikus hatást kelt, mert az olvasó egyszerre több jelentést érzékel."
-                },
-                {
-                    "id": "m-04",
-                    "type": "true-false",
-                    "question": "A haiku japán eredetű, háromsorosból álló versforma, amelynek sorai 5-7-5 szótagból állnak.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "A haiku valóban japán versforma, amelynek szigorú szótagszabálya van: az első sor 5, a második 7, a harmadik ismét 5 szótagból áll. Ez összesen 17 szótagot jelent. A haikuban rendszerint egy természeti kép és egy hangulatváltás (kireji) szerepel."
-                },
-                {
-                    "id": "m-05",
                     "type": "table-fill",
-                    "question": "Töltse ki a táblázatot! Adja meg a szavak szófaját és toldalékait!",
-                    "headers": ["Szóalak", "Szófaj", "Toldalék(ok)"],
+                    "question": "Határozza meg, hogy a felsorolt nevek mely irodalmi alkotás szereplői! Az adott irodalmi alkotás címét és műfaját is határozza meg, adja meg a szerző teljes nevét!",
+                    "headers": [
+                        "A szereplő neve",
+                        "A mű címe",
+                        "A mű szerzője",
+                        "A műfaj"
+                    ],
                     "rows": [
                         {
-                            "given": { "Szóalak": "házakban" },
-                            "answer": { "Szófaj": "főnév", "Toldalék(ok)": "-ak (többesjel), -ban (helyhatározórag)" }
+                            "given": {
+                                "A szereplő neve": "Szeredás Emerenc"
+                            },
+                            "answer": {
+                                "A mű címe": "Az ajtó",
+                                "A mű szerzője": "Szabó Magda",
+                                "A műfaj": "regény"
+                            }
                         },
                         {
-                            "given": { "Szóalak": "legszebb" },
-                            "answer": { "Szófaj": "melléknév (felsőfok)", "Toldalék(ok)": "leg- (felsőfok-képző), -ebb (középfok-jel)" }
+                            "given": {
+                                "A szereplő neve": "Bede Anna"
+                            },
+                            "answer": {
+                                "A mű címe": "Bede Anna tartozása",
+                                "A mű szerzője": "Mikszáth Kálmán",
+                                "A műfaj": "novella"
+                            }
                         },
                         {
-                            "given": { "Szóalak": "olvasgatom" },
-                            "answer": { "Szófaj": "ige", "Toldalék(ok)": "-gat (gyakorító képző), -om (személyrag, tárgyas ragozás)" }
+                            "given": {
+                                "A szereplő neve": "Balga"
+                            },
+                            "answer": {
+                                "A mű címe": "Csongor és Tünde",
+                                "A mű szerzője": "Vörösmarty Mihály",
+                                "A műfaj": "emberiségdráma / mesedráma / drámai költemény"
+                            }
                         }
                     ],
                     "points": 3,
-                    "explanation": "A szóelemzéskor mindig a tőtől haladunk a toldalékok felé. A 'házakban' esetén: tő=ház, -ak=többesjel, -ban=helyhatározórag. A 'legszebb' esetén: tő=szép (változással: szebb), leg-=felsőfok-képző előtag. Az 'olvasgatom' esetén: tő=olvas, -gat=gyakorítást fejez ki, -om=tárgyas ragozású személyrag."
+                    "explanation": "Szeredás Emerenc Szabó Magda 'Az ajtó' című regényének központi alakja. Bede Anna Mikszáth Kálmán 'Bede Anna tartozása' című novellájának szereplője. Balga Vörösmarty Mihály 'Csongor és Tünde' című drámájának komikus szolgafigurája."
+                },
+                {
+                    "id": "m-04",
+                    "type": "matching",
+                    "question": "Ady Endréhez kötődő neveket, verscímeket, fogalmakat olvashat. Válassza ki a gondolattérképbe illő válaszelemeket!\n\nLehetséges válaszok:\n1. háborúellenes versek\n2. Az Úr érkezése\n3. Boncza Berta\n4. Kocsi-út az éjszakában\n5. látomásszerű tájversek\n6. Dénes Zsófia\n7. Héja-nász az avaron\n8. Góg és Magóg fia vagyok én...\n9. istenes versek\n10. élet-halál versek\n\nA gondolattérkép mezői:\n- én-szerep, ars poetica → ?\n- A Sion-hegy alatt → ?\n- Léda → ?\n- szerelmes versek / Őrizem a szemed → ?\n- Emlékezés egy nyár-éjszakára → ?",
+                    "pairs": [
+                        {
+                            "left": "én-szerep, ars poetica",
+                            "right": "8 (Góg és Magóg fia vagyok én...)"
+                        },
+                        {
+                            "left": "A Sion-hegy alatt",
+                            "right": "9 (istenes versek)"
+                        },
+                        {
+                            "left": "Léda",
+                            "right": "7 (Héja-nász az avaron)"
+                        },
+                        {
+                            "left": "szerelmes versek / Őrizem a szemed",
+                            "right": "3 (Boncza Berta)"
+                        },
+                        {
+                            "left": "Emlékezés egy nyár-éjszakára",
+                            "right": "1 (háborúellenes versek)"
+                        }
+                    ],
+                    "points": 5,
+                    "explanation": "A gondolattérkép Ady Endre költészetének főbb témaköreit rendezi el: 8 (Góg és Magóg) az ars poeticához; 9 (istenes versek) A Sion-hegy alatthoz; 7 (Héja-nász) Lédához; 3 (Boncza Berta) az Őrizem a szemed mellé; 1 (háborúellenes versek) az Emlékezés egy nyár-éjszakára mellé."
+                },
+                {
+                    "id": "m-05",
+                    "type": "matching",
+                    "question": "Az alábbi felsorolásban összekeveredtek a korstílusok, stílusirányzatok jellemzői. Válogassa szét ezeket!\n\nA) a pillanatnyi hangulat, a benyomás művészete\nB) könnyed játékosság és finom, kecses formák\nC) egyéniség kultusza, eredetiség\nD) a műfajok határai elmosódnak, lirizálódnak\nE) Irodalma nagyobb részben vallásos tárgyú, hitéleti, hitvitázó irodalom.\nF) témavilágában gyakran a nyers ösztönök, a brutalitás, a szexualitás kerül középpontba\nG) kedvelt nyelvi eszközei a névszói (nominális) stílus, a szinesztézia, a hangszimbolika\nH) kedvelt műfaja a dal tiszta rímekkel, virágmetaforákkal, miniatűr képekkel\nI) Túldíszített, dagályos stílus jellemzi.\nJ) köznapi jelenségek aprólékos ábrázolása, a rideg tények puszta bemutatása",
+                    "pairs": [
+                        {
+                            "left": "barokk",
+                            "right": "E, I"
+                        },
+                        {
+                            "left": "rokokó",
+                            "right": "B, H"
+                        },
+                        {
+                            "left": "romantika",
+                            "right": "C, D"
+                        },
+                        {
+                            "left": "impresszionizmus",
+                            "right": "A, G"
+                        },
+                        {
+                            "left": "naturalizmus",
+                            "right": "F, J"
+                        }
+                    ],
+                    "points": 4,
+                    "explanation": "Barokk: E (vallásos irodalom) és I (túldíszített stílus). Rokokó: B (könnyed játékosság) és H (dal, virágmetaforák). Romantika: C (egyéniségkultusz) és D (műfajhatárok elmosódása). Impresszionizmus: A (pillanatnyi benyomás) és G (szinesztézia, hangszimbolika). Naturalizmus: F (nyers ösztönök) és J (rideg tények bemutatása)."
                 },
                 {
                     "id": "m-06",
-                    "type": "multiple-choice",
-                    "question": "Melyik mondat tartalmaz helyesírási hibát?",
-                    "options": [
-                        "A könyvet egyfolytában olvastam.",
-                        "Egész nap otthon maradtam.",
-                        "Egymásután érkeztek a vendégek.",
-                        "Félelem nélkül lépett be a szobába."
-                    ],
-                    "correct": 2,
-                    "points": 2,
-                    "explanation": "Az 'egymás után' határozószói szerkezetet külön kell írni, mert az 'egymás' névmás és az 'után' névutó önálló szavak. A helyes alak tehát: 'egymás után érkeztek a vendégek.' Az egybeírt 'Egymásután' forma hibás."
-                },
-                {
-                    "id": "m-07",
-                    "type": "short-answer",
-                    "question": "Mi a különbség a metafora és a hasonlat között? Adjon-adjon egy-egy példát mindkét alakzatra!",
-                    "sampleAnswer": "A hasonlat két dolog hasonlóságát kifejezetten jelöli, összehasonlítást végez (pl. 'olyan szép, mint egy angyal'). A metafora ezzel szemben azonosítást végez: a két fogalmat közvetlenül egymásra vetíti, a hasonlóságot jelző szó nélkül (pl. 'te vagy a lelkem napja'). A metafora tömörebb és erőteljesebb képet alkot.",
-                    "points": 3,
-                    "explanation": "A hasonlat és a metafora közötti lényeges különbség az, hogy a hasonlatban mindig szerepel hasonlító szó ('mint', 'olyan … mint'), míg a metafora ezt elhagyja és közvetlen azonosítást végez. Ezért a metafora tömörebb és erőteljesebb képi hatást kelt, és az irodalomban az egyik leggyakrabban alkalmazott stíluseszköz."
-                },
-                {
-                    "id": "m-08",
-                    "type": "true-false",
-                    "question": "Csokonai Vitéz Mihály a felvilágosodás és a rokokó korszakának egyik legjelentősebb magyar költője volt.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Csokonai Vitéz Mihály (1773–1805) valóban a magyar felvilágosodás kiemelkedő alakja, akinek költészetében a rokokó játékosság és az érzékenység (szentimentalizmus) egyaránt megjelenik. Legismertebb versei közé tartozik 'A Reményhez' és 'Tartózkodó kérelem'."
+                    "type": "fill-in",
+                    "question": "Válassza ki a felsorolt szavak közül a versrészlet hiányzó szavait, majd egészítse ki a szavak szövegbe illő nyelvi alakjával!\n\nSzólista: remény, fél, út, tető, él, teremtő, boldogság, hegy, vár, sors\n\n„valaki jár a fák _______________\nki gyújtja s oltja csillagod\ncsak az nem fél kit a __________________\nmár végképp magára hagyott\n\nén _______________ még reménykedem\nez a megtartó irgalom\na gondviselő félelem\nkísért eddigi _________________”",
+                    "correct": {
+                        "1": "hegyén",
+                        "2": "remény",
+                        "3": "félek",
+                        "4": "utamon"
+                    },
+                    "points": 4,
+                    "explanation": "A versrészlet Pilinszky János költeménye. A szavak szövegbe illő alakjai: 'hegyén' (hegy + -én helyhatározórag), 'remény' (alanyesetben), 'félek' (fél ige E/1. személyű alakja), 'utamon' (út + -amon birtokos személyjel + helyhatározórag)."
                 }
             ]
         },
@@ -263,54 +455,38 @@
                 {
                     "id": "sa-01",
                     "type": "essay",
-                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a közösségi média összességében inkább hasznos vagy inkább káros-e a középiskolások számára! Érvelésében hozzon fel érveket mindkét oldal mellett, majd foglalja össze saját, indokolt álláspontját! Fogalmazásában támaszkodjon saját tapasztalataira és a szövegértési részben olvasott szövegre is!",
-                    "minWords": 200,
-                    "maxWords": 400,
-                    "sampleAnswer": "A közösségi média szerepe a középiskolások életében mára megkerülhetetlen kérdéssé vált. Sokan azt állítják, hogy hasznos eszköz: lehetőséget ad az önkifejezésre, az ismeretszerzésre és a kapcsolattartásra. Valóban, az Instagram vagy a YouTube révén fiatalok ezrei juthatnak hozzá oktatási tartalmakhoz, inspiráló személyiségek munkásságához, és találhatnak hasonló érdeklődésű barátokra.\n\nAzonban nem hagyhatjuk figyelmen kívül a visszaélési lehetőségeket és a pszichológiai kockázatokat. A lájkok és követők számán alapuló visszajelzési rendszer komoly önértékelési problémákat okozhat. Saját tapasztalatom szerint osztálytársaim közül többen szorongtak amiatt, hogy posztjaik nem kaptak elég figyelmet. A gondosan szerkesztett képek torz valóságképet közvetítenek, amellyel az átlagos tini képtelen azonosulni.\n\nA szövegértési feladatban olvasott cikk is rámutat: Jonathan Haidt kutatásai szerint az okostelefon elterjedése egybeesett a serdülők körében tapasztalható szorongás növekedésével. Ez komolyan veendő figyelmeztetés.\n\nÖssszegzésképpen úgy gondolom, hogy a közösségi média nem önmagában jó vagy rossz, hanem a használat módján múlik minden. Aki tudatosan, kritikusan és mértékkel veszi igénybe, az sokat nyerhet belőle. Aki azonban kontroll nélkül sodródik, az könnyen áldozatává válhat. A megoldás a digitális nevelés: megtanítani a fiatalokat arra, hogy aktív alakítói legyenek digitális életüknek, ne csupán passzív fogyasztói.",
+                    "prompt": "Műértelmezés: Értelmezze Karinthy Frigyes 'Az olasz fagylaltos' című novelláját! Dolgozatában mutassa be, a narrátor milyen eszközökkel ábrázolja az egyén és a történelem kapcsolatát, a művészi ösztönös (intuitív) és a logikára épülő tudományos megismerés kettősét! Térjen ki a novella szerkezetének és főbb motívumainak jelentésteremtő szerepére!",
+                    "minWords": 500,
+                    "maxWords": 800,
+                    "sampleAnswer": "Karinthy Frigyes 'Az olasz fagylaltos' című novellája az I. világháború tragédiáját egyéni sorsok kereszteződésén mutatja be. A mű két, számozott részből áll: az első a háború előtti békeidőkben játszódik, ahol a narrátor zenész barátjával, B.-vel sétál a Városligetben, aki nagy operájáról beszél lelkesen, majd egy olasz fagylaltos láttán hirtelen rosszkedvű lesz. A második rész a háború után Padovában játszódik, ahol a narrátor felismeri, hogy a pincér azonos az egykori fagylaltossal, aki a háborúban megölte B.-t. A novella a művészi intuíció és a tudományos megismerés kettősét állítja szembe: B. ösztönösen megsejtette saját halálát, míg a narrátor a freudi pszichoanalízis módszerével próbálta megmagyarázni barátja hangulatváltozását. A mű végéről visszatekintve kiderül, hogy a művészi intuíció igazolódott.",
                     "rubric": [
                         {
-                            "criterion": "A tema kifejtese, az erveles minosege",
-                            "maxPoints": 12,
+                            "criterion": "Tartalmi minőség",
+                            "maxPoints": 30,
                             "levels": [
-                                "0-4: Hianyos kifejtés, nincs érdemi érvelés",
-                                "5-8: Megfelelo kifejtés, néhány érv megjelenik",
-                                "9-12: Igényes érveles, mindkét oldal bemutatása, határozott következtetés"
+                                "0-6: Nem reflektál a feladat szempontjaira",
+                                "7-12: Alig reflektál a szempontokra, felületes",
+                                "13-18: Hiányos megfelelés, kevés releváns állítás",
+                                "19-24: Részleges megfelelés, helyenként kifejtetlen",
+                                "25-30: Valamennyi szempontra kitér, kifejtett állítások"
                             ]
                         },
                         {
-                            "criterion": "Szerkezet, koherencia",
-                            "maxPoints": 8,
-                            "levels": [
-                                "0-2: Hianyos, logikátlan felépítés",
-                                "3-5: Megfelelo, felismerhető szerkezet",
-                                "6-8: Logikus, jól tagolt, arányos bevezetés-tárgyalás-befejezés"
-                            ]
-                        },
-                        {
-                            "criterion": "Nyelvhelyesseg, stilus",
-                            "maxPoints": 10,
-                            "levels": [
-                                "0-3: Sok hiba, stílustalan",
-                                "4-7: Kisebb hibak, de érthető és megfelelő",
-                                "8-10: Igenyes, szinte hibátlan, változatos mondatszerkesztés"
-                            ]
-                        },
-                        {
-                            "criterion": "Terjedelem",
+                            "criterion": "Szövegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
-                                "3: Kozelito, közel a kért terjedelemhez",
-                                "5: Megfelelo, 200-400 szó"
+                                "0-1: Bizonytalan gondolatmenet, szövegtagolási hibák",
+                                "2-3: Részben rendezett gondolatmenet",
+                                "4-5: Tudatosan felépített, arányos tagolás"
                             ]
                         },
                         {
-                            "criterion": "Kommunikacio",
+                            "criterion": "Nyelvi igényesség",
                             "maxPoints": 5,
                             "levels": [
-                                "0-1: Gyenge, nem meggyőző",
-                                "2-3: Olvashato, érthető szándék",
-                                "4-5: Igenyes, meggyőző, célirányos kommunikáció"
+                                "0-1: Igénytelen nyelvhasználat",
+                                "2-3: Választékosságra törekvés, néhány hiba",
+                                "4-5: Választékos, világos megfogalmazás"
                             ]
                         }
                     ]
@@ -318,57 +494,38 @@
                 {
                     "id": "sa-02",
                     "type": "essay",
-                    "prompt": "Műértelmező fogalmazás: Petőfi Sándor 'Egy gondolat bánt engemet' című versének középpontjában a halál és a szabadság témája áll. Értelmezze a verset ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a vers műfajára, szerkezetére, a szabadság képzetének megjelenési formáira, valamint arra, hogy a vers milyen eszmei üzenetet hordoz! Zárásként fejtse ki, miért tartja időszerűnek vagy maradandónak ezt az alkotást!",
-                    "minWords": 250,
-                    "maxWords": 500,
-                    "sampleAnswer": "Petőfi Sándor 'Egy gondolat bánt engemet' (1846) az egyik legismertebb és legmegrendítőbb magyar forradalmi vers. Petőfi itt nem a csöndes, ágyban való halált kívánja, hanem a csatában, a szabadságért vívott küzdelemben bekövetkező hősi halált.\n\nA vers szerkezete két részre osztható. Az első rész (1-12. sor) a kínos, elszigetelt halált festi le – azt, amelyet a költő el kíván kerülni: a betegágyon, lassan elsorvadva halni meg. Ez a kép valóban 'bántó gondolat'. A vers második részétől (13. sortól) a hangnem gyökeresen megváltozik: megjelenik a csata víziója, a csatazaj, az elhullott hősök képe.\n\nA szabadság képzete a versben szorosan összefonódik a néppel és a közösséggel. Petőfi nem egyéni hőstettről álmodik, hanem a népek szabadsága melletti, közös küzdelemről. A 'világszabadság' szóban ez a kozmikus, messiáni látomás sűrűsödik össze.\n\nMűfaja ódai elemeket tartalmazó, szabad ritmikájú lírai vers, amely a romantika jegyében fogant. Az erős képek, a szenvedélyes hang és az élethalál-tematika a romantikus irodalom jellegzetes vonásai.\n\nA vers maradandóságát az adja, hogy az egyéni halál és a közösségi ügy összekapcsolása örök emberi kérdést érint: minek érdemes feláldozni az életet? Petőfi válasza egyértelmű és szenvedélyes: a szabadságért. Ez az üzenet minden elnyomással szemben küzdő ember számára ma is érvényes és megindító.",
+                    "prompt": "Témakifejtő dolgozat/esszé: A költői hitvallás az irodalom jellegzetes témája. Mutassa be ezt a témát Babits Mihály költészetében! Kövesse végig a költői életműben Babits Mihály ars poeticájának alakulását! Legalább három, különböző alkotói korszakból származó műre támaszkodjék! Térjen ki a lírai beszédmódok jellegzetességeire is! Megoldása 500–800 szó terjedelmű legyen!",
+                    "minWords": 500,
+                    "maxWords": 800,
+                    "sampleAnswer": "Babits Mihály pályája során többször is megfogalmazta költői hitvallását. Korai ars poeticájában (In Horatium, 1904) az új, eredeti költészet programját hirdette, a hagyomány és újszerűség egyidejű érvényesítését. A lírikus epilógjában ennek kudarcát panaszolja: a 'mindenséget vágyom versbe venni' programja a szubjektivitás korlátaiba ütközik. Későbbi pályaszakaszaiban (A gazda bekeríti házát, Mint különös hírmondó...) a humánum és az egyetemes értékek őrzőjévé, prófétaszerepű költővé válik, amit a Jónás könyve és a Jónás imája teljesít be.",
                     "rubric": [
                         {
-                            "criterion": "A mu ertelmezese",
-                            "maxPoints": 15,
+                            "criterion": "Tartalmi minőség",
+                            "maxPoints": 30,
                             "levels": [
-                                "0-4: Felületes, tartalmi tévedésekkel teli összefoglalás",
-                                "5-9: Alapvető összefüggések felismerése, de elemzés hiányos",
-                                "10-12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás",
-                                "13-15: Árnyalt, önálló elemzés; műfaj, szerkezet, szimbólumok bemutatása"
+                                "0-6: Nem reflektál a feladat szempontjaira",
+                                "7-12: Alig reflektál a szempontokra, felületes",
+                                "13-18: Hiányos megfelelés, kevés releváns állítás",
+                                "19-24: Részleges megfelelés, helyenként kifejtetlen",
+                                "25-30: Valamennyi szempontra kitér, kifejtett állítások"
                             ]
                         },
                         {
-                            "criterion": "Szerkezet",
-                            "maxPoints": 8,
-                            "levels": [
-                                "0-2: Rendezetlen gondolatok, hiányzó szerkezet",
-                                "3-5: Felismerhető szerkezet, de arányok egyenetlenek",
-                                "6-7: Jól tagolt, logikus felépítés",
-                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés"
-                            ]
-                        },
-                        {
-                            "criterion": "Szaknyelv",
-                            "maxPoints": 7,
-                            "levels": [
-                                "0-2: Hiányzó vagy téves irodalmi terminológia",
-                                "3-4: Alapfogalmak megvannak, de nem mindig megfelelően alkalmazva",
-                                "5-6: Helyes és változatos irodalmi terminológia",
-                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása"
-                            ]
-                        },
-                        {
-                            "criterion": "Nyelvhelyesseg",
+                            "criterion": "Szövegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0-1: Sok hiba, nehezen érthető",
-                                "2-3: Néhány hiba, de értelmező szándék félreérthetetlen",
-                                "4-5: Kevés hiba, jó stílus, igényes fogalmazás"
+                                "0-1: Bizonytalan gondolatmenet, szövegtagolási hibák",
+                                "2-3: Részben rendezett gondolatmenet",
+                                "4-5: Tudatosan felépített, arányos tagolás"
                             ]
                         },
                         {
-                            "criterion": "Terjedelem",
+                            "criterion": "Nyelvi igényesség",
                             "maxPoints": 5,
                             "levels": [
-                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
-                                "3: Kozelito, közel a kért terjedelemhez",
-                                "5: Megfelelo, 250-500 szó"
+                                "0-1: Igénytelen nyelvhasználat",
+                                "2-3: Választékosságra törekvés, néhány hiba",
+                                "4-5: Választékos, világos megfogalmazás"
                             ]
                         }
                     ]

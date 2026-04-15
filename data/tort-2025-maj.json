@@ -1,0 +1,1006 @@
+{
+    "id": "tort-2025-maj",
+    "subject": "tortenelem",
+    "year": 2025,
+    "session": "Május",
+    "date": "2025. május 7.",
+    "sections": {
+        "rovid": {
+            "timeLimit": 90,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t01-a",
+                    "type": "multiple-choice",
+                    "question": "1. feladat – A feladat az ókori görög és római építészettel kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 Három templom képe: A) Pallasz Athéné temploma az Akropoliszon (Parthenón), B) Pantheon Rómában, C) Santa Sabina templom Rómában — lásd feladatsor PDF (3. oldal)</div>\n\na) Döntse el, hogy melyik templomra vonatkozik az állítás!\n\nÁllítás: „Az épület bejárati része a görög templomok mintáját követte, de a tér befedésének módja római újítás volt.”",
+                    "options": [
+                        "A) Pallasz Athéné temploma (Parthenón)",
+                        "B) Pantheon",
+                        "C) Santa Sabina templom"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A Pantheon (B) bejárata a görög templomok oszlopos portikuszát követte, de a kör alaprajzú, kupolával fedett belső tér sajátosan római építészeti újítás volt."
+                },
+                {
+                    "id": "t01-b",
+                    "type": "multiple-choice",
+                    "question": "1. feladat (folytatás) – Ókori görög és római építészet\n\nÁllítás: „A kereskedő- és bíráskodási csarnokok mintájára épült épület bejárattal szembeni végét félköríves szentély zárta le.”",
+                    "options": [
+                        "A) Pallasz Athéné temploma (Parthenón)",
+                        "B) Pantheon",
+                        "C) Santa Sabina templom"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A Santa Sabina (C) ókeresztény bazilikális templom, amely a római bazilikák (kereskedő- és bíráskodási csarnokok) mintájára épült, bejárattal szembeni végét félköríves apszis (szentély) zárja le."
+                },
+                {
+                    "id": "t01-c",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Ókori görög és római építészet\n\nc) Döntse el a képek és ismeretei segítségével, hogy a következő állítások közül melyek fogalmaznak meg római építészeti újítást! Karikázza be a két helyes állítás sorszámát!\n\n1. A templomok belső terét alkalmassá tették a hívek tömegeinek befogadására.\n2. A templomokat lépcsős talapzat segítségével emelték ki környezetükből.\n3. A templomokban is megjelent a boltív.\n4. A templomokat oszlopokkal vették körül, különböző faragású oszlopfők jelentek meg.\n5. A templom falait kívülről támpillérekkel támasztották meg.\n\n(A két helyes sorszámot vesszővel elválasztva írja be!)",
+                    "correct": [
+                        "1, 3",
+                        "1,3",
+                        "3, 1",
+                        "3,1"
+                    ],
+                    "points": 2,
+                    "explanation": "A helyes válaszok: 1. (nagyméretű, hívőket befogadó belső tér) és 3. (boltív alkalmazása). A lépcsős talapzat és az oszlopsor a görög építészet öröksége, a támpillér pedig a középkori (gótikus) építészet sajátja."
+                },
+                {
+                    "id": "t02-a",
+                    "type": "fill-in",
+                    "question": "2. feladat – A feladat az iszlám vallással kapcsolatos.\n\nForrás (részlet a Koránból):\n„Az emberek között az ostobák majd mondani fogják: »Mi fordította el őket a kiblátől [ima iránya], amely felé eddig fordultak?« Mondd: »Allahé a Napkelet és a Napnyugat. Azt vezeti Ő az egyenes úton, akit akar.« […] A kiblát, amely felé fordultál, csak azért rendeltük el, hogy megtudjuk, ki követi a küldöttet és ki tántorodik vissza. […] Fordítsd hát orcádat [arcodat] a Szent Mecset felé!”\n\na) Nevezze meg azt a személyt, akit a forrásban „küldöttnek” neveznek!",
+                    "correct": [
+                        "Mohamed",
+                        "Muhammad",
+                        "Mohammed"
+                    ],
+                    "points": 1,
+                    "explanation": "Mohamed – az iszlám próféta, akit Allah küldötteként (raszul) tisztelnek. A Korán ezt a kifejezést rendszeresen rá alkalmazza."
+                },
+                {
+                    "id": "t02-b",
+                    "type": "fill-in",
+                    "question": "2. feladat (folytatás) – Iszlám vallás\n\nb) Melyik város lett az ima új iránya?",
+                    "correct": [
+                        "Mekka"
+                    ],
+                    "points": 1,
+                    "explanation": "Mekka – itt található a Kába szentély (a Szent Mecset), amely az iszlám legszentebb helye; ide irányul az imádkozók kiblája."
+                },
+                {
+                    "id": "t02-c",
+                    "type": "fill-in",
+                    "question": "2. feladat (folytatás) – Iszlám vallás\n\nc) Az ima eredeti iránya az iszlám vallás egyik forrásául szolgáló zsidó vallás hagyományain alapult. Nevezze meg azt a várost, amely felé az ima eredeti iránya volt!",
+                    "correct": [
+                        "Jeruzsálem",
+                        "Jeruzsalem"
+                    ],
+                    "points": 1,
+                    "explanation": "Jeruzsálem – a zsidó vallás legszentebb városa (a Szentély helyszíne). Mohamed eredetileg ide irányította az imát, majd 624 körül változtatta Mekka irányába."
+                },
+                {
+                    "id": "t02-d",
+                    "type": "multiple-choice",
+                    "question": "2. feladat (folytatás) – Iszlám vallás\n\nd) Karikázza be annak a képnek a betűjelét, amely egy iszlám templom belsejét ábrázolja!\n\n<div class=\"image-placeholder\">🖼 Három templombelső képe: A) ortodox/katolikus templom mozaikokkal, B) barokk templombelső oltárral, C) iszlám mecset belseje mihrábbal — lásd feladatsor PDF (4. oldal)</div>",
+                    "options": [
+                        "A) (mozaikos templombelső)",
+                        "B) (barokk oltáros templombelső)",
+                        "C) (mihrábos mecsetbelső)"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A C) kép ábrázol mecsetet: az iszlám templomokban nincsenek emberábrázolások, csak geometrikus és növényi minták, valamint a mihráb (imafülke), amely Mekka irányát jelzi."
+                },
+                {
+                    "id": "t03-a",
+                    "type": "fill-in",
+                    "question": "3. feladat – A feladat Hunyadi Mátyás háborúival kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 Térképvázlat: A Magyar Királyság Hunyadi Mátyás korában, 1-6. sorszámokkal jelölt helyszínekkel (Lengyel Királyság, Moldvai Fejedelemség, Havasalföldi Fejedelemség, Oszmán Birodalom, Német-Római Birodalom, Velencei Köztársaság határaival) — lásd feladatsor PDF (5. oldal)</div>\n\nDöntse el, hogy a térképvázlaton található helyszínek közül melyek köthetők Antonio Bonfini 15. századi történetíró leírásaihoz!\n\na) „Így küszködtek [Báthory István vajda seregei] s már vissza sem vonulhattak a tartalékhoz, egyszerre megjelent a hegytetőn, […] [az Erdélybe betörő ellenség] hátában Kinizsi Pál [a fekete sereg vezére] négyszögbe állított vérteseivel s a szárnyakon könnyű lovassággal. […] Hátulról oly hatalmas támadást intézett ellenük, hogy már az első rohamra sokan elestek.”\n\nÍrja a helyszín sorszámát a térképvázlat alapján!",
+                    "correct": [
+                        "4"
+                    ],
+                    "points": 1,
+                    "explanation": "A 4. helyszín a Kenyérmezei csata (1479) helyszíne Erdélyben, ahol Báthory István erdélyi vajda és Kinizsi Pál legyőzte a betörő oszmán-román seregeket."
+                },
+                {
+                    "id": "t03-b",
+                    "type": "fill-in",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás háborúi\n\nb) „Éjnek idején az egyik külvárost elfoglalják, nagy részét felgyújtják; mondják, hogy a köznépből itt sokan odavesztek […] a város fontos része esett el. Kérték a császárt, küldjön segítséget. […] A kapukat is naponta támadták a magyarok, kiváltképpen azok, kik a szigeten állomásoztak. A Duna partján változó szerencsével folyt a harc. […] Végül […] minden segítség híján, kibírhatatlan éhségtől gyötörve, a császár örök gyalázatára, június elsején meghódoltak Mátyásnak.”\n\nÍrja a helyszín sorszámát!",
+                    "correct": [
+                        "1"
+                    ],
+                    "points": 1,
+                    "explanation": "Az 1. helyszín Bécs, amelyet Mátyás 1485. június 1-jén foglalt el III. Frigyes német-római császártól hosszú ostrom után. A forrás a Duna-parti harcokra utal."
+                },
+                {
+                    "id": "t03-c",
+                    "type": "fill-in",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás háborúi\n\nc) „Mátyásról [a pápa] ebben az időben azt hitte, hogy […] az ő [Mátyás] vezérlete és fősége alatt méltó módon megfenyíthető a pogányt [is] és az eretneket [is]. Podjebrád Györgyöt [egy szomszédos állam királyát] […], ki nyíltan behódolt a kárhozatos eretnekségnek, közhírré tett súlyos rendelettel megfosztotta országától és méltóságától. […] Ez időtől fogva a pápa számos levélben buzdította Mátyást a két háborúra. Mátyás vonakodott, […] ám ekkor a római császár levelei és követei környékezték meg számos ígérettel, s ez végre az eretnekség kiirtására indította.”\n\nÍrja a helyszín sorszámát!",
+                    "correct": [
+                        "5"
+                    ],
+                    "points": 1,
+                    "explanation": "Az 5. helyszín Csehország (Morvaország/Szilézia), ahol Mátyás 1468-tól kezdődően vezetett hadjáratokat a huszita (\"eretnek\") Podjebrád György cseh király ellen a pápa támogatásával."
+                },
+                {
+                    "id": "t03-d",
+                    "type": "fill-in",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás háborúi\n\nd) A c) betűjelű forrás pogányoknak nevezi azokat, akikkel az a) betűjelű forrásban leírt csatát megvívták a magyarok. Kik ők?",
+                    "correct": [
+                        "törökök",
+                        "törökök (oszmánok)",
+                        "oszmánok",
+                        "Oszmán",
+                        "Oszmán-Török",
+                        "Török Birodalom",
+                        "oszmán-törökök",
+                        "oszmán törökök"
+                    ],
+                    "points": 1,
+                    "explanation": "A törökök (oszmánok) – a kenyérmezei csatában (1479) az oszmán sereg (és román szövetségeseik) támadtak Erdélyre. A korabeli keresztény szóhasználatban \"pogányok\" a muszlim törökökre utalt."
+                },
+                {
+                    "id": "t04-a",
+                    "type": "multiple-choice",
+                    "question": "4. feladat – A feladat a korai kapitalizmussal kapcsolatos.\n\nA) „A fent megnevezett személyek [a jegyzőkönyv aláírói] az általuk jegyzett és saját kezűleg aláírt pénzösszegeknek megfelelően vállalják, hogy a jelen esztendőben hajót indítanak Kelet-Indiába [értsd: Indiába] és más, hozzá közel fekvő szigetekre és országokba, és ott kereskednek olyan árukkal, amelyekre ezekben az országokban szükség van, illetve olyan árukat vásárolnak, amelyekben ezek az országok bővelkednek.” (Az angol Kelet-indiai Társaság jegyzőkönyvéből, 1601)\n\nB) „Napjainkban […] a gabonabőség apadni kezd [Angliában], hiszen sok tulajdonosnak […] [előnyösebb] a juhok és szarvasmarhák tenyésztése, mint a sok munkáskezet igénylő szántás-vetés, és semmilyen törvény nem tartja vissza őket attól, hogy a szántóföldeket bekerített legelőkké alakítsák, különösen mivel az ország nagyjai voltak az elsők eme jogsértésben.” (Fynes Moryson angol utazó, 1617)\n\na) Mit vásároltak az A) betűjelű forrásban említett személyek a jegyzőkönyv aláírásával saját maguk számára? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "hajót",
+                        "birtokokat Indiában",
+                        "luxuscikkeket",
+                        "részvényt"
+                    ],
+                    "correct": 3,
+                    "points": 1,
+                    "explanation": "A részvényt – a pénzt befizetők a társaság tulajdonrészét (részvényét) vásárolták meg, és a nyereségből befizetésük arányában részesedtek. Az angol Kelet-indiai Társaság egyike volt a világ első részvénytársaságainak."
+                },
+                {
+                    "id": "t04-b",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – Korai kapitalizmus\n\nb) Miért vett részt több ember közösen az A) betűjelű forrásban említett vállalkozásban? Karikázza be az egyetlen helyes magyarázat sorszámát!",
+                    "options": [
+                        "Igyekeztek a város minden kereskedőjének megélhetést biztosítani.",
+                        "Sok fegyveresre volt szükség a hajókon az esetleges támadások miatt.",
+                        "A távolsági kereskedelem nagy tőkét igénylő, kockázatos vállalkozás volt."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A távolsági (tengeri) kereskedelem rendkívül nagy kezdeti tőkét igényelt és magas kockázattal járt (hajótörés, kalózok). A részvénytársasági forma lehetővé tette a tőke és a kockázat megosztását több befektető között."
+                },
+                {
+                    "id": "t04-c",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – Korai kapitalizmus\n\nc) Melyik társadalmi réteg tagjait érte jogsérelemre utal a B) betűjelű forrás? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "földbirtokosok",
+                        "iparosok",
+                        "kereskedők",
+                        "parasztok"
+                    ],
+                    "correct": 3,
+                    "points": 1,
+                    "explanation": "A parasztok (bérlők) szenvedtek sérelmet a bekerítések miatt: elveszítették addigi megélhetésüket adó földjeiket, mivel a földbirtokosok legelővé alakították a szántókat (birkatenyésztés a gyapjúipar számára)."
+                },
+                {
+                    "id": "t04-d",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – Korai kapitalizmus\n\nd) Melyik következtetést lehet levonni a források alapján a bennük szereplő vállalkozásokra vonatkozóan? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Vállalkozásaik célja a haszon elérése volt.",
+                        "Az Újvilágból beáramló nemesfémet fényűző életmódjukra fordították.",
+                        "A versenyt korlátozó szabályozatokat fogadtak el."
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "Mindkét vállalkozás (a kereskedőtársaság és a bekerítések) célja a haszon, a nyereség maximalizálása volt – ez a kapitalista gazdálkodás alapelve, szemben a középkori céhes szemlélettel."
+                },
+                {
+                    "id": "t05-a",
+                    "type": "fill-in",
+                    "question": "5. feladat – A feladat a magyarországi katolikus megújuláshoz kapcsolódik.\n\nForrás (egy egyetem alapítóleveléből):\n„Mi …(a)…, Isten kegyelméből a Szent Római Egyháznak […] bíborosa, a(z) …(b)…-i főegyházmegye érseke és ugyanezen helynek örököse, a magyar birodalom prímása [értsd: a magyar katolikus egyház feje], […] stb., gyakran aggódva fontolgattuk magunkban, hogyan tudnánk a katolikus hitet Magyarországon elterjeszteni és a nemes magyar nemzet méltóságának is szolgálni. […] Elvégeztük azért […] a jezsuita rend főkövekével, hogy beleegyezzék […] …(c)…-i kollégiumában egyetem emelésébe.”\n\na) Adja meg a szövegből kihagyott és betűvel jelölt nevet! (Keresztnevét is írja!)",
+                    "correct": [
+                        "Pázmány Péter",
+                        "Pazmany Peter",
+                        "Pázmány",
+                        "Pazmany"
+                    ],
+                    "points": 1,
+                    "explanation": "Pázmány Péter (1570–1637) esztergomi érsek, bíboros, a magyar katolikus megújulás vezéralakja, aki 1635-ben alapította a nagyszombati egyetemet."
+                },
+                {
+                    "id": "t05-b",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Katolikus megújulás\n\nb) Adja meg a szövegből kihagyott helyszín nevét (az érseki főegyházmegye székhelye)!",
+                    "correct": [
+                        "Esztergom",
+                        "esztergomi",
+                        "Esztergomi"
+                    ],
+                    "points": 1,
+                    "explanation": "Esztergom – a magyar katolikus egyház legfőbb érseksége, hagyományosan az ország prímásának székhelye."
+                },
+                {
+                    "id": "t05-c",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Katolikus megújulás\n\n<div class=\"image-placeholder\">🖼 Három egyetemi címer: Pécsi Tudományegyetem (1367), Eötvös Loránd Tudományegyetem (1635), Semmelweis Egyetem (1769) — lásd feladatsor PDF (7. oldal)</div>\n\nc) Adja meg a szövegből kihagyott helyszín nevét (ahol az egyetem épült)!",
+                    "correct": [
+                        "Nagyszombat",
+                        "nagyszombati",
+                        "Nagyszombati"
+                    ],
+                    "points": 1,
+                    "explanation": "Nagyszombat – itt alapította Pázmány Péter 1635-ben a jezsuita egyetemet, amely a mai ELTE jogelődje; később (1777) Budára, majd Pestre költözött."
+                },
+                {
+                    "id": "t05-d",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Katolikus megújulás\n\nd) Mikor történt a forrásban említett egyetemalapítás? Adja meg az évszámot a címerek tanulmányozása alapján!",
+                    "correct": [
+                        "1635"
+                    ],
+                    "points": 1,
+                    "explanation": "1635 – az ELTE címerében szerepel ez az évszám, Pázmány Péter nagyszombati egyetemalapításának éve."
+                },
+                {
+                    "id": "t06",
+                    "type": "fill-in",
+                    "question": "6. feladat – A feladat az első ipari forradalomhoz kapcsolódik.\n\nForrás (Szemere Bertalan útinaplója, 1837):\n„Erkölcsi [értsd: jogi] és physicai [értsd: földrajzi] több kedvező körülmények emelték a brit ipart jelen magas fokára. Amazok [az erkölcsi körülmények] közé tartozik a) a birtok bátorsága [értsd: biztonsága] és a szabadon forgása [értsd: adása-vétele], amaz, mert munkásságban senki ki sem fejti sem lelki, sem testi erejét, ha nem bizonyos, hogy jutalmát is ő fogja aratni; […] b) az egyedárúság [kizárólagos kereskedelmi jog] nemléte s az a kormánynak iparvállalatokba nem-avatkozása, – a kormány vigyázzon csak a rendre s csöndre, a polgárok magok tudják legjobban, mi nekik leghasznosabb; […] c) a köz-értelmesség terjesztése a népben, könyvek, lapok. […] A fizikai kedvező körülmények közé tartozik a) hogy több nemű nyersanyagokkal nagy mennyiségben bír, milyen a gyapjú, vas, cin, ón, réz, bőr, kender, és mi hiányzik, azt a tengeren könnyen s olcsón összeszerezheti; b) hogy kimeríthetetlen kőszénbányái vannak.”\n\nMilyen tényezők segítettek elő az angol ipar fejlődését Szemere Bertalan szerint? Karikázza be a forrás alapján a négy helyes válasz sorszámát!\n\n1. egyéni érdekeltség\n2. polgári tulajdon\n3. alkotmányos monarchia\n4. konzervativizmus\n5. szabad verseny\n6. győztes háborúk\n7. olcsó energiaforrás\n8. találmányok\n9. vasút\n\n(A négy helyes sorszámot vesszővel elválasztva írja be!)",
+                    "correct": [
+                        "1, 2, 5, 7",
+                        "1,2,5,7",
+                        "1, 2, 5, 7.",
+                        "1,2,5,7."
+                    ],
+                    "points": 4,
+                    "explanation": "A négy helyes válasz: 1. egyéni érdekeltség (munka jutalma), 2. polgári tulajdon (birtok biztonsága, szabad forgása), 5. szabad verseny (monopóliumok hiánya, kormány nem avatkozik be), 7. olcsó energiaforrás (kőszénbányák)."
+                },
+                {
+                    "id": "t07-a",
+                    "type": "multiple-choice",
+                    "question": "7. feladat – A feladat a zsidó emancipációhoz kapcsolódik.\n\nDöntse el a források és ismeretei segítségével, hogy a felsorolt esetek melyik évtől váltak jogszerűen lehetővé vagy kötelezővé!\n\nForrás-kivonatok:\nA) 1848. évi XX. törvény – bevett vallásfelekezetek egyenlősége\nB) 1867. évi XVII. törvény – izraelita lakosok minden polgári és politikai jog gyakorlására jogosíttatnak\nC) 1868. évi LIII. törvény – a vallásfelekezetek tagjai nem kötelezhetők más felekezetek szertartásain részt venni; hadseregnél tábori lelkészek\nD) 1895. évi XLII. törvény – az izraelita vallás bevett vallás; az 1868-as törvény kiterjesztése\n\na) Zsidó többségű településeken a szombat kötelező munkaszüneti napnak nyilvánítható.",
+                    "options": [
+                        "1848",
+                        "1867",
+                        "1868",
+                        "1895",
+                        "egyik sem"
+                    ],
+                    "correct": 4,
+                    "points": 1,
+                    "explanation": "Egyik sem – a bevett vallások egyenlő elismerése mellett sem válhatott a szombat kötelező munkaszüneti nappá; a vasárnap maradt a polgári munkaszüneti nap."
+                },
+                {
+                    "id": "t07-b",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Zsidó emancipáció\n\nb) A honvédség köteles zsidó tábori rabbikat (lelkészeket) alkalmazni.",
+                    "options": [
+                        "1848",
+                        "1867",
+                        "1868",
+                        "1895",
+                        "egyik sem"
+                    ],
+                    "correct": 3,
+                    "points": 1,
+                    "explanation": "1895 – amikor az izraelita vallást bevett vallássá nyilvánították, és az 1868-as törvény (amely a bevett vallások számára biztosította a tábori lelkészek alkalmazását) hatálya kiterjedt az izraelitákra is."
+                },
+                {
+                    "id": "t07-c",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Zsidó emancipáció\n\nc) Egy zsidó vallású személy – ha az egyéb feltételeknek megfelel – szavazhat az országgyűlési választásokon.",
+                    "options": [
+                        "1848",
+                        "1867",
+                        "1868",
+                        "1895",
+                        "egyik sem"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "1867 – a zsidó emancipációs törvény (1867. évi XVII. tc.) biztosította az izraelita lakosok teljes polgári és politikai jogegyenlőségét, ideértve a választójogot is."
+                },
+                {
+                    "id": "t07-d",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Zsidó emancipáció\n\nd) A zsidó hitközség iskolája állami támogatásban részesül.",
+                    "options": [
+                        "1848",
+                        "1867",
+                        "1868",
+                        "1895",
+                        "egyik sem"
+                    ],
+                    "correct": 3,
+                    "points": 1,
+                    "explanation": "1895 – az izraelita vallás bevett vallássá nyilvánításával vált jogosulttá az izraelita iskola is a bevett felekezeteket megillető állami támogatásra."
+                },
+                {
+                    "id": "t08-a",
+                    "type": "multiple-choice",
+                    "question": "8. feladat – A feladat a második világháborúhoz kapcsolódik.\n\nA hágai hadijogi egyezmény (1899–1907) részletei:\nA) 7. cikk – semleges hatalom nem köteles megakadályozni fegyverek stb. kivitelét a hadviselő félnek; 9. cikk – a semleges hatalmaknak egyformán kell alkalmazniuk korlátozó / tiltó intézkedéseiket.\nB) A szerződő hatalmak elismerik, hogy köztük az ellenségeskedésnek nem szabad megkezdődnie előzetes és minden kizáró értesítés nélkül, amely akár megokolt hadüzenet, akár ultimátumba foglalt feltételes hadüzenet alakjába foglaltasson.\nC) A hadifoglyok az ellenséges kormány, nem pedig az őket foglyul ejtő egyének vagy csapattestek hatalma alatt állnak. A hadifoglyokkal emberiesen kell bánni.\nD) Nem védelmezett városokat, falvakat, lakott helyeket vagy épületeket megtámadni vagy bombázni mindenképpen tilos.\n\nRendelje a hágai hadijogi egyezmények azon pontjait a képekhez / térképvázlatokhoz, amelyek megsértésére a kép / térképvázlat utal!\n\n<div class=\"image-placeholder\">🖼 Drezda (korabeli fotó, szövetséges bombázás utáni romok) — lásd feladatsor PDF (10. oldal)</div>\n\na) A forrás betűjele:",
+                    "options": [
+                        "A) (semlegesség megsértése)",
+                        "B) (hadüzenet hiánya)",
+                        "C) (hadifoglyok bánásmódja)",
+                        "D) (védtelen városok bombázása)"
+                    ],
+                    "correct": 3,
+                    "points": 1,
+                    "explanation": "D) – Drezdát 1945 februárjában a szövetségesek (brit és amerikai légierő) bombázták, jelentős polgári áldozatokkal. A város katonailag védtelen volt, így a bombázás a hágai egyezmény tiltott pontja alá esik."
+                },
+                {
+                    "id": "t08-b",
+                    "type": "multiple-choice",
+                    "question": "8. feladat (folytatás) – Második világháború\n\n<div class=\"image-placeholder\">🖼 Pearl Harbour (korabeli fotó a japán támadásról) — lásd feladatsor PDF (10. oldal)</div>\n\nb) A forrás betűjele:",
+                    "options": [
+                        "A) (semlegesség megsértése)",
+                        "B) (hadüzenet hiánya)",
+                        "C) (hadifoglyok bánásmódja)",
+                        "D) (védtelen városok bombázása)"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "B) – Japán 1941. december 7-én hadüzenet nélkül támadta meg az amerikai Pearl Harbour-i flottabázist, ezzel sértve meg a hadüzenetről szóló hágai egyezmény pontját."
+                },
+                {
+                    "id": "t08-c",
+                    "type": "multiple-choice",
+                    "question": "8. feladat (folytatás) – Második világháború\n\n<div class=\"image-placeholder\">🖼 Egy lengyel és két szovjet katona korabeli ábrázolása (a lengyel tisztet szovjet katonák kivégzik – Katyń-erdei mészárlásra utal) — lásd feladatsor PDF (11. oldal)</div>\n\nc) A forrás betűjele:",
+                    "options": [
+                        "A) (semlegesség megsértése)",
+                        "B) (hadüzenet hiánya)",
+                        "C) (hadifoglyok bánásmódja)",
+                        "D) (védtelen városok bombázása)"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "C) – a Katyń-erdei mészárlás (1940) során a szovjet titkosszolgálat (NKVD) több ezer lengyel tisztet és értelmiségit végzett ki hadifogolyként, durván megsértve a hadifoglyokkal való emberséges bánásmódot előíró egyezményt."
+                },
+                {
+                    "id": "t08-d",
+                    "type": "multiple-choice",
+                    "question": "8. feladat (folytatás) – Második világháború\n\n<div class=\"image-placeholder\">🖼 Térképvázlat: Nyugati front, 1940 – német támadási irány Hollandia, Belgium és Luxemburg (semleges államok) felé — lásd feladatsor PDF (11. oldal)</div>\n\nd) A forrás betűjele:",
+                    "options": [
+                        "A) (semlegesség megsértése)",
+                        "B) (hadüzenet hiánya)",
+                        "C) (hadifoglyok bánásmódja)",
+                        "D) (védtelen városok bombázása)"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "B) – a német támadás 1940 májusában Hollandia, Belgium és Luxemburg (semleges államok) ellen hadüzenet nélkül történt; a semlegesség megsértése mellett a hadüzenet hiánya volt a fő jogsértés."
+                },
+                {
+                    "id": "t09-a",
+                    "type": "fill-in",
+                    "question": "9. feladat – A feladat a Tanácsköztársaság korával kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 Propagandaplakát, 1919 (Zádor István): „Adjatok élelmet! Ha nincs erőnk dolgozni [...] Ha nem kaphatunk szerszámot, ruhát!” – városi munkások és családjuk vidéki parasztoktól kérnek élelmet — lásd feladatsor PDF (12. oldal)</div>\n\na) Nevezze meg azt a két társadalmi csoportot, amelynek tagjai megjelennek a plakáton!",
+                    "correct": [
+                        "munkásság, parasztság",
+                        "munkások, parasztok",
+                        "munkásság és parasztság",
+                        "parasztság, munkásság",
+                        "parasztok, munkások",
+                        "munkás, paraszt"
+                    ],
+                    "points": 1,
+                    "explanation": "A munkásság és a parasztság – a plakát a városi munkások ellátásának problémájára utal, a parasztoktól (falusi parasztságtól) kérnek élelmet. A kulák kifejezés a Tanácsköztársaság idején nem elfogadható válasz."
+                },
+                {
+                    "id": "t09-b",
+                    "type": "multiple-choice",
+                    "question": "9. feladat (folytatás) – Tanácsköztársaság\n\nb) Melyik állítás igaz a plakátra? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Azt hangsúlyozza, hogy a két réteg együttműködésének köszönhetően virágzik az ország.",
+                        "Utal arra, hogy az osztályharc során az egyik társadalmi csoport le fogja győzni a másikat.",
+                        "Alkalmas arra, hogy bűnbaknak állítsa be az egyik társadalmi csoportot."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz: a plakát a parasztságot állítja be bűnbaknak a városi ellátási gondokért; a Tanácsköztársaság propagandája ellenségnek láttatta az élelmet „visszatartó” parasztságot."
+                },
+                {
+                    "id": "t09-c",
+                    "type": "multiple-choice",
+                    "question": "9. feladat (folytatás) – Tanácsköztársaság\n\nc) Melyik intézkedést kívánták elviselhetőbbé tenni a Tanácsköztársaság vezetői a propagandaplakáttal? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "államosítás",
+                        "beszolgáltatási kötelezettség",
+                        "a hadsereg ellátása"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A beszolgáltatási kötelezettséget – a Tanácsköztársaság idején a parasztoknak kötelező volt terményeiket alacsony áron (vagy ingyen) beszolgáltatniuk; a plakát ezt próbálta legitimálni a \"városi éhség\" érvével."
+                },
+                {
+                    "id": "t10-a",
+                    "type": "fill-in",
+                    "question": "10. feladat – A feladat a hidegháború időszakához kapcsolódik.\n\n<div class=\"image-placeholder\">🖼 Karikatúra, 1947 (Balkán és térsége vasútállomás): bal oldali kocsi „Liberty Hotel” (Szabadság Hotel) – felirat: kényelmes elhelyezés; jobb oldali kocsi „Pension Russe” (Orosz Panzió) – felirat: rögzített feltételek. A bal oldali kocsiban Görögország és Törökország, a jobb oldaliban Magyarország. A hintók előtt háttal álló két alak: Ausztria és Bulgária. A jobb oldali kocsi ajtajában 1. sorszámmal jelölt férfi áll. — lásd feladatsor PDF (13. oldal)</div>\n\na) Nevezze meg a karikatúrán 1. sorszámmal jelölt állami vezetőt!",
+                    "correct": [
+                        "Sztálin",
+                        "Sztalin",
+                        "Joszif Sztálin",
+                        "J. V. Sztálin"
+                    ],
+                    "points": 1,
+                    "explanation": "Sztálin – a Szovjetunió vezetője, a karikatúra őt ábrázolja, aki \"beszállásolja\" a kelet-európai országokat az \"Orosz Panzióba\" (a szovjet érdekszférába)."
+                },
+                {
+                    "id": "t10-b",
+                    "type": "short-answer",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nb) Támassza alá egy érvvel, hogy a karikatúra a nyugati álláspontot jeleníti meg!",
+                    "sampleAnswer": "A nyugati (amerikai-brit) oldalt pozitívan, udvariasan ábrázolja („Szabadság Hotel”, kényelmes), míg a szovjet oldalt erőszakosként, kényszerítőként mutatja be („rögzített feltételek”, Sztálin durván betuszkolja az országokat).",
+                    "points": 1,
+                    "explanation": "A karikatúra a nyugati szabadságot pozitívan (Liberty Hotel, udvariasság, kényelem), a szovjet zónát negatívan (erőszak, kényszer) ábrázolja – ez egyértelműen nyugati (angolszász) nézőpontot tükröz. A karikatúra angol nyelvű feliratai önmagukban nem elfogadhatók érvként."
+                },
+                {
+                    "id": "t10-c",
+                    "type": "multiple-choice",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nc) Melyik történelmi folyamatot ábrázolja a karikatúra? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Az ENSZ létrehozása.",
+                        "A határok meghatározása a párizsi béketárgyaláson.",
+                        "A kétpólusú világ kialakulása."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A kétpólusú világ kialakulása – a karikatúra 1947-ben készült, amikor az egykori szövetségesek (USA és Szovjetunió) között megjelent a vasfüggöny, és Európa megosztottsága (nyugati és keleti blokk) véglegesült."
+                },
+                {
+                    "id": "t10-d",
+                    "type": "fill-in",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nd) Melyik – a karikatúrán szereplő – országra igaz a következő leírás?\n\nNégyhatalmi megszállás alá került, de később demokratikus politikai berendezkedést tudott kialakítani. A korszakban egyik katonai tömbbe sem lépett be.",
+                    "correct": [
+                        "Ausztria",
+                        "Auszria"
+                    ],
+                    "points": 1,
+                    "explanation": "Ausztria – 1945 után négyhatalmi megszállás alatt állt, majd 1955-ben az államszerződéssel visszakapta szuverenitását, semlegességet vállalt, és nem lépett be sem a NATO-ba, sem a Varsói Szerződésbe."
+                },
+                {
+                    "id": "t11-a",
+                    "type": "multiple-choice",
+                    "question": "11. feladat – A feladat a Rákosi-korszak gazdaságpolitikájához kapcsolódik. (komplex tesztfeladat)\n\nForrás (általános iskolai matematika-példa, 1952):\n„Egy egyénileg dolgozó paraszt 95 kg rozsot vetett. Aratás után 1140 kg-ot csépelt belőle. Hányszoros a termése? A szomszédos tszcs-ben [termelőszövetkezeti csoport] ugyanolyan földön 16-szoros termés volt. Hány mázsás termésnek felel meg? Miért volt itt nagyobb a termés?”\n\na) Melyik fogalomhoz kapcsolódó propaganda jelenik meg a szövegben? Karikázza be az egyetlen helyes megoldás sorszámát!",
+                    "options": [
+                        "államosítás",
+                        "beszolgáltatás",
+                        "kollektivizálás"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A kollektivizálás – a matematikapélda a termelőszövetkezetek (tszcs) állítólagos magasabb hatékonyságát propagálja az egyénileg gazdálkodó paraszttal szemben, ezzel népszerűsítve a kollektivizálást."
+                },
+                {
+                    "id": "t11-b",
+                    "type": "fill-in",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak gazdaságpolitikája\n\nb) Nevezze meg szakkifejezéssel, milyen elítélő gúnynévvel illette a korabeli propaganda a szövegben is említett „egyénileg dolgozó parasztot”!",
+                    "correct": [
+                        "kulák",
+                        "kulákok"
+                    ],
+                    "points": 1,
+                    "explanation": "Kulák – a kommunista propaganda ezzel a gúnynévvel illette a nagyobb földbirtokkal rendelkező, a szövetkezetbe belépni nem hajlandó parasztokat, akiket „osztályellenségként” üldöztek."
+                },
+                {
+                    "id": "t11-c",
+                    "type": "multiple-choice",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak gazdaságpolitikája\n\nc) Melyik válasz felelt volna meg a matematikapélda utolsó kérdésére a korabeli politikai elvárások szerint? Karikázza be az egyetlen helyes megoldás sorszámát!",
+                    "options": [
+                        "A nagyüzemi módszerek miatt hatékonyabb a termelés.",
+                        "Az egyéni érdekeltség miatt termeltek többet.",
+                        "A terrortól való félelem miatt volt több a termés."
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A nagyüzemi módszerek – a Rákosi-korszak propagandája a termelőszövetkezetek nagyüzemi, gépesített termelésének állítólagos magasabb hatékonyságát hangsúlyozta a kisparaszti gazdálkodással szemben."
+                },
+                {
+                    "id": "t11-d",
+                    "type": "multiple-choice",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak gazdaságpolitikája\n\nd) Melyik propagandakép kapcsolódik a matematikapéldában említett üzemszervezethez? Karikázza be az egyetlen helyes megoldás sorszámát!\n\n<div class=\"image-placeholder\">🖼 Három propagandakép: 1. „Gyertek lányok traktorra!” (mezőgazdasági gépesítés), 2. „A népfrontra szavazunk!” (választás), 3. „Szőlő, must és bortermésed gyors beadásával erősíted a nép államát!” (beszolgáltatás) — lásd feladatsor PDF (14. oldal)</div>",
+                    "options": [
+                        "1. Gyertek lányok traktorra!",
+                        "2. Népfrontra szavazunk",
+                        "3. Szőlő, must és bortermés beadása"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "Az 1. kép (Gyertek lányok traktorra!) a termelőszövetkezeti nagyüzem gépesített földművelését propagálja – ez kapcsolódik a matematikapéldában dicsért tszcs-hez."
+                },
+                {
+                    "id": "t11-e",
+                    "type": "fill-in",
+                    "question": "11. feladat (folytatás) – Rákosi-korszak gazdaságpolitikája\n\ne) Válassza ki az állítások közül azt a kettőt, amely valóban igaz volt a Rákosi-korszakra! Karikázza be a két helyes válasz sorszámát!\n\n1. A parasztoknak engedélyezték a háztáji gazdaságot a termelőszövetkezetek mellett.\n2. Felgyorsult a vidéki lakosság városokba költözése.\n3. Nyomásgyakorlással sikerült a parasztság egészét bekényszeríteni a termelőszövetkezetekbe.\n4. Az elhibázott iparosítás miatt nőtt a mezőgazdaságban dolgozók aránya.\n5. Az élelmiszerhiány miatt újra be kellett vezetni a jegyrendszert.\n\n(A két helyes sorszámot vesszővel elválasztva írja be!)",
+                    "correct": [
+                        "2, 5",
+                        "2,5",
+                        "5, 2",
+                        "5,2"
+                    ],
+                    "points": 2,
+                    "explanation": "A két helyes válasz: 2. (a kényszeres iparosítás miatt a falusi lakosság tömegesen költözött a városokba) és 5. (az élelmiszerhiány miatt 1951-től újra bevezették a jegyrendszert)."
+                },
+                {
+                    "id": "t12-a",
+                    "type": "fill-in",
+                    "question": "12. feladat – A feladat a mai Magyarországon élő nemzetiségekkel kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 Ábra: A nemzetiségek jogainak fő összetevői a mai Magyarországon – Egyéni jogok (1-3), Közösségi jogok (4-6), Védelem (7-9), Képviselet (10-11) — lásd feladatsor PDF (15. oldal)</div>\n\nJogforrások:\n- Alaptörvény\n- törvény a nemzetiségek jogairól\n\nEgyéni jogok: 1. nemzetiséghez tartozás kinyilvánítása, 2. anyanyelv használata, 3. nemzetiségi névhasználat\nKözösségi jogok: 4. hagyományok ápolása, 5. intézmények létrehozása, 6. nemzetközi kapcsolatok kiépítése\nVédelem: 7. diszkrimináció elutasítása, 8. erőszakos asszimiláció elutasítása, 9. Alapvető Jogok Biztosának helyettese\nKépviselet: 10. nemzetiségi képviselő vagy szószóló az országgyűlésben, 11. nemzetiségi önkormányzatok\n\nAdja meg, hogy a nemzetiségek jogainak az ábrán számozással jelölt összetevői közül melyikre vonatkozik az idézet!\n\na) „Demokratikus választások útján e törvény alapján létrehozott szervezet, amely a nemzetiségi közösséget megillető jogosultságok érvényesítésére, a […] nemzetiségi közügyek települési, területi vagy országos szinten történő önálló intézésére jön létre.” (2011. évi CLXXIX. törvény)",
+                    "correct": [
+                        "11"
+                    ],
+                    "points": 1,
+                    "explanation": "11. nemzetiségi önkormányzatok – ezek jönnek létre demokratikus választások útján a nemzetiségi közügyek helyi, területi és országos szintű önálló intézésére."
+                },
+                {
+                    "id": "t12-b",
+                    "type": "fill-in",
+                    "question": "12. feladat (folytatás) – Nemzetiségek\n\nb) „Magyarország tilalmaz minden olyan politikát, magatartást, amely […] a nemzetiségnek […] a többségi nemzetből történő kirekesztését, elkülönítését célozza, vagy ezt eredményezi, […] nemzetiséget vagy nemzetiséghez tartozó személyt hovatartozása miatt üldözi, megfélemlíti, életkörülményeit nehezíti, jogai gyakorlásában akadályozza.” (2011. évi CLXXIX. törvény)",
+                    "correct": [
+                        "7"
+                    ],
+                    "points": 1,
+                    "explanation": "7. diszkrimináció elutasítása – a törvény kifejezetten tiltja a nemzetiség kirekesztését, elkülönítését, üldözését, azaz a hátrányos megkülönböztetést."
+                },
+                {
+                    "id": "t12-c",
+                    "type": "fill-in",
+                    "question": "12. feladat (folytatás) – Nemzetiségek\n\nc) „Külön szavazólap szolgál az egyéni választókerületi, az országos pártlistás és – nemzetiségenként – a nemzetiségi listás szavazásra.” (2013. évi XXXVI. törvény)",
+                    "correct": [
+                        "10"
+                    ],
+                    "points": 1,
+                    "explanation": "10. nemzetiségi képviselő vagy szószóló az országgyűlésben – a nemzetiségi listás szavazással választanak nemzetiségi képviselőt, illetve szószólót az Országgyűlésbe."
+                },
+                {
+                    "id": "t12-d",
+                    "type": "fill-in",
+                    "question": "12. feladat (folytatás) – Nemzetiségek\n\nd) Nevezze meg a két legnagyobb létszámú nemzetiséget a mai Magyarországon! (A két választ vesszővel elválasztva adja meg!)",
+                    "correct": [
+                        "roma, német",
+                        "romák, németek",
+                        "cigány, német",
+                        "cigányok, németek",
+                        "német, roma",
+                        "németek, romák",
+                        "német, cigány",
+                        "németek, cigányok",
+                        "cigányság, németség",
+                        "sváb, cigány",
+                        "cigány, sváb"
+                    ],
+                    "points": 1,
+                    "explanation": "A két legnagyobb létszámú nemzetiség a mai Magyarországon a roma (cigány) és a német (sváb) nemzetiség."
+                }
+            ]
+        },
+        "szoveges": {
+            "timeLimit": 150,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t13",
+                    "type": "essay",
+                    "question": "13. feladat – A feladat a 19. századi politikai eszmékhez kapcsolódik. (RÖVID, egyetemes történelem, 1849-ig)\n\nMutassa be a forrás és ismeretei segítségével a liberalizmus legfőbb politikai és gazdasági célkitűzéseit! Térjen ki röviden a liberalizmus és a nacionalizmus korabeli közös céljára is!\n\nForrás (Giuseppe Mazzini politikus, 1845):\n„Húsz-huszonötmilliós nép vagyunk, melyet emberemlékezet óta ugyanazzal a névvel illetnek, az olasz névvel, melyet az Isten által valaha húzott legpontosabb természetes határok zárnak körül, mely ugyanazon nyelvet beszéli, ugyanazon hitet vallja, melynek ugyanazok a szokásai és hagyományai, amely büszke Európa-szerte ismert politikai, tudományos és művészeti múltjára. […] Nincs zászlónk, nincs állami nevünk, nincs rangunk az európai nemzetek között. Nincs közös központunk, közös [társadalmi] szerződésünk, közös piacunk. Hét államra vagyunk feldarabolva.”\n\n(Rövid feladat, egyetemes történelem, 1849 előtti korszak. Maximum 17 pont.)",
+                    "minWords": 120,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti a feladatot",
+                                "1 – Részlegesen érti",
+                                "2 – Alapvetően a liberalizmus politikai és gazdasági céljait mutatja be, a forrás felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli/időbeli elem",
+                                "1 – Legalább egy szerepel",
+                                "2 – Utal arra, hogy a liberalizmus a francia forradalmat / a felvilágosodást követően / a 19. század első felében alakult ki, és utal arra, hogy európai / amerikai eszméről terjedt el"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs szakkifejezés",
+                                "1 – 1-2 szakkifejezést használ",
+                                "2 – Legalább 3 szakkifejezés: liberalizmus, alkotmány / nemzetállam / polgári nemzet, szabad verseny / kapitalizmus, jogegyenlőség / hatalmi ágak megosztása / népfelség"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Szavakból álló vázlat / sok hiba",
+                                "1 – Rosszul szerkesztett / több hiba",
+                                "2 – Értelmes mondatok, logikus felépítés, nincs súlyos nyelvi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés, források használata (F)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs helyes tény vagy megállapítás",
+                                "1 – Tény vagy megállapítás van",
+                                "2 – Tény + pontatlan megállapítás",
+                                "3 – Rögzít egy lényeges összekötő kapcsot vagy célkitűzést a szöveg alapján (pl. közös nyelv / terület / kultúra / történelem vagy alkotmány / nemzetgazdaság), és ezzel kapcsolatban lényegi megállapítást tesz (pl. a liberalizmus és a nacionalizmus közös célja a nemzetállam / polgári nemzet létrehozása volt)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E1) – politikai cél",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs tény + megállapítás",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti, hogy a liberalizmus legfőbb politikai célja az alkotmányosság / népfelség / jogegyenlőség megvalósítása volt, és ezzel kapcsolatban lényegi megállapítást tesz (pl. népképviseleti rendszer; a hatalmi ágak megosztása; a kiváltságok megszüntetése; biztosítaná a szabadságjogokat; az alkotmányosság ellentétes az abszolutizmussal)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E2) – gazdasági cél",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a liberalizmus legfőbb gazdasági célja a szabad versenyes / kapitalista rendszer megvalósítása, és ezzel kapcsolatban lényegi megállapítást tesz (pl. ez egyeztethető össze a szabadságjogokkal; érvényesülne a vállalkozás / munkavállalás szabadsága; állam gazdasági szerepét minimalizálná; megszüntetné a monopóliumokat / céheket / nemesi földtulajdont / jobbágyságot)"
+                            ]
+                        }
+                    ],
+                    "explanation": "A liberalizmus célja politikailag az alkotmányos (népképviseleti) rendszer, a jogegyenlőség, a szabadságjogok érvényesítése, gazdaságilag a szabad verseny és a magántulajdon védelme. A nacionalizmussal közös céljuk: a nemzetállam, a polgári nemzet létrehozása."
+                },
+                {
+                    "id": "t14",
+                    "type": "essay",
+                    "question": "14. feladat – A feladat a világban 1945 után zajló demográfiai változásokkal kapcsolatos. (RÖVID, egyetemes történelem, 1849 utáni)\n\nMutassa be a forrás és ismeretei segítségével, hogyan változott Európa népessége a 20. század második felétől! Tárja fel a változások fő okait és következményeit is!\n\nForrás (A világ és Európa népességének változása 1960–2020):\n| Év | Világ népesség (millió fő) | Növekedés % (20 év) | Európa népesség (millió fő) | Növekedés % (20 év) |\n|-----|-----|-----|-----|-----|\n| 1960 | 3 015 | – | 606 | – |\n| 1980 | 4 448 | 48 | 694 | 15,0 |\n| 2000 | 6 172 | 39 | 728 | 4,9 |\n| 2020 | 7 787 | 26 | 750 | 3,0 |\n\n(Rövid feladat, egyetemes történelem, 1849 utáni korszak. Maximum 17 pont.)",
+                    "minWords": 120,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően Európa népességének változását mutatja be a 20. század második felétől, és feltárja annak fő okait és következményeit"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli/időbeli elem",
+                                "1 – Legalább egy van",
+                                "2 – Megállapításai a 20. század második felére és a 21. század elejére vonatkoznak, és rögzíti a téma térbeli elemét (pl. Európában a fejlett világra jellemző demográfiai folyamatok zajlanak; Európába jellemzően Ázsiából / Afrikából vándorolnak be; a bevándorlás főképp Nyugat-Európába irányult)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3: népesség, népességnövekedés / népességfogyás, népességmozgás, bevándorlás / migráció, születés / halálozás / öregedő társadalom"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat / sok hiba",
+                                "1 – Néhány hiba",
+                                "2 – Értelmes, logikus, helyes"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés, források (F)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény",
+                                "2 – Pontatlan megállapítás",
+                                "3 – Rögzít egy lényeges tényt a táblázat adatai alapján (pl. Európa népessége – lassuló ütemben – növekszik; Európa népessége kisebb mértékben növekedett, mint a világé), és tesz egy érdemi megállapítást erre vonatkozóan (pl. az európai népesség aránya egyre kisebb a világ népességén belül; Európában a 19. században / más kontinensekhez képest hamarabb zajlott népességrobbanás; Európa népessége hamarosan várhatóan fogyni fog; a népesség egyenlőtlen eloszlása / egyenletlen változása is ösztönzi a népességmozgásokat; a népesség növekedéséhez a bevándorlás is hozzájárul)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E1) – születés/halálozás",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít egy tényt a születések számára vonatkozóan (pl. jellemzően alacsony a születések száma / termékenységi arányszám; jellemzően alacsony a születések száma / termékenységi arányszám), és tesz egy érdemi megállapítást erre vonatkozóan (pl. ez összefügg a nők helyzetének változásával / a házasságkötések számának csökkenésével / az egyre magasabb életkorban kötött házasságokkal / a társadalom elöregedésével; egyre alacsonyabb az aktív keresők aránya), VAGY rögzít egy tényt a születéskor várható élettartamra vonatkozóan (pl. jellemzően magas a várható élettartam; a várható élettartam jellemzően megnövekedett), és tesz egy érdemi megállapítást erre vonatkozóan (pl. ennek fontos oka a csecsemőhalandóság visszaszorulása / az orvostudomány fejlődése / az egészségügyi ellátás fejlődése / az élelmiszer-ellátás javulása; a társadalom elöregedése)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E2) – bevándorlás",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy jelentős az Európába irányuló bevándorlás, és tesz egy érdemi megállapítást erre vonatkozóan (pl. a bevándorlás megindulása összefüggött a gyarmati rendszer felbomlásával; a gazdasági fejlődés / az elöregedés munkaerő-hiányt idézett elő Európában; a bevándorlás feszültségeket okoz; a népesség növekedéséhez a bevándorlás is hozzájárul)"
+                            ]
+                        }
+                    ],
+                    "explanation": "Európa népessége a 20. század második felétől lassuló ütemben nő (végül fog csökkeni), aránya a világ népességén belül folyamatosan csökken. Okok: alacsony termékenység (nők helyzete, késői gyermekvállalás), elöregedés, magasabb várható élettartam. Következmények: munkaerőhiány, bevándorlás, társadalmi feszültségek."
+                },
+                {
+                    "id": "t15",
+                    "type": "essay",
+                    "question": "15. feladat – A feladat a Rákóczi-szabadságharccal kapcsolatos. (HOSSZÚ, magyar történelem, 1849-ig)\n\nMutassa be a források és ismeretei segítségével a kuruc állam kiépítésének kísérletét, annak nehézségeit és bukásának okait! Térjen ki II. Rákóczi Ferenc szerepére!\n\nForrás 1 (II. Rákóczi Ferenc emlékirataiból, 1717):\n„Ez a hirtelen és lelkes parasztfelkelés [a szabadságharc kirobbanásakor] megdöbbentette a nemességet. Visszavonultak váraikba és védett házaikba. A parasztokat benső­séges gyűlölet vezette uraik ellen, s elhajtották nyájaikat és gulyáikat azzal az ürüggyel, hogy a nemesek csupán azért vonultak vissza váraikba, mert a németekhez szítanak. Így hát a megyék nemessége nem tudta, melyik pártra álljon, mert egyformán félt a néptől és a németektől, s ezért visszavonult a főurak váraiba, de csak kevesen zárkóztak be németek őrizte helyekre.”\n\nForrás 2 (II. Rákóczi Ferenc emlékirataiból, 1717):\n„[A rendek] végül megegyeztek abban, hogy a vezér címe az ország nyelvének szellemében olyan fejedelmet jelöljön, aki vezérel, jobban mondva a szövetkezett rendek vezérlő fejedelmét, amit a latin Dux szóval jelöl. […] Megegyeztek abban, hogy a szenátorok száma huszonnégy legyen, de feltétlenül azt akarták, hogy én nevezzem ki őket. […] Ezek után kikiáltottak a szövetkezett rendek vezérlő fejedelmévé.”\n\nForrás 3 (Az ónodi országgyűlés határozata, 1707):\n„Mostani hadakozásunknak tovább való folytatásához, régi szabadságink [kiváltságaink] helyrehozása kedvéért, […] mindnyájan […], senkit ki nem vévén, két millió [forint] pénzbeli segítség adást rendeltünk közöttünk.”\n\n(Hosszú feladat, magyar történelem, 1849 előtti korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően a kuruc állam kiépítésének kísérletét, annak nehézségeit és bukásának okait mutatja be. A válasz a források felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T1 (idő)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs időbeli elem",
+                                "1 – Részben",
+                                "2 – Rögzíti a Rákóczi-szabadságharc kezdetét: 1703 és végét: 1711"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T2 (tér)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli elem",
+                                "1 – Egy van",
+                                "2 – Rögzíti a téma két térbeli elemét (pl. a szabadságharc kiinduló területe Északkelet-Magyarország / Kárpátalja / Hegyalja; az országgyűlések helyszínei: Szécsény / Ónod / Sárospatak; a békét Szatmárban kötötték)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K1 (általános fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3 általános fogalom: pl. országgyűlés, nemes, fejedelem"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K2 (konkrét történelmi fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3: pl. kuruc, trónfosztás, rendek / rendi konföderáció, amnesztia"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K3 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat",
+                                "1 – Sok hiba",
+                                "2 – Értelmes mondatokból áll, logikusan felépített, nincs súlyos nyelvi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F1 (parasztság-nemesség)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a szöveg egy lényeges elemét (pl. a parasztság és nemesség között ellentét állt fenn; a császáriakkal sem a parasztok, sem a nemesek nem szimpatizáltak), és ezzel kapcsolatban lényegi megállapítást tesz (pl. a szabadságharc idején a társadalmi feszültségek megmaradtak; Rákóczinak sikerült megfegyelmeznie a hadsereget / társadalmi összefogást teremtenie; sikerült a nemességet / jobbágyságot egyaránt csatlakozásra bírnia; a Habsburg-ellenes érzelmek segítették a társadalmi rétegek összefogását)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F2 (vezérlő fejedelem)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a szöveg egy lényeges elemét (pl. Rákóczit vezérlő fejedelemmé választották, Rákóczi szenátorokat nevezett ki maga mellé), és ezzel kapcsolatban lényegi megállapítást tesz (pl. ezzel rendi konföderáció jött létre; a rendek és Rákóczi együtt gyakorolták a hatalmat; ekkor még nem akartak elszakadni a Habsburg Birodalomtól; a katonai sikerek politikai konszolidációja történt; Rákóczi ellenőrzésére felállították a Szenátust)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F3 (adó, nemesség)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a harcok folytatásához a nemességre is kiterjedő adót vetettek ki, és ezzel kapcsolatban lényegi megállapítást tesz (pl. a határozat ellenére ellehetetlenült a hadsereg finanszírozása; a nemesség egy része elfordult Rákóczitól; a jobbágyok nem bírtak egyszerre harcolni és adózni; az országgyűlésen nagyobb fegyverek erőszakra kerültek sor; az intézkedés sértette a nemesi kiváltságokat)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E1 (Rákóczi szerepe)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti Rákóczi vezető szerepével kapcsolatban (pl. a szabadságharc elején aratott kuruc győzelmek megerősítették Rákóczi helyzetét; Rákóczit erdélyi fejedelemmé választották; Rákóczinak sikerült a nagyobb tömegeket csatlakozásra bírnia; XIV. Lajos francia király támogatta Rákóczit), és ezzel kapcsolatban lényegi megállapítást tesz (pl. a kurucok győzelmei / a spanyol örökösödési háború miatt a Habsburgok hajlottak a békére; Rákóczi francia tanácsadók segítették az állam- / hadseregszervezésben; Rákóczi saját pénzt vert; Rákóczit a társadalom többsége támogatta)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E2 (ónodi országgyűlés)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy az ónodi országgyűlésen megtörtént a Habsburgok / I. József trónfosztása, és ezzel kapcsolatban lényegi megállapítást tesz (pl. Rákóczi ezzel akarta megakadályozni a Habsburgokkal / I. Józseffel történő kiegyezést / ezzel próbált külföldi szövetséget szerezni; a magyarok egy része elfordult Rákóczitól; nem sikerült elismertetni az ország függetlenségét külföldön / külföldi királyt a trónra ültetni)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E3 (bukás)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a kuruc katonai vereséget szenvedtek / békére kényszerültek, és ezzel kapcsolatban lényegi megállapítást tesz (pl. Rákóczi nem kapott külföldi segítséget; a jobbágyoknak kevés volt a hajdúszabadság ígérete, így ők is elhagyták a sereget; nem tudták finanszírozni a hadsereget; a császári hadsereg végig katonai fölényben volt; a szatmári béke kompromisszuma elfogadható volt a magyar nemességnek; Rákóczinak és követőinek is amnesztiát ajánlottak / a Habsburgok nem akartak megtorlást; Rákóczi nem fogadta el a békét / önkéntes száműzetésbe vonult)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Korlátozott",
+                                "3 – Önálló ismereteivel, helyes megállapításaival kiegészíti és alátámasztja elemzését"
+                            ]
+                        }
+                    ],
+                    "explanation": "A Rákóczi-szabadságharc (1703–1711) során kuruc állam épült ki (szécsényi 1705, ónodi 1707 országgyűlés, trónfosztás, vezérlő fejedelem, rendi konföderáció, önálló pénzverés). Nehézségek: finanszírozás, nemesi-paraszti ellentétek, nemzetközi elszigeteltség. Bukás: katonai vereségek, spanyol örökösödési háború vége, XIV. Lajos támogatásának elmaradása. A szatmári béke (1711) kompromisszummal zárult."
+                },
+                {
+                    "id": "t16",
+                    "type": "essay",
+                    "question": "16. feladat – A feladat Magyarország két világháború közötti történelmével kapcsolatos. (HOSSZÚ, magyar történelem, 1849 utáni)\n\nMutassa be a források és ismeretei segítségével a Bethlen István miniszterelnöksége idején lezajlott konszolidáció legfontosabb belpolitikai és gazdasági lépéseit! Válaszában térjen ki a konszolidáció fogalmára is jelentőségét!\n\nForrás 1 (Jegyzőkönyv a kormány és a szociáldemokrata küldöttek megbeszéléséről, Bethlen–Peyer-paktum, 1921):\n„Az értekezlet megállapodik abban, hogy […] a politikai gyülekezési jogot valamennyi pártra nézve egyenlő elbánás mellett a kormány visszaállítja. […] A kibocsátandó rendeletben azonban a politikai gyűlések tartása engedélyhez kötött. […] A kormány csakis zárt vagy elkerített helyen tartandó gyűlésekre szólhat; utcai tüntető felvonulások, szabad ég alatti gyűlések a mai viszonyokra tekintettel egyelőre nem engedélyezhetőek. […] Az értekezlet egyetértőleg megállapodik abban, hogy a szakszervezetek […] jóváhagyott alapszabályaikban körülírt működésüket akadálytalanul folytathatják. […] Ezzel szemben azonban a szociáldemokrata munkásság kiküldöttei tudomásul veszik […] hogy [a kormány] a nagy vasutak (M.Á.V. stb.) zökkenés nélküli munkájával összekapcsolt mai érdekekre tekintettel ezek személyzetének körében semmiféle szakszervezeti mozgalmat nem engedélyez.”\n\n<div class=\"image-placeholder\">🖼 További források a konszolidációról: egymillió koronás bankjegy 1923-ból és 80 pengős bankjegy 1927 után (pénzreform, pengő bevezetése) — lásd feladatsor PDF</div>\n\n(Hosszú feladat, magyar történelem, 1849 utáni korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően Bethlen István miniszterelnökségét mutatja be. A válasz a források felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T1 (idő)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzíti Bethlen István miniszterelnökségének kezdetét: 1921 és végét: 1931"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben – T2 (tér)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Utal a trianoni területvesztésre"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K1 (általános fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 általános fogalom: pl. kölcsön, ipar, választójog, kormány"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K2 (konkrét történelmi fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 konkrét fogalom: pl. nyílt szavazás, Magyar Nemzeti Bank, pengő, konszolidáció"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – K3 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat",
+                                "1 – Sok hiba",
+                                "2 – Értelmes mondatokból áll, logikusan felépített, nincs súlyos nyelvi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F1 (Bethlen-Peyer paktum)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a forrás egy lényeges elemét (pl. a kormány korlátozott gyülekezési jogot biztosított; az utcai tüntetéseket tiltották; a kormány korlátozottan engedte a szakszervezetek működését; a szociáldemokraták nem alakíthattak vasutas szakszervezetet), és ezzel kapcsolatban lényegi megállapítást tesz (pl. a kormány/a Bethlen-Peyer paktum stabilizálta hatalmát / korlátozta az ellenzék működését; korlátozott parlamentáris rendszer alakult ki; a szociáldemokrata párt törvényesen működhetett)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F2 (választójog)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a forrás egy lényeges elemét (pl. a titkos választásokhoz Klebelsberg szerint az embereknek tudniuk kell olvasni; a titkos választás visszaélésekre adott volna lehetőséget), és ezzel kapcsolatban lényegi megállapítást tesz (pl. vidéken / a nagyobb városok kivételével nyílt szavazás volt; a nyílt szavazás a kormánypárt győzelmét segítette)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – F3 (pengő)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy a korona helyett bevezették a pengőt, és tesz egy érdemi megállapítást erre vonatkozóan (pl. megszűnt az infláció; az új pénz bevezetését népszövetségi kölcsön felvétele / a Magyar Nemzeti Bank megalapítása előzte meg)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E1 (konszolidáció)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a konszolidáció fogalmát (pl. politikai / gazdasági helyzet megszilárdítása), és ezzel kapcsolatban lényegi megállapítást tesz (pl. ez a régi elit részleges visszatérését jelentette a hatalomba; korlátozott parlamentáris rendszer jött létre; a konszolidációra a világháborús vereség / az OMM felbomlása / a proletárdiktatúra felszámolása / a trianoni területvesztés után került sor)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E2 (Egységes Párt)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Bethlen megszervezte az Egységes Pártot, és ezzel kapcsolatban lényegi megállapítást tesz (pl. a KNEP egyes tagjaiból és a Kisgazdapártból jött létre; a Horthy-korszakban végig ugyanaz a politikai erő volt hatalmon; stabil kormánypárt jött létre; konzervatív / keresztény-nemzeti párt volt), VAGY rögzíti, hogy Bethlen szűkítette a választójogot, és ezzel kapcsolatban lényegi megállapítást tesz (pl. a választójogot iskolai végzettséghez kötötte; a nők esetében megemelte a korhatárt)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – E3 (Népszövetségi kölcsön)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy az ország kölcsönt vett fel a Népszövetségtől, és ezzel kapcsolatban lényegi megállapítást tesz (pl. gazdasági szerkezetváltás következett be; fellendült a könnyűipar / textilipar / vegyipar / elektronika / gyógyszeripar, és versenyezett az osztrák / cseh konkurenciával; a Népszövetség ellenőrizte a magyar költségvetést)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Korlátozott",
+                                "3 – Önálló ismereteivel, helyes megállapításaival kiegészíti és alátámasztja elemzését"
+                            ]
+                        }
+                    ],
+                    "explanation": "Bethlen István (1921–1931) a trianoni sokk és a Tanácsköztársaság utáni konszolidáció vezéralakja. Belpolitika: Bethlen-Peyer paktum (1921), nyílt szavazás vidéken (1922), Egységes Párt. Gazdaság: népszövetségi kölcsön (1924), MNB felállítása, pengő bevezetése (1927), infláció megszüntetése, könnyűipari fejlődés. A konszolidáció politikai-gazdasági stabilizációt jelentett, de korlátozott parlamentarizmust eredményezett."
+                }
+            ]
+        }
+    }
+}

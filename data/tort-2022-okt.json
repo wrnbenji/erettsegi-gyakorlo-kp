@@ -1,0 +1,1015 @@
+{
+    "id": "tort-2022-okt",
+    "subject": "tortenelem",
+    "year": 2022,
+    "session": "Október",
+    "date": "2022. október 19.",
+    "sections": {
+        "rovid": {
+            "timeLimit": 90,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t01-a",
+                    "type": "multiple-choice",
+                    "question": "1. feladat – A kereszténység születésével kapcsolatos.\n\nA) „Amint beért [a városba], felbolydult az egész város, és ezt kérdezgették: Kicsoda ez? A sokaság ezt mondta: Ő Jézus, a galileai Názáretből való próféta. Azután Jézus bement a templomba, és kiűzte mindazokat, akik a templomban árusítottak és vásároltak, a pénzváltók asztalait és a galambárusok székeit pedig felborította, és ezt mondta nekik: […].”\n\nB) „[Így szólt Jézus:] Mondom nektek, hogy elvétetik tőletek az Isten országa, és olyan népnek adatik, amely megtermi annak gyümölcsét. […] Amikor a főpapok hallották példázatait, megértették, hogy róluk beszél. Szerették volna elfogni, de féltek a sokaságtól, mert a prófétának tartotta.”\n\n(Részletek a Bibliából, Máté evangéliumából)\n\na) Hogyan folytatódik az A) betűjelű idézet? Karikázza be az egyetlen megfelelő folytatás sorszámát!",
+                    "options": [
+                        "„Hozsánna a Dávid Fiának! Áldott, aki jön az Úr nevében!”",
+                        "„Új parancsolatot adok nektek, hogy szeressétek egymást: ahogyan én szerettelek titeket, ti is úgy szeressétek egymást! Arról fogja megtudni mindenki, hogy az én tanítványaim vagytok, ha szeretitek egymást.”",
+                        "„Meg van írva: »Az én házamat imádság házának nevezik«, ti pedig rablók barlangjává teszitek.”"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz helyes: Jézus a jeruzsálemi templom megtisztításakor idézte Ézsaiás próféta szavait, miközben kiűzte a kufárokat és pénzváltókat a templomból."
+                },
+                {
+                    "id": "t01-b",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Kereszténység\n\nb) Nevezze meg azt a várost, ahol az A) betűjelű idézetben szereplő események játszódtak!",
+                    "correct": [
+                        "Jeruzsálem",
+                        "Jeruzsalem"
+                    ],
+                    "points": 1,
+                    "explanation": "Jeruzsálem – Jézus itt tisztította meg a Templomot a pénzváltóktól és kereskedőktől, röviddel elfogatása és keresztre feszítése előtt."
+                },
+                {
+                    "id": "t01-c",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Kereszténység\n\nc) Nevezze meg azt a vallást, amelynek temploma és főpapjai szerepelnek az idézetekben!",
+                    "correct": [
+                        "zsidó",
+                        "zsido",
+                        "zsidó vallás",
+                        "judaizmus",
+                        "mózesi vallás"
+                    ],
+                    "points": 1,
+                    "explanation": "A zsidó vallás (judaizmus) – a jeruzsálemi Második Templom és főpapjai a zsidó vallási élet központját jelentették Jézus korában."
+                },
+                {
+                    "id": "t01-d",
+                    "type": "multiple-choice",
+                    "question": "1. feladat (folytatás) – Kereszténység\n\nd) Döntse el az idézett forrásrészletek alapján, miért nem vetették fogságba Jézust az idézett események során a főpapok! Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Azért, mert a köznép Isten küldöttjét látta benne.",
+                        "Azért, mert sokan őt tekintették az egyház fejének.",
+                        "Azért, mert a római helytartó nem adott rá engedélyt."
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "Az 1. válasz helyes: a forrás szerint a főpapok „féltek a sokaságtól, mert a prófétának tartotta” Jézust – a köznép Isten küldöttjeként tisztelte őt."
+                },
+                {
+                    "id": "t02-a",
+                    "type": "fill-in",
+                    "question": "2. feladat – A középkori építészeti stílusokhoz kapcsolódik.\n\nRendelje a templombelsőket bemutató vázlatrajzokat a róluk szóló állításokhoz! Írja vázlatrajzok sorszámát a táblázat megfelelő mezőjébe! Egy sorszámot kétszer is felhasználhat. Egy sorszám kimarad.\n\n<div class=\"image-placeholder\">🖼 Négy templombelső vázlatrajza (1. kupolás, 2. román félköríves, 3. gótikus csúcsíves, 4. ókeresztény bazilika) — lásd feladatsor PDF (4. oldal)</div>\n\na) A templomépítészet egy új szerkezeti megoldása miatt lehetővé vált, hogy a templom teljes falmagasságát kitöltő, csúcsíves ablakokat alakítsanak ki.\n\n(Írja a megfelelő vázlatrajz sorszámát!)",
+                    "correct": [
+                        "3"
+                    ],
+                    "points": 1,
+                    "explanation": "A 3. vázlatrajz (gótikus) – a bordás keresztboltozat és a támpillérek lehetővé tették, hogy a falakat óriási csúcsíves ablakokkal bontsák meg."
+                },
+                {
+                    "id": "t02-b",
+                    "type": "fill-in",
+                    "question": "2. feladat (folytatás) – Középkori építészet\n\nb) A román stílusú templom boltívekben vagy keresztboltozatokban záródó tetőszerkezetének súlyát csak vaskos oszlopok és falak tudták elviselni.\n\n(Írja a megfelelő vázlatrajz sorszámát!)",
+                    "correct": [
+                        "2"
+                    ],
+                    "points": 1,
+                    "explanation": "A 2. vázlatrajz (román stílus) – a félköríves boltozatok és vaskos oszlopok, vastag falak jellemzik a 11-12. századi román templomokat."
+                },
+                {
+                    "id": "t02-c",
+                    "type": "fill-in",
+                    "question": "2. feladat (folytatás) – Középkori építészet\n\nc) A gótikus stílusú templom díszítésének jellegzetes eleme a hálóboltozat (a bordaívek által kirajzolt hálószerű alakzat), illetve a behajtható oldalszárnyakkal ellátott szárnyas oltár.\n\n(Írja a megfelelő vázlatrajz sorszámát!)",
+                    "correct": [
+                        "3"
+                    ],
+                    "points": 1,
+                    "explanation": "A 3. vázlatrajz (gótikus) – a hálóboltozat és a szárnyas oltár a késő gótika tipikus díszítőelemei voltak."
+                },
+                {
+                    "id": "t02-d",
+                    "type": "fill-in",
+                    "question": "2. feladat (folytatás) – Középkori építészet\n\nd) A templom legjellegzetesebb eleme a hatalmas kupola, melyhez hasonlót a nyugati építészet csak a középkor végén tudott alkotni.\n\n(Írja a megfelelő vázlatrajz sorszámát!)",
+                    "correct": [
+                        "1"
+                    ],
+                    "points": 1,
+                    "explanation": "Az 1. vázlatrajz (bizánci kupolás, pl. Hagia Sophia) – a hatalmas központi kupolát a nyugati építészet csak a reneszánsz idején (pl. firenzei dóm) tudta újra megvalósítani."
+                },
+                {
+                    "id": "t03-a",
+                    "type": "fill-in",
+                    "question": "3. feladat – A honfoglalással kapcsolatos.\n\nA) „A türkök [magyarok] pedig a besenyőktől elűzetve, elmentek és letelepedtek arra a földre, amelyen most laknak. […] Belgrádtól két napi útra, és azokon túl Nagy Moravia [Morva Birodalom] található, melyet a türkök megsemmisítettek, s amelyen előbb Szvatopluk uralkodott. […] Ahol Turkia [a magyarok földjének] egész szállásterülete van, azt folyók nevéről nevezik el. A folyók ezek: első folyó a Temes, második folyó a Tútisz [Béga], harmadik folyó a Maros, negyedik folyó a Körös, és ismét egy másik folyó a Tisza. A türkök közelében vannak keleti oldalon a bolgárok, ahol őket az Isztrosz folyó választja el, amelyet Dunának is neveznek, észak felé a besenyők, nyugatabbra a frankok, dél felé pedig a horvátok.” (Bíborbanszületett Konstantin bizánci császár művéből, 10. század)\n\nB) <div class=\"image-placeholder\">🖼 Térkép: „A Kárpát-medence népei a honfoglalás idején” – feltüntetve a Keleti Frank Birodalom, Pribina fejedelemsége, Morva Birodalom, Bolgár Birodalom és a magyar honfoglalás útvonala — lásd feladatsor PDF (5. oldal)</div>\n\nDöntse el a források és ismeretei segítségével, melyik forrás alapján igazolhatók az állítások! Írjon A), B), Mindkettő vagy Egyik sem választ!\n\na) A magyarokat a Kárpát-medencébe költözésük időszakában támadás érte.",
+                    "correct": [
+                        "A",
+                        "A)",
+                        "A) betűjelű forrás",
+                        "A betűjelű forrás"
+                    ],
+                    "points": 1,
+                    "explanation": "Csak az A) forrás említi, hogy a magyarokat a besenyők űzték el – ez egyértelmű utalás a keletről érkező támadásra a honfoglalás idején."
+                },
+                {
+                    "id": "t03-b",
+                    "type": "fill-in",
+                    "question": "3. feladat (folytatás) – Honfoglalás\n\nb) A dunántúli területek frank ellenőrzés alatt álltak.\n\n(Írjon A), B), Mindkettő vagy Egyik sem választ!)",
+                    "correct": [
+                        "Mindkettő",
+                        "Mindketto",
+                        "mindkettő",
+                        "mindketto"
+                    ],
+                    "points": 1,
+                    "explanation": "Mindkét forrás alátámasztja: az A) említi, hogy a frankok nyugatabbra vannak; a B) térkép egyértelműen mutatja a Keleti Frank Birodalom és Pribina fejedelemségének dunántúli jelenlétét."
+                },
+                {
+                    "id": "t03-c",
+                    "type": "fill-in",
+                    "question": "3. feladat (folytatás) – Honfoglalás\n\nc) A magyarok először a Kárpát-medence Dunától keletre eső területeit foglalták el.\n\n(Írjon A), B), Mindkettő vagy Egyik sem választ!)",
+                    "correct": [
+                        "Mindkettő",
+                        "Mindketto",
+                        "mindkettő",
+                        "mindketto"
+                    ],
+                    "points": 1,
+                    "explanation": "Mindkét forrás alátámasztja: az A) felsorolja a keleti folyókat (Temes, Maros, Tisza stb.), a B) térkép pedig megmutatja a honfoglalás keletről induló útvonalát."
+                },
+                {
+                    "id": "t03-d",
+                    "type": "short-answer",
+                    "question": "3. feladat (folytatás) – Honfoglalás\n\nd) Mely – a források által szemléltetett – tényező játszott szerepet abban, hogy a magyarok viszonylag könnyen el tudták foglalni a Kárpát-medencét?",
+                    "sampleAnswer": "A Kárpát-medence területén több birodalom osztozott, a környező birodalmak határterülete volt, egyetlen birodalomnak sem volt itt hatalmi központja.",
+                    "points": 1,
+                    "explanation": "A Kárpát-medence több birodalom (Morva, Frank, Bolgár) határvidékén feküdt, egyik sem tudta egységesen megvédeni. A szétdaraboltság megkönnyítette a magyar honfoglalást."
+                },
+                {
+                    "id": "t04-a",
+                    "type": "fill-in",
+                    "question": "4. feladat – A kapitalista gazdaság kialakulásához kapcsolódik.\n\n„E háznak van egy tágas terme, / Kétszáz szövőszék áll benne. / Kétszáz férfi, nem kevesebb, / Dolgozik rajta eleget. / Mindegyiknél egy szép gyermek / Vidáman orsót tekerget. / Egy másik helyiségben pedig / Százan a gyapjút fésülik. / Száz asszony, erősek, vígak, / Dallal munkájuk jól halad. / A mellettük lévő kamrában / Kétszáz derék, szorgalmas lány van. / Ez a kétszáz szép ifjú lány / Csak gomboly ít, de nem sző ám.” (Angol ballada részlete, 16. század)\n\na) Nevezze meg a forrásrészletben leírt üzemtípust!",
+                    "correct": [
+                        "manufaktúra",
+                        "manufaktura"
+                    ],
+                    "points": 1,
+                    "explanation": "Manufaktúra – a gépesítés előtti nagyüzem, ahol kézi munkával, de már részmunkafolyamatokra bontva dolgoztak sokan egy helyen."
+                },
+                {
+                    "id": "t04-b",
+                    "type": "short-answer",
+                    "question": "4. feladat (folytatás) – Kapitalista gazdaság\n\nFogalmazza meg röviden a megadott szempontok alapján az üzemtípusnak a forrásban is leírt három jellegzetességét, amelyek megkülönböztették a korábbi ipari termelési módszerektől!\n\nb) Munkaszervezés:",
+                    "sampleAnswer": "A munkafolyamat részekre bontása / munkamegosztás – a férfiak szőnek, az asszonyok fésülik a gyapjút, a lányok gombolyítanak.",
+                    "points": 1,
+                    "explanation": "A manufaktúra legfőbb újítása a munkamegosztás volt: a termelési folyamatot részmunkákra bontották, így nőtt a hatékonyság."
+                },
+                {
+                    "id": "t04-c",
+                    "type": "short-answer",
+                    "question": "4. feladat (folytatás) – Kapitalista gazdaság\n\nc) Munkaerő típusa:",
+                    "sampleAnswer": "Bérmunka / bérmunkások / alkalmazott, képzetlen munkaerő – a dolgozók bérért dolgoznak, nem önálló kézművesek.",
+                    "points": 1,
+                    "explanation": "A manufaktúrákban bérmunkások dolgoztak – szemben a középkori céhek önálló mestereivel és segédjeivel, akik saját műhelyükben termeltek."
+                },
+                {
+                    "id": "t04-d",
+                    "type": "short-answer",
+                    "question": "4. feladat (folytatás) – Kapitalista gazdaság\n\nd) Termékmennyiség:",
+                    "sampleAnswer": "Tömegtermelés / nagy mennyiségű termék – sokan dolgoznak egy helyen, így sokkal több termék készül.",
+                    "points": 1,
+                    "explanation": "A manufaktúrák tömegtermelést tettek lehetővé a munkamegosztás és a nagy létszám révén, ezzel a kapitalista gazdaság alapját vetve meg."
+                },
+                {
+                    "id": "t05-a",
+                    "type": "multiple-choice",
+                    "question": "5. feladat – A Rákóczi-szabadságharchoz kapcsolódik.\n\nA) „Az országnak […] arany szabadságát szolgai átváltozással örökletes királyság képére alakították át. […] Szégyen elmondani, hogy a fizetőképességét teljesen elvesztett népet milyen sokféle kétségbeesés gyötri. […] Az ország népe most is széltében hangoztatja, hogy jobb sorsa volt a hódító félhold uralma alatt; az meg okmányokkal bizonyítható, hogy az osztrákok évenkénti zsarolásai az ottománoknak [oszmánoknak] fél évszázad alatt teljesített szolgáltatásokat is bőségesen elérik.” (II. Rákóczi Ferenc kiáltványa, 1703/1704)\n\nVálassza ki az – idézett forrásrészletben szereplő – okot, amely miatt az alábbi kitalált személyek csatlakoztak volna a Rákóczi-szabadságharchoz!\n\na) Szirtes Ferenc jobbágy",
+                    "options": [
+                        "A háborús időkben kimaradó bevételek pótlására kétszer szedték be a tizedet.",
+                        "Megtiltották a szabad költözködést.",
+                        "A török elleni hosszú háborúk során a császári hadsereg elkobozta állatait."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz helyes: a forrás szerint „az osztrákok évenkénti zsarolásai” nagyobb terhet jelentettek, mint a törökök – a jobbágyokat a császári hadsereg fosztogatásai sújtották."
+                },
+                {
+                    "id": "t05-b",
+                    "type": "multiple-choice",
+                    "question": "5. feladat (folytatás) – Rákóczi-szabadságharc\n\nb) Toporci Balázs nemes",
+                    "options": [
+                        "Elvették a hadviseléshez való jogát.",
+                        "Megszüntették a szabad királyválasztást.",
+                        "Az uralkodó nem hívott össze országgyűlést."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A 2. válasz helyes: a forrás „arany szabadságát szolgai átváltozással örökletes királyság képére alakították” kifejezése az 1687-es pozsonyi országgyűlésre utal, amely eltörölte a szabad királyválasztást."
+                },
+                {
+                    "id": "t05-c",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Rákóczi-szabadságharc\n\nB) „Ezen mi mindnyájunk közös akaratával végzett s megerősített artikulusunkkal [törvénycikkelyünkkel] magunkat említett első József császár és ő általa az egész Ausztriai Ház rajtunk követelt királyi engedelmességétől, tiszteletétől és minden magánénak tulajdoníttatni kívánt jussától [jogától] magyar koronánkhoz, országunkhoz és annak igazgatásához […] felszabadultaknak [nyilvánítjuk].” (Egy törvénycikkelyből)\n\nc) Nevezze meg szakkifejezéssel a B) betűjelű forrásban leírt jogi eseményt!",
+                    "correct": [
+                        "trónfosztás",
+                        "tronfosztas",
+                        "a Habsburg-ház trónfosztása",
+                        "detronizáció",
+                        "detronizacio"
+                    ],
+                    "points": 1,
+                    "explanation": "Trónfosztás (detronizáció) – az 1707-es ónodi országgyűlés mondta ki a Habsburg-ház trónfosztását, miután Magyarországot „interregnum” (király nélküli) állapotba helyezte."
+                },
+                {
+                    "id": "t05-d",
+                    "type": "multiple-choice",
+                    "question": "5. feladat (folytatás) – Rákóczi-szabadságharc\n\nC) <div class=\"image-placeholder\">🖼 Id. Georg Philipp Rugendas: Kuruc–labanc lovas párbaj (korabeli festmény). Az 1. sorszámmal jelölt alak a kuruc katona. — lásd feladatsor PDF (7. oldal)</div>\n\nd) Válassza ki a C) betűjelű kép alapján az egyetlen igaz állítást! Karikázza be a sorszámát!",
+                    "options": [
+                        "A nehézlovasság nagy szerepet játszott a kuruc sikerekben.",
+                        "A kuruc hadsereg elsősorban könnyűlovasokból állt.",
+                        "A várostromok döntő szerepet játszottak a szabadságharc során."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A 2. válasz helyes: a kuruc hadsereget főként könnyűlovasság alkotta (szablya, könnyű fegyverzet), ami kiválóan alkalmas volt a rajtaütésekre, de döntő csatákra kevésbé."
+                },
+                {
+                    "id": "t06-a",
+                    "type": "fill-in",
+                    "question": "6. feladat – Az első világháború előtti szövetségi rendszerek kialakulásával kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 Német képeslap: „Deutschland im europäischen Gleichgewicht” – Németország az európai „egyensúlyban”. A háború kitörésekor készült képeslap. (Balra: Ausztria, Németország. Középen: Törökország, USA, Olaszország. Jobbra: Franciaország, Belgium, Oroszország, Anglia, oroszok felett: Montenegró, alattuk Szerbia, Anglia alatt Japán.) — lásd feladatsor PDF (8. oldal)</div>\n\na) Melyik szövetségi rendszert tartotta kevésbé esélyesnek a győzelemre a képeslap alkotója? Nevezze meg szakkifejezéssel!",
+                    "correct": [
+                        "antant",
+                        "hármas antant",
+                        "harmas antant"
+                    ],
+                    "points": 1,
+                    "explanation": "A (hármas) antant – Franciaország, Oroszország és Nagy-Britannia szövetsége. A német képeslap a központi hatalmak (Németország, Ausztria) oldalára állítja a súlyt, az antantot pedig felfelé lendítve „könnyebbnek”, esélytelenebbnek ábrázolja."
+                },
+                {
+                    "id": "t06-b",
+                    "type": "fill-in",
+                    "question": "6. feladat (folytatás) – Szövetségi rendszerek\n\nMelyik országokra igazak a következő állítások? A képeslapon szereplő országok közül válasszon!\n\nb) A képeslap utal arra, hogy ez a hatalom készült fel a legjobban a háborúra.",
+                    "correct": [
+                        "Németország",
+                        "Nemetorszag",
+                        "Német Császárság",
+                        "Nemet Csaszarsag"
+                    ],
+                    "points": 1,
+                    "explanation": "Németország (Német Császárság) – a képeslapon Németország áll középen a mérleget billentve; a jól felszerelt lövedék („42 cm”, utalás a nehéztüzérségre) mutatja, hogy készen állt a háborúra."
+                },
+                {
+                    "id": "t06-c",
+                    "type": "fill-in",
+                    "question": "6. feladat (folytatás) – Szövetségi rendszerek\n\nc) A képeslap utal arra, hogy ez a kis ország orosz segítségben bízott.",
+                    "correct": [
+                        "Szerbia",
+                        "Szerb Királyság",
+                        "Szerb Kiralysag"
+                    ],
+                    "points": 1,
+                    "explanation": "Szerbia – a képeslapon a kis Szerbia közvetlenül Oroszország alatt jelenik meg, ami Oroszország védelmére, támogatására utal. Az 1914-es szarajevói merénylet után Oroszország valóban Szerbia védelmére kelt."
+                },
+                {
+                    "id": "t06-d",
+                    "type": "short-answer",
+                    "question": "6. feladat (folytatás) – Szövetségi rendszerek\n\nd) Magyarázza meg, mit fejez ki az, hogy három országot középen ábrázol a képeslap!",
+                    "sampleAnswer": "Azt fejezi ki, hogy ezek az államok (Törökország, USA, Olaszország) a háború kitörésekor még semlegesek voltak, még nem csatlakoztak egyik szövetséghez sem.",
+                    "points": 1,
+                    "explanation": "Törökország, az USA és Olaszország a háború kitörésekor semlegesek voltak, nem foglaltak még állást; később eltérő oldalon léptek be a háborúba (Törökország a központiak, Olaszország és az USA az antant oldalán)."
+                },
+                {
+                    "id": "t07-a",
+                    "type": "fill-in",
+                    "question": "7. feladat – A dualizmus korához kapcsolódik (komplex tesztfeladat).\n\nA) „Nem elég érzésben és szavakban szolgálni a magyar állameszmét; erős akarattal, kitartó törekvéssel akarni kell megalkotni […] az egységes magyar nemzeti államot, […] hogy egysége és nemzeti legyen nyelvben és érzésben. Szüksége van még a külsőségekre is, mely külsőségeket azonban kicsinyelni nem szabad; szüksége van arra, hogy ne csak fiai, de hegyei és völgyei is magyar neveket viseljenek.” (Bánffy Dezső, korábbi miniszterelnök, 1902)\n\nB) „Hiszünk azonban az igazságos Istenben, hogy nekünk is üt még felszabadulásunk órája, és míg az eljön, veletek [ti. horvátokkal] akarunk élni, veletek élni és halni – nincs semmi szláv a szlávságban, mihez mint sajátjához ne járulna a tátraaljai szláv [értsd: szlovák]. […] Mindnyájan [szlovákok] hű [...] testvérek vagyunk, kik a nagy akadályok dacára megőriztük szíveinkben a szláv közös érdekek kölcsönössége és szolidaritás iránti érzetet.” (A Matica Slovenská, szlovák kulturális egyesület 1870-es évkönyve)\n\nC) „Csak ki nem írhattuk, hogy nekünk Erdély kell a Tiszáig, mert ez forradalmi tény volna, Európa pedig a forradalmakat a programoknak már nem szereti. […] A mi feladatunk csak a támogatás, oly magatartással és intézkedésekkel, melyekkel mi a magyar alkotmányosságot megdönthetjük. […] Vigyázva, nehogy valami olyan legyen benne, amit esetleg a magyar meg is adhatna. Ámde […] kinek kell Erdély autonómiája […]? Nekünk kellene ugyan ideiglenesen, míg megbontanánk a magyar alkotmányt, azután abban rágódnánk tovább, míg átragnék magunkat a Kárpátokon át a román állama.” (Moldován Gergely, magyarokkal rokonszenvező román néprajzkutató, 1894)\n\nDöntse el, hogy mely forrásokra igazak a táblázatban szereplő állítások! Írjon A, B, C, Mindhárom vagy Egyik sem választ!\n\na) A forrásban megjelenik egy olyan nemzet, amely a magyarokkal kötött kiegyezés értelmében területi autonómiával rendelkezett.",
+                    "correct": [
+                        "B",
+                        "B)"
+                    ],
+                    "points": 1,
+                    "explanation": "A B) forrás szól a horvátokról – az 1868-as magyar-horvát kiegyezés adott Horvátországnak területi autonómiát a Magyar Királyságon belül."
+                },
+                {
+                    "id": "t07-b",
+                    "type": "fill-in",
+                    "question": "7. feladat (folytatás) – Dualizmus kori nemzetiségi kérdés\n\nb) A forrásban megjelenik az asszimilációs cél.\n\n(Írjon A, B, C, Mindhárom vagy Egyik sem választ!)",
+                    "correct": [
+                        "A",
+                        "A)"
+                    ],
+                    "points": 1,
+                    "explanation": "Az A) forrás (Bánffy Dezső) kifejezetten az „egységes magyar nemzeti állam” kialakítását célozza, a hegyek és völgyek magyar nevének használatával is – ez egyértelmű magyarosítási/asszimilációs törekvés."
+                },
+                {
+                    "id": "t07-c",
+                    "type": "fill-in",
+                    "question": "7. feladat (folytatás) – Dualizmus kori nemzetiségi kérdés\n\nc) A forrás szerint a magyar kormány Magyarország szövetségi állammá való átalakítását ajánlotta fel a nemzetiségi követelésekre válaszul.\n\n(Írjon A, B, C, Mindhárom vagy Egyik sem választ!)",
+                    "correct": [
+                        "Egyik sem",
+                        "egyik sem"
+                    ],
+                    "points": 1,
+                    "explanation": "Egyik sem – a magyar kormány a dualizmus idején soha nem ajánlott fel szövetségi államiságot a nemzetiségeknek; ellenkezőleg, a nemzetállami egység megvalósítására törekedett."
+                },
+                {
+                    "id": "t07-d",
+                    "type": "fill-in",
+                    "question": "7. feladat (folytatás) – Dualizmus kori nemzetiségi kérdés\n\nd) A forrás nacionalista gondolatokról tanúskodik.\n\n(Írjon A, B, C, Mindhárom vagy Egyik sem választ!)",
+                    "correct": [
+                        "Mindhárom",
+                        "mindhárom",
+                        "mindharom"
+                    ],
+                    "points": 1,
+                    "explanation": "Mindhárom – az A) magyar, a B) szláv/szlovák, a C) román nacionalizmust tükrözi; a korszak egész Közép-Európájában erős nemzeti mozgalmak voltak jellemzők."
+                },
+                {
+                    "id": "t07-e",
+                    "type": "fill-in",
+                    "question": "7. feladat (folytatás) – Dualizmus kori nemzetiségi kérdés\n\ne) A forrás arról tanúskodik, hogy a korszakban a nemzetiségeket elszakadási törekvés jellemezte.\n\n(Írjon A, B, C, Mindhárom vagy Egyik sem választ!)",
+                    "correct": [
+                        "C",
+                        "C)"
+                    ],
+                    "points": 1,
+                    "explanation": "A C) forrás (Moldován Gergely) egyértelműen kimondja Erdély román állammal való egyesítésének szándékát – ez az elszakadási törekvés megfogalmazása."
+                },
+                {
+                    "id": "t07-f",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Dualizmus kori nemzetiségi kérdés\n\nf) A Magyar Királyság lakosságának hány százalékát alkották nemzetiségek 1910-ben? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "26 %-át",
+                        "46 %-át",
+                        "66 %-át"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A 2. válasz helyes: 1910-ben a Magyar Királyság lakosságának kb. 46%-a nem volt magyar anyanyelvű (Horvátországgal együtt). Ez mutatja az ország soknemzetiségű jellegét."
+                },
+                {
+                    "id": "t08-a",
+                    "type": "fill-in",
+                    "question": "8. feladat – A náci Németországgal kapcsolatos.\n\nA) „Birodalmi törvényeket a birodalmi alkotmány által előírt eljárásokon kívül a birodalmi kormányzat is hozhat. […] A birodalmi kormányzat által hozott törvények eltérhetnek a birodalmi alkotmánytól […]. A birodalmi kormány által hozott törvényeket a birodalmi kancellár [kormányfő] parafálja [írja alá] és teszi közzé a birodalom hivatalos lapjában.” (Felhatalmazási törvény, 1933)\n\nB) „Birodalmi állampolgár csak német vagy rokon vérű személy lehet, aki viselkedésével bebizonyítja, hogy hajlandó és képes arra, hogy hűséges legyen a német néphez és birodalomhoz. […] Zsidó nem lehet birodalmi állampolgár. Nincs szavazati joga politikai ügyekben, nem lehet hivatalnok.” (Birodalmi állampolgársági törvény, 1938)\n\nÁllapítsa meg, melyik forrás idézett részére vonatkozik az állítás!\n\na) Hitler kormányfői kinevezésének évében született. (Írjon A, B, Mindkettő vagy Egyik sem választ!)",
+                    "correct": [
+                        "A",
+                        "A)"
+                    ],
+                    "points": 1,
+                    "explanation": "Az A) forrás (Felhatalmazási törvény, 1933) – Hitlert 1933. január 30-án nevezték ki kancellárrá, és még ugyanebben az évben, márciusban fogadták el a felhatalmazási törvényt."
+                },
+                {
+                    "id": "t08-b",
+                    "type": "fill-in",
+                    "question": "8. feladat (folytatás) – Náci Németország\n\nb) Alapvető emberi jogokat sértett.\n\n(Írjon A, B, Mindkettő vagy Egyik sem választ!)",
+                    "correct": [
+                        "B",
+                        "B)"
+                    ],
+                    "points": 1,
+                    "explanation": "A B) forrás (Birodalmi állampolgársági törvény, 1938 – a nürnbergi törvények része) sérti alapvető emberi jogokat: faji alapon fosztotta meg a zsidókat az állampolgárságtól és a politikai jogoktól."
+                },
+                {
+                    "id": "t08-c",
+                    "type": "fill-in",
+                    "question": "8. feladat (folytatás) – Náci Németország\n\nc) Ellentmondott a hatalommegosztás elvének.\n\n(Írjon A, B, Mindkettő vagy Egyik sem választ!)",
+                    "correct": [
+                        "A",
+                        "A)"
+                    ],
+                    "points": 1,
+                    "explanation": "Az A) forrás – a Felhatalmazási törvény felborította a törvényhozó és végrehajtó hatalom szétválasztását: a kormány (végrehajtó) hozhatott törvényeket a parlament megkerülésével."
+                },
+                {
+                    "id": "t08-d",
+                    "type": "fill-in",
+                    "question": "8. feladat (folytatás) – Náci Németország\n\nd) Az intézkedések a totális diktatúrát szolgálták.\n\n(Írjon A, B, Mindkettő vagy Egyik sem választ!)",
+                    "correct": [
+                        "Mindkettő",
+                        "Mindketto",
+                        "mindkettő"
+                    ],
+                    "points": 1,
+                    "explanation": "Mindkettő – a felhatalmazási törvény a politikai hatalom koncentrációját, a nürnbergi törvények az ideológiai (faji) totális ellenőrzést szolgálták; mindkettő a totális diktatúra építését támogatta."
+                },
+                {
+                    "id": "t09-a",
+                    "type": "multiple-choice",
+                    "question": "9. feladat – A Horthy-korszakkal kapcsolatos.\n\n„Szeretném látni, hogyan lehet szavazólapokkal dolgozni egymillió körül járó analfabéta [írástudatlan] választónál? Bárki olyan cédulát nyomhat ezeknek az analfabétáknak a kezébe, amelyről nem is tudják, hogy mi áll rajta. A […] [kormány] népiskolái a maguk kultúrdemokráciájával a politikai demokráciának pionierjei [úttörői].” (Miniszteri beszéd, 1928)\n\na) Mely két, az ellenzék által követelt választójogi elvvel állnak szemben a forrás első két mondatában leírt gondolatok? Karikázza be a két helyes válasz sorszámát!",
+                    "options": [
+                        "női választójog",
+                        "általános választójog",
+                        "egyenlő választójog",
+                        "titkos szavazás",
+                        "közvetlen szavazás"
+                    ],
+                    "correct": [
+                        1,
+                        3
+                    ],
+                    "points": 1,
+                    "explanation": "A 2. (általános) és 4. (titkos) helyes: a beszéd az analfabéták szavazásától tart, amely az általános választójog kiterjesztésének ellenérve; a „cédulával való manipulálás” a titkos szavazás hiányával függ össze."
+                },
+                {
+                    "id": "t09-b",
+                    "type": "short-answer",
+                    "question": "9. feladat (folytatás) – Horthy-korszak\n\nb) Magyarázza meg saját szavaival a forrás aláhúzással kiemelt mondatát! (Aláhúzott rész: „A [...] [kormány] népiskolái a maguk kultúrdemokráciájával a politikai demokráciának pionierjei [úttörői].”)",
+                    "sampleAnswer": "Az iskolahálózat fejlesztése, az analfabetizmus csökkentése teremti meg az általános választójog / titkos szavazás / a (politikai) demokrácia megvalósulásának lehetőségét.",
+                    "points": 1,
+                    "explanation": "A miniszter szerint először a köznépet kell művelni (népiskolákkal, „kultúrdemokráciával”), hogy később képesek legyenek élni a politikai jogaikkal – tehát az oktatás bővítése a demokrácia előfeltétele."
+                },
+                {
+                    "id": "t09-c",
+                    "type": "fill-in",
+                    "question": "9. feladat (folytatás) – Horthy-korszak\n\nc) Ki töltötte be a magyar miniszterelnöki tisztséget a beszéd elhangzásakor? Nevezze meg! Keresztnevet is írjon!",
+                    "correct": [
+                        "Bethlen István",
+                        "gróf Bethlen István"
+                    ],
+                    "points": 1,
+                    "explanation": "Gróf Bethlen István miniszterelnök (1921-1931) – az ő nevéhez fűződik a Horthy-korszak konszolidációja, köztük az 1926-os választójogi reform is, amely visszaállította a nyílt szavazást vidéken."
+                },
+                {
+                    "id": "t10-a",
+                    "type": "fill-in",
+                    "question": "10. feladat – A hidegháború korával kapcsolatos.\n\nA) „A Felek megegyeznek abban, hogy egyikük vagy többük ellen, Európában vagy Észak-Amerikában intézett fegyveres támadást valamennyiük ellen irányuló támadásnak tekintenek, […] támogatni fogja az ekként megtámadott Felet vagy Feleket […], ideértve a fegyveres erő alkalmazását is, amelyeket a békének és biztonságnak az észak-atlanti térségben való helyreállítása és fenntartása érdekében szükségesnek tart.” (Egy szerződésből, 1949)\n\nB) „Ha valamely állam vagy államcsoport Európában fegyveres támadást intéz a Szerződésben részt vevő egy vagy több állam ellen, a Szerződésben részt vevő minden állam az ENSZ Alapokmánya 51. cikkének megfelelően, […] egyenként és a Szerződés többi tagállamával való megegyezés szerint minden szükségesnek mutatkozó eszközzel, a fegyveres erő alkalmazását beleértve, azonnali segítséget nyújt a megtámadott államnak vagy államoknak. […] A Szerződésben részt vevő államok határozatot hoztak a fegyveres erők közös parancsnokságának megteremtéséről. […] A parancsnokság székhelye Moszkva.” (Egy szerződésből, 1955)\n\na) Nevezze meg azt a katonai szövetséget, amelyről az A) betűjelű forrás szól!",
+                    "correct": [
+                        "NATO",
+                        "Észak-atlanti Szerződés Szervezete",
+                        "Eszak-atlanti Szerzodes Szervezete"
+                    ],
+                    "points": 1,
+                    "explanation": "NATO (Észak-atlanti Szerződés Szervezete) – az 1949-ben alapított nyugati katonai szövetség, amelynek alapelve a kollektív védelem („egy mindenkiért, mindenki egyért”)."
+                },
+                {
+                    "id": "t10-b",
+                    "type": "fill-in",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nb) Nevezze meg azt a katonai szövetséget, amelyről a B) betűjelű forrás szól!",
+                    "correct": [
+                        "Varsói Szerződés",
+                        "Varsoi Szerzodes"
+                    ],
+                    "points": 1,
+                    "explanation": "Varsói Szerződés – a Szovjetunió vezetésével 1955-ben létrehozott keleti katonai szövetség a NATO ellensúlyozására. A moszkvai székhelyű közös parancsnokság erre utal."
+                },
+                {
+                    "id": "t10-c",
+                    "type": "multiple-choice",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nc) Melyik állítás igaz mindkét katonai szövetségre az idézett forrásrészlet alapján? Karikázza be a helyes válasz sorszámát!",
+                    "options": [
+                        "Mindkettő előmozdította az európai integráció folyamatát.",
+                        "Saját állításuk szerint mindkettő védelmi szövetség.",
+                        "Mindkettő elősegítette a hidegháború megszüntetését."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A 2. válasz helyes: mindkét szerződés fegyveres támadás esetére szóló közös védekezésről rendelkezik – hivatalosan mindkettő védelmi (defenzív) szövetségként definiálta magát."
+                },
+                {
+                    "id": "t10-d",
+                    "type": "multiple-choice",
+                    "question": "10. feladat (folytatás) – Hidegháború\n\nd) Mi volt mindkét szerződés politikai célja? Karikázza be a helyes válasz sorszámát!",
+                    "options": [
+                        "A szuperhatalmak így szövetkeztek egymással.",
+                        "A szuperhatalmak saját befolyásukat akarták megerősíteni a világpolitikában.",
+                        "A szuperhatalmak a gyarmatok feletti uralmukat kívánták megerősíteni."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A 2. válasz helyes: a NATO és a Varsói Szerződés is a két szuperhatalom (USA és Szovjetunió) blokkképzési eszköze volt, amellyel saját érdekszférájukat és világpolitikai befolyásukat erősítették."
+                },
+                {
+                    "id": "t11-a",
+                    "type": "multiple-choice",
+                    "question": "11. feladat – A Kádár-korszakkal kapcsolatos.\n\nA) <div class=\"image-placeholder\">🖼 Karikatúra, 1974. A karikatúrához tartozó szöveg: „Telektulajdonosok – Politika? Kultúra? Csinálják csak a ráérősek, akiknek nincs telkük.” (A telek a korabeli szóhasználatban a hétvégi házat és kertet jelentette.) — lásd feladatsor PDF (12. oldal)</div>\n\nB) „Természetesen, a szovjet társadalom fejlettebb, mint a miénk. […] Sajnos azonban [nálunk] még nem fejlődött ki az emberek öntudata. Jobban akarnak élni. Éppen ezért van szükség az érdekeltségre. Ha valaki tisztességesen dolgozik, legyen neki háza, hétvégi háza, gépkocsija. […] Megengedtük [a parasztoknak], hogy háztáji telkük legyen, ezeket nem integráltuk a kollektív gazdaságba.” (Jegyzőkönyv Kádár János és Mihail Gorbacsov moszkvai találkozójáról)\n\na) Mit gúnyol ki az A) betűjelű forrás? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "A mezőgazdaság túlzott térnyerését.",
+                        "A társadalmi egyenlőtlenségeket.",
+                        "A közélettől való elfordulást."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz helyes: a karikatúra azt gúnyolja, hogy a Kádár-korszak „kispolgári” életmódja (hétvégi ház, telek) a közélettől, politikai aktivitástól való elfordulást eredményezett – ez a „depolitizálás” jelensége."
+                },
+                {
+                    "id": "t11-b",
+                    "type": "multiple-choice",
+                    "question": "11. feladat (folytatás) – Kádár-korszak\n\nb) Melyik időszakban keletkezett a B) betűjelű forrás? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "A hidegháború kibontakozásának időszakában.",
+                        "Az 1956-os forradalom leverését követő megtorlások időszakában.",
+                        "A pártállami diktatúra utolsó évtizedében."
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz helyes: Gorbacsov 1985-től volt szovjet főtitkár, így a Kádár-Gorbacsov találkozó a rendszer utolsó éveiben, a pártállami diktatúra utolsó évtizedében történt."
+                },
+                {
+                    "id": "t11-c",
+                    "type": "multiple-choice",
+                    "question": "11. feladat (folytatás) – Kádár-korszak\n\nc) Mire utal a B) betűjelű forrás aláhúzott része? Karikázza be az egyetlen helyes válasz sorszámát!\n\n(Aláhúzott rész: „[nálunk] még nem fejlődött ki az emberek öntudata”)",
+                    "options": [
+                        "A magántulajdon felhalmozása nem állt összhangban a kommunista ideológiával.",
+                        "Magyarországon még nem tudták bevezetni a tervgazdálkodást.",
+                        "A magyar gazdaságban nem alakult ki verseny."
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "Az 1. válasz helyes: Kádár elismeri, hogy a magántulajdonon (háztáji, hétvégi ház, kocsi) alapuló anyagi érdekeltség nem fér össze a kommunista ideológiával, de gyakorlati engedmény kellett."
+                },
+                {
+                    "id": "t11-d",
+                    "type": "short-answer",
+                    "question": "11. feladat (folytatás) – Kádár-korszak\n\nd) Magyarázza meg, mi volt a politikai célja annak, hogy Kádár engedményeket tett a jólét érdekében!",
+                    "sampleAnswer": "Ezzel igyekezett konszolidálni / elfogadtatni rendszerét. El akarta kerülni az újabb forradalmat.",
+                    "points": 1,
+                    "explanation": "A jóléti engedményekkel (háztáji gazdaság, „gulyáskommunizmus”) Kádár a rendszerét akarta társadalmi szempontból stabilizálni, elkerülve az 1956-hoz hasonló lázadást – politikai passzivitásért cserébe anyagi gyarapodást kínált."
+                },
+                {
+                    "id": "t12-a",
+                    "type": "multiple-choice",
+                    "question": "12. feladat – A háztartások pénzügyeihez kapcsolódik.\n\nVálassza ki a helyes megoldásokat a fiktív (kitalált) bérjegyzék és ismeretei segítségével!\n\n<div class=\"image-placeholder\">🖼 Bérjegyzék Minta Jakab 2022. év március havi járandóságairól. Tárgyhavi alapilletmény 400 000, szakmai pótlék 50 000, összesen 450 000. Levonások: adóelőleg 37 500 (alap 250 000), tb-járulék 83 250 (alap 450 000), összes levonás 120 750, átutalás 329 250. Tájékoztató: családi kedvezmény 200 000, munkáltatót terhelő szociális hozzájárulási adó 58 500 (alap 450 000). — lásd feladatsor PDF (14. oldal)</div>\n\na) Melyik adónem előlegét vonták le Minta Jakabtól? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "általános forgalmi adó",
+                        "személyi jövedelemadó",
+                        "szociális hozzájárulási adó"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A 2. válasz helyes: a munkavállaló bruttó béréből az szja (személyi jövedelemadó) előlegét vonják le. Az áfa (általános forgalmi adó) a fogyasztásra, a szocho pedig a munkáltatót terheli."
+                },
+                {
+                    "id": "t12-b",
+                    "type": "multiple-choice",
+                    "question": "12. feladat (folytatás) – Háztartások pénzügyei\n\nb) A jövedelem hány százaléka a társadalombiztosítási járulékok összessége? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "18,5%",
+                        "53,5%",
+                        "4,5%"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "Az 1. válasz helyes: 83 250 / 450 000 = 0,185 = 18,5%. Ez 2022-ben a munkavállalói tb-járulék kulcsa volt (10% nyugdíj + 7% eb + 1,5% munkaerőpiaci)."
+                },
+                {
+                    "id": "t12-c",
+                    "type": "multiple-choice",
+                    "question": "12. feladat (folytatás) – Háztartások pénzügyei\n\nc) Mekkora összegbe kerül a munkáltatójának Minta Jakab egy havi foglalkoztatása? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "329 250 Ft",
+                        "450 000 Ft",
+                        "508 500 Ft"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz helyes: 450 000 Ft (bruttó bér) + 58 500 Ft (munkáltatót terhelő szocho) = 508 500 Ft. Ez a teljes munkaerőköltség a munkáltató oldaláról."
+                },
+                {
+                    "id": "t12-d",
+                    "type": "multiple-choice",
+                    "question": "12. feladat (folytatás) – Háztartások pénzügyei\n\nd) Mit vettek figyelembe az adóelőleg alapjának számításánál? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "A szakmai pótlékot",
+                        "A levont járulékokat",
+                        "A családi kedvezményt"
+                    ],
+                    "correct": 2,
+                    "points": 1,
+                    "explanation": "A 3. válasz helyes: az adóelőleg alapja 250 000 Ft (nem 450 000 Ft), mert abból levonták a 200 000 Ft családi kedvezményt. A családi kedvezmény csökkenti az adóalapot."
+                }
+            ]
+        },
+        "szoveges": {
+            "timeLimit": 90,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t13",
+                    "type": "essay",
+                    "question": "13. feladat – A reformációval kapcsolatos. (RÖVID, egyetemes történelem, 1849-ig)\n\nMutassa be a forrás és ismeretei segítségével a protestáns irányzatok elterjedésének fő okait Európában! Használja a középiskolai történelmi atlaszt!\n\nForrás: „A királyságból könnyű a zsarnokságba átsiklani […]. Biztosabb és tűrhetőbb, ha a kormányzatot többen tartják kezükben, hogy egyik a másiknak kölcsönösen támogatója legyen, hogy egymást tanítsák és intsék, és ha valamelyik a kelleténél tovább megy, többen legyenek bírák és mesterek szenvedélyének megfékezésére. […] Halljak meg ezt a fejedelmek és rettegjenek! […] Vannak most a néptől szervezve bizonyos felsőbbségek [intézmények], amelyek a királyok önkényének korlátozására vannak felállítva.” (Kálvin János, 1536)\n\n(Rövid feladat, egyetemes történelem, 1849 előtti korszak. Maximum 17 pont.)",
+                    "minWords": 120,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti a feladatot",
+                                "1 – Részlegesen érti",
+                                "2 – Alapvetően a protestáns irányzatok elterjedésének fő okait mutatja be Európában; a válasz a forrás felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli/időbeli elem",
+                                "1 – Legalább egy szerepel",
+                                "2 – Rögzíti a téma időbeli elemét (pl. Luther fellépése / a reformáció kezdete: 1517, az augsburgi vallásbéke: 1555, a tordai vallásbéke: 1568); megnevez egy olyan területet, ahol elterjedt a reformáció (pl. Svájc, Német-római Birodalom, Skandinávia, Anglia, Hollandia, Skócia, Erdély) vagy rögzíti, hogy Kálvin tevékenységének színhelye Genf városa"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs szakkifejezés",
+                                "1 – 1-2 szakkifejezést használ",
+                                "2 – Legalább 3 szakkifejezés: reformáció, protestáns, református, evangélikus"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Szavakból álló vázlat / sok hiba",
+                                "1 – Rosszul szerkesztett / több hiba",
+                                "2 – Értelmes mondatok, logikus felépítés, nincs súlyos nyelvi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés, források használata (F)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs helyes tény vagy megállapítás",
+                                "1 – Tény van",
+                                "2 – Helyes tény + pontatlan megállapítás",
+                                "3 – Rögzíti a forrás lényegi elemét (pl. Kálvin elítéli a zsarnokságot; a népnek joga van korlátozni a királyi hatalmat), és ezzel kapcsolatban érdemi megállapítást tesz (pl. a protestáns közösségek alulról szerveződtek; Kálvin gondolatait a felvilágosodás korában is felhasználták; a hatalmi ágak szétválasztására utalt; megfogalmazta a zsarnokölés elméletét; a kálvinizmus a polgárság körében vált népszerű irányzattá; a polgári öntudatot erősítették a vallás tanai; a protestantizmus terjedése összefonódott a rendi mozgalmakkal / polgári törekvésekkel; ennek egyházi megfelelője a presbiteri rendszer)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E1) – politikai okok",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs helyes tény vagy megállapítás",
+                                "1 – Pontatlan",
+                                "2 – Egyik része jó",
+                                "3 – Rögzíti a reformáció elterjedésének egy politikai okát (pl. Luther védelmet / támogatást kapott a választófejedelemtől; a császári / pápai hatalomtól való függetlenedés is motiválta az új felekezetek elterjedését), és lényegi megállapítást tesz (pl. a választófejedelmek a cuius regio, eius religio elvet érvényesítették; vallásháborúk / polgárháborúk révén érték el a protestáns vallás gyakorlásának lehetőségét; az egyházi vagyon szekularizációjával járt az új vallások elterjedése; vallási türelem alakult ki; a protestantizmus terjedése összefonódott a rendi mozgalmakkal / polgári törekvésekkel)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E2) – kulturális okok",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részlegesen",
+                                "3 – Rögzíti a protestantizmus egy kulturális / lelki okát (pl. a könyvnyomtatás megjelenése; a katolikus egyház elvilágiasodása; a reneszánsz / humanista eszmék megerősödése), és érdemi megállapítást tesz (pl. az anyanyelvű igehirdetés / bibliafordítások segítették az új irányzatok elterjedését; a puritanizmus, a szorgalmas munka értékelést vált ki; a reformáció az egyetemeken képzett prédikátoroknak köszönhetően gyorsan terjedt; társadalmi igény volt az új fajta hitéletre)"
+                            ]
+                        }
+                    ],
+                    "explanation": "A reformáció (1517-től) több okból terjedt el Európában: politikai (fejedelmi támogatás, függetlenedés a pápától), gazdasági (egyházi vagyon szekularizációja), kulturális (könyvnyomtatás, anyanyelvű Biblia, humanizmus) és vallási (az egyház elvilágiasodása, búcsúcédulák). Kálvin (Genf) elméletei a hatalomkorlátozásról a polgári törekvésekhez is kapcsolódtak."
+                },
+                {
+                    "id": "t14",
+                    "type": "essay",
+                    "question": "14. feladat – Az első világháborúhoz kapcsolódik. (RÖVID, egyetemes történelem, 1849 utáni)\n\nMutassa be a forrás és ismeretei alapján a hátország gazdasági szerepét! Válaszában térjen ki a nők gazdaságban betöltött szerepére is!\n\nForrás: „A mezőgazdák a háború óta fokozatosan érzik az igáslovak és a munkáskezek hiányát. A hosszúra nyúló háború alatt többször előfordult, hogy a mezőgazdák a hadseregnek fordultak segítségért, mert az ország abban a veszélyben forgott, hogy a földek megműveletlenek maradnak. A földművelésügyi minisztérium, a honvédelmi minisztérium és a közös hadügyminisztérium állandóan tárgyalt ez ügyben. A tárgyalásoknak közvetlen eredménye az, hogy nemrégiben a honvédelmi minisztérium kebelében megalakult az úgynevezett »honvédelmi mezőgazdasági tanács«, amely […] a katonai munkaerők (ember és ló) mikénti felhasználására alakult. A mezőgazdák ezentúl ugyanúgy kapnak a hadseregtől embert és lovat, mint ahogy eddig a foglyokat kapták.” (Az Est című újság, 1916. március 5.)\n\n(Rövid feladat, egyetemes történelem, 1849 utáni korszak. Maximum 17 pont.)",
+                    "minWords": 120,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti a feladatot",
+                                "1 – Részlegesen érti",
+                                "2 – Alapvetően az első világháborús hadigazdaságot mutatja be; a válasz a forrás felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs térbeli/időbeli elem",
+                                "1 – Legalább egy szerepel",
+                                "2 – Rögzíti, hogy az első világháború 1914-1918 között zajlott, és megállapításai a hadviselő felekre vonatkoznak"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3 szakkifejezés: hátország, hadigazdaság, beszolgáltatás, munkaerőhiány"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat / sok hiba",
+                                "1 – Néhány hiba",
+                                "2 – Értelmes mondatok, logikus felépítés, nincs súlyos nyelvi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés, források használata (F)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény",
+                                "2 – Pontatlan megállapítás",
+                                "3 – Rögzít egy lényeges tényt a forrásból (pl. a hadügyminisztérium is beleszólt a hátországi mezőgazdaság irányításába; nem volt elegendő munkaerő és igavonó a hátországban; foglyokkal próbálták pótolni a kieső munkaerőt), és ezzel kapcsolatban lényegi megállapítást tesz (pl. élelemhiány volt, infláció volt; a polgári lakosság ellátása másodrendű volt; szabályozták az árakat; jegyrendszert vezettek be; az elhúzódó háború indokolta az intézkedést)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E1) – hadigazdaság",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzít egy lényeges tényt az ipari termeléssel kapcsolatban (pl. a hadsereg ellenőrizte a gyárakat; fokozták a fegyvergyártást; betiltották a sztrájkokat; hadigazdálkodást vezettek be), és ezzel kapcsolatban lényegi megállapítást tesz (pl. a polgári lakosság ellátása másodrendű volt; a besorozásnál figyelemmel voltak a gazdaság munkaerőigényére; inkább a parasztság tagjai közül soroztak be; bevezették a jegyrendszert a hátországban; korlátozták a polgári szabadságjogokat)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás (E2) – nők szerepe",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részleges",
+                                "3 – Rögzíti, hogy a nők tömegesen kezdtek el dolgozni, és ezzel kapcsolatban lényegi megállapítást tesz (pl. ezzel csökkentették a munkaerőhiányt; a nők több országban emiatt később választójogot kaptak; ez az egyenjogúság irányába hatott; nehézséget okozott a gyermekek ellátása)"
+                            ]
+                        }
+                    ],
+                    "explanation": "Az első világháború (1914-1918) hátországaiban a férfiak frontra kerülésével munkaerő- és igavonóhiány alakult ki. A hadigazdálkodás bevezetése (jegyrendszer, beszolgáltatás, árszabályozás) elkerülhetetlenné vált. A nők tömegesen álltak munkába a gyárakban és a mezőgazdaságban – ez sok országban elősegítette a női választójog bevezetését is a háború után."
+                },
+                {
+                    "id": "t15",
+                    "type": "essay",
+                    "question": "15. feladat – Magyarország kora újkori történelméhez kapcsolódik. (HOSSZÚ, magyar történelem, 1849-ig)\n\nMutassa be a források és ismeretei segítségével Mária Terézia gazdaság- és társadalompolitikai rendeleteinek tartalmát és azok céljait!\n\nForrás 1: „Ez az ország [Magyarország] komoly figyelmet érdemel […]. De szerencsétlenségére belső alkotmánya még olyan jellegű, hogy a király és az ország jóléte egymással ellentétben áll, és mindaz, ami ennek megfelelő mezőgazdasági termékek eladásával, manufaktúrák alapításával és kereskedelemmel gazdagodást jelentene, nem az adófizetőknek, hanem az állami teher viselése alól magát teljesen kivonó nemességnek szolgálna javára. Ez pedig igen káros visszaélésre vezetne, és még inkább megnehezítené a jobb berendezés bevezetését.” (Kaunitz kancellár, 1761)\n\nForrás 2: „Elsősorban arra kell gondot viselni, hogy a jobbágy Magyarországon kedvezőbb helyzetbe jusson, és az adóterhet elbírja. Ezért a nemességnek a jobbágyok fölötti uralmában mutatkozó minden visszaélését a lehetőség szerint meg kell szüntetni vagy korlátozni. Így idővel a népet meg lehet nyerni az udvar számára.” (Kaunitz kancellár, 1761)\n\nForrás 3: „Az ifjúság helyes nevelését és az egész közoktatásügynek intézését a józan erkölcsű népek mindenkoron oly nagy fontosságúnak tekintették, hogy benne állami jólét legfőbb sarokkövét, az általános jólét alapját látták. […] Ennélfogva őseink […] a nevelésről való legfelsőbb gondoskodást a maga tudományos igazságának hazai törvényeink rendelkezéseiből a fenntartott királyi felségjogi közé iktatták; magát e nagy feladatnak végrehajtását pedig az ország politikai hatóságaira bízták.” (Ratio Educationis, 1777)\n\n(Hosszú feladat, magyar történelem, 1849 előtti korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti a feladatot",
+                                "1 – Részlegesen érti",
+                                "2 – Alapvetően Mária Terézia gazdaság- és társadalompolitikai rendeleteit és azok céljait mutatja be; a válasz a források felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben (T1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Rögzíti, hogy Mária Terézia 1740-1780 között uralkodott"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás időben (T2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Rögzíti, hogy a korszakban Magyarország a Habsburg Birodalom része volt"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – általános szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Szakszerűen használ legalább 3 általános történelmi fogalmat: pl. király, jobbágy, nemes, országgyűlés, törvény, rendelet"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – konkrét szaknyelv (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Szakszerűen használ legalább 3 konkrét történelmi fogalmat: pl. úrbéri rendelet / Urbárium, Ratio Educationis, vámrendelet, felvilágosodás / felvilágosult abszolutizmus"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K3)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat / sok hiba",
+                                "1 – Néhány hiba",
+                                "2 – A kifejtés mondatokból áll, és a szöveg logikusan felépített. Nincs súlyos nyelvi/helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – rendi berendezkedés (F1)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény vagy megállapítás",
+                                "2 – Pontatlan megállapítás",
+                                "3 – Rögzíti a szöveg egy lényegi elemét (pl. Magyarország rendi berendezkedésű; a magyar nemesség adómentes), és ezzel kapcsolatban lényegi megállapítást tesz (pl. Mária Terézia uralkodása második felében felvilágosult abszolutizmusra törekedett; a vámrendelet célja a magyar nemesség jövedelmének megcsapolása – is – volt; meg akarta adóztatni a magyar nemességet; a nemesi adómentesség a gazdasági fejlődés akadálya volt)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – úrbéri rendelet (F2)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény",
+                                "2 – Pontatlan",
+                                "3 – Rögzíti a szöveg egy lényegi elemét (pl. az udvar célja a jobbágyok adóztathatóságának megőrzése; az udvar a nemességgel szemben akart a jobbágyoknak kedvezni), és ezzel kapcsolatban lényegi megállapítást tesz (pl. az úrbéri rendelet ezért korlátozta a jobbágyterheket; a nemesség növelte a majorságot / a robotterhet; a rendelet a nemesség politikai befolyását akarta csökkenteni)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – Ratio Educationis (F3)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény",
+                                "2 – Pontatlan",
+                                "3 – Rögzíti a szöveg egy lényegi elemét (pl. Mária Terézia az oktatásügyet királyi felségjognak tartotta; az oktatást elengedhetetlennek tartotta a politikai rend fenntartásához / a gazdasági fejlődéshez), és ezzel kapcsolatban lényegi megállapítást tesz (pl. ezért vonta állami ellenőrzés alá az egyházi iskolákat; az iskolák feladata a keresztény erkölcsre / az uralkodóhoz való hűségre nevelés)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – vámrendelet (E1)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Egyik része jó",
+                                "3 – Rögzíti a vámrendelet valamely tartalmi elemét (pl. kettős vámhatárt létesített; a külső vámhatáron az iparcikk-importra / nyersanyag-exportra magas vámot vetettek ki, a belső vámhatár Magyarországot választotta el a nyugati tartományoktól), és ezzel kapcsolatban lényegi megállapítást tesz (pl. a külső vámhatár merkantilista jellegű volt; a birodalom iparának fejlesztését szolgálta; a sziléziai ipar versenyét akarta kizárni; a belső vámhatár a magyar nemesség jövedelmét kívánta megcsapolni; elsősorban a magyar élelmiszer-exportot vámolta meg; biztosította a magyar mezőgazdaság számára a biztos piacot; a birodalmi munkamegosztást erősítette)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – úrbéri rendelet (E2)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti az úrbéri rendelet lényegi tartalmi elemét (pl. minden falu számára helyi urbárium készítését írta elő; rögzítette a telekhatárokat; korlátozta a robot / a kilenced mennyiségét), és ezzel kapcsolatban lényegi megállapítást tesz (pl. az állam ellenőrzése alá vonta az úrbéri viszonyt; kiadását a dunántúli parasztmozgalom váltotta ki; megakadályozta a majorság további bővítését; kiváltotta a nemesség tiltakozását)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – Ratio Educationis (E3)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti a Ratio Educationis lényegi tartalmi elemét (pl. szabályozta az egyes iskolatípusokat; szabályozta a tanárok képesítését / fizetését; előírta a tanítandó tantárgyakat; tankerületeket hozott létre; szorgalmazta az elemi iskolába járást), és ezzel kapcsolatban lényegi megállapítást tesz (pl. ösztönözte az elemi iskola elvégzését; célja a gazdasági fejlődés előmozdítása; hivatalnokok biztosítása / az udvarhűség erősítése / a keresztény erkölcs terjesztése volt; társadalmi rétegek szerint határozta meg a tananyagot; az intézkedés a felvilágosodás szellemét tükrözte)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Részben",
+                                "3 – Önálló ismereteivel, helyes megállapításaival kiegészíti és alátámasztja elemzését"
+                            ]
+                        }
+                    ],
+                    "explanation": "Mária Terézia (1740-1780) felvilágosult abszolutista uralkodóként kettős vámrendeletet (1754), úrbéri rendeletet (1767, Urbárium) és oktatási rendeletet (Ratio Educationis, 1777) adott ki. Célja a birodalom gazdasági erősítése, a jobbágyok adóztathatóságának megőrzése és az oktatás állami ellenőrzése volt – mindez a nemesi kiváltságok közvetett visszaszorításával."
+                },
+                {
+                    "id": "t16",
+                    "type": "essay",
+                    "question": "16. feladat – Magyarország második világháború alatti történetével kapcsolatos. (HOSSZÚ, magyar történelem, 1849 utáni)\n\nMutassa be a források és ismeretei segítségével Magyarország Szovjetunió elleni hadba lépésének körülményeit és a Szovjetunió elleni harcokban való részvételét a német megszállásig! Válaszában térjen ki a háborúba lépés melletti korabeli érvekre is! Használja a középiskolai történelmi atlaszt!\n\nForrás 1: „Nincsen szükség arra, hogy a tengelyhatalmak melletti politikánk újabb demonstrálása végett vegyünk részt az esetleges német-orosz háborúban. […] A német kormány állítólagos háborús elhatározásaira [a Szovjetunió esetleges megtámadására] vonatkozó híresztelésnek, legalább is egyelőre nincs semmi alapjuk.” (Bárdossy László miniszterelnök, 1941. június 14.)\n\nForrás 2: <div class=\"image-placeholder\">🖼 Kép: „Munkaszolgálatosok a fronton, 1943” — lásd feladatsor PDF (19. oldal)</div>\n\nForrás 3: <div class=\"image-placeholder\">🖼 Térkép: „Magyarország keleti határvidéke, 1944” – az Árpád-vonal völgyzárai, a Szent László-állás erődítései az ezeréves határon, a Hunyadi-állás helységtámpontjai, a Székelyföld zászlóalj-támpontjai — lásd feladatsor PDF (19. oldal)</div>\n\n(Hosszú feladat, magyar történelem, 1849 utáni korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően Magyarország hadba lépésének körülményeit és a Szovjetunió elleni háborúban való részvételét mutatja be; a válasz a források felhasználásával lényegi összefüggéseket tár fel"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás időben (T1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Rögzíti, hogy Magyarország 1941 júniusában lépett a második világháborúba, továbbá rögzíti, hogy a doni csata 1943-ban zajlott"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben (T2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Rögzít két lényeges térbeli elemet Magyarország hadba lépésével, illetve háborús részvételével kapcsolatban (pl. Kassát érte a bombatámadás; egy kárpátaljai közlekedő vonatot ért szovjet támadás; 1941-ben a magyar egységek a Dnyeperig nyomultak előre; a magyar hadsereg Ukrajnában látott el megszálló feladatokat; a magyar haderő a Don-kanyarnál szenvedett vereséget)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – általános szaknyelv (K1)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Szakszerűen használ legalább 3 általános fogalmat: pl. háború, megszállás, hadsereg"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – konkrét szaknyelv (K2)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Szakszerűen használ legalább 3 konkrét fogalmat: pl. tengelyhatalmak, revízió, fegyveres semlegesség, partizán"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció – fogalmazás (K3)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat / sok hiba",
+                                "1 – Néhány hiba",
+                                "2 – Mondatokból áll, logikus felépítés, nincs súlyos helyesírási hiba"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – Bárdossy álláspontja (F1)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Csak tény",
+                                "2 – Pontatlan megállapítás",
+                                "3 – Rögzíti a forrás alapján (pl. a miniszterelnök nem gondolta szükségesnek a magyar részvételt egy esetleges szovjet-német háborúban; a miniszterelnök nem tartotta megalapozottnak a szovjet-német háborúról szóló híreket), és ezzel kapcsolatban lényegi megállapítást tesz (pl. érzékelte, hogy a Szovjetunióval való háborúban nincs közvetlen magyar cél; a Teleki Pál által hirdetett semlegességet kívánta követni; a német hadvezetés csak a magyar hadvezetést tájékoztatta céljairól; a német hadvezetés nem fogalmazott meg hivatalos kérést Magyarország irányába; Bárdossy politikája rövid idő múlva megváltozott)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – munkaszolgálat (F2)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Pontatlan",
+                                "3 – Rögzít egy tényt a kép alapján (pl. munkaszolgálatosokat küldtek a keleti frontra; a munkaszolgálatosok általában kisegítő munkát végeztek), és tesz egy érdemi megállapítást erre vonatkozóan (pl. a zsidókat / politikailag megbízhatatlannak tartott személyeket munkaszolgálatra kötelezték; a Szovjetunió elleni támadást követően a munkaszolgálatot kötelezővé tették minden katonaképes zsidó számára; a munkaszolgálatot megalázásként / büntetésként alkalmazták; a munkaszolgálat során is sokan vesztették életüket)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés – Árpád-vonal (F3)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Pontatlan",
+                                "3 – Rögzíti, hogy Magyarország a keleti határokon erődvonalat hozott létre (Árpád-vonal), és ezzel kapcsolatban lényegi megállapítást tesz (pl. az erődvonal fő feladata egy esetlegesen bekövetkező szovjet támadás feltartóztatása volt; az erődök kiépítésénél a Kárpátok domborzati akadályait használták ki; a Kárpátokon átvezető völgyeket zárták le; a keleti fronton történt fordulat után világossá vált, hogy hosszú védelmi harcokra kell készülni)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – hadba lépés érvei (E1)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti a hadba lépés melletti érvet (pl. a németek jóindulatának megőrzését várták ettől; biztosra vették a német győzelmet; a magyar katonai vezetés sürgette a hadba lépést; a döntéstől további területgyarapodást / revíziót vártak; a háborúból való kimaradás esetén Észak-Erdély elvesztésétől tartottak; a románok / szlovákok részvétele kényszerhelyzetbe hozta a magyar vezetést)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – Kassa bombázása (E2)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti, hogy a hadba lépés konkrét indoka Kassa bombázása volt, és ezzel kapcsolatban lényegi megállapítást tesz (pl. Magyarország a bombázás ellenére sem csatlakozott a német támadáshoz; ebben a helyzetben egy ilyen incidens elég volt a háborús döntéshez; a támadás több tucat halottat és sebesültet eredményezett; a támadás a korszakban egyértelműen szovjet támadásnak tűnt; a támadó repülőgépek azonosítása valójában máig bizonytalan; a fel nem robbant bombák szovjet gyártmányúak voltak; a hadiállapotról szóló döntést Horthy hozta meg)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás – doni katasztrófa (E3)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben jó",
+                                "3 – Rögzíti, hogy a magyar hadsereg a Don-kanyarban vereséget szenvedett, és ezzel kapcsolatban lényegi megállapítást tesz (pl. a szovjetek jelentős túlerőben voltak; a magyar hadsereg felszerelése jóval gyengébb volt a szovjetnél; a magyar kormány igyekezett mindent megtenni a hadsereg ellátásának javítására; a veszteségek több tízezer főt tettek ki; a hadművelet tágabban a sztálingrádi offenzívához kapcsolódott; a vereség után Magyarországon döntöttek a háborúból való kilépés előkészítéséről)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Részben",
+                                "3 – Önálló ismereteivel, helyes megállapításaival kiegészíti és alátámasztja elemzését"
+                            ]
+                        }
+                    ],
+                    "explanation": "Magyarország 1941. június 27-én, Kassa bombázása után lépett be a Szovjetunió elleni háborúba. A hadba lépést revíziós remények és a tengelyhatalmak iránti lojalitás motiválta. A magyar 2. hadsereg 1943 januárjában a Don-kanyarnál katasztrofális vereséget szenvedett (~120-150 ezer fős veszteség). A munkaszolgálatosokat (főként zsidókat) alacsony értékű kisegítőként a keleti frontra küldték; az 1944-es német megszállásig Magyarország a keleti határon az Árpád-vonalat építette ki."
+                }
+            ]
+        }
+    }
+}

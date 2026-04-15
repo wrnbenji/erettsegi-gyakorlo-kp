@@ -1,0 +1,949 @@
+{
+    "id": "tort-2023-maj",
+    "subject": "tortenelem",
+    "year": 2023,
+    "session": "Május",
+    "date": "2023. május 10.",
+    "sections": {
+        "rovid": {
+            "timeLimit": 90,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t01-a",
+                    "type": "fill-in",
+                    "question": "1. feladat – A kereszténységgel kapcsolatos.\n\nA keresztény vallás mely alapvető fogalmait jelenítik meg a szertartási szövegrészletek? Válasszon a felsorolt fogalmak közül!\n\nFogalmak: teremtés, utolsó vacsora, karácsony, húsvét\n\na) „Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett.”",
+                    "correct": [
+                        "karácsony",
+                        "karacsony"
+                    ],
+                    "points": 1,
+                    "explanation": "A szövegrészlet Jézus megtestesülésére utal – „leszállott a mennyből”, „Szűz Máriától és emberré lett”. Ez a karácsony (Jézus születése) ünnepéhez kapcsolódó hittétel."
+                },
+                {
+                    "id": "t01-b",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Kereszténység\n\nb) „Halál mérgét megtiportad, mennyországot megnyitottad.”\n\n(Válasszon: teremtés, utolsó vacsora, karácsony, húsvét)",
+                    "correct": [
+                        "húsvét",
+                        "husvet"
+                    ],
+                    "points": 1,
+                    "explanation": "A halál feletti győzelem és a mennyország megnyitása Jézus feltámadását jelképezi, ami a húsvét központi üzenete."
+                },
+                {
+                    "id": "t01-c",
+                    "type": "fill-in",
+                    "question": "1. feladat (folytatás) – Kereszténység\n\nc) „Kézébe vette a kenyeret, hálát adott, megtörte, tanítványainak adta, és így szólt: vegyétek és egyetek ebből mindnyájan.”\n\n(Válasszon: teremtés, utolsó vacsora, karácsony, húsvét)",
+                    "correct": [
+                        "utolsó vacsora",
+                        "utolso vacsora"
+                    ],
+                    "points": 1,
+                    "explanation": "Az idézet az utolsó vacsora jelenetét írja le, amikor Jézus a kenyeret megtörve tanítványainak adta – az eucharisztia alapítása."
+                },
+                {
+                    "id": "t01-d",
+                    "type": "ordering",
+                    "question": "1. feladat (folytatás) – Kereszténység\n\nd) Állítsa időrendbe a három forrásrészletet aszerint, hogy a bennük megjelenő események hogyan követték egymást Jézus történetében! (Kezdje a legkorábbival!)",
+                    "items": [
+                        "a) Megtestesülés / karácsony (Jézus születése)",
+                        "b) Feltámadás / húsvét",
+                        "c) Utolsó vacsora"
+                    ],
+                    "correctOrder": [
+                        0,
+                        2,
+                        1
+                    ],
+                    "points": 1,
+                    "explanation": "A helyes sorrend: a (megtestesülés, karácsony) → c (utolsó vacsora) → b (feltámadás, húsvét). Jézus élettörténetében a születést az utolsó vacsora, majd a kereszthalál utáni feltámadás követte."
+                },
+                {
+                    "id": "t02",
+                    "type": "multiple-choice",
+                    "question": "2. feladat – A középkori építészethez kapcsolódik.\n\n<div class=\"image-placeholder\">🖼 Gótikus templom homlokzatrajza — lásd feladatsor PDF (4. oldal)</div>\n\nVálassza ki a kép és ismeretei segítségével a gótikus építészetre igaz állításokat! Karikázza be a négy igaz állítás sorszámát!\n\n1. A falakat csak keskeny, lőrésszerű ablakokkal törték át.\n2. Az épület tömegének megtartására támpilléreket alkalmaztak.\n3. Az új vallási meggyőződés következtében kerültek a díszítőelemek.\n4. Az épületek jellegzetes eleme volt a kupola.\n5. Egybefüggő üvegtáblák helyett kő- és ólomkeretes mozaikablakokat készítettek.\n6. Az építészeti megoldások a kor világképét, az emberi élet célját is kifejezték.\n7. A templomok szobrai gyakran antik mitológiai alakokat ábrázoltak.\n8. A jelentősebb templomok messze kimagaslottak környezetükből.\n9. Az épület tömegét elsősorban a vastag falak viselték.",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "correct": [
+                        1,
+                        4,
+                        5,
+                        7
+                    ],
+                    "points": 4,
+                    "explanation": "A gótikus építészet jellemzői: támpillérek (2), kő- és ólomkeretes mozaikablakok (5), a világkép építészeti kifejeződése (6) és a környezetükből magasan kiemelkedő templomok (8). A keskeny ablakok és a vastag falak a romanikát, a kupola a bizánci/reneszánsz/barokk építészetet, az antik mitológiai alakok pedig a reneszánszt jellemzik."
+                },
+                {
+                    "id": "t03-a",
+                    "type": "short-answer",
+                    "question": "3. feladat – Hunyadi Mátyás uralkodásához kapcsolódik.\n\n„Ehhez járult a szokatlan módon kivetett adó, az úgynevezett dika, melyet többnyire nemcsak telkenként, hanem fejenként róttak ki. A folytonos hadakozás igen nagy szolgáltatásokat tett szükségessé, s a szokatlan adót mindenki nehezményezte. Sőt még a püspöki jövedelmekre is rátette kezét. […] Az esztergomi érsektől megvonta az aranybányák [jövedelmének] nagy összeget jelentő tizedét, melyet urburának neveznek; több püspökség jövedelmét is lefoglalta.” (Bonfini krónikája, 15. század)\n\na) A Bonfini által dikának nevezett adó a történészek szerint két különböző adófajta volt. Nevezze meg szakkifejezéssel ezt a két adófajtát!\n\n1. Adó, amelyik „igen nagy szolgáltatás”, és „szokatlan” volt:",
+                    "sampleAnswer": "(rendkívüli) hadiadó",
+                    "points": 1,
+                    "explanation": "A „szokatlan”, „igen nagy szolgáltatás” a rendkívüli hadiadóra utal, amit Mátyás a törökellenes és nyugati hadjáratai finanszírozására vezetett be."
+                },
+                {
+                    "id": "t03-a2",
+                    "type": "short-answer",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás\n\n2. Adó, amelyet „fejenként (értsd: családonként) róttak ki”:",
+                    "sampleAnswer": "füstpénz / füstadó",
+                    "points": 1,
+                    "explanation": "A fejenként (családonként, háztartásonként) kirótt adó a füstpénz (füstadó), amely a háztartások („füstök”) után fizetett állami adó volt."
+                },
+                {
+                    "id": "t03-b",
+                    "type": "short-answer",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás\n\nb) Magyarázza meg röviden, miért járult hozzá a pápa ahhoz, hogy Mátyás egyházi jövedelmeket hadicélokra fordítson!",
+                    "sampleAnswer": "Mert Mátyás a (muszlim) törökök ellen hadakozott, és ez a kereszténység védelmét szolgálta. (Elfogadható a huszita / eretnek ellenes hadviselés megemlítése is.)",
+                    "points": 1,
+                    "explanation": "A pápa azért engedélyezte az egyházi jövedelmek hadicélokra fordítását, mert Mátyás a muszlim törökök (illetve a huszita eretnekek) ellen hadakozott, ami a kereszténység védelmét szolgálta."
+                },
+                {
+                    "id": "t03-c",
+                    "type": "multiple-choice",
+                    "question": "3. feladat (folytatás) – Hunyadi Mátyás\n\nc) Karikázza be az egyetlen olyan állítás sorszámát, amelyet alátámaszt az idézett forrásrészlet!",
+                    "options": [
+                        "Mátyás visszavett néhány korábban eladományozott regáléjövedelmet.",
+                        "Mátyás az egyházi tizedet állami adóvá alakította át.",
+                        "Mátyás pápai felhatalmazással papok felett ítélkező bíróságot állított fel."
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A forrás szerint Mátyás az esztergomi érsektől visszavette az aranybányák tizedét (urbura) – ez regáléjövedelem, azaz királyi jövedelem, amelyet korábban eladományoztak az egyháznak."
+                },
+                {
+                    "id": "t04-a",
+                    "type": "multiple-choice",
+                    "question": "4. feladat – A felvilágosodáshoz kapcsolódik.\n\nA) „Minden ember alkotta törvény pontosan olyan mértékben viseli magán a törvényi jelleget, amennyiben a természet törvényéből ered. De, ha egy ponton is konfliktusba kerül a természet törvényével, akkor azonnal megszűnik törvény lenni, csupán a törvény kiforgatása lesz.” (Locke, 17. századi angol gondolkodó)\n\na) Mire vonatkozik az A) betűjelű forrás aláhúzott kifejezése („a természet törvényével”)? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "természetes kiválasztódás",
+                        "emberi jogok",
+                        "fizikai törvények"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "Locke természetjog-felfogása szerint a „természet törvénye” a születéstől fogva minden embert megillető jogokat (élet, szabadság, tulajdon) jelenti – ez a modern emberi jogok alapja."
+                },
+                {
+                    "id": "t04-b",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – A felvilágosodás\n\nB) „Az emberek szabadnak, jogilag egyenlőknek születnek, és azok is maradnak. A társadalmi megkülönböztetések csak a közhasznosságon alapulhatnak. […] A törvény csak a társadalom számára ártalmas cselekedetek tiltására jogosult. […] Mindenkit csak a törvény által előírt és általa megfogalmazott formák szerint lehet vád alá helyezni, letartóztatni vagy fogságban tartani. […] Mindaddig, amíg bűnössé nem nyilvánítják, minden ember ártatlannak vélemezendő. […] Senkit sem szabad meggyőződései miatt zaklatni, legyenek ezek akár vallási, feltéve, hogy ezek megnyilvánulása nem zavarja a törvényes rendet.” (Az Emberi és polgári jogok nyilatkozatából)\n\nb) Válassza ki az alábbi jogszabályrészletekből azokat, amelyek nem felelnek meg a B) betűjelű forrásban foglalt elveknek! Karikázza be a két jogszabályrészlet sorszámát!\n\n1. „Szükség esetén a polgári és büntető bíróságok fogságban tarthatnak és börtönökbe küldhetnek olyan személyeket, akikről megállapították, hogy nem lehet vádiratot készíteni ellenük, vagy akiket felmentettek az ellenük emelt vádak alól.” (Egy francia törvényből, 1793)\n\n2. „Nem lehet alkotmányi visszaható hatályú törvényt, valamint olyan kivételes törvényt, mely lehetővé tenné a bírói eljárás nélküli elítélést.” (Egy amerikai törvényből, 1787)\n\n3. „Ahhoz, hogy egy személy letartóztatását elrendelő parancsot végre lehessen hajtani, a következőkre van szükség: 1. Formálisan le kell írni a letartóztatás okát és a törvényt, amelynek a végrehajtását elrendelték; 2. Olyan tisztviselőtől kell származnia, akit a törvény formálisan felhatalmaz erre; 3. Mindezt közölni kell a letartóztatottal, és egy másolatot adni neki.” (Egy francia törvényből, 1799)\n\n4. „Az ágostai és a helvét hitvallásúak ne legyenek kötelesek másként esküdni, csakis azon esküforma szerint, amely vallásuk hitelveinek megfelel.” (II. József türelmi rendeletéből, 1781)\n\n5. „Állandó szabályként előírjuk, hogy a különböző vallásúak házassága esetében akkor, ha az apa katolikus hitű, valamennyi gyermek – mind a fiúk, mind a leányok – a katolikus vallásban neveltessenek. […] Ha viszont az anya katolikus, az apa nem az, akkor a gyermekek kövessék nemük szerint a szülőket a tekintetben, hogy milyen vallásban nevelődjenek.” (II. József türelmi rendeletéből, 1781)",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "correct": [
+                        0,
+                        4
+                    ],
+                    "points": 1,
+                    "explanation": "Az 1. és 5. jogszabályrészlet nem felel meg a Nyilatkozat elveinek. Az 1. lehetővé teszi a felmentett személyek fogva tartását (sérti az ártatlanság vélelmét), az 5. pedig a gyermekek vallását a szülők felekezete alapján írja elő (sérti a lelkiismereti szabadságot)."
+                },
+                {
+                    "id": "t04-c",
+                    "type": "multiple-choice",
+                    "question": "4. feladat (folytatás) – A felvilágosodás\n\nc) Melyik fogalom fejezi ki a felvilágosodás egyik fontos jellemzőjét? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "észelvűség",
+                        "vallási fanatizmus",
+                        "eleve elrendelés elve"
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A felvilágosodás központi gondolata az észelvűség (racionalizmus): az emberi értelem alkalmas a világ megismerésére, a társadalom észszerű átalakítására."
+                },
+                {
+                    "id": "t05-a",
+                    "type": "fill-in",
+                    "question": "5. feladat – A Rákóczi-szabadságharc történetével kapcsolatos.\n\n„[a] Valamennyi Rákóczi-követőnek ugyancsak megbocsátó kegyelmet adunk jóságosan. […] A vallás ügyében érvényben hagyjuk az ország elfogadott törvényeit, ugyanúgy a [b] vallás gyakorlatát is az ország törvénycikkei szerint kegyesen engedélyezzük. […]. [c] Sértetlenül megmarad nemcsak annak a lehetősége, hogy az elkövetkező országgyűlésen az egyéb sérelmeket előadhassák, hanem annak is, hogy mindarra, ami ténylegesen a nemzet üdvét és becsületét szolgálja, szabad kívánság formájában, kellő tisztelettel és törvényes úton, a királyi kegyes jóváhagyást is megkérhessék.” (Szatmári béke)\n\na) Nevezze meg szakkifejezéssel a forrásban aláhúzott és a) betűvel jelzett csoportot!",
+                    "correct": [
+                        "kuruc",
+                        "kurucok"
+                    ],
+                    "points": 1,
+                    "explanation": "A Rákóczi-szabadságharc idején a felkelőket kurucoknak nevezték. Velük szemben álltak a Habsburg-párti labancok."
+                },
+                {
+                    "id": "t05-b",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Rákóczi-szabadságharc\n\nb) Adja meg azoknak a keresztény felekezeteknek az összefoglaló nevét, amelyek híveinek könnyítést jelentett a forrás b) betűvel jelzett, aláhúzott részében megfogalmazott ígéret!",
+                    "correct": [
+                        "protestáns",
+                        "protestánsok",
+                        "protestans",
+                        "protestansok"
+                    ],
+                    "points": 1,
+                    "explanation": "A szatmári béke biztosította a szabad vallásgyakorlást, ami elsősorban a protestánsoknak (reformátusoknak, evangélikusoknak) jelentett könnyítést a korábbi ellenreformációs időszak után."
+                },
+                {
+                    "id": "t05-c",
+                    "type": "fill-in",
+                    "question": "5. feladat (folytatás) – Rákóczi-szabadságharc\n\nc) Milyen típusú kormányzati rendszert zárt ki a forrás c) betűvel jelzett, aláhúzott részében megfogalmazott ígéret? Válaszoljon egy szakkifejezéssel!",
+                    "correct": [
+                        "abszolutizmus",
+                        "abszolutista berendezkedés",
+                        "abszolutizmus / abszolutista berendezkedés"
+                    ],
+                    "points": 1,
+                    "explanation": "Az országgyűlés összehívásának és a rendi sérelmek előadásának biztosítása kizárta az abszolutizmust (abszolutista berendezkedést), és fenntartotta a rendi dualizmust."
+                },
+                {
+                    "id": "t05-d",
+                    "type": "multiple-choice",
+                    "question": "5. feladat (folytatás) – Rákóczi-szabadságharc\n\nd) Melyik értékelés igaz a szatmári békével kapcsolatban? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "A bécsi udvar katonai vereségei következtében kényszerült békekötésre.",
+                        "A bécsi udvar katonai erőfölénye ellenére kompromisszumot kötött a magyar udvarral.",
+                        "A békekötés következtében feszültté vált a viszony a bécsi udvar és a magyar nemesség között."
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A szatmári béke (1711) kompromisszumos béke volt: a Habsburg-udvar katonai erőfölénye ellenére engedményeket tett (amnesztia, vallásszabadság, rendi alkotmány), biztosítva a hosszú távú békét a magyar nemességgel."
+                },
+                {
+                    "id": "t06-a",
+                    "type": "fill-in",
+                    "question": "6. feladat – Az első ipari forradalomhoz kapcsolódik.\n\n<div class=\"image-placeholder\">🖼 Hat találmány képe (A–F): gőzgép, szövőszék, fonógép, nagyolvasztó, autó, gőzmozdony — lásd feladatsor PDF (8. oldal)</div>\n\nRendelje az állításokhoz a képeken bemutatott találmányok közül azokat, amelyekre igazak! (A helyes válasz egy betűjel.)\n\na) Több orsó forgatásával felgyorsította a fonalgyártást.",
+                    "correct": [
+                        "B"
+                    ],
+                    "points": 1,
+                    "explanation": "A több orsós fonógép (Spinning Jenny) forradalmasította a fonalgyártást, mivel egy munkás egyszerre több fonalat tudott előállítani."
+                },
+                {
+                    "id": "t06-b",
+                    "type": "fill-in",
+                    "question": "6. feladat (folytatás) – Első ipari forradalom\n\nb) A korszak legfontosabb erőgépe, amely más eszközök meghajtására szolgált.",
+                    "correct": [
+                        "C"
+                    ],
+                    "points": 1,
+                    "explanation": "A gőzgép (Watt fejlesztette tökéletes formára) volt a korszak univerzális erőgépe, amely bányák, gyárak, mozdonyok, hajók meghajtására is alkalmas volt."
+                },
+                {
+                    "id": "t06-c",
+                    "type": "fill-in",
+                    "question": "6. feladat (folytatás) – Első ipari forradalom\n\nc) Tönkretette a kézműipari szövést Európában és Indiában.",
+                    "correct": [
+                        "A"
+                    ],
+                    "points": 1,
+                    "explanation": "A gépesített szövőszék tömegtermelése olcsóbb lett, mint a kézi szövés, ezért tönkretette a kézműves szövőket Európában és Indiában is."
+                },
+                {
+                    "id": "t06-d",
+                    "type": "fill-in",
+                    "question": "6. feladat (folytatás) – Első ipari forradalom\n\nd) Addig a kereskedelemtől elzárt területeket kapcsolt be a világpiacba.",
+                    "correct": [
+                        "F"
+                    ],
+                    "points": 1,
+                    "explanation": "A gőzmozdony (vasút) korábban nehezen elérhető belső területeket is bekapcsolt a világpiacba, forradalmasítva a szárazföldi közlekedést."
+                },
+                {
+                    "id": "t07-a",
+                    "type": "short-answer",
+                    "question": "7. feladat – Az osztrák–magyar kiegyezéssel kapcsolatos.\n\nA) „Három út állott előttünk: vagy fegyverrel vívni ki jogainkat; vagy várni a véletlentől és oly eseményektől, amelyeket se előidézni, se irányozni és vezetni képesek nem voltunk; vagy arra törekedni, hogy meggyőzzük a fejedelmet [uralkodót] és az az el nem fogult közvéleményt arról, miszerint alkotmányunk visszaállítása a birodalom fönnállásának biztonságával is összhangba hozható.” (Deák Ferenc, 1867)\n\na) Nevezze meg azt a „fejedelmet”, akinek az A) betűjelű forrásban említett „meggyőzése” lehetővé tette a kiegyezést!",
+                    "sampleAnswer": "(I.) Ferenc József",
+                    "points": 1,
+                    "explanation": "I. Ferenc József osztrák császár (később magyar király) meggyőzése tette lehetővé a kiegyezést 1867-ben; felesége, Erzsébet királyné jelentős szerepet játszott a tárgyalásokban."
+                },
+                {
+                    "id": "t07-b",
+                    "type": "short-answer",
+                    "question": "7. feladat (folytatás) – Kiegyezés\n\nb) Az A) betűjelű forrás aláhúzott részében megnevezett lehetőséget („fegyverrel vívni ki jogainkat”) Deák elutasította. Hozzon fel egy érvet Deák ezen álláspontja mellett!",
+                    "sampleAnswer": "A fegyveres harc áldozatokat követelt volna. / Magyarország nem volt elég erős a győzelemhez. / A fegyveres harc nemzetközi támogatás híján elbukott volna. / A korábbi szabadságharc vereséget szenvedett.",
+                    "points": 1,
+                    "explanation": "A fegyveres harc újabb véres áldozatokat követelt volna, és Magyarország önmagában nem volt elég erős, nemzetközi támogatás nélkül pedig – az 1848–49-es szabadságharc tapasztalata alapján – elbukott volna."
+                },
+                {
+                    "id": "t07-c",
+                    "type": "multiple-choice",
+                    "question": "7. feladat (folytatás) – Kiegyezés\n\nB) „Meg van-e semmisítve azon országnak alkotmányos függetlensége, […] melynek parlamentáris felelős kormánya van […]? Meg van-e semmisítve csupán azáltal, hogy a költségvetésnek egyik pontját, a hadseregnek költségeit nem közvetlenül, hanem közvetve, szabadon választott meghatalmazottjai által egy más alkotmányos országgal együtt […] közösen határozza meg?”\n\nC) „A 20 millió népességű Olaszországot értelmes népével, virágzó kereskedésével, sok jó kikötőjével még nagyhatalomnak sem tekinti a világ! Föl bírna ezek közt állani Magyarország beékelve a hatalmas orosz és német birodalom közé?”\n\nc) Mivel érvelt Deák a kiegyezés mellett beszédének idézett részeiben? Karikázza be a két helyes válasz sorszámát!",
+                    "options": [
+                        "Magyarország a birodalmon belül saját kormányzati rendszerrel rendelkezhetett.",
+                        "Magyarország saját hadsereggel rendelkezhetett.",
+                        "A magyar országgyűlés önállóan dönthetett minden költségvetési forrás felhasználásáról.",
+                        "A birodalomtól való elszakadás kiszolgáltatottá tette volna Magyarországot.",
+                        "A birodalom fennmaradása biztosította a védelmet a nemzetiségekkel szemben."
+                    ],
+                    "correct": [
+                        0,
+                        3
+                    ],
+                    "points": 1,
+                    "explanation": "Deák két fő érve: (1.) Magyarország saját parlamentáris felelős kormánnyal rendelkezhet (B forrás), (4.) az elszakadás kiszolgáltatottá tenné a kis országot a nagy birodalmak (orosz, német) között (C forrás)."
+                },
+                {
+                    "id": "t08-a",
+                    "type": "short-answer",
+                    "question": "8. feladat – A sztálini Szovjetunióval kapcsolatos.\n\n<div class=\"image-placeholder\">🖼 Szovjet plakát, 1930 körül — „Előre! Az ország iparosításáért, a vidék kollektivizálásáért!” — lásd feladatsor PDF (10. oldal)</div>\n\na) Mely társadalmi rétegek összefogását hirdeti a plakát? Nevezze meg a két társadalmi réteget!",
+                    "sampleAnswer": "munkások / munkásság / proletárok / proletariátus; parasztok / parasztság",
+                    "points": 1,
+                    "explanation": "A plakát a munkás-paraszt szövetséget hirdeti (iparosítás = munkásság, kollektivizálás = parasztság). A kommunista ideológia ezt a két réteget tekintette a szocializmus építőinek."
+                },
+                {
+                    "id": "t08-b",
+                    "type": "multiple-choice",
+                    "question": "8. feladat (folytatás) – Sztálini Szovjetunió\n\nb) A kommunista ideológia mely elemére utal a plakát? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "az egyházellenesség",
+                        "a magántulajdon felszámolása",
+                        "a nacionalizmus bírálata",
+                        "a forradalom kirobbantása"
+                    ],
+                    "correct": 1,
+                    "points": 1,
+                    "explanation": "A kollektivizálás (a parasztok földjének állami/szövetkezeti tulajdonba vonása) és az iparosítás (állami vállalatokkal) a magántulajdon felszámolását célozta."
+                },
+                {
+                    "id": "t08-c",
+                    "type": "multiple-choice",
+                    "question": "8. feladat (folytatás) – Sztálini Szovjetunió\n\nc) Melyik állítás igaz a plakátra? Karikázza be az egyetlen helyes válasz sorszámát!",
+                    "options": [
+                        "Lendületet, a fejlődésbe vetett reményt sugároz.",
+                        "Harcra, a végsőkig való ellenállásra buzdít.",
+                        "A hagyományok őrzésének fontosságát sugallja."
+                    ],
+                    "correct": 0,
+                    "points": 1,
+                    "explanation": "A plakát dinamikus, optimista ábrázolásmóddal (felemelt karok, „Előre!” felirat) a szocialista építés lendületét, a fejlődésbe vetett reményt sugározza."
+                },
+                {
+                    "id": "t09-a",
+                    "type": "fill-in",
+                    "question": "9. feladat – A trianoni békediktátummal kapcsolatos. (komplex tesztfeladat)\n\n<div class=\"image-placeholder\">🖼 Táblázat: Magyarország és az elcsatolt területek népessége anyanyelv szerint (1920) — lásd feladatsor PDF (11. oldal)</div>\n\nMelyik népcsoportra / utódállamra igazak a következő állítások? A táblázatban szereplők közül válasszon!\n\na) A legnagyobb létszámú magyar kisebbség ehhez az országhoz került.",
+                    "correct": [
+                        "Románia",
+                        "Romania"
+                    ],
+                    "points": 1,
+                    "explanation": "Romániához 1664 ezer magyar került (Erdély, Partium, Bánság egy része), ami messze a legnagyobb magyar kisebbséget jelentette a szomszédos utódállamok közül."
+                },
+                {
+                    "id": "t09-b",
+                    "type": "fill-in",
+                    "question": "9. feladat (folytatás) – Trianon\n\nb) Ez a népcsoport vált a legnagyobb kisebbséggé a trianoni Magyarországon.",
+                    "correct": [
+                        "német",
+                        "németek",
+                        "nemet",
+                        "nemetek"
+                    ],
+                    "points": 1,
+                    "explanation": "A trianoni Magyarország területén 555 ezer német anyanyelvű élt, ez volt a legnépesebb kisebbség; a következő a szlovákság (164 ezer)."
+                },
+                {
+                    "id": "t09-c",
+                    "type": "fill-in",
+                    "question": "9. feladat (folytatás) – Trianon\n\nc) Az ehhez az államhoz csatolt területen élő magyarok létszáma felülmúlta a csatolt területen élő bármely más népcsoport létszámát.",
+                    "correct": [
+                        "Szerb–Horvát–Szlovén Királyság",
+                        "Szerb-Horvat-Szloven Kiralysag",
+                        "Szerb-Horvát-Szlovén Királyság",
+                        "SHS",
+                        "Szerb–Horvát–Szlovén Királyság / SHS"
+                    ],
+                    "points": 1,
+                    "explanation": "A Szerb–Horvát–Szlovén Királysághoz (későbbi Jugoszlávia) csatolt területen 459 ezer magyar élt, míg a legnagyobb helyi népcsoport, a szerbek 378 ezer fővel voltak jelen – így itt a magyarság volt a legnagyobb."
+                },
+                {
+                    "id": "t09-d",
+                    "type": "fill-in",
+                    "question": "9. feladat (folytatás) – Trianon\n\nd) Ennek a népcsoportnak a döntő többsége Csehszlovákiához került, de így sem váltak ott államalkotó nemzetté.",
+                    "correct": [
+                        "rutén",
+                        "rutének",
+                        "ruszin",
+                        "ruszinok",
+                        "ruten",
+                        "rutenek",
+                        "rutén(ek) / ruszin(ok)"
+                    ],
+                    "points": 1,
+                    "explanation": "A rutének (ruszinok) 442 ezres közössége Kárpátalján Csehszlovákiához került, ahol csehek és szlovákok mellett csak kisebbségként éltek, nem váltak államalkotó nemzetté."
+                },
+                {
+                    "id": "t09-e",
+                    "type": "short-answer",
+                    "question": "9. feladat (folytatás) – Trianon\n\ne) Miért volt a magyar közvélemény számára nehezen elfogadható, hogy Ausztria is kapott területeket Magyarországtól?",
+                    "sampleAnswer": "Mert Ausztria is vesztes állam volt. (Az Osztrák-Magyar Monarchiával együtt vesztette el a háborút.)",
+                    "points": 1,
+                    "explanation": "Ausztria szintén vesztes állam volt (mint az Osztrák–Magyar Monarchia másik fele); a közvélemény érthetetlennek tartotta, hogy egy vesztes állam újabb területeket kap egy másik vesztestől (Burgenland)."
+                },
+                {
+                    "id": "t09-f",
+                    "type": "short-answer",
+                    "question": "9. feladat (folytatás) – Trianon\n\nf) Érveljen a táblázat adatai alapján amellett, hogy az első világháborút lezáró békeszerződések nem orvosolták a térségben jellemző etnikai feszültségeket!",
+                    "sampleAnswer": "Soknemzetiségű államok jöttek létre. / A határokat nem etnikai alapon húzták meg. / A magyar többségű területeket is elcsatoltak.",
+                    "points": 1,
+                    "explanation": "A táblázat bizonyítja, hogy az új államok soknemzetiségűek maradtak (pl. Csehszlovákiában magyarok, ruszinok, németek; Romániában jelentős magyar és német kisebbség), valamint magyar többségű területek is elcsatolásra kerültek – a békék nem etnikai alapú rendezést hoztak."
+                },
+                {
+                    "id": "t10-a",
+                    "type": "fill-in",
+                    "question": "10. feladat – Az Európai Unióhoz kapcsolódik.\n\n<div class=\"image-placeholder\">🖼 Ábra: Az Európai Unió felépítése (intézmények kapcsolatrendszere) — lásd feladatsor PDF (12. oldal)</div>\n\nNevezze meg azt az európai uniós intézményt, amelyre az állítások vonatkoznak! Az ábrán látható intézmények közül válasszon!\n\na) Tagjait közvetlenül az európai uniós állampolgárok választják:",
+                    "correct": [
+                        "Európai Parlament",
+                        "Europai Parlament",
+                        "EP"
+                    ],
+                    "points": 1,
+                    "explanation": "Az Európai Parlament az egyetlen közvetlenül választott uniós intézmény; tagjait ötévente az uniós állampolgárok választják meg."
+                },
+                {
+                    "id": "t10-b",
+                    "type": "fill-in",
+                    "question": "10. feladat (folytatás) – Európai Unió\n\nb) Tagjai a tagállamok érdekeit képviselik a jogalkotás során:",
+                    "correct": [
+                        "Európai Unió Tanácsa",
+                        "Miniszterek Tanácsa",
+                        "Európai Unió Tanácsa / Miniszterek Tanácsa",
+                        "Europai Unio Tanacsa"
+                    ],
+                    "points": 1,
+                    "explanation": "Az Európai Unió Tanácsa (Miniszterek Tanácsa) a tagállamok szakminisztereiből áll, akik országaik érdekeit képviselik a jogalkotásban."
+                },
+                {
+                    "id": "t10-c",
+                    "type": "fill-in",
+                    "question": "10. feladat (folytatás) – Európai Unió\n\nc) Nem szavaz a jogszabályokról, de javaslatot tesz rájuk, és ellenőrzi végrehajtásukat:",
+                    "correct": [
+                        "Európai Bizottság",
+                        "Europai Bizottsag"
+                    ],
+                    "points": 1,
+                    "explanation": "Az Európai Bizottság az EU „kormánya”: kizárólagos jogalkotási kezdeményezési joga van, ellenőrzi a jogszabályok végrehajtását, de közvetlenül nem szavaz róluk."
+                },
+                {
+                    "id": "t10-d",
+                    "type": "fill-in",
+                    "question": "10. feladat (folytatás) – Európai Unió\n\nd) Javaslatot tesz az Európai Bizottság elnökének személyére:",
+                    "correct": [
+                        "Európai Tanács",
+                        "Europai Tanacs"
+                    ],
+                    "points": 1,
+                    "explanation": "Az Európai Tanács (a tagállamok állam- és kormányfőinek testülete) jelöli a Bizottság elnökét, akit aztán az Európai Parlament hagy jóvá."
+                },
+                {
+                    "id": "t11-a",
+                    "type": "fill-in",
+                    "question": "11. feladat – Az 1956-os forradalomhoz kapcsolódik.\n\nDöntse el, mely idézett 1956-os jelmondat fejezi ki közvetlenül a táblázatban szereplő állításokat!\n\n1. „Azt kérdezik Pesten, Budán, hová lett a magyar urán?”\n2. „Szovjet sereg menjen haza, Sztálin-szobrot vigye haza!”\n3. „Vegyétek le a maskarát [jelmezt], honvédeknek magyar ruhát!”\n4. „Nagy Imrét a kormányba!”\n5. „Bem apó és Kossuth népe, menjünk együtt kéz a kézbe!”\n\na) A forradalmárok elutasították a szovjet minták másolását és az idegen elnyomást. (Két sorszámot írjon, vesszővel elválasztva!)",
+                    "correct": [
+                        "2, 3",
+                        "3, 2",
+                        "2,3",
+                        "3,2"
+                    ],
+                    "points": 1,
+                    "explanation": "A 2. jelmondat a szovjet csapatok kivonását és a Sztálin-szobor lerombolását követeli, a 3. pedig a szovjet mintára bevezetett katonai egyenruha megszüntetését – mindkettő elutasítja a szovjet mintát és az idegen elnyomást."
+                },
+                {
+                    "id": "t11-b",
+                    "type": "fill-in",
+                    "question": "11. feladat (folytatás) – 1956\n\nb) Kifejezték a lengyel felkelőkkel való szolidaritást.",
+                    "correct": [
+                        "5"
+                    ],
+                    "points": 1,
+                    "explanation": "A „Bem apó és Kossuth népe” jelmondat a lengyel származású Bem József honvéd tábornok emlékét idézi fel, így fejezi ki a lengyelekkel (a poznańi és varsói megmozdulásokkal) való szolidaritást."
+                },
+                {
+                    "id": "t11-c",
+                    "type": "fill-in",
+                    "question": "11. feladat (folytatás) – 1956\n\nc) A forradalmárok felemelték szavukat a szovjet gazdasági igények feltétlen kiszolgálása ellen.",
+                    "correct": [
+                        "1"
+                    ],
+                    "points": 1,
+                    "explanation": "Az „Azt kérdezik Pesten, Budán, hová lett a magyar urán?” jelmondat a Szovjetunióba szállított magyar uránra (és az uránkitermelés titkosságára) utalva tiltakozik a szovjet gazdasági kizsákmányolás ellen."
+                },
+                {
+                    "id": "t12-a",
+                    "type": "fill-in",
+                    "question": "12. feladat – A mai Magyarország szociális ellátórendszerével kapcsolatos.\n\n„A kötelező […a)…] rendszerében […] [mindenki] az egyéni felelősség elvének megfelelően, az e törvényben meghatározott […b)…]fizetési kötelezettség alapján szerezhet jogot saját maga és törvényben meghatározott hozzátartozója javára az egyes […] ellátásokra. […] A(z) […a)…] rendszerében nyújtott ellátások a(z) […c)…] és a nyugdíjbiztosítás keretében vehetők igénybe.” (2019. évi CXXII. törvény)\n\nMely szakkifejezések hiányoznak a szöveg betűkkel jelölt részeiből?\n\nSzakkifejezések: adó, egészségbiztosítás, járulék, költségvetés, társadalombiztosítás\n\na) rész:",
+                    "correct": [
+                        "társadalombiztosítás",
+                        "tarsadalombiztositas"
+                    ],
+                    "points": 1,
+                    "explanation": "A kötelező társadalombiztosítás a magyar szociális ellátórendszer alapja; ennek keretében nyújtja az állam a legfontosabb ellátásokat (nyugdíj, egészségügyi ellátás)."
+                },
+                {
+                    "id": "t12-b",
+                    "type": "fill-in",
+                    "question": "12. feladat (folytatás) – Szociális ellátórendszer\n\nb) rész (befizetési kötelezettség):",
+                    "correct": [
+                        "járulék",
+                        "jarulek"
+                    ],
+                    "points": 1,
+                    "explanation": "A járulék a munkavállaló és a munkáltató által fizetett kötelező befizetés, amely a társadalombiztosítás bevételeit adja (szemben az adóval, amely az általános költségvetésbe folyik be)."
+                },
+                {
+                    "id": "t12-c",
+                    "type": "fill-in",
+                    "question": "12. feladat (folytatás) – Szociális ellátórendszer\n\nc) rész (nyugdíjbiztosítás mellett):",
+                    "correct": [
+                        "egészségbiztosítás",
+                        "egeszsegbiztositas"
+                    ],
+                    "points": 1,
+                    "explanation": "A társadalombiztosítás két fő pillére a nyugdíjbiztosítás és az egészségbiztosítás (az utóbbi fedezi az orvosi ellátásokat, táppénzt, gyermekgondozási ellátásokat)."
+                },
+                {
+                    "id": "t12-d",
+                    "type": "short-answer",
+                    "question": "12. feladat (folytatás) – Szociális ellátórendszer\n\n<div class=\"image-placeholder\">🖼 Ábra: A 65 év felettiek arányának változása Magyarország népességén belül (1990: 13,2%, 2020: 19,9%, 2060 előrejelzés: 26%) — lásd feladatsor PDF (14. oldal)</div>\n\nd) A magyar nyugdíjrendszer felosztó-kirovó típusú, vagyis a mindenkori aktív keresők befizetései teremtik meg a nyugdíjak kifizetésének alapját. Magyarázza meg az ábra segítségével, miért válik nehézzé ennek a rendszernek a fenntartása!",
+                    "sampleAnswer": "Egyre csökken az aktív keresők aránya a nyugdíjasokéhoz képest. / A társadalom elöregedése miatt.",
+                    "points": 1,
+                    "explanation": "A 65 év felettiek aránya folyamatosan nő (13,2%→19,9%→26%), miközben az aktív korúak aránya csökken. Így egyre kevesebb aktív keresőnek kell egyre több nyugdíjas ellátását finanszíroznia – ez veszélyezteti a felosztó-kirovó rendszer fenntarthatóságát."
+                }
+            ]
+        },
+        "szoveges": {
+            "timeLimit": 150,
+            "maxPoints": 50,
+            "tasks": [
+                {
+                    "id": "t13",
+                    "type": "essay",
+                    "question": "13. feladat – Julius Caesar egyeduralma (RÖVID, egyetemes történelem, 1849 előtti)\n\nMutassa be a forrás és ismeretei segítségével Julius Caesar egyeduralmát!\n\n„Kiegészítette a senatust, patríciusi rangra [előkelők közé] emelt egyeseket. […] A választási jogon úgy osztozott meg a néppel, hogy a consulságra pályázók kivételével a többi hivatali jelöltet felerészben a nép akarata szerint, felerészben Caesar ajánlására nevezték ki.” (Plutarkhosz ókori történetíró, Kr. u. 1. század)\n\n(Rövid feladat, egyetemes történelem, 1849 előtti korszak. Maximum 17 pont.)",
+                    "minWords": 100,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően Caesar egyeduralmát mutatja be"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzíti: Caesar a Kr. e. 1. században élt; fontos időpont/esemény (pl. Kr. e. 49 Rubicon átlépése, Kr. e. 48 pharszaloszi csata, Kr. e. 44 meggyilkolása); tér: Római Birodalom / Gallia"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K1 (szaknyelv)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3 szakszerű fogalom (dictator, consul, senatus, köztársaság)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K2 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlatszerű",
+                                "1 – Sok hiba",
+                                "2 – Logikus, helyes mondatok"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F (forráshasználat)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a forrás egy lényegi elemét (pl. megemelte a senatus létszámát; előkelővé emelt közembereket; a hivatalnokok felét Caesar jelöltjei közül választották), és ehhez lényegi megállapítást tesz (pl. a senatus jelentősége csökkent, új elitet hozott létre, provinciabeliek is bekerülhettek; ellene szőttek összeesküvést)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E1 (hatalom megszerzése)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Caesar (örökös) dictatorként birtokolta a hatalmat / triumvirátus felszámolva / ellenfeleit legyőzve egyeduralmát valósította meg, és ehhez megállapítást (pl. megsértette a köztársaság törvényeit, polgárháborúnak tekintették, hadseregére támaszkodott, monarchia létrehozására készült)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E2 (intézkedései)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti Caesar további intézkedéseit (pl. rabszolgákat szabadított fel, adó-/pénz-/naptárreformot hajtott végre; értékálló aranypénzt vezetett be; földet osztott / letelepítette a veteránokat), és ehhez megállapítást (pl. növelni akarta híveinek számát; igyekezett pótolni a polgárháború okozta vérveszteséget; célja a gazdaság és kereskedelem fellendítése)"
+                            ]
+                        }
+                    ],
+                    "explanation": "Julius Caesar a Kr. e. 1. században, a római köztársaság válsága idején került hatalomra. A triumvirátus után polgárháborúban győzedelmeskedett (Kr. e. 49 Rubicon, Kr. e. 48 Pharszalosz), örökös dictator lett. Reformjai: senatus bővítése, naptárreform (Julianus-naptár), földosztás, provinciabeliek polgárjoga. Kr. e. 44-ben meggyilkolták, mert monarchikus törekvései veszélyeztették a köztársaságot."
+                },
+                {
+                    "id": "t14",
+                    "type": "essay",
+                    "question": "14. feladat – Az auschwitzi koncentrációs tábor (RÖVID, egyetemes történelem, 1849 utáni)\n\nMutassa be a forrás és ismeretei segítségével az auschwitzi koncentrációs tábor működését!\n\n<div class=\"image-placeholder\">🖼 Gépgyár az auschwitzi táborkomplexumon belül (1944) — csíkos rabruhás foglyok gépeknél dolgoznak — lásd feladatsor PDF (16. oldal)</div>\n\n(Rövid feladat, egyetemes történelem, 1849 utáni korszak. Maximum 17 pont.)",
+                    "minWords": 100,
+                    "maxWords": 300,
+                    "points": 17,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően az auschwitzi tábor működését mutatja be"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás térben és időben (T)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzít egy lényegi évszámot a témához kapcsolódóan (pl. Hitler hatalomra jutása: 1933, második világháború: 1939–1945, wannseei jegyzőkönyv: 1942, magyar zsidók deportálása: 1944), és rögzíti, hogy Auschwitz a megszállt lengyel területeken volt"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K1 (szaknyelv)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2 fogalom",
+                                "2 – Legalább 3 szakszerű fogalom (holokauszt, koncentrációs tábor, megsemmisítő tábor, haláltábor)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K2 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlatszerű",
+                                "1 – Sok hiba",
+                                "2 – Logikus, helyes mondatok"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F (forráshasználat)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a kép egy lényegi elemét (pl. ipari üzemek létesültek; a foglyokkal ingyen-/rabszolgamunkát végeztettek), és ehhez kapcsolódóan lényegi megállapítást tesz (pl. a koncentrációs táborok eredetileg munkatáborok voltak; a zsidók munkaereje is a hadiipart szolgálta; pótolták a háború okozta munkaerőhiányt; sokan meghaltak a rossz munkakörülmények miatt)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E1 (haláltábor)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Auschwitz megsemmisítő/haláltáborként is működött, és ehhez megállapítást tesz (pl. foglyok gázkamrákban haltak meg; a holttesteket krematóriumban égették el; áldozatok elsöprő többsége zsidó volt; itt gyilkolták meg a magyar zsidók többségét; a munkaképteleneket nyilvánították gyilkolásra először)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E2 (további ismeretek)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít még egy lényegi tényt Auschwitz működésével kapcsolatban (pl. SS működtette; érkezéskor szelektálták; fűtetlen barakkokban laktak; éheztek; orvosi kísérleteket végeztek; cigányok/homoszexuálisok/politikai ellenfelek is voltak; a szökés szinte lehetetlen volt; a fajelmélet szerint működött; a foglyokat jelzésekkel különböztették meg)"
+                            ]
+                        }
+                    ],
+                    "explanation": "Auschwitz (Oświęcim) a megszállt Lengyelországban felállított tábor komplexum volt; Auschwitz-Birkenau volt a náci népirtás legnagyobb helyszíne. Munkatáborként és megsemmisítő táborként is működött, SS igazgatás alatt. Az érkezők szelekción estek át; a munkaképteleneket gázkamrákban ölték meg. A holokauszt során mintegy 1,1 millió ember, főként zsidó halt meg itt – köztük a deportált magyar zsidók többsége 1944-ben."
+                },
+                {
+                    "id": "t15",
+                    "type": "essay",
+                    "question": "15. feladat – Széchenyi István gyakorlati tevékenysége (HOSSZÚ, magyar történelem, 1849 előtti)\n\nMutassa be a források és ismeretei segítségével Széchenyi Istvánnak a gazdaság fejlesztésére irányuló gyakorlati tevékenységét! Válaszában térjen ki arra is, mi ösztönözte, és mi tette lehetővé gazdaságfejlesztő tevékenységének megvalósítását!\n\n<div class=\"image-placeholder\">🖼 Két kép: Malmok Pestnél a 19. század elején; A Széchenyi által alapított, 1841-től működő József Hengermalom — lásd feladatsor PDF (18. oldal)</div>\n\nForrás 1 (Széchenyi István levele József nádornak, 1835): „Bátor vagyok […] Fenségedet legalázatosabban arra kérni, kegyeskedjék aziránt intézkedni, hogy az Ó-Buda és az ó-budai sziget közötti Duna-ág fokozatosan jó és biztos telelőkikötővé képeztessék. […] a) Ez a partjait, a szárazföld oldaláról burkolattal ellátni, mely talán fából lehetne […]. b) Ez ág kijáratát, mely elzátonyosodott, kitakaríttatni. c) Az ezen ág jobb partján fekvő telkeket a Gőzhajózási Társulatnak átengedni, hogy az ott fa- és szerszámraktárait […] új hajók építése céljára létesíthesse.”\n\nForrás 2 (Széchenyi István javaslata, 1848. január): „A magyar kereskedelem s iparfejlődés gyülpontja Budapest, ez az ország szíve, melynek irányában úgy lehet tekinteni az egyes [vasúti] közlekedési vonalakat, mint megannyi főeret […]. Eszerint Budapestről, ezt mint központot tekintve, úgy kell a [vasúti] fővonalakat vezetni, hogy azok hazánkat világkapcsolatba juttassák […].”\n\n(Hosszú feladat, magyar történelem, 1849 előtti korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően Széchenyi gazdaságfejlesztő gyakorlati tevékenységét és hátterét mutatja be"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás T1 (idő)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzíti: reformkor 1825/1830/1832-ben vette kezdetét; Széchenyi Hitel című műve 1830-ban jelent meg"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás T2 (tér)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzít egy lényegi térbeli elemet (pl. Magyarország a Habsburg Birodalom része volt; fő külkereskedelmi partner Ausztria volt; az ország gazdasági központjává Pest-Buda vált; a Vaskapu-szoroson át vezetett út a Fekete-tengerhez)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K1 (általános fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 általános fogalom: ipar, közlekedés, vasút, gőzhajó"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K2 (konkrét történelmi)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 konkrét fogalom: ipari forradalom, gyár-/gépipar, hitel, tőke, tőkés fejlődés, főnemes, arisztokrata, nagybirtokos"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K3 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat",
+                                "1 – Sok hiba",
+                                "2 – Helyes, logikus, lényegre törő"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F1 (Hengermalom, kép)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti a képek alapján, hogy Széchenyi gőzmalmot alapított / malomipart fejlesztett; a vízimalmok mellett megjelentek a gőzmalmok, és ehhez érdemi megállapítást tesz (pl. elkezdett kialakulni a gyáripar; a lisztipar Magyarország fontos kiviteli cikkévé vált; a magyar iparfejlődés részben a mezőgazdaságra épült)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F2 (Duna-szabályozás, gőzhajózás)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Széchenyi állandó kikötőt akart létrehozni az óbudai-szigeten; kezdeményezte az Óbudai Hajógyár megalapítását, és ehhez érdemi megállapítást tesz (pl. fontos szerepe volt a dunai gőzhajózás megindításában; elkezdett kialakulni a gyáripar/gépgyártás)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F3 (vasút)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Széchenyi Pest-/Buda-Pest-központú vasúthálózatot javasolt; fontosnak tartotta a vasúti összeköttetést más országokkal, és érdemi megállapítást tesz (pl. Széchenyi felismerte a vasútépítés elengedhetetlenségét; fontosságát tartotta a külkereskedelem fellendítésének; Sopron és Bécs közötti vasúti összeköttetésen munkálkodott; a reformkorban két vasútvonal épült meg; terveiről Kossuthtal is vitázott)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E1 (ösztönzők)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít egy lényegi tényt arra vonatkozóan, mi ösztönözte Széchenyit (pl. angliai utazásai tett; nem tudott hitelt felvenni), és tesz egy érdemi megállapítást (pl. Angliában az ipari forradalom kibontakozását látta; Magyarország elmaradottságát hitelképessé tétele modernizációhoz szükséges; Hitel című műve; az ősiség eltörlését sürgette; a gazdasági reformokat tekintette elsődlegesnek)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E2 (lehetőségek, társadalmi háttér)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, mi tette lehetővé Széchenyi számára a gazdaság fejlesztését (pl. főnemes volt; gazdag nagybirtokos; jó kapcsolatot ápolt az udvarral), és érdemi megállapítást tesz (pl. részben saját vagyonát áldozta; bízott, hogy az udvar támogatja; több esetben részvénytársaságot alapított)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E3 (egyéb kezdeményezések)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti Széchenyi egy, a forrásban nem szereplő kezdeményezését (pl. Lánchíd építése, Vaskapuszoros szabályozás, Tisza-szabályozás, lóversenyek kezdeményezése), és tesz érdemi megállapítást (pl. a Lánchíd a Pest és Buda közötti közlekedést akarta megkönnyíteni; nemesektől is hídvámot szedetett; Lánchíd a szabadságharc alatt készült el)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Korlátozott",
+                                "3 – Önálló ismeretek, helyes megállapítások, elemzés alátámasztása"
+                            ]
+                        }
+                    ],
+                    "explanation": "Gróf Széchenyi István (a „legnagyobb magyar”) a reformkor meghatározó alakja volt, aki angliai tapasztalatai alapján a gazdasági modernizációt tartotta Magyarország felzárkózásához elengedhetetlennek. Művei (Hitel, 1830) és gyakorlati tevékenysége (Lánchíd, Óbudai Hajógyár, József Hengermalom, Vaskapu-szabályozás, Tisza-szabályozás, dunai gőzhajózás, vasúthálózat terv) a tőkés átalakulást készítették elő. Főnemesként, nagybirtokosként és udvari kapcsolatai révén tudta mindezt véghezvinni."
+                },
+                {
+                    "id": "t16",
+                    "type": "essay",
+                    "question": "16. feladat – A magyarországi rendszerváltozás (HOSSZÚ, magyar történelem, 1849 utáni)\n\nMutassa be a források és ismeretei segítségével a magyarországi rendszerváltozást! Térjen ki a politikai eseményekre és az államforma változására is!\n\n(Hosszú feladat, magyar történelem, 1849 utáni korszak. Maximum 33 pont.)",
+                    "minWords": 200,
+                    "maxWords": 500,
+                    "points": 33,
+                    "rubric": [
+                        {
+                            "criterion": "Feladatmegértés",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nem érti",
+                                "1 – Részleges",
+                                "2 – Alapvetően az 1989. évi politikai eseményeket mutatja be a rendszerváltással kapcsolatban"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás T1 (idő)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzít egy fontos eseményt dátummal (pl. Nagy Imre és mártírtársainak újratemetése: 1989. június 16., a harmadik Magyar Köztársaság kikiáltása: 1989. október 23.)"
+                            ]
+                        },
+                        {
+                            "criterion": "Tájékozódás T2 (tér)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részben",
+                                "2 – Rögzíti a téma egy térbeli elemét (pl. Magyarország a szovjet blokk része volt; Nagy Imre újratemetése a Hősök terén történt; a harmadik Magyar Köztársaság kikiáltása a Kossuth téren történt)"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K1 (általános fogalmak)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 általános fogalom: diktatúra, demokrácia, forradalom, választások, emberi jogok"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K2 (konkrét történelmi)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – 1-2",
+                                "2 – Legalább 3 konkrét fogalom: egypártrendszer, többpártrendszer, gyülekezési jog, köztársaság, népszavazás, jogállam"
+                            ]
+                        },
+                        {
+                            "criterion": "Kommunikáció K3 (fogalmazás)",
+                            "maxPoints": 2,
+                            "levels": [
+                                "0 – Vázlat",
+                                "1 – Sok hiba",
+                                "2 – Helyes, logikus, lényegre törő"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F1 (Nagy Imre újratemetése)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít egy lényegi elemet (pl. Pozsgay az 1956-os forradalmat népfelkelésnek nevezte; Nagy Imre szerepét pozitívan értékelte), és érdemi megállapítás (pl. az 1956-os forradalmat a Kádár-rendszerben ellenforradalomnak nevezték; megkérdőjeleződött a Kádár-rendszer legitimitása; 1956 eszméi voltak a rendszerváltók fő követelései; Nagy Imre rehabilitációjához Orbán Viktor adta meg az első lépést)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F2 (ellenzéki követelések)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti az ellenzék fő követeléseit (pl. demokráciát / emberi és polgári jogok érvényesülését / szovjet csapatok kivonását / Magyarország függetlenségét), és érdemi megállapítás (pl. a követelések hasonlítottak az 1956-os forradalom követeléseihez; sokan tartottak a szovjet beavatkozástól; a kommunista diktatúra már nem tudott hatékonyan fellépni az ellenzéki megmozdulásokkal szemben; a követelések nagy társadalmi támogatást élveztek)"
+                            ]
+                        },
+                        {
+                            "criterion": "Ismeretszerzés F3 (tárgyalásos rendszerváltás)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Magyarországon a rendszerváltás tárgyalásos formában / az MSZMP és az ellenzék közötti tárgyalások eredményeként / tárgyalásos forradalommal valósult meg, és érdemi megállapítás (pl. sikerült elkerülni a véres eseményeket; a Nemzeti Kerekasztal dolgozta ki a rendszerváltás menetét; az ellenzéki pártok közös álláspontjukat az Ellenzéki Kerekasztalnál dolgozták ki; az MSZMP elfogadta a többpártrendszert / az új alkotmány szükségességét)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E1 (Nagy Imre szimbolikus szerepe)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Nagy Imrét újratemették, és lényegi megállapítás (pl. szimbolikusan megbukott a Kádár-rezsim; a bíróság újratárgyalta a Nagy Imre-pert és ártatlannak minősítette a koncepciós per áldozatait; több százezer ember vett részt az eseményen; itt vált ismert politikussá beszédével Orbán Viktor)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E2 (köztársaság kikiáltása)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzíti, hogy Magyarországon kikiáltották a köztársaságot, és lényegi megállapítás (pl. korábban Magyarország népköztársaság volt; a kommunista diktatúra ezzel jogilag is megszűnt; módosították az 1949-es alkotmányt; demokratikus többpárti választásokat lehetővé tévő választási törvényt alkottak)"
+                            ]
+                        },
+                        {
+                            "criterion": "Történelmi gondolkodás E3 (külső/belső folyamatok)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Pontatlan",
+                                "2 – Részben",
+                                "3 – Rögzít egy – a forrásokban nem szereplő – eseményt a rendszerváltás politikai folyamatából (pl. Magyarország befogadta az NDK-ból érkező menekülteket; MSZMP feloszlatta önmagát; négy kérdéses népszavazás tartottak), és érdemi megállapítás (pl. megindította a nyugati határ két részre szakadt; elfogadta a demokratikus átmenet szükségességét; az egyik legnagyobb vita a köztársasági elnök megválasztásának módja volt / a népszavazás következtében választja a köztársasági elnököt; 40 éve ez volt az első valóban demokratikus szavazás hazánkban)"
+                            ]
+                        },
+                        {
+                            "criterion": "Önálló ismeretek (E4)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0 – Nincs",
+                                "1 – Részleges",
+                                "2 – Korlátozott",
+                                "3 – Önálló ismeretek, helyes megállapítások, elemzés alátámasztása"
+                            ]
+                        }
+                    ],
+                    "explanation": "A magyarországi rendszerváltás 1988-89-ben, tárgyalásos úton („tárgyalásos forradalom”) ment végbe. Főbb események: MSZMP reformjai, ellenzéki pártok megjelenése, Nagy Imre újratemetése (1989. június 16.), Nemzeti Kerekasztal-tárgyalások, alkotmánymódosítás, a harmadik Magyar Köztársaság kikiáltása (1989. október 23.), négyigenes népszavazás, majd az első szabad választások (1990). Az egypárti diktatúrát a többpártrendszerű parlamentáris demokrácia váltotta fel; Magyarország kilépett a szovjet érdekszférából."
+                }
+            ]
+        }
+    }
+}

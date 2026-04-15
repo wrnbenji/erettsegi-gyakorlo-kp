@@ -22,6 +22,7 @@
             <button class="nav-btn" data-section="muveleti">II. Nyelvi-irodalmi műveletek</button>
             <button class="nav-btn" data-section="szovegalkotas">III. Szövegalkotás</button>
             <button class="nav-btn" data-section="feladatsorok">Teljes feladatsorok</button>
+            <button class="nav-btn" data-section="tortenelem">Történelem</button>
             <button class="nav-btn" data-section="eredmenyek">Eredményeim</button>
         </div>
     </nav>
@@ -276,6 +277,75 @@
                 <!-- Filled by JS -->
             </div>
         </section>
+        <!-- Történelem Section -->
+        <section id="tortenelem" class="section">
+            <h2>Történelem érettségi</h2>
+            <p class="section-desc">Középszintű történelem érettségi feladatsorok 2022-től. Két rész: I. egyszerű, rövid választ igénylő feladatok (50 pont); II. szöveges, kifejtendő feladatok (50 pont).</p>
+
+            <div class="tips-box">
+                <h4>Tippek a történelem érettségihez</h4>
+                <ul>
+                    <li>Használd a térképeket a források értelmezéséhez</li>
+                    <li>Figyelj a kronológiai sorrendre és a térbeli elhelyezésre</li>
+                    <li>Alkalmazz szakkifejezéseket az esszékben</li>
+                    <li>A szöveges feladatoknál egy rövid egyetemes + egy hosszú magyar feladatot kell választani (más korszakból!)</li>
+                </ul>
+            </div>
+
+            <div class="exam-structure">
+                <h3>A vizsga felépítése</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rész</th>
+                            <th>Feladattípus</th>
+                            <th>Idő</th>
+                            <th>Pont</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>I.</td>
+                            <td>Egyszerű, rövid választ igénylő feladatok</td>
+                            <td>~90 perc</td>
+                            <td>50</td>
+                        </tr>
+                        <tr>
+                            <td>II.</td>
+                            <td>Szöveges, kifejtendő feladatok (esszék)</td>
+                            <td>~90 perc</td>
+                            <td>50</td>
+                        </tr>
+                        <tr class="total-row">
+                            <td colspan="2"><strong>Összesen</strong></td>
+                            <td><strong>180 perc</strong></td>
+                            <td><strong>100</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="filter-bar">
+                <div class="filter-group">
+                    <span class="filter-label">Év:</span>
+                    <button class="filter-year" data-year="2022">2022</button>
+                    <button class="filter-year" data-year="2023">2023</button>
+                    <button class="filter-year" data-year="2024">2024</button>
+                    <button class="filter-year" data-year="2025">2025</button>
+                </div>
+                <div class="filter-group">
+                    <span class="filter-label">Időszak:</span>
+                    <button class="filter-session" data-session="Majus">Május</button>
+                    <button class="filter-session" data-session="Oktober">Október</button>
+                </div>
+                <button class="filter-clear">Szűrők törlése</button>
+            </div>
+
+            <div class="exam-grid" id="tortenelem-grid">
+                <!-- Filled by JS -->
+            </div>
+        </section>
+
         <!-- Quiz Section -->
         <section id="quiz" class="section">
             <div id="quiz-container">

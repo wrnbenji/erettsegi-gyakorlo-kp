@@ -1,316 +1,443 @@
 {
     "id": "2024-okt",
     "year": 2024,
-    "session": "Oktober",
-    "date": "2024. oktober 14.",
+    "session": "Október",
+    "date": "2024. október 14.",
     "sections": {
         "szovegertes": {
             "timeLimit": 60,
             "maxPoints": 40,
-            "sourceText": "A természet és az ember viszonya a XXI. században\n\nAz emberiség és a természet kapcsolata az évezredek során folyamatosan változott. Az ipari forradalom előtt az ember alapvetően a természet részeként tekintett önmagára: a vadász-gyűjtögető társadalmaktól a mezőgazdasági civilizációkig az emberek tudták, hogy fennmaradásuk a természeti körülményektől függ. A modernizáció azonban gyökeresen átírta ezt a viszonyt: a technológiai fejlődés és az iparosodás azt az illúziót keltette, hogy az ember képes uralni és tetszés szerint átalakítani a természetet.\n\nA XXI. században azonban egyre nyilvánvalóbb, hogy ez az illúzió súlyos következményekkel jár. Az éghajlatváltozás, a biodiverzitás csökkenése és az egyre szélsőségesebbé váló időjárási jelenségek mind-mind az ember és természet megbomlott egyensúlyának tünetei. A tudósok és a döntéshozók egyre sürgetőbben figyelmeztetnek: ha nem változik az ember és a természet viszonya, az ökológiai összeomlás elkerülhetetlenné válhat.\n\nA fenntarthatóság gondolata ebben a kontextusban vált az egyik legfontosabb vezérelvvé. A fenntartható fejlődés azt jelenti, hogy a jelen generáció szükségleteit úgy elégíti ki, hogy nem veszélyezteti a jövő generációk lehetőségeit. Ez a megfogalmazás az 1987-es Brundtland-jelentésből származik, és azóta is a fenntarthatósági gondolkodás alapköve.\n\nAz egyéni és a közösségi felelősség kérdése szintén kulcsfontosságú. Sokan úgy érvelnek, hogy a klímaváltozás megoldása elsősorban az egyéneken múlik: ha mindenki csökkenti a szén-dioxid-kibocsátását, kevesebbet utazik repülővel és változtat étkezési szokásain, az összesített hatás jelentős lehet. Mások szerint ez a megközelítés naiv: a rendszerszintű változás – a megújuló energiák elterjesztése, az ipar átalakítása, a politikai szabályozás megerősítése – nélkül az egyéni erőfeszítések csupán jelképes gesztusok maradnak.\n\nA természethez való viszony kulturális és szemléleti átalakulást is igényel. A japán 'shinrin-yoku' (erdőfürdőzés) gyakorlata, a permakultúra mozgalom vagy az ún. 'slow life' irányzat mind arra utalnak, hogy egyre többen keresik a természettel való mélyebb kapcsolatot. Az ökopszichológia nevű tudományterület azt vizsgálja, hogyan hat a természeti környezet az emberi jólétre és mentális egészségre. A kutatások egybehangzóan mutatják: a természetben töltött idő csökkenti a stresszt, javítja a koncentrációt és erősíti az általános közérzetet.",
+            "sourceText": "A Himnusz mi vagyunk\nBatta András Széchenyi-díjas, Erkel Ferenc-díjas zenetörténésszel beszélget Kőhalmi Andrea\n1. – A himnusznak világszerte két típusát ismerjük, a magyar viszont egy harmadik. Nem monarchikus dicsőítés és nem is induló, hanem egyedülálló módon fohász. A műfaj egyik jellegzetességével ellentétben nem a tömeg közös dala, hanem az egyének saját imája, ami alkalmakkor egyszerre szólal meg. Már akkor vitathatatlanul betöltötte szerepét, amikor hivatalosan még egy másik dallam viselte a címet, s ez megszakítás nélkül így is maradt, noha valójában csak 1989-ben iktatták törvénybe. Nemzeti fohászként élt túl olyan időszakokat, amikor alapértékei a hatalom számára nem voltak éppen kedvesek.\n– A legrégibb himnuszok monarchikus dicsőítő énekek, az uralkodót magasztaló, jól megszólaltatható közösségi dallamok. Ennek nagyon jó példája a God Save the King vagy God Save the Queen, ami az angol lelkületnek nagyon megfelel. Ez egy egyszerű dallam, azzal a szöveggel, hogy Isten óvja a királyt vagy a királynőt, ami nagy különbség a magyar himnusszal szemben.\nA másik ilyen emblematikusan jó, monarchiát dicsőítő ének a Gott erhalte Franz den Kaiser, a Habsburg császári himnusz, amelyet Joseph Haydn írt, miután az 1790-es években Londonból visszatért Bécsbe. Az angoloknál Händel nyomán jött rá arra, hogyan lehet nagy közösségeket megmozgatni zenével, s ezt valósította meg otthon. […]\n2. – Van egy másik ága is a himnuszoknak, az ugyancsak jól énekelhető indulóké.\n– Ilyen például a Marseillaise. Ki lehet menni vele a csatatérre harcolni a hazáért. Egyáltalán nincs köze a császársághoz. A néphez és a francia dicsőséghez kapcsolódik, híres története szerint egy francia katonatiszt írta meg egy éjszaka alatt. Az egyik legjobb himnusz, ami aztán a szabadság szimbólumává vált – bár ez már a francia forradalom után volt, amikor megismerték ennek a szabadságnak az árnyoldalait is. Ilyen az olasz, de ismerünk jó néhány más, hasonlóan pattogó ritmusú, harcos jellegű himnuszt is.\n3. – A magyar himnusz nem a monarchikus, és nem is a harcos, induló típusú.\n– Ismereteim szerint a világ vagy háromszáz himnusza között egyedülálló, hogy a miénk egy fohász, egy ima. Ami alapvető különbség minden más himnusszal szemben. Az Istent is azzal szólítja meg, hogy áldd meg a magyart, nem pedig, hogy óvd az uralkodót. Mindenképpen különleges. A transzcendens (természetfeletti) hívása a magyarságtól nem áll távol, de benne van az elszakadási, függetlenedési vágy, az identitáskereső reformkor lelkülete is. 1844-ben járunk, amikor Erkel Ferenc egy pályázatra megírja a zenét. Zseniális húzás volt, hogy erre Kölcsey Ferencnek ezt az akkor még nem széltében-hosszában elterjedt költeményét vették elő. Ráadásul a mélyen magyar, felmenőit a honfoglalásig visszavezető Kölcsey önmagában is egy csoda. Ül Csekén magányosan, csalódva, politikai csatározásoktól, kritikáktól körülvéve, gazdálkodik, és közben megírja, befejezi remekművét A magyar nép zivataros századaiból 1823-ban.\n4. – Kölcsey költeménye különösebb visszhang nélkül pihen több mint húsz évig. Hogyan kerül újra elő?\n– Jön egy fantasztikus figura, Bartay Endre, aki a Nemzeti Színház igazgatójaként egy igazi kulturális menedzser. Egyszer csak előszedi a Kölcsey-féle Hymnust, és megpályáztatja a megzenésítését. […] Erkel egyhangú szavazással nyerte meg a versenyt.\n5. – Milyen volt a többi mű?\n– Mint egy világítótorony, úgy emelkedett ki közülük az Erkel-féle Himnusz. Létezik egy történet, miszerint Bartay bezárta Erkelt egy szobába, mondván, hogy addig nem engedi ki, amíg meg nem írja a magyar himnuszt. Ez nyilvánvalóan csak legenda, hiszen valójában a zene egy jeligés pályázatra született. Erkel egy Kölcsey-idézetet választott jeligéül: „Itt az írás, olvassátok”.\n6. – Úgy tudom, ez a szlogen egy elírás következménye.\n– A Vanitatum vanitas című versben valóban az „Itt az írás, forgassátok” fordulat szerepel. Nem hiszem, hogy elírás volt. Erkel szent szövegként kezeli a Hymnust, amiből maga is egy szent éneket komponál. Az „Itt az írás” mintha az Ige lenne, ebben az esetben pedig jobb az olvassátok, mint a forgassátok kifejezés. A Himnusz egy szakrális ének, egy közös imáról van szó. Mindig az az érzésem, hogy egyénekre van kitalálva. Amikor együtt énekli a magyarság, valójában mindenki külön-külön imádkozik. […]\n7. – Mintha a Himnusz megkomponálásakor egyáltalán nem lett volna szempont a könnyű énekelhetőség… Nem könnyű énekelni.\n– Nem. Ennél csak a Szózatot nehezebb (nevet). […] Annyi minden tapad hozzájuk, meghatározó történelmi pillanatok, sportesemények emléke, a neveltetésünk, hogy elcsendesedünk, fölállunk már az első hangoknál. Mivel ez már mind rájuk rakódott, nehéz objektíven megítélni ezeket a dallamokat.\n8. – A hangszerelés és a tempó is változott az évek során.\n– A Himnusz eredeti zenéje kicsit különbözik attól, amit az utóbbi, majdnem száz évben megszoktunk. Gyorsabb volt a tempója és más a kísérete. […] Az 1930-as évek végén az egyik legjelentősebb magyar muzsikus, Dohnányi Ernő áthangszerelte Erkel művét. A Himnuszból monumentális, nagyzenekari darab lett, több fúvóssal és ütőhangszerrel, szélesebb gesztusokkal. Elhagyta a verbunkos fordulatokat a zenekari kíséretből, és egy nagy, hömpölygő, egyébként gyönyörű himnuszt írt belőle, vagy hát alakította át. Ha nagyon becsületesek akarnánk lenni, akkor most azt mondanánk: Erkel-Dohnányi Himnusza az, amit ma ismerünk.\n9. – Érdekes a Himnusz élete a különböző történelmi korokban. Amikor megszületett, viharos gyorsasággal elterjedt, habár volt hivatalos himnusza az országnak. Később túlélt egy olyan rendszert, ami tűzzel-vassal irtott mindent, ami szakrális volt. Ugyanakkor nagyon meglepett, amikor erre az interjúra készültem, hogy csak 1989-ben iktatták törvénybe az állam hivatalos himnuszaként.\n– Erkel jó pillanatban írta meg a Himnuszt. Nagy igény volt rá, 1848-ban már lehetett a Nemzeti Színházban is énekelni, de szó sem volt arról, hogy hivatalos legyen. Arra ott volt az osztrák császári himnusz. Senkinek eszébe se jutott, hogy azt ki lehet ütni a nyeregből. Voltak különböző nevezetes alkalmak, ahol énekelték, megjelent nyomtatásban Deák Ferencnek ajánlva, mindig hozzátapadt valami szép magyar gesztus, énekelték, amikor Kossuth földi maradványait hazahozták, az újratemetésén, s a 19–20. század fordulójának nagy nemzeti felbuzdulásakor is. Bartók Béla 1903-ban megírja a Kossuth-szimfóniát, elsiratja az elbukott szabadságharcot. Kossuth alakját fölmagasztalja, s a csatazenében az osztrák oldalt a Gott erhalte torz változatával érzékelteti. Az Erkel által alapított Budapesti Filharmóniai Társaság Zenekara akkor még kikérte magának, hogy a császári himnuszt egy fiatal, Bartók nevű zeneszerző szemtelenül eltorzítja. Aztán persze amikor megszűnt a Monarchia, a Gott erhalte megszűnt császári himnusznak lenni, majd a németekhez került, és egy másik történet vette kezdetét.\n10. – Mi pedig töretlenül énekeltük tovább a sajátunkat. Még az ötvenes években is, amikor a pártvezetésben komolyan felmerült, hogy mégiscsak jobb lenne az új időkhöz alkalmazkodóbb himnusz. Szövegírónak Illyés Gyulát, zeneszerzőnek pedig Kodály Zoltánt látták volna szívesen.\n– 1952-ben, a kommunista diktatúra legsötétebb időszakában, Kodály Zoltán 70. születésnapján vetették fel egy új himnusz megalkotásának lehetőségét. Kodály a felkérésre lakonikus egyszerűséggel csak annyit válaszolt: „Jó az eredeti.” És milyen igaza volt!\n\nForrás: Kőhalmi Andrea (2023): A Himnusz mi vagyunk. Magyar Kultúra. 2023. III. évfolyam 1. szám 6–8.",
             "tasks": [
                 {
                     "id": "sz-01",
                     "type": "multiple-choice",
-                    "question": "Mi a szöveg fő témája?",
+                    "question": "Döntse el, hogy az alábbi állítások közül melyek igazak az olvasott szövegre!\na) A szöveg a (szép)irodalmi – hivatalos – publicisztikai stílusrétegbe sorolható.\nb) Az olvasott szöveg műfaja interjú – esszé – riport.\nc) A szövegben az elsődleges kommunikációs cél, funkció a felhívó – tájékoztató – kapcsolatteremtő szerep, funkció.",
                     "options": [
-                        "A japán természetszemléleti hagyományok bemutatása",
-                        "Az ember és a természet változó viszonya, különös tekintettel a XXI. századi kihívásokra",
-                        "A megújuló energiák technológiai fejlesztési lehetőségei",
-                        "A Brundtland-jelentés történelmi háttere"
+                        "a) publicisztikai, b) interjú, c) tájékoztató",
+                        "a) hivatalos, b) esszé, c) felhívó",
+                        "a) (szép)irodalmi, b) riport, c) kapcsolatteremtő",
+                        "a) publicisztikai, b) riport, c) tájékoztató"
                     ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A szöveg egésze az ember és a természet kapcsolatának történelmi változásait, a XXI. századi válságot és a lehetséges válaszokat tárgyalja. A japán hagyományok, a Brundtland-jelentés és a megújuló energiák csupán egy-egy szempont, amelyek ezt a fő témát illusztrálják, nem önálló tárgyai a szövegnek."
+                    "correct": 0,
+                    "points": 3,
+                    "explanation": "A szöveg publicisztikai stílusrétegbe tartozik, mivel sajtóban megjelent, közérdekű témát feldolgozó szöveg. Műfaja interjú, mert kérdező és válaszoló párbeszédéből áll. Elsődleges kommunikációs célja a tájékoztató funkció, mivel ismereteket közvetít a Himnusz történetéről."
                 },
                 {
                     "id": "sz-02",
-                    "type": "true-false",
-                    "question": "A szöveg szerint az ipari forradalom előtt az ember a természet urának tekintette magát.",
-                    "correct": false,
+                    "type": "short-answer",
+                    "question": "A szövegben Batta Andrással beszélget az újságíró. A szöveg egésze alapján indokolja meg az újságíróra vonatkozó alábbi megállapítást! Két példát említsen!\nAz újságíró alaposan felkészült a beszélgetésre.",
+                    "sampleAnswer": "A beszélgetés során az újságíró gyakran maga fogalmaz meg ismereteket, nem kérdésekkel, hanem újabb információkkal lendíti tovább a beszélgetést. Maga is utal arra, hogy készült az interjúra (pl. a 9. szövegegységben). Jól ismeri a Himnusz történetét, jártas nemcsak az irodalomban, de a zenében is.",
                     "points": 2,
-                    "explanation": "A szöveg első bekezdése épp az ellenkezőjét állítja: az ipari forradalom előtt az ember 'alapvetően a természet részeként tekintett önmagára', és tudta, hogy fennmaradása a természettől függ. Az uralmi szemlélet csak a modernizációval jelent meg."
+                    "explanation": "Az újságíró felkészültségét több elem is bizonyítja: gyakran maga fogalmaz meg ismereteket (nem csupán kérdez), újabb információkkal lendíti tovább a beszélgetést, ismeri a Himnusz történetét, utal arra, hogy készült a beszélgetésre, és jártas mind az irodalomban, mind a zenében."
                 },
                 {
                     "id": "sz-03",
-                    "type": "true-false",
-                    "question": "A Brundtland-jelentés 1987-ben fogalmazta meg a fenntartható fejlődés alapköveként számontartott meghatározást.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "A szöveg harmadik bekezdése pontosan így fogalmaz: 'Ez a megfogalmazás az 1987-es Brundtland-jelentésből származik, és azóta is a fenntarthatósági gondolkodás alapköve.' Az állítás tehát szó szerint megfelel a szövegben leírtaknak."
+                    "type": "table-fill",
+                    "question": "A szöveg a himnuszok három típusát különíti el. Töltse ki a táblázatot az olvasott információk alapján!",
+                    "headers": [
+                        "A himnusz típusa",
+                        "1-1 tartalmi jellemző, tulajdonság",
+                        "Énekelhetőség, zeneiség (1-1 jellemző ÉS 1-1 példa)"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "A himnusz típusa": "dicsőítő ének"
+                            },
+                            "answer": {
+                                "1-1 tartalmi jellemző, tulajdonság": "az uralkodót / a monarchiát élteti, magasztalja",
+                                "Énekelhetőség, zeneiség (1-1 jellemző ÉS 1-1 példa)": "jól megszólaltatható / egyszerű dallam; pl. az angol himnusz"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A himnusz típusa": "induló"
+                            },
+                            "answer": {
+                                "1-1 tartalmi jellemző, tulajdonság": "harcos jellegű / a néphez, nemzeti dicsőséghez kapcsolódik",
+                                "Énekelhetőség, zeneiség (1-1 jellemző ÉS 1-1 példa)": "jól énekelhető / pattogó ritmusú; pl. a francia/olasz himnusz"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A himnusz típusa": "fohász, ima"
+                            },
+                            "answer": {
+                                "1-1 tartalmi jellemző, tulajdonság": "Istenhez forduló, szakrális ének",
+                                "Énekelhetőség, zeneiség (1-1 jellemző ÉS 1-1 példa)": "nehéz énekelni / monumentális, nagyzenekari darab / hömpölygő dallam; pl. a magyar himnusz"
+                            }
+                        }
+                    ],
+                    "points": 6,
+                    "explanation": "A szöveg az 1–3. és 7–8. szövegegységben mutatja be a himnuszok három típusát. A dicsőítő ének monarchikus, jól énekelhető (pl. angol); az induló harcos, pattogó ritmusú (pl. francia); a fohász Istenhez forduló, nehéz énekelni (pl. magyar)."
                 },
                 {
                     "id": "sz-04",
                     "type": "fill-in",
-                    "question": "Hogyan hívják a japán természetgyógyászati gyakorlatot, amelyet a szöveg említ? (Pontosan írja be a nevet!)",
-                    "correct": ["shinrin-yoku", "shinrin yoku"],
-                    "points": 2,
-                    "explanation": "A szöveg ötödik bekezdése szó szerint megnevezi és zárójeles fordítással el is magyarázza: 'shinrin-yoku (erdőfürdőzés)'. A kifejezés japán eredetű, és a természetben, különösen erdőben töltött, gyógyító célú időt jelöli."
+                    "question": "A szövegben három eltérő írásmód szerepel: himnusz, Hymnus, Himnusz.\nEgészítse ki a hiányos mondatokat a megfelelő írásmódú szóalakkal!\nKölcsey Ferenc költeménye, a ___ Magyarország alaptörvénybe iktatott állami ___a. Ünnepélyes alkalmakkor közösen énekeljük a ___t, melyet Erkel Ferenc zenésített meg.",
+                    "correct": [
+                        "Hymnus; himnusz; Himnusz"
+                    ],
+                    "points": 3,
+                    "explanation": "A Hymnus Kölcsey költeményének címe (tulajdonnév, eredeti írásmóddal). A himnusz kisbetűvel műfajt jelöl (köznév). A Himnusz nagybetűvel a megzenésített mű közkeletű neve."
                 },
                 {
                     "id": "sz-05",
                     "type": "fill-in",
-                    "question": "Melyik tudományterület foglalkozik azzal, hogyan hat a természeti környezet az emberi jólétre és mentális egészségre? (Írja be a pontos fogalmat!)",
-                    "correct": ["ökopszichológia"],
-                    "points": 2,
-                    "explanation": "Az 'ökopszichológia' kifejezés az ötödik bekezdésben szerepel, ahol a szöveg pontosan megadja a definícióját is. A szó az 'öko-' (ökológiai, természeti) és a 'pszichológia' összetételéből ered, utalva arra, hogy a természeti környezet hatásait vizsgálja az emberi lélekre."
+                    "question": "Adja meg a kisbetűs írásmód – himnusz – magyarázatát! Ebben az esetben mire vonatkozik, mit jelöl a szó?",
+                    "correct": [
+                        "műfajt jelöl",
+                        "a műfajra vonatkozik",
+                        "köznévi értelemben használjuk, nem tulajdonnév/cím"
+                    ],
+                    "points": 1,
+                    "explanation": "A kisbetűs „himnusz” írásmód köznévi értelemben szerepel, műfajt jelöl (mint irodalmi/zenei kategória), nem egy konkrét mű címét."
                 },
                 {
                     "id": "sz-06",
                     "type": "short-answer",
-                    "question": "Foglalja össze a szöveg alapján, miben különbözik az egyéni és a rendszerszintű megközelítés a klímaváltozás kezelésében!",
-                    "sampleAnswer": "Az egyéni megközelítés szerint mindenki csökkentse a saját szén-dioxid-kibocsátását, változtasson életmódján (pl. kevesebbet repüljön, máshogy étkezzen). A rendszerszintű megközelítés szerint ezek csupán jelképes gesztusok maradnak, ha nem változik az ipar, nem terjednek el a megújuló energiák, és nem erősödik meg a politikai szabályozás.",
-                    "points": 4,
-                    "explanation": "A szöveg negyedik bekezdése mindkét álláspontot bemutatja: az egyéni felelősség hangsúlyozói az életmódváltást tartják kulcsnak, míg a rendszerszintű változás hívei szerint az egyéni lépések önmagukban nem elegendők. A jó válasz mindkét nézőpontot pontosan és a szövegre hivatkozva írja le."
+                    "question": "Batta András megemlíti, hogy „a világ vagy háromszáz himnusza között” egyedülálló a mi himnuszunk.\na) Mi a szerepe, jelentése az idézett szövegrészben a vagy szónak?\nb) Milyen két rokon értelmű szóval helyettesíthető a vagy szó az idézett szövegrészben?",
+                    "sampleAnswer": "a) A vagy szó a hozzávetőlegesség kifejezésére, a megközelítő pontosságra szolgál.\nb) körülbelül, mintegy (vagy: megközelítőleg, nagyjából, hozzávetőlegesen, cirka, majdnem stb.)",
+                    "points": 2,
+                    "explanation": "A „vagy” szó itt nem választó kötőszóként, hanem határozószóként szerepel, a hozzávetőlegesség kifejezésére. Rokon értelmű szavai: körülbelül, mintegy, megközelítőleg, nagyjából, cirka stb."
                 },
                 {
                     "id": "sz-07",
-                    "type": "matching",
-                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
-                    "pairs": [
-                        { "left": "fenntartható fejlődés", "right": "a jelen szükségletek kielégítése anélkül, hogy a jövő generációk lehetőségei veszélybe kerülnének" },
-                        { "left": "shinrin-yoku", "right": "japán erdőfürdőzés, természetben töltött gyógyító idő" },
-                        { "left": "ökopszichológia", "right": "a természeti környezet emberi jólétre és mentális egészségre gyakorolt hatását vizsgáló tudományterület" },
-                        { "left": "biodiverzitás csökkenése", "right": "az élővilág sokféleségének szegényedése, az ember és természet megbomlott egyensúlyának tünete" }
-                    ],
-                    "points": 4,
-                    "explanation": "Minden fogalom és magyarázat közvetlenül a szövegből olvasható ki. A 'fenntartható fejlődés' definíciója a harmadik bekezdésben, a 'shinrin-yoku' és az 'ökopszichológia' az ötödik bekezdésben, a 'biodiverzitás csökkenése' a második bekezdésben szerepel. A szövegben keresve mindegyik párosítás egyértelműen elvégezhető."
+                    "type": "short-answer",
+                    "question": "Bizonyítsa a szövegből vett két konkrét nyelvtani példával, hogy a 7. szövegegység állításai nemcsak a Himnuszra, hanem a Szózatra is vonatkoznak! (7)",
+                    "sampleAnswer": "(tapad) hozzájuk / rájuk (rakódott) / ezeket (a dallamokat) – a többes szám arra utal, hogy nem csak a Himnuszról, hanem a Szózatról is szó van. Emellett: a Szózatot nehezebb – közvetlen utalás a Szózatra.",
+                    "points": 2,
+                    "explanation": "A 7. szövegegységben több többes számú alak (hozzájuk, rájuk, ezeket a dallamokat) bizonyítja, hogy az állítások nem csak a Himnuszra vonatkoznak. A Szózat nevesítve is megjelenik: „Ennél csak a Szózatot nehezebb.”"
                 },
                 {
                     "id": "sz-08",
-                    "type": "ordering",
-                    "question": "Rendezze logikai sorrendbe a szöveg gondolatmenetének főbb lépéseit!",
-                    "items": [
-                        "Az ökopszichológia eredményei: a természet jótékony hatása az emberi jólétre.",
-                        "Az ipari forradalomig az ember a természet részeként tekintett önmagára.",
-                        "A fenntarthatóság fogalmának megjelenése és a Brundtland-jelentés.",
-                        "A XXI. századi ökológiai válság tünetei: éghajlatváltozás, biodiverzitás csökkenése.",
-                        "Az egyéni és rendszerszintű felelősség vitája."
-                    ],
-                    "correctOrder": [1, 3, 2, 4, 0],
+                    "type": "short-answer",
+                    "question": "Keressen egy-egy példát a 6. szövegegységből az alábbiakra!\ntárgyas szószerkezet:\nhelyhatározós szószerkezet:\náltalános névmás:\nrészleges hasonulás:\ntárgyi alárendelő összetett mondat:",
+                    "sampleAnswer": "tárgyas szószerkezet: kezeli a Hymnust / éneket komponál\nhelyhatározós szószerkezet: versben szerepel\náltalános névmás: mindenki\nrészleges hasonulás: versben / imádkozik / szövegként / esetben\ntárgyi alárendelő összetett mondat: Nem hiszem, hogy elírás volt.",
                     "points": 5,
-                    "explanation": "A szöveg kronológiai és logikai sorrendben halad: először az ipari forradalom előtti állapotot írja le (1), majd a XXI. századi válságot (3), ezután mutatja be a fenntarthatóság fogalmát (2), a felelősség vitáját (4), és végül a természethez való visszatérés kulturális jeleit (0). Ez a sorrend tükrözi a szöveg bekezdéseinek egymásutánját."
+                    "explanation": "A 6. szövegegység gazdag nyelvi anyagot kínál: tárgyas szószerkezet pl. „kezeli a Hymnust”; helyhatározós pl. „versben szerepel”; általános névmás: „mindenki”; részleges hasonulás pl. „versben” (s+b > zb); tárgyi alárendelő mondat: „Nem hiszem, hogy elírás volt.”"
                 },
                 {
                     "id": "sz-09",
-                    "type": "table-fill",
-                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel az egyéni és a rendszerszintű megközelítés jellemzőit!",
-                    "headers": ["Szempont", "Egyéni megközelítés", "Rendszerszintű megközelítés"],
-                    "rows": [
+                    "type": "true-false-with-correction",
+                    "question": "Döntse el az olvasott szöveg alapján az alábbi állításokról, hogy igazak-e vagy hamisak! A hamis válaszokat javítsa, tegye igazzá!",
+                    "statements": [
                         {
-                            "given": { "Szempont": "Változás helye" },
-                            "answer": { "Egyéni megközelítés": "az egyén életmódja, szokásai", "Rendszerszintű megközelítés": "ipar, politika, energetika" }
+                            "text": "Eredetileg a Himnusz zenéje gyorsabb volt, mint ahogy ma énekeljük.",
+                            "correct": true,
+                            "correction": null
                         },
                         {
-                            "given": { "Szempont": "Korlát / kritika" },
-                            "answer": { "Egyéni megközelítés": "naiv, csupán jelképes gesztusok", "Rendszerszintű megközelítés": "nehéz megvalósítani egyéni döntések nélkül" }
+                            "text": "A Habsburg császári himnuszt Händel írta Joseph Haydn nyomán.",
+                            "correct": false,
+                            "correction": "A Habsburg császári himnuszt Joseph Haydn írta Händel nyomán."
+                        },
+                        {
+                            "text": "A szövegben négy magyar zeneszerző neve fordul elő, akik a szöveg információi szerint kapcsolatban állnak Kölcsey Himnuszával.",
+                            "correct": false,
+                            "correction": "A szövegben két (Erkel, Dohnányi) vagy három (Erkel, Dohnányi és Kodály) magyar zeneszerző neve fordul elő, akik kapcsolatban állnak Kölcsey Himnuszával. Bartók Béla a császári himnusz eltorzításával szerepel a szövegben."
+                        },
+                        {
+                            "text": "A szövegben olvasható beszélgetés a 200 éves Himnuszra való megemlékezés egyik szép példája volt.",
+                            "correct": true,
+                            "correction": null
+                        },
+                        {
+                            "text": "Tudjuk, hogy Erkel szándékosan változtatott a Kölcsey-idézeten, amit jeligéül választott pályázatához.",
+                            "correct": false,
+                            "correction": "Nem tudjuk biztosan, de Batta András feltételezi, hogy Erkel szándékosan változtatott a Kölcsey-idézeten."
                         }
                     ],
-                    "points": 6,
-                    "explanation": "A negyedik bekezdés részletesen ismerteti mindkét megközelítés lényegét és korlátait. Az egyéni megközelítés az életmódváltásra helyezi a hangsúlyt, de naivnak tartják, ha rendszerszintű változás nélkül marad. A rendszerszintű megközelítés az ipar és politika átalakulását sürgeti, de ez sem valósulhat meg állampolgári szemléletváltás nélkül."
+                    "points": 5,
+                    "explanation": "1. Igaz: a 8. szövegegység szerint gyorsabb volt a tempója. 2. Hamis: Haydn írta Händel nyomán, nem fordítva. 3. Hamis: Bartók nem a Himnusszal állt kapcsolatban, hanem a császári himnuszt torzította el. 4. Igaz: a szöveg 2023-ban jelent meg, a Hymnus 1823-ban született, tehát 200 éves évforduló. 5. Hamis: Batta csak feltételezi, nem tudjuk biztosan."
                 },
                 {
                     "id": "sz-10",
                     "type": "multiple-choice",
-                    "question": "Mit jelent a szövegben az 'ökológiai összeomlás' kifejezés?",
+                    "question": "A szövegben szerepel két idegen szó. Válassza ki, melyik a helyes jelentésük!\nidentitás (a 3. szövegegységben): a) eszményítés b) önazonosság, öntudat c) jövőbe tekintés\nlakonikus (a 10. szövegegységben): a) meggondolatlan b) büszke, öntudatos c) rövid, tömör, lényegre törő",
                     "options": [
-                        "A természeti katasztrófák számának csökkenése",
-                        "A természeti rendszerek olyan mértékű megbomlása, amely az emberi civilizáció fennmaradását is veszélyezteti",
-                        "A megújuló energiák elterjedésének kudarca",
-                        "Az erdőirtás megállíthatatlan folyamata"
+                        "identitás: b) önazonosság, öntudat; lakonikus: c) rövid, tömör, lényegre törő",
+                        "identitás: a) eszményítés; lakonikus: b) büszke, öntudatos",
+                        "identitás: c) jövőbe tekintés; lakonikus: a) meggondolatlan",
+                        "identitás: b) önazonosság, öntudat; lakonikus: b) büszke, öntudatos"
                     ],
-                    "correct": 1,
+                    "correct": 0,
                     "points": 2,
-                    "explanation": "A szöveg összefüggéséből egyértelműen következik, hogy az 'ökológiai összeomlás' a természeti rendszerek súlyos, visszafordíthatatlan megbomlását jelenti – ez a legrosszabb lehetséges következménye annak, ha az ember és a természet viszonya nem változik meg. A többi lehetőség vagy az ellenkezőjét állítja, vagy csupán egy részjelenséget ír le."
+                    "explanation": "Az „identitás” a 3. szövegegységben az „identitáskereső reformkor” kifejezésben szerepel, és önazonosságot, öntudatot jelent. A „lakonikus” a 10. szövegegységben Kodály válaszára vonatkozik („Jó az eredeti.”), ami rövid, tömör, lényegre törő."
                 },
                 {
                     "id": "sz-11",
-                    "type": "short-answer",
-                    "question": "Milyen konkrét előnyöket említ a szöveg a természetben töltött idő kapcsán? Legalább kettőt nevezzen meg!",
-                    "sampleAnswer": "A szöveg szerint a természetben töltött idő csökkenti a stresszt, javítja a koncentrációt és erősíti az általános közérzetet.",
-                    "points": 4,
-                    "explanation": "Az ötödik bekezdés utolsó mondata felsorolja a kutatások által igazolt előnyöket: stressz csökkentése, koncentráció javítása és az általános közérzet erősítése. A feladat legalább kettő megnevezését kéri, de mindhárom felsorolása a maximális pontszámhoz szükséges."
+                    "type": "table-fill",
+                    "question": "A Himnusz történetének eseményeit áttekintve töltse ki az alábbi táblázatot az olvasott szöveg alapján! A táblázat egy rovata üresen marad, ahhoz a szöveg nem adott információt. Abba a rovatba írja bele, hogy: NINCS INFORMÁCIÓ.",
+                    "headers": [
+                        "Időpont",
+                        "Esemény"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Esemény": "Kölcsey megírja/befejezi a Hymnus című költeményét."
+                            },
+                            "answer": {
+                                "Időpont": "1823"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Időpont": "1844"
+                            },
+                            "answer": {
+                                "Esemény": "Pályázatot írnak ki a Himnusz megzenésítésére / Erkel Ferenc megírja a Himnusz zenéjét."
+                            }
+                        },
+                        {
+                            "given": {
+                                "Esemény": "A Nemzeti Színházban március 15-én a Bánk bán előadásán énekelték a Himnuszt."
+                            },
+                            "answer": {
+                                "Időpont": "1848"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Időpont": "1938"
+                            },
+                            "answer": {
+                                "Esemény": "NINCS INFORMÁCIÓ"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Esemény": "Illyés Gyulát és Kodály Zoltánt felkérik egy új himnusz megírására."
+                            },
+                            "answer": {
+                                "Időpont": "1952"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Esemény": "A XXXI. tv. 36. §-a kimondja: „a Magyar Köztársaság himnusza Kölcsey Ferenc Himnusz című költeménye Erkel Ferenc zenéjével”."
+                            },
+                            "answer": {
+                                "Időpont": "1989"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Esemény": "Hatályba lép az alaptörvény, amelynek preambuluma a Himnusz első sorával kezdődik: „Isten, áldd meg a magyart!”"
+                            },
+                            "answer": {
+                                "Időpont": "NINCS INFORMÁCIÓ"
+                            }
+                        }
+                    ],
+                    "points": 7,
+                    "explanation": "A szövegből kiolvasható évszámok: 1823 (Kölcsey megírja a Hymnust), 1844 (Erkel megzenésíti), 1848 (Nemzeti Színházban énekelték), 1952 (Kodályt felkérik), 1989 (törvénybe iktatják). Az 1938-as Dohnányi-féle áthangszerelés az 1930-as évek végéhez köthető. Az alaptörvény hatályba lépéséhez a szöveg nem ad pontos évszámot."
                 },
                 {
                     "id": "sz-12",
-                    "type": "fill-in",
-                    "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, interjú...)",
-                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés", "tanulmány"],
+                    "type": "short-answer",
+                    "question": "Vizsgálja meg a szöveg végén található forrásmegjelölést! Hogyan függ össze a folyóirat címe az itt olvasható szöveggel? Válaszát egy, maximum két mondatban fogalmazza meg, ügyeljen mondata(i) nyelvi-stilisztikai megformálására!",
+                    "sampleAnswer": "A folyóirat címe Magyar Kultúra. Az olvasott szöveg a magyar kultúra egy kiemelkedő szerzőjéhez és művéhez, illetve annak évfordulójához kapcsolódik, így illeszkedik a folyóirat profiljába.",
                     "points": 2,
-                    "explanation": "A szöveg tudományos és társadalmi kérdéseket tárgyal, forrásokra hivatkozik (Brundtland-jelentés), logikusan felépített érvelést alkalmaz, és nincs benne elbeszélés vagy párbeszéd. Ezek az értekezés vagy ismeretterjesztő szöveg műfaji jellemzői. A riport vagy interjú személyes hangvételű, helyszíni elemeket tartalmazna – ez a szöveg nem ilyen."
-                },
-                {
-                    "id": "sz-13",
-                    "type": "multiple-choice",
-                    "question": "Melyik mozgalmat vagy irányzatot NEM említi a szöveg a természethez való visszatérés kapcsán?",
-                    "options": [
-                        "permakultúra",
-                        "slow life",
-                        "shinrin-yoku",
-                        "minimalizmus"
-                    ],
-                    "correct": 3,
-                    "points": 3,
-                    "explanation": "A szöveg ötödik bekezdése három irányzatot nevez meg: a 'shinrin-yoku' japán gyakorlatot, a 'permakultúra' mozgalmat és a 'slow life' irányzatot. A 'minimalizmus' nem szerepel a szövegben – ez a helyes válasz, mert a kérdés a NEM említett irányzatot keresi."
+                    "explanation": "A forrásmegjelölés szerint a szöveg a Magyar Kultúra című folyóiratban jelent meg. A Himnusz a magyar kultúra egyik legfontosabb alkotása, így a szöveg témája szorosan kapcsolódik a folyóirat címéhez és profiljához. A pontozás a tartalmi elem mellett a nyelvi minőséget is értékeli."
                 }
             ]
         },
         "muveleti": {
-            "timeLimit": 40,
+            "timeLimit": 30,
             "maxPoints": 20,
             "tasks": [
                 {
                     "id": "m-01",
-                    "type": "multiple-choice",
-                    "question": "Melyik mondatban szerepel tárgy mondatrész?",
-                    "options": [
-                        "A madár szépen énekel.",
-                        "A fiú gyorsan fut.",
-                        "Mari olvas egy könyvet.",
-                        "Az ég kék."
+                    "type": "matching",
+                    "question": "Állapítsa meg, hogy az alábbi információk, állítások melyik korstílusra, stílusirányzatra jellemzőek! A korstílusok, stílusirányzatok közül hármat felsorolunk, a hiányzó negyediket Önnek kell ismeretei alapján megadnia.\nA korstílusok, stílusirányzatok: klasszicizmus, romantika, naturalizmus\n\nJellemző jegyek:\na) pillanatnyi benyomások rögzítése, nominális stílus\nb) minta- és szabálykövetés: pl. a drámákban a hármas egység szabálya\nc) a természettudományokra jellemző megfigyelési mód, objektivitás, dokumentatív hitelesség, biológiailag és társadalmilag determinált szereplők\nd) a műnemek, műfajok keveredése, erős lirizálódás, eredetiség",
+                    "pairs": [
+                        {
+                            "left": "pillanatnyi benyomások rögzítése, nominális stílus",
+                            "right": "impresszionizmus"
+                        },
+                        {
+                            "left": "minta- és szabálykövetés, a drámákban a hármas egység szabálya",
+                            "right": "klasszicizmus"
+                        },
+                        {
+                            "left": "természettudományos megfigyelési mód, dokumentatív hitelesség, determinált szereplők",
+                            "right": "naturalizmus"
+                        },
+                        {
+                            "left": "a műnemek, műfajok keveredése, erős lirizálódás, eredetiség",
+                            "right": "romantika"
+                        }
                     ],
-                    "correct": 2,
-                    "points": 2,
-                    "explanation": "A tárgy olyan mondatrész, amely a cselekvés irányát, célját jelöli, és kérdőszava: 'kit? mit?'. A 'Mari olvas egy könyvet' mondatban a 'könyvet' a tárgy (mit olvas? – a könyvet). A többi mondatban nincs tárgy: az ige mellé határozó ('szépen', 'gyorsan') vagy jelző/állítmány kapcsolódik."
+                    "points": 4,
+                    "explanation": "A negyedik, megadandó stílusirányzat az impresszionizmus (pillanatnyi benyomások, nominális stílus). A klasszicizmus jellemzője a szabálykövetés és a hármas egység. A naturalizmus a tudományos objektivitásra és a determinizmusra épít. A romantikát a műfajkeveredés, lirizálódás és eredetiség jellemzi."
                 },
                 {
                     "id": "m-02",
-                    "type": "matching",
-                    "question": "Párosítsa az irodalmi műveket azok irodalmi korszakával!",
-                    "pairs": [
-                        { "left": "Halotti Beszéd és Könyörgés", "right": "középkor" },
-                        { "left": "Csongor és Tünde (Vörösmarty)", "right": "romantika" },
-                        { "left": "A Pál utcai fiúk (Molnár Ferenc)", "right": "realizmus / századelő" },
-                        { "left": "Himnusz (Kölcsey Ferenc)", "right": "reformkor / romantika" }
+                    "type": "table-fill",
+                    "question": "Töltse ki a táblázatot az alábbi megadott információkból válogatva!\nSzerzők: Babits Mihály, Janus Pannonius, József Attila, Petőfi Sándor, Radnóti Miklós, Vörösmarty Mihály, Zrínyi Miklós\nMűvek: A Dunánál, Az apostol, A vén cigány, Pannónia dicsérete, Édes Anna, Hetedik ecloga, Tartózkodó kérelem\nMűfajok: dal, elbeszélő költemény, epigramma, eposz, óda, rapszódia, regény\nKeletkezési idő: 1464–1465, 1645–1648, 1795, 1848, 1855, 1936, 1967",
+                    "headers": [
+                        "Szerző",
+                        "Cím",
+                        "Keletkezés ideje",
+                        "Műfaj"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Cím": "Pannónia dicsérete"
+                            },
+                            "answer": {
+                                "Szerző": "Janus Pannonius",
+                                "Keletkezés ideje": "1464–1465",
+                                "Műfaj": "epigramma"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Szerző": "Petőfi Sándor"
+                            },
+                            "answer": {
+                                "Cím": "Az apostol",
+                                "Keletkezés ideje": "1848",
+                                "Műfaj": "elbeszélő költemény"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Műfaj": "rapszódia"
+                            },
+                            "answer": {
+                                "Szerző": "Vörösmarty Mihály",
+                                "Cím": "A vén cigány",
+                                "Keletkezés ideje": "1855"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Keletkezés ideje": "1936"
+                            },
+                            "answer": {
+                                "Szerző": "József Attila",
+                                "Cím": "A Dunánál",
+                                "Műfaj": "óda"
+                            }
+                        }
                     ],
                     "points": 4,
-                    "explanation": "A Halotti Beszéd és Könyörgés a 12-13. századi középkori irodalom legfontosabb emléke. Vörösmarty romantikus drámai költeménye (1831) a reformkor irodalmának csúcsa. Molnár Ferenc ifjúsági regénye (1906) a századelő realista prózájához sorolható. Kölcsey Himnusza (1823) a reformkor és a romantika kiemelkedő alkotása."
+                    "explanation": "Janus Pannonius Pannónia dicsérete (1464–1465) epigramma. Petőfi Sándor Az apostol (1848) elbeszélő költemény. Vörösmarty Mihály A vén cigány (1855) rapszódia. József Attila A Dunánál (1936) óda."
                 },
                 {
                     "id": "m-03",
-                    "type": "fill-in",
-                    "question": "Hogyan nevezzük azt a költői alakzatot, amelyben a vers sorai azonos hanggal vagy szótaggal kezdődnek? (Egy szóval feleljen!)",
-                    "correct": ["anafora", "anaforás ismétlés"],
-                    "points": 2,
-                    "explanation": "Az anafora (görög: 'visszavitel') olyan retorikai és költői alakzat, amelyben egymást követő mondatok, verssorok vagy mondattagok ugyanazzal a szóval vagy hangzósorral kezdődnek. Nyomatékosító, ritmust erősítő hatása van, és erős érzelmi töltetet kölcsönöz a szövegnek."
-                },
-                {
-                    "id": "m-04",
-                    "type": "true-false",
-                    "question": "A dráma olyan irodalmi műnem, amelyet alapvetően előadásra szánnak, és jellemzője a párbeszédes (dialogikus) forma.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "A dráma valóban az egyik három fő irodalmi műnem (epika, líra, dráma), és alapvető jellemzője, hogy előadásra készül: a színpad és a játék az elsődleges közege. A párbeszédes (dialogikus) forma nélkülözhetetlen, mivel a drámai cselekmény és a jellemábrázolás döntően a szereplők szavain és tetteiken keresztül bontakozik ki."
-                },
-                {
-                    "id": "m-05",
-                    "type": "table-fill",
-                    "question": "Töltse ki a táblázatot! Adja meg az igék ragozási adatait!",
-                    "headers": ["Igealak", "Személy", "Szám", "Ragozás típusa"],
-                    "rows": [
+                    "type": "matching",
+                    "question": "Az alábbi verseket három téma, tematika köré tudjuk csoportosítani. Válogassa szét a tematikájuk alapján összetartozó műveket, majd nevezze meg a közös tematikát!\n1. Ady Endre: Új vizeken járok\n2. Ady Endre: A Sion-hegy alatt\n3. Babits Mihály: A lírikus epilógja\n4. Juhász Gyula: Anna örök\n5. Petőfi Sándor: Minek nevezzelek?\n6. Balassi Bálint: Adj már csendességet…",
+                    "pairs": [
                         {
-                            "given": { "Igealak": "látom" },
-                            "answer": { "Személy": "1.", "Szám": "egyes", "Ragozás típusa": "tárgyas" }
+                            "left": "szerelem / szerelmi költészet",
+                            "right": "4. Juhász Gyula: Anna örök, 5. Petőfi Sándor: Minek nevezzelek?"
                         },
                         {
-                            "given": { "Igealak": "látnak" },
-                            "answer": { "Személy": "3.", "Szám": "többes", "Ragozás típusa": "alanyi" }
+                            "left": "istenes versek / vallásos költészet",
+                            "right": "2. Ady Endre: A Sion-hegy alatt, 6. Balassi Bálint: Adj már csendességet…"
                         },
                         {
-                            "given": { "Igealak": "lássátok" },
-                            "answer": { "Személy": "2.", "Szám": "többes", "Ragozás típusa": "tárgyas (felszólító mód)" }
+                            "left": "ars poeticák / ars poetikus versek",
+                            "right": "1. Ady Endre: Új vizeken járok, 3. Babits Mihály: A lírikus epilógja"
                         }
                     ],
                     "points": 3,
-                    "explanation": "A magyar igéknek alanyi (határozatlan tárgyú) és tárgyas (határozott tárgyú) ragozásuk van. A 'látom' alak egyes szám 1. személyű tárgyas ragozás (valamilyen meghatározott dolgot látok). A 'látnak' alak többes szám 3. személyű alanyi ragozás. A 'lássátok' felszólító módú, többes szám 2. személyű tárgyas alak."
+                    "explanation": "A szerelmi költészetbe a Minek nevezzelek? és az Anna örök tartozik. Az istenes versekhez A Sion-hegy alatt és az Adj már csendességet… sorolható. Az ars poeticák közé az Új vizeken járok és A lírikus epilógja illik."
+                },
+                {
+                    "id": "m-04",
+                    "type": "short-answer",
+                    "question": "Az alábbiakban két ismert műből olvashat egy-egy jellegzetes részletet.\na) A részletben Csuli, Borbiró, a polgármester, Wagner és egy könyvvigéc szerepel.\nA mű címe? Egy további (az adott részletben nem megnevezett) szereplő neve a műből?",
+                    "sampleAnswer": "A mű címe: Úri muri (Móricz Zsigmond). Egy további szereplő: Szakhmáry Zoltán / Lekenczey Muki / Rozika / Rhédey Eszter stb.",
+                    "points": 1,
+                    "explanation": "A részlet Móricz Zsigmond Úri muri című művéből származik. A jelenetben Csuli, Borbiró és a polgármester szerepelnek, de a mű más szereplői is elfogadhatók (pl. Szakhmáry Zoltán, Rozika)."
+                },
+                {
+                    "id": "m-05",
+                    "type": "short-answer",
+                    "question": "b) A részletben Tóték és az őrnagy szerepel, dobozolásról és margóvágóról esik szó.\nAz olvasott részlet a mű zárójelenete, azonban egy fontos esemény még hátravan. Mi történik pontosan a műben az olvasott részlet folytatásaként?",
+                    "sampleAnswer": "Tót a margóvágóval feldarabolja / négy egyforma darabba vágja az őrnagyot.",
+                    "points": 1,
+                    "explanation": "Örkény István Tóték című művének zárójelenetében Tót a margóvágóval négy egyforma darabba vágja az őrnagyot. A puszta megölés megnevezése nem elegendő, a feldarabolás konkrét módját kell megadni."
                 },
                 {
                     "id": "m-06",
-                    "type": "multiple-choice",
-                    "question": "Melyik a helyes írásmód?",
-                    "options": [
-                        "hosszú-táv",
-                        "hosszútáv",
-                        "hosszú táv",
-                        "Mindhárom helyes attól függően, hogy jelző-e vagy önálló főnév."
+                    "type": "fill-in",
+                    "question": "Egészítse ki a könyv nélkül megtanulandó verset, versrészleteket a hiányzó földrajzi nevek szövegbe illő szóalakjával!\n„Eddig ___ földjén termettek csak a könyvek, / S most ___ is ontja a szép dalokat.”\n„Értünk ___ mezein / Ért kalászt lengettél, / ___ szőlővesszein / Nektárt csepegtettél. / Zászlónk gyakran plántálád / Vad török sáncára, / S nyögte Mátyás bús hadát / ___ büszke vára.”\n„___ híres útján jöttem én, / Fülembe még ősmagyar dal rivall, / Szabad-e ___ betörnöm / Új időknek új dalaival?”",
+                    "correct": [
+                        "Itália; Pannónia; Kunság; Tokaj; Bécsnek; Verecke; Dévénynél"
                     ],
-                    "correct": 2,
-                    "points": 2,
-                    "explanation": "A 'hosszú táv' két különálló szó: a 'hosszú' melléknév és a 'táv' főnév, amelyek között melléknévi jelzős viszony áll fenn. Az ilyen szerkezeteket a magyar helyesírás szabályai szerint külön kell írni. Az egybeírás ('hosszútáv') és a kötőjeles alak ('hosszú-táv') helytelenek."
+                    "points": 3,
+                    "explanation": "Az első idézet Janus Pannonius Pannónia dicsérete: Itália, Pannónia. A második Kölcsey Ferenc Himnusz: Kunság, Tokaj, Bécsnek. A harmadik Ady Endre Góg és Magóg fia vagyok én...: Verecke, Dévénynél. A ragozott alakok pontossága is szükséges."
                 },
                 {
                     "id": "m-07",
-                    "type": "short-answer",
-                    "question": "Mi a különbség a tragédia és a komédia műfaja között? Adjon-adjon egy-egy magyar vagy külföldi irodalmi példát mindkettőre!",
-                    "sampleAnswer": "A tragédia olyan drámai műfaj, amelynek hőse végzetes, megoldhatatlan konfliktusba kerül, és a mű tragikus véggel – általában a főhős halálával vagy pusztulásával – zárul (pl. Shakespeare: Hamlet; Katona József: Bánk bán). A komédia ezzel szemben vidám, humoros és tréfás hangvételű dráma, amelynek célja a nevettetés és a társadalmi hibák szatirikus bemutatása; jellemzően boldog, derűs befejezéssel zárul (pl. Molière: A fösvény; Molnár Ferenc: A testőr).",
-                    "points": 3,
-                    "explanation": "A tragédia és a komédia az antik görög drámából eredő két alapvető drámai műfaj. A tragédia lényege a feloldhatatlan konfliktus és a katarzis – a néző szánalmat és félelmet érez, majd megtisztul. A komédia ezzel szemben a komikum eszközével leplezi le az emberi gyengeségeket, és rendszerint happy enddel zárul. A pontos irodalmi példák megadása mutatja, hogy a tanuló nemcsak elvben, hanem konkrét alkotásokon keresztül is ismeri a különbséget."
-                },
-                {
-                    "id": "m-08",
-                    "type": "true-false",
-                    "question": "Mikszáth Kálmán a 19. századi magyar realizmus egyik legjelentősebb prózaírója volt, legismertebb regényei közé tartozik a 'Szent Péter esernyője' és a 'Beszterce ostroma'.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Mikszáth Kálmán (1847–1910) valóban a 19. századi magyar irodalom realista prózájának kiemelkedő képviselője, akinek humoros-szatirikus szemlélete és pontos társadalomábrázolása jellegzetes íróvá tette. A 'Szent Péter esernyője' (1895) és a 'Beszterce ostroma' (1896) valóban a legismertebb regényei közé tartoznak."
+                    "type": "ordering",
+                    "question": "Az alábbi irodalmi dominón nevek és irodalmi fogalmak, idézetek szerepelnek. Keresse meg az összeillő párokat, majd rakja sorrendbe!\n1. dominó: Babits Mihály | hexameter\n2. dominó: „fehérlő illatokkal alkonyul” | Nyugat\n3. dominó: Örkény István | emberiségdráma, drámai költemény\n4. dominó: Falanszter | szinesztézia\n5. dominó: időmértékes verselés | egypercesek",
+                    "items": [
+                        "1. dominó",
+                        "5. dominó",
+                        "3. dominó",
+                        "4. dominó",
+                        "2. dominó"
+                    ],
+                    "correctOrder": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "points": 4,
+                    "explanation": "A helyes sorrend: 1-5-3-4-2. A hexameter (1. jobb) illeszkedik az időmértékes verseléshez (5. bal). Az egypercesek (5. jobb) Örkény Istvánhoz (3. bal). Az emberiségdráma (3. jobb) a Falanszterhez (4. bal, Az ember tragédiája). A szinesztézia (4. jobb) a „fehérlő illatokkal alkonyul” idézethez (2. bal). A Nyugat (2. jobb) Babits Mihályhoz (1. bal)."
                 }
             ]
         },
         "szovegalkotas": {
-            "timeLimit": 90,
+            "timeLimit": 150,
             "maxPoints": 40,
             "tasks": [
                 {
                     "id": "sa-01",
                     "type": "essay",
-                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy az iskolai oktatásnak milyen szerepet kellene játszania a környezeti nevelésben és a fenntarthatóságra való felkészítésben! Érveit konkrét példákkal támassza alá! Fogalmazásában mutasson rá az iskolai környezeti nevelés lehetőségeire és korlátaira, majd foglalja össze saját, indokolt álláspontját!",
-                    "minWords": 200,
-                    "maxWords": 400,
-                    "sampleAnswer": "A XXI. századi iskola egyik legfontosabb feladata, hogy felkészítse a fiatalokat a bolygónk jövőjét meghatározó ökológiai kihívásokra. A fenntarthatóság nem csupán biológiaórai fogalom, hanem életmódbeli szemlélet, amelyet az iskolának kell megalapoznia.\n\nA környezeti nevelés számos módon megvalósítható. Az elméleti ismereteken túl – az éghajlatváltozás mechanizmusainak megértésén – legalább ilyen fontos a gyakorlati tapasztalatszerzés: iskolakert, szelektív hulladékgyűjtés, fenntarthatósági projektek. Ezek a tevékenységek ráébreszthetik a diákokat, hogy a környezeti felelősség nem elvont fogalom, hanem napi döntéseinkben megjelenő valóság.\n\nAzonban korlátai is vannak az iskolai nevelésnek. Önmagában az iskola nem képes megváltoztatni azokat a társadalmi és gazdasági struktúrákat, amelyek a környezeti problémák valódi forrásai. Ha otthon a szülők nem szelektálnak, ha a politika nem támogatja a megújuló energiát, az iskolai erőfeszítések hatása csekély marad.\n\nSaját véleményem szerint az iskola mégis kulcsszereplő: a szemléletváltozás csakis az újabb generációktól várható, és ennek alapjait az iskola rakja le. Ezért a fenntarthatóságot nem egy tantárgy részeként, hanem az egész iskolai élet átívelő elvként kellene kezelni. A legfontosabb, amit az iskola adhat: azt a belső meggyőződést, hogy minden döntésünkkel felelős tagjai vagyunk ennek a bolygónak.",
+                    "prompt": "Egy mű értelmezése: Olvassa el Márai Sándor A válasz című novelláját! Értelmezze a három főbb szereplő (Z., az özvegy és a pap) nyelvi és nem nyelvi kommunikációjának sajátosságait! Magyarázza a kimondatlanság történetalakító szerepét a műben! Dolgozatában mutassa be az általános érvényű üzenet megteremtéséért felelős prózapoétikai jegyeket!",
+                    "minWords": 500,
+                    "maxWords": 800,
+                    "sampleAnswer": "Márai Sándor A válasz című novellája a kommunikáció és a kimondatlanság paradoxonát állítja középpontba. A mű három főbb szereplője – Z. úr, az özvegy és a fiatal pap – mind sajátos kommunikációs mintázatot képviselnek.\n\nA történet jelenében, a temetés napján az özvegy szótlanul ül a halotti toron: szemével igazgatja a felszolgálókat, tartása merev és megközelíthetetlen. A fiatal pap szintén néma: fiatalságából és kívülállóságából fakadó bizonytalanságát testbeszédével fejezi ki – karjait összefűzi, fejét lehajtja, az asztalterítőt dörzsölgeti. Z. úr csak a felesége visszaemlékezésében jelenik meg: hallgatag, szemérmes, az érzelmek kimondásától irtózó férfi.\n\nA kimondatlanság történetalakító szerepe abban nyilvánul meg, hogy Z. úr egyetlen alkalommal próbálta megtörni a csendet – belépett felesége szobájába, kezét a vállára tette, és kérdezni akart valamit. Az asszony rosszkedvű gesztussal ellökte a kezét. Ez az egyetlen pillanat huszonkét évre meghatározta házasságukat: a férj soha többé nem kérdezte. Halálos ágyán, amikor már nem tudott beszélni, egy papírlapra írta: „A választ!” – de a kérdés, amelyre a választ várta, végleg kimondatlan maradt.\n\nA novella prózapoétikai jegyei szolgálják az általános érvényű üzenet megteremtését: a szereplők névtelensége (Z. úr, „az özvegy”, „a pap”), az elbeszélés konkrét helyszínének és idejének homályban hagyása univerzálissá teszi a történetet. A központi kérdés – vajon az érzelmek kimondása nélkülözhetetlen-e az emberi kapcsolatokban – minden olvasó számára személyessé válhat.",
                     "rubric": [
                         {
-                            "criterion": "A tema kifejtese, az erveles minosege",
-                            "maxPoints": 12,
+                            "criterion": "Tartalmi minoseg",
+                            "maxPoints": 30,
                             "levels": [
-                                "0-4: Hianyos kifejtés, nincs érdemi érvelés",
-                                "5-8: Megfelelo kifejtés, néhány érv megjelenik",
-                                "9-12: Igényes érveles, mindkét oldal bemutatása, határozott következtetés"
+                                "30-25: a feladatban kijelölt valamennyi értelmezési szempontra kitér; kifejtett, tárgyszerű állítások; meggyőző alkalmazás",
+                                "24-19: részleges megfelelés a feladat szempontjainak; helyenként kifejtetlen állítások; részben elfogadható alkalmazás",
+                                "18-13: jellemzően hiányos megfelelés; kevés releváns állítás; korlátozott fogalmi tájékozottság",
+                                "12-7: alig reflektál a szempontokra; felületes közlések; hiányos tárgyi tudás",
+                                "6-0: nem reflektál a szempontokra; tartalmatlan közlések; félreértések"
                             ]
                         },
                         {
-                            "criterion": "Szerkezet, koherencia",
-                            "maxPoints": 8,
-                            "levels": [
-                                "0-2: Hianyos, logikátlan felépítés",
-                                "3-5: Megfelelo, felismerhető szerkezet",
-                                "6-8: Logikus, jól tagolt, arányos bevezetés-tárgyalás-befejezés"
-                            ]
-                        },
-                        {
-                            "criterion": "Nyelvhelyesseg, stilus",
-                            "maxPoints": 10,
-                            "levels": [
-                                "0-3: Sok hiba, stílustalan",
-                                "4-7: Kisebb hibak, de érthető és megfelelő",
-                                "8-10: Igenyes, szinte hibátlan, változatos mondatszerkesztés"
-                            ]
-                        },
-                        {
-                            "criterion": "Terjedelem",
+                            "criterion": "Szovegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
-                                "3: Kozelito, közel a kért terjedelemhez",
-                                "5: Megfelelo, 200-400 szó"
+                                "5-4: tudatosan felépített gondolatmenet; arányos tagolás; elvárt terjedelem",
+                                "3-2: részben rendezett gondolatmenet; aránytalan szerkezeti egységek",
+                                "1-0: bizonytalan gondolatmenet; kirívó szövegtagolási hibák; elvárt alatti terjedelem"
                             ]
                         },
                         {
-                            "criterion": "Kommunikacio",
+                            "criterion": "Nyelvi igenyesseg",
                             "maxPoints": 5,
                             "levels": [
-                                "0-1: Gyenge, nem meggyőző",
-                                "2-3: Olvashato, érthető szándék",
-                                "4-5: Igenyes, meggyőző, célirányos kommunikáció"
+                                "5-4: megfelelő nyelvi regiszter; választékos, világos megfogalmazás; gazdag szókincs",
+                                "3-2: választékosságra törekvés; mondatszerkesztési pontatlanságok; néhány nyelvi hiba",
+                                "1-0: igénytelen nyelvhasználat; megértést gátló hibák; sivár szókincs"
                             ]
                         }
                     ]
@@ -318,57 +445,38 @@
                 {
                     "id": "sa-02",
                     "type": "essay",
-                    "prompt": "Műértelmező fogalmazás: Madách Imre 'Az ember tragédiája' című drámai költeményének egyik kulcskérdése: van-e értelme az emberi küzdelemnek? Értelmezze ezt a kérdést a mű tükrében! Fogalmazásában térjen ki a mű műfajára, az Ádám–Lucifer párhuzamra, valamint a záró szín üzenetére! Zárásként fejtse ki, hogy Ön szerint mit válaszol Madách erre a kérdésre!",
-                    "minWords": 250,
-                    "maxWords": 500,
-                    "sampleAnswer": "Madách Imre 'Az ember tragédiája' (1861) az európai drámairodalomnak egyik legambiciózusabb alkotása: egy drámai költemény, amely az emberiség egész históriáját átfogó keretben teszi fel a legfontosabb egzisztenciális kérdést – van-e értelme az emberi küzdelemnek?\n\nA mű műfaja drámai költemény: nem előadásra írt színpadi dráma, hanem olvasásra szánt, lírai betétekkel átszőtt filozofikus dialógus. A három főszereplő – Ádám, Éva és Lucifer – hármassága drámai motort alkot: Ádám az emberi törekvés és hit, Lucifer a kételkedés és tagadás megtestesítője.\n\nA tizenöt szín mindegyike egy-egy történelmi korszakot mutat be, amelyekben Ádám újra és újra illúzióiba vetett hittel indul el, majd csalódik. Athén, Róma, Konstantinápoly, a párizsi forradalom – mind azt sugallják, hogy az emberiség körbe jár, és az eszmék rendre visszájukra fordulnak. Lucifer látszólag győz: megmutatja, hogy minden emberi törekvés hiábavaló.\n\nAzonban a záró szín az Úr szavaival fordítja meg ezt az értelmezést: 'Mondottam, ember: küzdj és bízva bízzál!' Ez a sor a mű igazi üzenete. Madách nem nihilizmust hirdet, hanem azt mondja: az értelmes élet feltétele a küzdés, még akkor is, ha a végeredmény bizonytalan.\n\nSzerintem Madách válasza tehát paradox, de mélyen humánus: az emberi küzdelem értelme maga a küzdés folyamatában rejlik, nem a győzelemben. Ez az üzenet ma is érvényes: az ember méltóságát a célok és eszmék melletti kitartás adja.",
+                    "prompt": "Témakifejtő dolgozat/esszé: Mutassa be az este, az éjszaka napszakához kapcsolódó jelentéseket magyar költők lírai műveiben! Fejtse ki, hogy a választott alkotásokban megjelenített motívum, toposz milyen különböző jelentéseket hordoz, milyen hangulatteremtő erővel bír! Legalább három, különböző szerzőtől származó lírai alkotás értelmezésével szemléltesse a témát!",
+                    "minWords": 500,
+                    "maxWords": 800,
+                    "sampleAnswer": "Az este és az éjszaka toposza a magyar líra egyik leggazdagabb motívuma, amely koronként és szerzőnként eltérő jelentéseket hordoz.\n\nCsokonai Vitéz Mihály Az estve című költeményében az esti természet harmóniát sugároz: a leíró rész (piktúra) a lemenő nap látványától a közelibb természeti jelenségek felé közelít, rokokó miniatűr képekkel, hangutánzó és hangulatfestő szavakkal. A szentencia azonban megtöri az idillt: a társadalmi egyenlőtlenség gondolata a „setét éj” és a „bódult emberi nem” képeiben jelenik meg.\n\nBerzsenyi Dániel Levéltöredék barátnémhoz című versében az ősz és az este toposzai a létösszegzés keretéül szolgálnak. A „Már elestvéledtem” kifejezés nemcsak konkrétan értendő: az élet estéje köszöntött rá a lírai énre. Az este itt a tűnődés, az emlékezés és az értékszembesítés ideje.\n\nAdy Endre Kocsi-út az éjszakában című szimbolista versében az éjszaka a létezés titokzatosságának, a megismerés lehetetlenségének szimbólumává válik. A „Minden Egész eltörött” sorával az éjszaka a szétesett világ, a modern ember magányának és szorongásának metaforájává lesz.\n\nRadnóti Miklós Hetedik ecloga című versében az éjszaka a fogolytábor sötétségét, a háborús szenvedést és a hazavágyódást egyaránt hordozza. Az éjszaka itt a félelem és a remény kettősségét sűríti magába.",
                     "rubric": [
                         {
-                            "criterion": "A mu ertelmezese",
-                            "maxPoints": 15,
+                            "criterion": "Tartalmi minoseg",
+                            "maxPoints": 30,
                             "levels": [
-                                "0-4: Felületes, tartalmi tévedésekkel teli összefoglalás",
-                                "5-9: Alapvető összefüggések felismerése, de elemzés hiányos",
-                                "10-12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás",
-                                "13-15: Árnyalt, önálló elemzés; műfaj, szerkezet, szimbólumok bemutatása"
+                                "30-25: legalább három releváns lírai alkotást választ; az este/éjszaka toposz jelentését, hangulati tartalmát kifejti; helyesen értelmezi a művek különböző jelentéstartalmait",
+                                "24-19: részleges megfelelés; helyenként kifejtetlen állítások; részben elfogadható alkalmazás",
+                                "18-13: jellemzően hiányos; kevés releváns kifejtés; korlátozott tájékozottság",
+                                "12-7: alig reflektál a szempontokra; felületes közlések",
+                                "6-0: nem reflektál a szempontokra; tartalmatlan közlések"
                             ]
                         },
                         {
-                            "criterion": "Szerkezet",
-                            "maxPoints": 8,
-                            "levels": [
-                                "0-2: Rendezetlen gondolatok, hiányzó szerkezet",
-                                "3-5: Felismerhető szerkezet, de arányok egyenetlenek",
-                                "6-7: Jól tagolt, logikus felépítés",
-                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés"
-                            ]
-                        },
-                        {
-                            "criterion": "Szaknyelv",
-                            "maxPoints": 7,
-                            "levels": [
-                                "0-2: Hiányzó vagy téves irodalmi terminológia",
-                                "3-4: Alapfogalmak megvannak, de nem mindig megfelelően alkalmazva",
-                                "5-6: Helyes és változatos irodalmi terminológia",
-                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása"
-                            ]
-                        },
-                        {
-                            "criterion": "Nyelvhelyesseg",
+                            "criterion": "Szovegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0-1: Sok hiba, nehezen érthető",
-                                "2-3: Néhány hiba, de értelmező szándék félreérthetetlen",
-                                "4-5: Kevés hiba, jó stílus, igényes fogalmazás"
+                                "5-4: tudatosan felépített gondolatmenet; arányos tagolás; elvárt terjedelem",
+                                "3-2: részben rendezett gondolatmenet; aránytalan szerkezeti egységek",
+                                "1-0: bizonytalan gondolatmenet; kirívó szövegtagolási hibák"
                             ]
                         },
                         {
-                            "criterion": "Terjedelem",
+                            "criterion": "Nyelvi igenyesseg",
                             "maxPoints": 5,
                             "levels": [
-                                "0: Nem megfelelo, a minimum alatt vagy messze a maximum felett",
-                                "3: Kozelito, közel a kért terjedelemhez",
-                                "5: Megfelelo, 250-500 szó"
+                                "5-4: megfelelő nyelvi regiszter; választékos, világos megfogalmazás; gazdag szókincs",
+                                "3-2: választékosságra törekvés; mondatszerkesztési pontatlanságok",
+                                "1-0: igénytelen nyelvhasználat; megértést gátló hibák"
                             ]
                         }
                     ]

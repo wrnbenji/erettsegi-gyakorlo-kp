@@ -1,7 +1,7 @@
 // js/search.js
 
 import { getAllCachedExams } from './data-loader.js';
-import { exams as examMeta } from './app.js';
+import { exams as examMeta, historyExams } from './app.js';
 
 let activeFilters = { years: [], sessions: [], textQuery: '' };
 
@@ -54,7 +54,7 @@ function applyFilters(sectionId) {
     items.forEach(item => {
         const examId = item.dataset.examId;
         if (!examId) { item.style.display = ''; return; }
-        const meta = examMeta.find(e => e.id === examId);
+        const meta = examMeta.find(e => e.id === examId) || historyExams.find(e => e.id === examId);
         if (!meta) { item.style.display = 'none'; return; }
 
         let visible = true;
@@ -95,7 +95,7 @@ function applyFilters(sectionId) {
 }
 
 function getListIdForSection(sectionId) {
-    return { szovegertes: 'szovegertes-list', muveleti: 'muveleti-list', szovegalkotas: 'szovegalkotas-list', feladatsorok: 'feladatsorok-grid' }[sectionId] || null;
+    return { szovegertes: 'szovegertes-list', muveleti: 'muveleti-list', szovegalkotas: 'szovegalkotas-list', feladatsorok: 'feladatsorok-grid', tortenelem: 'tortenelem-grid' }[sectionId] || null;
 }
 
 export function getActiveFilters() { return { ...activeFilters }; }

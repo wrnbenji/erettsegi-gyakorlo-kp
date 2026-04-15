@@ -993,6 +993,16 @@ footer a:hover {
     line-height: 1.6;
     margin-bottom: 20px;
     color: var(--text);
+    white-space: pre-wrap;
+}
+
+.task-question img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 12px auto;
+    border: 1px solid var(--border, #ccc);
+    background: #fff;
 }
 
 /* Quiz Footer */
@@ -1793,4 +1803,16 @@ body, .section, nav, .exam-item, .stat-card, .type-card, .intro-card, .exam-stru
 
 @media (max-width: 768px) {
     .results-averages { grid-template-columns: 1fr; }
+}
+
+.image-placeholder {
+    display: block;
+    margin: 10px 0;
+    padding: 12px 16px;
+    background: var(--tips-bg);
+    border: 1px dashed var(--primary-light);
+    border-radius: var(--radius);
+    color: var(--text-light);
+    font-style: italic;
+    font-size: 0.95em;
 }

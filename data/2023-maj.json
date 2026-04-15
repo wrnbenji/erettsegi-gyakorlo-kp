@@ -1,388 +1,272 @@
 {
     "id": "2023-maj",
     "year": 2023,
-    "session": "Majus",
-    "date": "2023. majus 8.",
+    "session": "Május",
+    "date": "2023. május 8.",
     "sections": {
         "szovegertes": {
-            "timeLimit": 60,
+            "timeLimit": 90,
             "maxPoints": 40,
-            "sourceText": "A magyar nyelv megőrzésének kihívásai a XXI. században\n\nA magyar nyelv egyedülálló jelenség Európa nyelvi térképén: az uráli nyelvcsaládba tartozó, finnugor gyökerű idiómát mintegy tizennégy millió ember beszéli a világon, amelyből körülbelül tízmillió él Magyarország határain belül. A határon túli magyarság – Erdélyben, Felvidéken, Vajdaságban és másutt – sajátos kettős identitással él: anyanyelvét otthon és közösségben őrzi, miközben az államnyelvet a közéletben és sokszor a munkahelyen is kénytelen használni.\n\nA globalizáció és az internet terjedése új kihívások elé állítja a magyar nyelvet. Az angol szavak áradása különösen a fiatalabb generációkat érinti: a mindennapi beszédben és az internetes kommunikációban egyre több anglicizmus jelenik meg. Olyan kifejezések, mint a „meeting”, „deadline” vagy „feedback” fokozatosan kiszorítják a meglévő magyar megfelelőket. A nyelvészek egy része aggódva figyeli ezt a folyamatot, mások azonban úgy vélik, hogy a nyelvek mindig is kölcsönöztek egymástól, és az új jövevényszavak a nyelv életerejének jelei.\n\nA Magyar Tudományos Akadémia Nyelvtudományi Intézete és számos civil szervezet aktívan dolgozik a magyar nyelv megőrzésén és fejlesztésén. A Magyar értelmező kéziszótár rendszeres frissítése, az anyanyelvi nevelés erősítése az iskolákban, valamint a határon túli magyar iskolák támogatása mind fontos eszközök a nyelvmegőrzés szolgálatában. Az interneten is megjelentek olyan platformok, amelyek játékos formában tanítják és népszerűsítik a helyes magyar nyelvhasználatot.\n\nKülön figyelmet érdemel a kisebbségi magyar közösségek helyzete. A szórványban élő magyarok – akik kis szigeteket alkotnak idegen nyelvű tengerben – különösen nehéz helyzetben vannak: a vegyes házasságok, az asszimilációs nyomás és az anyanyelvi iskolák hiánya mind a nyelvvesztés irányába hatnak. Ugyanakkor a modern technológia – az internet, a streaming-szolgáltatások, a magyar nyelvű tartalmak elérhetősége – új kapcsot jelent a diaszpóra és az anyaország között.\n\nA magyar nyelv gazdagsága – a hajlékony szóalkotás, az árnyalt igerendszer, a sokféle névutó és rag – egyedülálló kifejezési lehetőségeket biztosít. Olyan szavak, mint a „bánkódik”, „mereng” vagy „szépelgő”, aligha fordíthatók le egyetlen szóval más nyelvekre. Ez a kifejezésbeli gazdagság egyrészt büszkeség forrása, másrészt komoly érv amellett, hogy érdemes a magyar nyelvet ápolni és fejleszteni. A kérdés az: hogyan lehet megőrizni ezt az örökséget úgy, hogy a nyelv élő, dinamikus és vonzó maradjon a fiatal generációk számára is.",
+            "sourceText": "Mate Andrea: A bikaver legendaja\n\n(1) A bikaver igazi magyar vorosborfajta: nemes szaraz. Az eloallitas modja szerint pedig tobb (minimum harom) vorosborszolo-fajta hazasitott borabol keszult borkulonlegesseg. A fantazianev a ver voros szinet es a bika altal jelkepezett vad termeszeti ero kepzetet egyesiti. A bikaver legendajat az is taplalja, hogy a bor szuletesenek helyet, idopontjat, keszitesenek eredeti modjat homaly fedi, a dicsosegert sokaig vetekedett ket varos: Eger es Szekszard.\n\n(2) A bikaver kifejezes 150 eves multra tekint vissza, bar a tudatos nevhasznalat ennel kisse fiatalabb. Ilyen mely, telt vorosszinu borfeleseg mar korabban is keszitettek az Eger es a Szekszard kornyeki borvidekeken. A bikaver keszitese ezen borvidekek duloinek eltero termeszeti adottsagaira vezetheto vissza. Egy gazdanak tobb duloben volt kisebb-nagyobb szoloultetevenye, amelyeket a termeszeti csapasok (fagy, jegeso) es a betegsegek nem egyforma mertekben erintettek, igy soha nem ment tonkre az osszes termes, es a termelo nagyobb biztonsaggal szamithatott sikerre. A kulonbozo adottsagu – fekvesu, mikroklimayu – dulok eltero minosegu termeseit egyutt feldolgozva optimalis minosegu bort keszithettek maguknak a gazdak.\n\n(3) Korabban a vegyes szolojtaju ultetvenyekbol egyszerre szureteltek a kulonbozo szoloket, es vegyesen dolgoztak fel. A kek szolot taposassal zuztak szet, majd a kadban rovid hejon erjesztessel keszult az egri vorosbor, amely a szolohejbol kiazott festekanyagtol sotetvöros, szinte feketebe hajlo szint kapott. [...]\n\n(4) Az elmult 100-150 evben azonban atalakult a bikaver keszitesenek filozofiaja es technologiaja. A szoloultetevenyek a szolorekonstrukciok hatasara egyre egysege- sebb kepet mutattak, az eltero szolofajtakat kulon-kulon ultettek, egymastol elkulonitve szureteltek es taroltak. Majd a fajtatiszta borokbol hazasitassal keszitettek a bikavert.\n\n(5) A szolomuvelesi es boraszati eljarasok fejlodesevel megvaltozott a bikaver fajtaosszetele is. A 19. szazadig szinte kizarolag a kadarka es annak valtozatai jelentettek a vorosbor alapanyagat a ket borvideken. Az elso szolorekonstrukcio (1880–1910) hatasara a fuszeres zamatu kadarka mellett mas kek szolok jelentosege is megnött.\n\n(6) Egerben megjelent a melyvöros, testes kekfrankos, a tuzes es illatos medoc noir, valamint a lagysagot ado oporto, neha cabernet. Az igy osszeállitott egri bikaver valt annak idejen vilaghiruvé. Szekszardon a kadarka, a kekfrankos es a merlot szolokbol titkolt recept alapjan keszult a karakteres, fuszeres, gazdag izvilagu, granatvoros szinu, zamatos, testes bikaver.\n\n(7) A nagyuzemi termeles bevezetesevel [...] a bikaver alapjat a kadarka helyett a kekfrankos adta, a tuzesseget pedig a cabernet-fajtak nagyobb resz- aranyaval probaltak biztositani, bar ezaltal atalakult a bikaver korabbi karaktere. Az utobbi idoszakban ujra szorgalmazzak a szolosgazdak a kadarka telepiteset, es keresik az utat a bikaver eredeti izvilaga fele.\n\n(8) A honfoglalas utan a szekszardi bences apatsag I. Bela kiraly altal kiallitott alapito oklevele tartalmazta az elso biztos adatot a kornyek szolomuveleserol, amely felsorolta az 1061-es adomanyokat. Ebben nev szerint is szerepeltek a Csin es Bika nevu szoloskertek, amelyek a mai napig letezo dulnevek. Sokan azt a kovetkeztetest vontak le, hogy a bikaver kifejezes a Bika dulonevbol alakult ki.\n\n(9) Az egri hagyomanyok a bikaver elnevezest Eger elso, 1552-es torok ostromahoz kotik. Ugy tartjak, hogy a var parancsnoka, Dobo Istvan kapitany az ostrom szorongato oraiban vorosbort hozatott a varfalon harcoloknak. Az asszonyok hordtak a falra a verszinu folyadekot, amely vorosre festette a vedok szakallat, sot olykor meg a panceljai is. Az ostrom donto napjaiban az a hir terjedt el a torok seregben, hogy a magyar katonak bikavert isznak. Igy a bika ereje luktet a magyarok ereiben, ettol valtak olyan vadakka, ezert a torokok inkabb abbahagytak az ostromot.\n\n(10) A kutatasok szerint azonban hazankban a torok hodoltsagig csak feherbort keszitettek. A torokok elol menekulo, illetve a torok seregekkel egyutt beerkező racok hoztak magukkal a kadarka fajtat es a hejon erjeszteses vorosborkeszites technologiajat Magyarorszagra. A kadarka alapvetoeen a torok hodoltsag teruleten terjedt el, igy jutott el a Budai, az Egri, a Szekszardi es a Villanyi borvidekre (1541. Buda es Szekszard, 1596. Eger elfoglalasa). A 19. szazad kozepeíg azonban nem jelenik meg a bikaver kifejezes irott formaban sem osszeirásokban, sem oklevelekben, sem utleirasokban.\n\n(11) A 19. szazadtol kezdve szamos irodalmi alkotasban megjelenik a szekszardi taj es legfobb jellegzetessege, a bor. Szekszard Garay Janosnak – a nagyotmondo, kicsit itokás Hary Janos-figura megalkorojanak – koszonheti a helyi ovooros borra hasznalt bikaver nevet, amelyet a kolto eloszor Szegzardi bordal cimu verseben irt le 1846-ban. [...]\n\n(12) Az Erdelyi Janos altal szerkesztett Magyar Kozmondasok Konyveben a „Bikaver” cimszonál a kovetkezot olvashatjuk: „Igy nevezik az eros veresbort, peldaul az egrit.” A szocikk nem zarja ki mas borvidek hasonlo nevhasznalatat, de nem is emlit mas videket. Azt azonban erdemes megjegyezni, hogy ebben az idoszakban – 1850 es 1852 kozott – Garay, aki korabban Erdelyivel kozosen inditotta el a Regelo Pesti Divatlapot, az egri furdokben probalt gyogyulast talalni sulyos betegsegere. Igy nem zarhato ki, hogy a kolto szemelye hatassal volt a bikaver kifejezes terjedesere. A „ki hasznalta elobb a nevet” vitaban nem erdemes egyik borvidek felett sem palcat torni, mivel az egri es a szekszardi bikaver a hazai boraszat kulonlegességenek szamit, es sikerei az orszag hirnevet oregbitettek evtizedeken at.\n\n(13) Az elso tudatos bikaver-keszitok – mint peldaul a Grober csalad – a 20. szazad elejen tuntek fel. Vagyis a szazad elso feleben mar Egerben es Szekszardon egyarant keszitettek bikavert. A fejlodes sokaig toretlen volt, am a masodik vilaghaboru utan a szocializmus idoszakanak tervutasitasos modszere nem kerulte el a borvidekeket sem. Eldontotek, hogy az Egri Bikavérbol exportmarkat faragnak. Ez egyet jelentett azzal, hogy Szekszardot megfosztottak a nevhasznalat jogatol, a Szekszardi Bikavert szamuztek a szakkonyvek, az ertelmezo szotarak oldalairol. Ahogyan Garay Janos emleke a magyar irodalomban a feledés homalyaba merult, ugy veszitette el Szekszard a bikaver hirnevet. Az Egri Bikavert ugyan vilagszerte ismert markava tettek, am nem kivalo, hanem gyenge vagy csak kozepes minosegu arukent, ami a nagyuzemi tomeg- termeles elkerulhetetlen kovetkezmenye volt.\n\n(14) A valtozast az elmult nyolc-tiz ev hozta meg. Szekszard peldaul ujra hasznalhatja a bikaver nevet – bar ezt Egerben inkabb vesztesegkent eltek meg. A Szekszardi Bikaver visszakerult a boraszati kiadvanyokba, de meg mindig csak egy-egy rovid mondatban utalnak letezesere, mig az Egri Bikaver kivalosagaról hosszasan meselnek. Sok ido es munka kell azonban ahhoz, hogy az egri es a szekszardi bikaver megtepazott hirneve helyrealljon.\n\nA feladatlap bazisszovege az eredeti forrasszoveg modositasaval (roviditesevel, nyelvtani egyszerusitesevel), de az eredeti szoveg integritasanak megtartasa mellett jott letre. Az eredeti szoveg forrasa: Mate Andrea: A bikaver legendaja. In: Rubicon 29. evf./2. kulonszam (2018), 40–41.",
             "tasks": [
                 {
                     "id": "sz-01",
-                    "type": "multiple-choice",
-                    "question": "Hány embert tesz ki a magyar anyanyelvűek becsült száma a világon a szöveg szerint?",
-                    "options": [
-                        "Körülbelül tízmillió",
-                        "Körülbelül tizennégy millió",
-                        "Körülbelül húszmillió",
-                        "Körülbelül nyolcmillió"
-                    ],
-                    "correct": 1,
+                    "type": "short-answer",
+                    "question": "Mivel igazolja a szerzo a cimben is szereplo legenda szo hasznalatalt? Ket valaszelemet emlitsen! (1)",
                     "points": 2,
-                    "explanation": "A szöveg első bekezdése pontosan megadja, hogy az uráli-finnugor gyökerű magyar nyelvet mintegy tizennégy millió ember beszéli a világon – ebből körülbelül tízmillió él Magyarország határain belül, a maradék a határon túli magyarság."
+                    "sampleAnswer": "A bikaver szuletesenek helyet/idopontjat/keszitesenek eredeti modjat homaly fedi; a dicsosegert sokaig vetekedett ket varos: Eger es Szekszard.",
+                    "explanation": "A szoveg elso bekezdese szerint a bikaver legendajat az is taplalja, hogy a bor szuletesenek helyet, idopontjat, keszitesenek eredeti modjat homaly fedi, es a dicsosegert sokaig vetekedett ket varos. A fantazianev a ver voros szinet es a bika altal jelkepezett vad termeszeti ero kepzetet egyesiti."
                 },
                 {
                     "id": "sz-02",
-                    "type": "true-false",
-                    "question": "A szöveg szerint a magyar nyelv az indoeurópai nyelvcsaládba tartozik.",
-                    "correct": false,
-                    "points": 2,
-                    "explanation": "A szöveg egyértelműen az uráli nyelvcsaládba sorolja a magyart, amelynek finnugor gyökerei vannak – ez teljesen különálló az indoeurópai (pl. szláv, germán, román) nyelvektől."
+                    "type": "short-answer",
+                    "question": "Mi okbol kezdtek a bikaver keszitesevel foglalkozni az Eger es a Szekszard kornyeki borvidekeken a szoveg masodik bekezdese alapjan?",
+                    "points": 1,
+                    "sampleAnswer": "Az eltero termeszeti adottsagok miatt / a kulonbozo adottsagu dulok miatt.",
+                    "explanation": "A szoveg masodik bekezdese szerint: 'A bikaver keszitese ezen borvidekek duloinek eltero termeszeti adottsagaira vezetheto vissza.'"
                 },
                 {
                     "id": "sz-03",
-                    "type": "true-false",
-                    "question": "A szöveg szerint a modern technológia és az internet új lehetőséget jelent a diaszpóra és az anyaország közötti kapcsolattartásra.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "A szöveg negyedik bekezdése kifejezetten kimondja, hogy a modern technológia – az internet, a streaming-szolgáltatások, a magyar nyelvű tartalmak elérhetősége – új kapcsot jelent a diaszpóra és az anyaország között, tehát ez az állítás igaz."
+                    "type": "short-answer",
+                    "question": "Milyen elonyei szarmazhattak a szolosgazdaknak abbol, ha tobb duloben is volt kisebb-nagyobb szoloultetevenyük? Harom peldat emlitsen! (2)",
+                    "points": 3,
+                    "sampleAnswer": "1) A kulonbozo termeszeti csapasok (fagy, jegeso) nem egyforma mertekben karosittottak ezeket. 2) A betegsegek nem egyforma mertekben karosittottak ezeket. 3) Nem ment tonkre az osszes termes. 4) Nagyobb biztonsaggal szamithattak sikerre. 5) A kulonbozo adottsagu dulok eltero minosegu termeseit egyutt feldolgozva optimalis minosegu bort keszithettek.",
+                    "explanation": "A masodik bekezdese sorolja fel az elonyoket: a termeszeti csapasok es betegsegek nem egyforman erintettek a kulonbozo dulokben levo ultetvenyeket, igy soha nem ment tonkre az osszes termes, nagyobb biztonsaggal szamithattak sikerre, es az eltero minosegu termesekbol optimalis bort keszithettek."
                 },
                 {
                     "id": "sz-04",
-                    "type": "fill-in",
-                    "question": "Melyik tudományos intézményt nevezi meg a szöveg, amely aktívan dolgozik a magyar nyelv megőrzésén? (A teljes nevet írja!)",
-                    "correct": [
-                        "Magyar Tudományos Akadémia Nyelvtudományi Intézete",
-                        "MTA Nyelvtudományi Intézete",
-                        "Nyelvtudományi Intézet"
-                    ],
-                    "points": 2,
-                    "explanation": "A szöveg harmadik bekezdése névvel jelöli meg a Magyar Tudományos Akadémia Nyelvtudományi Intézetét mint azt a konkrét intézményt, amely a nyelvmegőrzésen és -fejlesztésen dolgozik."
-                },
-                {
-                    "id": "sz-05",
-                    "type": "multiple-choice",
-                    "question": "Mit nevez a szöveg 'kettős identitásnak' a határon túli magyarok esetében?",
-                    "options": [
-                        "Azt, hogy egyszerre magyarok és európaiak.",
-                        "Azt, hogy anyanyelvüket otthon őrzik, miközben az államnyelvet a közéletben használják.",
-                        "Azt, hogy egyszerre két nyelven is folyékonyan beszélnek.",
-                        "Azt, hogy kettős állampolgársággal rendelkeznek."
-                    ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A szöveg az első bekezdésben pontosan definiálja a kettős identitást: a határon túli magyarok anyanyelvüket otthon és közösségben őrzik, míg az államnyelvet a közéletben és munkahelyen kénytelenek használni – ez a kettősség alkotja az identitásuk kettős jellegét."
-                },
-                {
-                    "id": "sz-06",
-                    "type": "short-answer",
-                    "question": "Milyen tényezők hatnak a szórványban élő magyarok esetében a nyelvvesztés irányába? Nevezzen meg legalább hármat a szöveg alapján!",
-                    "sampleAnswer": "A szöveg szerint a szórványban élő magyaroknál a nyelvvesztést a vegyes házasságok, az asszimilációs nyomás és az anyanyelvi iskolák hiánya segíti elő.",
-                    "points": 4,
-                    "explanation": "A szöveg negyedik bekezdése három konkrét tényezőt sorol fel: a vegyes házasságokat (amelyek révén az utódok az idegen anyanyelvű szülő nyelvét is fölveszik), az asszimilációs nyomást (a társadalmi beolvadás kényszere) és az anyanyelvi iskolák hiányát (amely megakadályozza az intézményes anyanyelvápolást)."
-                },
-                {
-                    "id": "sz-07",
-                    "type": "matching",
-                    "question": "Párosítsa a szövegben szereplő kifejezéseket a hozzájuk illő magyarázatokkal!",
-                    "pairs": [
-                        {
-                            "left": "anglicizmus",
-                            "right": "az angol nyelvből átvett idegen szó vagy kifejezés"
-                        },
-                        {
-                            "left": "asszimiláció",
-                            "right": "beolvadás a környező, többségi kultúrába és nyelvbe"
-                        },
-                        {
-                            "left": "szórvány",
-                            "right": "kis szigeteket alkotó kisebbségi közösség idegen nyelvű környezetben"
-                        },
-                        {
-                            "left": "jövevényszó",
-                            "right": "más nyelvből átvett, de a befogadó nyelvbe beilleszkedett szó"
-                        }
-                    ],
-                    "points": 4,
-                    "explanation": "A szöveg kontextusa alapján mindegyik fogalomnak pontosan meghatározott jelentése van: az anglicizmus az angol hatást jelöli, az asszimiláció a beolvadást, a szórvány a kisebbségi szigetközösségeket, a jövevényszó pedig a már meghonosodott idegen szavakat – ezek a nyelvmegőrzési diskurzus alapkövei."
-                },
-                {
-                    "id": "sz-08",
-                    "type": "ordering",
-                    "question": "Rendezze logikai sorrendbe a szöveg fő gondolatait úgy, ahogy azok a szövegben egymást követik!",
-                    "items": [
-                        "A szórványban élő magyarok különösen nehéz helyzetben vannak a nyelvvesztés szempontjából.",
-                        "A magyar nyelv egyedülálló az európai nyelvi térképen, mintegy tizennégy millió ember anyanyelvéről van szó.",
-                        "A magyar nyelv gazdagsága egyedülálló kifejezési lehetőségeket biztosít, megőrzése fontos feladat.",
-                        "A globalizáció és az internet új kihívások elé állítja a magyar nyelvet.",
-                        "Intézmények és civil szervezetek aktívan dolgoznak a nyelv megőrzésén."
-                    ],
-                    "correctOrder": [
-                        1,
-                        3,
-                        4,
-                        0,
-                        2
-                    ],
-                    "points": 6,
-                    "explanation": "A szöveg klasszikus ismeretterjesztő szerkezetet követ: bevezeti a témát (a magyar nyelv helyzete), majd bemutatja a kihívásokat (globalizáció), a megoldási kísérleteket (intézmények), a legkiszolgáltatottabb csoportot (szórvány), végül az összegzés és a jövő felé mutató kérdés zárja (a nyelv gazdagsága és megőrzése)."
-                },
-                {
-                    "id": "sz-09",
                     "type": "table-fill",
-                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a magyar nyelvvesztés fenyegetéseit és a nyelvmegőrzés lehetőségeit!",
+                    "question": "A bikaver igazi magyar vorosborfajta: nemes szaraz. A szoveg alapjan egeszitse ki az alabbi adatok betujelenel a bikaverek tipusainak jellemzoit osszegzo tablazatot! Egy betujelet csak egy rovatba irhat. Peldakent harom betujelet beirtunk a tablazatba. (3, 5, 6, 7)\n\nAdatok:\nA - Osszetevoi: kadarka, a kekfrankos es a merlot.\nB - melyvöros (szinte feketebe hajlo) szinu\nC - granatvoros szinu\nD - A nagyuzemi termeles bevezetesevel a tuzesseget a cabernet-fajtak nagyobb reszaranyaval igyekeztek biztositani.\nE - A 19. szazadig szinte kizarolagos alapanyaga a kadarka.\nF - Osszetevoi: kekfrankos, medoc noir, oporto (neha cabernet).\nG - titkolt receptura alapjan keszult\nH - A nagyuzemi termeles bevezetesevel alapjat a kadarka helyett a kekfrankos adta.\nI - tuzes es illatos",
                     "headers": [
-                        "Szempont",
-                        "Fenyegetések / Kihívások",
-                        "Lehetőségek / Megoldások"
+                        "Kategoria",
+                        "Betujel"
                     ],
                     "rows": [
                         {
                             "given": {
-                                "Szempont": "Globalizáció hatása"
+                                "Kategoria": "EGRI BIKAVER (pelda: B)"
                             },
                             "answer": {
-                                "Fenyegetések / Kihívások": "anglicizmusok terjedése, idegen szavak kiszorítják a magyar megfelelőket",
-                                "Lehetőségek / Megoldások": "internetes platformok, játékos nyelvtanítás"
+                                "Betujel": "B, F, I"
                             }
                         },
                         {
                             "given": {
-                                "Szempont": "Határon túli magyarság"
+                                "Kategoria": "SZEKSZARDI BIKAVER (pelda: G)"
                             },
                             "answer": {
-                                "Fenyegetések / Kihívások": "vegyes házasságok, asszimilációs nyomás, anyanyelvi iskolák hiánya",
-                                "Lehetőségek / Megoldások": "internet, streaming-szolgáltatások, magyar nyelvű tartalmak"
+                                "Betujel": "C, A, G"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Kategoria": "MINDKETTORE JELLEMZO (pelda: H)"
+                            },
+                            "answer": {
+                                "Betujel": "E, H, D"
                             }
                         }
                     ],
                     "points": 6,
-                    "explanation": "A szöveg mindkét szempontnál párhuzamosan tárgyalja a fenyegetéseket és a lehetőségeket: a globalizáció az anglicizmusokat hozza, de az internet nyelvtanító platformokat is kínál; a határon túli magyarságnál a vegyes házasságok és asszimiláció a veszély, míg a digitális magyar tartalmak új összekötő kapcsot adnak."
+                    "explanation": "A szoveg 3., 5., 6. es 7. bekezdese alapjan: Egri bikaver: B (melyvöros szinu, 3. bek.), F (kekfrankos, medoc noir, oporto, 6. bek.), I (tuzes es illatos, 6. bek.). Szekszardi bikaver: C (granatvoros szinu, 6. bek.), A (kadarka, kekfrankos, merlot, 6. bek.), G (titkolt receptura, 6. bek.). Mindkettore jellemzo: E (kadarka alapanyag, 5. bek.), H (kekfrankos alapu lett, 7. bek.), D (cabernet tuzesseg, 7. bek.)."
+                },
+                {
+                    "id": "sz-05",
+                    "type": "short-answer",
+                    "question": "Valaszoljon a szoveg alapjan az alabbi kerdesekre! (5, 10)\na) Kik hoztak be Magyarorszagra a vorosbor keszitesehez szukseges szolofajtat?\nb) Milyen borkeszito eljarassal gazdagodott nekik koszonhetoen a hazai borkultura?\nc) Milyen jelentoseggel birt az altaluk behozott szolofajta a bikaver osszetetelenek szempontjabol?",
+                    "points": 3,
+                    "sampleAnswer": "a) A torokok elol menekulo, illetve a torok seregekkel egyutt beerkező racok.\nb) A hejon erjeszteses vorosborkeszites technologiajaval.\nc) A kadarka a bikaver szinte kizarolagos alapanyaga volt a 19. szazadig.",
+                    "explanation": "Az 5. es 10. bekezdes alapjan: a racok hoztak be a kadarkat, a hejon erjeszteses vorosborkeszites technologiajaval gazdagitottak a hazai borkulturat, es a kadarka a 19. szazadig szinte kizarolagos alapanyaga volt a bikvernek."
+                },
+                {
+                    "id": "sz-06",
+                    "type": "table-fill",
+                    "question": "Keresse ki a szovegbol a megadott jelenteseknek megfelelo kifejezeseket! Adja meg a kozolt kifejezesek jelenteset! Toltse ki a tablazatot! (1, 12, 13, 7)",
+                    "headers": [
+                        "A szovegben szereplo kifejezes",
+                        "Jelentes"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Jelentes": "Ket- vagy tobbfele bor osszekeverese, hogy az egyik minosegét a masikeval megjavitsuk."
+                            },
+                            "answer": {
+                                "A szovegben szereplo kifejezes": "hazasitas"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A szovegben szereplo kifejezes": "palcat torni [valami felett]"
+                            },
+                            "answer": {
+                                "Jelentes": "elitelni valamit / rossz velemenyt fogalmazni valamirol"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A szovegben szereplo kifejezes": "hirnevet oregbitettek"
+                            },
+                            "answer": {
+                                "Jelentes": "tekintelyet gyarapitottak"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A szovegben szereplo kifejezes": "a feledés homalyaba merult"
+                            },
+                            "answer": {
+                                "Jelentes": "megkopott / elhalványult / elfelejtettek"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A szovegben szereplo kifejezes": "szorgalmazzak"
+                            },
+                            "answer": {
+                                "Jelentes": "surgetik, ajanlajak, osztonzik"
+                            }
+                        }
+                    ],
+                    "points": 5,
+                    "explanation": "A szovegbol kiolvashatoak a kovetkezo pariositasok: hazasitas = ket- vagy tobbfele bor osszekeverese; palcat torni = elitelni; hirnevet oregbitettek = tekintelyet gyarapitottak; a feledés homalyaba merult = elfelejtettek; szorgalmazzak = surgetik, osztonzik."
+                },
+                {
+                    "id": "sz-07",
+                    "type": "short-answer",
+                    "question": "A bikaver elnevezessel kapcsolatosan a szoveg szamos reszletre kiter.\na) A szekszardiak vagy az egriek eredeztetik korabbrool a bikaver elnevezest?\nb) A szoveg alapjan miert nem ihattak az egri var vedoi vorosbort?",
+                    "points": 2,
+                    "sampleAnswer": "a) A szekszardiak (1061-tol / 1061-es okleveben szerepel a Bika dulo nev).\nb) A kutatasok szerint hazankban a torok hodoltsagig csak feherbort keszitettek, a nev legendajaban szereplo elnevezes nem vonatkozhatott sajat keszitesu vorosborra.",
+                    "explanation": "A 8. bekezdes szerint a szekszardiak 1061-bol eredeztetik a Bika dulonenevet (korabban, mint az egriek 1552-es torok ostroma). A 10. bekezdes szerint a torok hodoltsagig csak feherbort keszitettek Magyarorszagon, tehat 1552-ben az egri var vedoi nem ihattak vorosbort."
+                },
+                {
+                    "id": "sz-08",
+                    "type": "short-answer",
+                    "question": "Irodalmi alkotas es kozmondasgyujtemeny is megorokiti nemes borainkat.\na) Mi koti Garay Janost a bikaverrhez? Ket eltero valaszelemet emlitsen! (11)\nb) Mi koti Erdelyi Janost a bikaverrhez?\nc) Mi koti ossze Garayt es Erdelyit?",
+                    "points": 4,
+                    "sampleAnswer": "a) Szegzardi bordal cimu verseben irta le a bikaver nevet (1846); Szekszard Garay Janosnak koszonheti a helyi ovooros borra hasznalt bikaver nevet.\nb) Az Erdelyi Janos altal szerkesztett Magyar Kozmondasok Konyveben a 'Bikaver' cimszónal a kovetkezot olvashatjuk: 'Igy nevezik az eros veresbort, peldaul az egrit.'\nc) Garay es Erdelyi korabban kozosen inditottak el a Regelo Pesti Divatlapot.",
+                    "explanation": "A 11. bekezdes alapjan Garay irta le eloszor a bikaver nevet verseben es Szekszard neki koszonheti az elnevezest. A 12. bekezdes szerint Erdelyi kozmondasgyujtemenye rogzitette a bikaver cimszót. Garayt es Erdelyit a Regelo Pesti Divatlap kozos inditasa koti ossze."
+                },
+                {
+                    "id": "sz-09",
+                    "type": "matching",
+                    "question": "A tablazat elso oszlopaban a szoveg elso bekezdesenek allitasai talalhatok. Mely kesobbi bekezdeskben ternek vissza/kerulnek kifej́tesre ezek a tartalmi elemek? A bekezdsék szamat irja a megfelelo helyre! Mindenhova csak egy szamot irjon!",
+                    "pairs": [
+                        {
+                            "left": "Az eloallitas modja szerint pedig tobb (minimum harom) vorosborszolo-fajta hazasitott borabol keszult borkulonlegesseg.",
+                            "right": "6"
+                        },
+                        {
+                            "left": "A dicsosegért sokaig vetekedett ket varos: Eger es Szekszard.",
+                            "right": "12 (vagy 13 vagy 14)"
+                        }
+                    ],
+                    "points": 2,
+                    "explanation": "Az elso bekezdese allitasait a 6. bekezdes fejti ki reszletesen (a szolofajtak felsorolasa), a ket varos vetekedeset pedig a 12., 13. vagy 14. bekezdes targyalja."
                 },
                 {
                     "id": "sz-10",
                     "type": "short-answer",
-                    "question": "Miért hozza fel a szöveg a 'bánkódik', 'mereng' és 'szépelgő' szavakat? Mit kíván bizonyítani ezekkel?",
-                    "sampleAnswer": "A szöveg ezekkel a szavakkal a magyar nyelv kifejezésbeli gazdagságát szemlélteti: ezek a szavak más nyelveken aligha fordíthatók le egyetlen szóval, ami a magyar nyelv megőrzése melletti egyik fontos érv.",
+                    "question": "Hogyan alakult a szekszardi es az egri bikaver sorsa a 20. szazadi magyar borkulturaban? Valasza ket-ket erdemi allitast tartalmazzon!",
                     "points": 4,
-                    "explanation": "E három szó lefordíthatatlanságának kiemelése a magyar nyelv egyedülálló árnyaltságát és sűrűségét demonstrálja: a 'bánkódik' (tartós bánatot érez), a 'mereng' (elgondolkodik, álmodozik) és a 'szépelgő' (hiúságból szépelkedő) egy-egy összetett lelki állapotot egyetlen szóban fejez ki, ami más nyelvekben körülírást igényelne."
+                    "sampleAnswer": "Az egri bikaver sorsa: Exportmarkat faragtak belole; vilagszerte ismert markava tettek, am nem kivalo, hanem gyenge vagy csak kozepes minosegu arukent.\nA szekszardi bikaver sorsa: Szekszardot megfosztottak a nevhasznalat jogatól; a Szekszardi Bikavert szamuztek a szakkonyvek, az ertelmezo szotarak oldalairol / elveszitette hirnevet.",
+                    "explanation": "A 13. bekezdes alapjan: A masodik vilaghaboru utan az Egri Bikverbol exportmarkat faragtak, de csak kozepes minosegben. Szekszardot megfosztottak a bikaver nevhasznalat jogatól, a Szekszardi Bikavert szamuztek a szakkonyvekbol. A 14. bekezdesbol szarmazo valaszelemek nem elfogadhatok, mert az mar a 21. szazadra vonatkozik."
                 },
                 {
                     "id": "sz-11",
-                    "type": "fill-in",
-                    "question": "Milyen műfajú szöveget olvasott? (pl.: elbeszélés, értekezés, riport, tudományos cikk...)",
-                    "correct": [
-                        "értekezés",
-                        "ismeretterjesztő szöveg",
-                        "esszé",
-                        "publicisztika",
-                        "elemzés",
-                        "tudományos ismeretterjesztés"
+                    "type": "ordering",
+                    "question": "Allitsa idorendi sorrendbe az alabbi, a bikaver tortenetenel kapcsolatos allitasokat a szoveg alapjan! Irja be a megfelelo sorszamot (1–4.) a tablazat 2. oszlopaba!",
+                    "items": [
+                        "A fuszeres zamatu kadarka mellett mas kek szolok jelentosege is megnott.",
+                        "A bor egri valtozata – kozepes minosegu arukent – ismert markava valt.",
+                        "Az alapitoelevel eloszor emliti a Bika dulonenevet.",
+                        "A verszinu folyadekot asszonyok hordtak a varfalon harcoloknak."
                     ],
-                    "points": 2,
-                    "explanation": "A szöveg ismeretterjesztő jellegű értekezés: tényeket közöl, érveket sorakoztat, de nem hoz létre fiktív cselekményt (tehát nem elbeszélés), és nem egy konkrét eseményt tudósít (tehát nem riport) – a logikus kifejtés és a tárgyilagos hangnem az értekezés vagy ismeretterjesztő esszé műfajára utal."
+                    "correctOrder": [
+                        2,
+                        3,
+                        0,
+                        1
+                    ],
+                    "points": 4,
+                    "explanation": "Idorendben: 1. Az alapitoelevel eloszor emliti a Bika dulonevet (1061). 2. A verszinu folyadekot asszonyok hordtak a varfalon harcoloknak (1552). 3. A fuszeres zamatu kadarka mellett mas kek szolok jelentosege is megnott (1880–1910 szolorekonstrkcio). 4. A bor egri valtozata kozepes minosegu arukent ismert markava valt (20. szazad masodik fele)."
                 },
                 {
                     "id": "sz-12",
-                    "type": "multiple-choice",
-                    "question": "Hogyan viszonyul a szöveg az anglicizmusok terjedéséhez? Melyik állítás fejezi ki leghívebben a szöveg álláspontját?",
-                    "options": [
-                        "Egyértelműen elítéli az idegen szavak használatát.",
-                        "Mindkét nézetet bemutatja: az aggodalmaskodókét és az elfogadókét is.",
-                        "Határozottan amellett érvel, hogy az anglicizmusok gazdagítják a magyar nyelvet.",
-                        "Nem foglal állást, mert a kérdést nem tartja fontosnak."
+                    "type": "true-false",
+                    "question": "Jelolje, hogy melyik igaz es melyik hamis a kovetkezo allitasok kozul [Igaz (I) / Hamis (H)]! Ha hamisnak iteli az allitast, donteset tamassza ala a szoveg alapjan!",
+                    "statements": [
+                        {
+                            "id": "A",
+                            "text": "Az egri vorosbor a taposassal szetzuzott kek szolo hejabol kiazott festekanyagtol sotetvooros, szinte feketes szinu.",
+                            "correct": true,
+                            "explanation": "Igaz. A 3. bekezdes pontosan ezt irja le."
+                        },
+                        {
+                            "id": "B",
+                            "text": "Az utobbi idoszakban a szolosgazdak ujra szorgalmazzak a cabernet telepiteset, es keresik az utat a bikaver eredeti izvilaga fele.",
+                            "correct": false,
+                            "explanation": "Hamis. Cabernet helyett a kadarka telepiteset szorgalmazzak (7. bekezdes)."
+                        },
+                        {
+                            "id": "C",
+                            "text": "A Magyar Kozmondasok Konyveben a 'Bikaver' cimszónal kizarolagosan az egri borvidekhez koti a bikaver nevhasznalatat.",
+                            "correct": false,
+                            "explanation": "Hamis. A szocikk nem zarja ki mas borvidek hasonlo nevhasznalatat, de nem is emlit mas videket – tehat nem kizarolagosan koti az egri borvidekhez (12. bekezdes)."
+                        },
+                        {
+                            "id": "D",
+                            "text": "A nagyotmondo Garay Janosnak koszonhetjuk a bikaver elnevezest.",
+                            "correct": false,
+                            "explanation": "Hamis. Nem Garay Janos a nagyotmondo, hanem az altala teremtett Hary Janos figura (11. bekezdes)."
+                        }
                     ],
-                    "correct": 1,
                     "points": 4,
-                    "explanation": "A szöveg második bekezdése kifejezetten két tábort mutat be: az aggódó nyelvészeket és azokat, akik szerint a jövevényszavak a nyelv életerejét bizonyítják – a szöveg tehát kiegyensúlyozott, nem egyoldalú álláspontot képvisel, hanem a vita mindkét oldalát érzékelteti."
+                    "explanation": "A: Igaz (3. bekezdes). B: Hamis – kadarka, nem cabernet telepiteset szorgalmazzak. C: Hamis – a szocikk nem zarja ki mas borvidek nevhasznalatat. D: Hamis – nem Garay a nagyotmondo, hanem Hary Janos."
                 }
             ]
         },
         "muveleti": {
-            "timeLimit": 40,
-            "maxPoints": 20,
-            "tasks": [
-                {
-                    "id": "m-01",
-                    "type": "matching",
-                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
-                    "pairs": [
-                        {
-                            "left": "A fekete város",
-                            "right": "Mikszáth Kálmán"
-                        },
-                        {
-                            "left": "Halálfiai",
-                            "right": "Babits Mihály"
-                        },
-                        {
-                            "left": "Légy jó mindhalálig",
-                            "right": "Móricz Zsigmond"
-                        },
-                        {
-                            "left": "Beszterce ostroma",
-                            "right": "Mikszáth Kálmán"
-                        }
-                    ],
-                    "points": 4,
-                    "explanation": "A fekete város és a Beszterce ostroma Mikszáth Kálmán anekdotikus-realista regényei; a Halálfiai Babits Mihály önéletrajzi ihletésű nagy prózai műve; a Légy jó mindhalálig Móricz Zsigmond Nyilas Misi-regénye, amely a debreceni kollégium világát ábrázolja."
-                },
-                {
-                    "id": "m-02",
-                    "type": "multiple-choice",
-                    "question": "Melyik állítás igaz Mikszáth Kálmán irodalmi pályájára vonatkozóan?",
-                    "options": [
-                        "A Nyugat folyóirat alapító tagja és szerkesztője volt.",
-                        "A romantika főbb képviselője volt, és Vörösmarty kortársa.",
-                        "A realista-anekdotikus prózastílus egyik legjelentősebb képviselője, főbb művei a 19. század végén születtek.",
-                        "Kizárólag lírai műveket alkotott, regényt nem írt."
-                    ],
-                    "correct": 2,
-                    "points": 2,
-                    "explanation": "Mikszáth Kálmán (1847–1910) a 19. század végi magyar realizmus meghatározó alakja volt, akit az anekdotikus mesélőstílus, a palóc népi alakok és a társadalomkritika jellemez; a Nyugat csak 1908-ban indult, tehát ő nem lehetett alapítója."
-                },
-                {
-                    "id": "m-03",
-                    "type": "fill-in",
-                    "question": "Hogyan nevezzük azt a verslábat, amely egy hangsúlyos és egy hangsúlytalan szótagból áll (– ∪)? (Írja be a fogalom nevét!)",
-                    "correct": [
-                        "trocheus",
-                        "trochaikus versláb"
-                    ],
-                    "points": 2,
-                    "explanation": "A trocheus (– ∪) egy hangsúlyos és egy hangsúlytalan szótagból álló versláb – ellentéte a jambusnak (∪ –), amelynél a hangsúlytalan szótag áll elöl. A trochaikus lejtés erőteljes, határozott ritmust ad a versnek."
-                },
-                {
-                    "id": "m-04",
-                    "type": "true-false",
-                    "question": "Babits Mihály 'Jónás könyve' című műve egy ószövetségi történet modern feldolgozása, amelyet a szerző 1938-ban írt.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Babits Mihály a Jónás könyvét (1938) valóban az ószövetségi Jónás próféta történetére alapozta, és ebben a műben a prófétai szerep vállalásának és a hallgatás csábításának dilemmáját dolgozta fel, saját írói-közéleti helyzetére is reflektálva."
-                },
-                {
-                    "id": "m-05",
-                    "type": "table-fill",
-                    "question": "Töltse ki a táblázatot! Adja meg a szavak szófaját és toldalékát!",
-                    "headers": [
-                        "Szóalak",
-                        "Szófaj",
-                        "Toldalék(ok)"
-                    ],
-                    "rows": [
-                        {
-                            "given": {
-                                "Szóalak": "olvasgatva"
-                            },
-                            "answer": {
-                                "Szófaj": "határozói igenév",
-                                "Toldalék(ok)": "-gatva (képző + igenévképző)"
-                            }
-                        },
-                        {
-                            "given": {
-                                "Szóalak": "legszebben"
-                            },
-                            "answer": {
-                                "Szófaj": "melléknév (felsőfok, határozói alak)",
-                                "Toldalék(ok)": "leg- (felsőfokjel) + -en (határozórag)"
-                            }
-                        },
-                        {
-                            "given": {
-                                "Szóalak": "könyvekből"
-                            },
-                            "answer": {
-                                "Szófaj": "főnév",
-                                "Toldalék(ok)": "-k (többesjel) + -ből (határozórag)"
-                            }
-                        }
-                    ],
-                    "points": 3,
-                    "explanation": "Az 'olvasgatva' a -gat gyakorító képzőt és a -va határozói igenévképzőt tartalmazza; a 'legszebben' a leg- felsőfokjelet és az -en módhatározó-ragot; a 'könyvekből' a -k többesjelet és a -ből elativus-ragot viseli – ezek a magyar szóalaktan alapvető toldaléktípusai."
-                },
-                {
-                    "id": "m-06",
-                    "type": "multiple-choice",
-                    "question": "Melyik mondat tartalmaz helyesírási hibát?",
-                    "options": [
-                        "Móricz Zsigmond az Árvácska című regényét 1941-ben fejezte be.",
-                        "A mű főhősnője egy árva kislány, akit mostoha körülmények között nevelnek.",
-                        "Az író szociális érzékenysége egész életmüvét meghatározza.",
-                        "Babits Mihály a Nyugat szerkesztőjeként is jelentős szerepet játszott."
-                    ],
-                    "correct": 2,
-                    "points": 2,
-                    "explanation": "A harmadik mondat az 'életmüvét' szóban hibás: az 'életmű' összetett szóban a hosszú ű betűt kell írni (életmű → életművét), a rövid ü helytelen. A többi mondatban nincs helyesírási hiba."
-                },
-                {
-                    "id": "m-07",
-                    "type": "short-answer",
-                    "question": "Mi a különbség a metafora és a hasonlat között? Alkosson egy-egy példát mindkét stílusalakzatra!",
-                    "sampleAnswer": "A hasonlat két dolog közötti hasonlóságot fejez ki összehasonlító kötőszóval (mint, akár): pl. 'Olyan bátor volt, mint az oroszlán.' A metafora ezzel szemben azonosítja a két fogalmat, a kötőszó elmarad: pl. 'Oroszlán volt a harcban.' Mindkét esetben képi, szemléletes kifejezésmódról van szó, de a metafora tömörebb és erőteljesebb.",
-                    "points": 3,
-                    "explanation": "A hasonlat és a metafora egyaránt két fogalom összekapcsolásán alapul, de a hasonlat megtartja a távolságot (összehasonlít: 'mint'), míg a metafora azonosít (egyik dolog neve a másikra kerül át). A metafora ezért tömörebb és intenzívebb képi hatást ér el."
-                },
-                {
-                    "id": "m-08",
-                    "type": "true-false",
-                    "question": "Móricz Zsigmond 'Sárarany' című regénye a paraszti élet és a vidéki társadalom naturalisztikus ábrázolásával vált ismertté.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "A Sárarany (1910) Móricz Zsigmond első nagy regénye, amely az alföldi paraszti világ nyomorát, a szegénység és a szenvedélyek pusztító erejét ábrázolja nyers, naturalisztikus részletességgel – ez tette irodalmi szenzációvá megjelenésekor."
-                }
-            ]
+            "timeLimit": 0,
+            "maxPoints": 0,
+            "note": "A 2023. majusi kozepszintu erettsegi nem tartalmaz kulon irodalmi feladatlapot (muveleti reszt). A vizsga I. resz (szovegertes + erveles/gyakorlati szovegalkotas, 50 pont) es II. resz (muertelmezoo szovegalkotas, 40 pont) feloszlasu.",
+            "tasks": []
         },
         "szovegalkotas": {
-            "timeLimit": 90,
+            "timeLimit": 150,
             "maxPoints": 40,
             "tasks": [
                 {
                     "id": "sa-01",
                     "type": "essay",
-                    "prompt": "Érvelő fogalmazás: Az olvasási szokások gyökeresen megváltoztak a digitális korban – sokan kevesebbet olvasnak, mások pedig a képernyőkön fogyasztanak egyre több szöveget. Fejtse ki véleményét arról, hogy az olvasás – különösen a szépirodalmi olvasás – megőrizte-e jelentőségét a digitális eszközök korában! Érvelésébe vonjon be konkrét példákat, és mutasson rá mind a hagyományos olvasás mellett, mind ellene szóló szempontokra! Fogalmazásának végén foglaljon határozott álláspontot!",
-                    "minWords": 200,
-                    "maxWords": 400,
-                    "sampleAnswer": "Az olvasás válságáról sokat hallani, de vajon valóban eltűnőben van-e a szépirodalmi olvasás kultúrája? A kérdés nem egyszerű, és a válasz sem fekete-fehér.\n\nA hagyományos, papíralapú olvasás visszaszorulása kétségtelenül mérhető jelenség: felmérések szerint a fiatalok egyre kevesebb időt töltenek regényekkel, és egyre többet közösségi médiával. Az elmélyült, hosszú szövegek befogadásához szükséges koncentráció nehezebben alakul ki, ha az értesítések folyamatosan megszakítják az olvasást. Ráadásul a szórakoztatóipar – filmek, sorozatok, videójátékok – egyre erősebb versenytársa az irodalomnak.\n\nMégis, a szépirodalmi olvasás pótolhatatlan értékeket kínál. Egyetlen film sem képes arra, amit egy jól megírt regény: belülről mutatni meg egy idegen ember gondolatait, érzéseit, dilemmáit. Az empátia fejlesztésében, az önismeret mélyítésében és a kritikai gondolkodás formálásában az irodalomnak nincs igazi vetélytársa. Olyan regények, mint Móricz Zsigmond Légy jó mindhalálig-ja vagy Babits Mihály Halálfiai-a, máig érvényes képet festenek az emberi küzdelmekről.\n\nÚgy vélem, az olvasás nem tűnik el, hanem átalakul. A tudatosan olvasó fiatal is megtalálja az utat a könyvek felé – ehhez azonban megfelelő iskolai nevelés, inspiráló tanárok és hozzáférhető könyvtárak szükségesek. A digitális kor nem az olvasás ellensége, de az olvasás kultúráját tudatosan kell megőrizni és erősíteni.",
+                    "section": "Erveles (I. resz, 10 pont)",
+                    "prompt": "\"Az oszszel tobb iskolaban is elindulo Bringazz a suliba! kampany arra kivajna felhivni a csaladok figyelmet, hogy az iskolaba nem kell autoval jarni, jol hasznalhato erre a kerekpar is. A projekt amellett, hogy az aktiv, fenntarthato kozlekedest nepszerusiti, erositi a helyi kozossegeket, es jo hatassal van a szulok es a gyerekek egyuttmukodesere is.\"\nForras: https://bikemag.hu/magazin/bringazz-a-suliba-kampany-a-szulok-es-gyerekek-fenntarthato-kozlekedeseert/\n\nA fentiekben idezett szoveg a 2022. evi Bringazz a suliba! mozgalmat nepszerusiti. On egyetert a kampany elonyeirol szolo iras megallapitasaival? Gondolatainak megfogalmazasakor utaljon szemelyes tapasztalataira es a felvezeto szoveg legalabb egy kozleseleere! Irasmüveben 3–5, egymastol jol elkulonitheto ervet hasznaljon! Figyeljen a 120–200 szo terjedelem betartasara!",
+                    "minWords": 120,
+                    "maxWords": 200,
+                    "sampleAnswer": "",
                     "rubric": [
                         {
-                            "criterion": "Téma kifejtése és érvelés",
-                            "maxPoints": 12,
+                            "criterion": "Tartalmi minoseg – ervek, allitasok, gondolatok",
+                            "maxPoints": 4,
                             "levels": [
-                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
-                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
-                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
-                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                                "4 pont: A felvezeto szoveg legalabb egy gondolatat felhasznaalja, 3–5 jol elkulonulo ervet tartalmaz, szemelyes tapasztalatokra utal.",
+                                "3–0 pont: A fenti szempontok valamelyike nem teljesul, kriterihumonkent 1-1 pont levonhato."
                             ]
                         },
                         {
                             "criterion": "Szerkezet",
-                            "maxPoints": 8,
+                            "maxPoints": 3,
                             "levels": [
-                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
-                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
-                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
-                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                                "3 pont: Vilagos szerkezeti egysegek, logikus gondolatmenet, megfelelo terjedelem (120–200 szo).",
+                                "0 pont: Rendezetlen gondolatok, hianyzo szerkezet."
                             ]
                         },
                         {
-                            "criterion": "Nyelvhelyesség",
-                            "maxPoints": 10,
+                            "criterion": "Nyelvi igenyesseg (stilus, nyelvhelyesseg)",
+                            "maxPoints": 3,
                             "levels": [
-                                "0–3: Sok helyesírási és grammatikai hiba, nehezen érthető.",
-                                "4–6: Néhány hiba, de értelmező szándék félreérthetetlen.",
-                                "7–9: Kevés hiba, változatos mondatszerkesztés.",
-                                "10: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
-                            ]
-                        },
-                        {
-                            "criterion": "Terjedelem betartása",
-                            "maxPoints": 5,
-                            "levels": [
-                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
-                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
-                                "5: A terjedelmi követelmény teljesül (200–400 szó)."
-                            ]
-                        },
-                        {
-                            "criterion": "Kommunikáció és stílus",
-                            "maxPoints": 5,
-                            "levels": [
-                                "0–1: Szegényes szókincs, stílustalan, sematikus.",
-                                "2–3: Megfelelő szókincs, némi változatossággal.",
-                                "4–5: Gazdag, árnyalt szóhasználat; találó cím; egyéni hang."
+                                "3 pont: A szovagtipusnak es a beszedhelyzetnek megfelelo nyelvi regiszter, pontos szokincs, kifogastalan nyelvhelyesseg.",
+                                "0 pont: Igenytelen, pongyola nyelvhasznalat."
                             ]
                         }
                     ]
@@ -390,57 +274,116 @@
                 {
                     "id": "sa-02",
                     "type": "essay",
-                    "prompt": "Műértelmező fogalmazás: Ady Endre 'Góg és Magóg fia vagyok én' kezdetű versét (1906) a Nyugat-mozgalom egyik programverskéntként tartják számon. Értelmezze a költeményt! Fogalmazásában térjen ki a vers alapszituációjára és a lírai én helyzetére, a mitológiai és bibliai utalások szerepére, a magyarságkép összetettségére, valamint a vers jelképes és programadó jellegére! Zárásként fejtse ki, mit jelent Ön szerint ez a vers ma, a 21. századi olvasó számára!",
-                    "minWords": 250,
-                    "maxWords": 500,
-                    "sampleAnswer": "Ady Endre 'Góg és Magóg fia vagyok én' kezdetű verse (1906) az Új versek kötet nyitódarabja, s egyszerre önvallomás és programnyilatkozat. A lírai én a vers első sorától fogva kettős identitással lép elénk: a bibliai Góg és Magóg – a pusztítás és a kívülállás szimbólumai – utódaként határozza meg magát, ugyanakkor magyar sorsvállalóként törekszik betörni a zárt, mozdulatlan falak közé.\n\nAz alapszituáció drámai: a lírai én a Kárpátok „bércein” áttörve igyekszik belépni egy olyan Magyarországba, amely elzárkózik az újítástól. A Verecke és Dévény helynevek nem csupán földrajzi pontok, hanem szimbolikus kapuk: a keleti örökség és a Nyugat felé való nyitás jelképei. A versben megjelenő feszültség – keleti gyökerek és nyugati vágy között – Ady egész életművét jellemzi.\n\nA mitológiai utalások (Góg és Magóg, a bibliai apokalipszis népeinek felidézése) a költő vátesz-szerepét erősítik: a lírai én nem egyszerű vándor, hanem küldetéses próféta, aki az újító gondolatokat akarja bevinni a mozdulatatlan Magyarországra. A 'hiába' ismétlése ugyanakkor a kísérlet reménytelenségét is megpendíti – a vers tehát nem egyszerűen diadalmaskodó, hanem tragikus elhivatottságot fejez ki.\n\nMa, a 21. században a vers üzenete az újítás és a megmerevedett hagyomány örök konfliktusáról szól. Ady kérdése – hogyan lehet megújítani, felrázni egy önmagába zárt közösséget – minden korban érvényes. Ez teszi a verset maradandóvá: nem csupán irodalomtörténeti dokumentum, hanem az emberi törekvés és kudarc örök metaforája.",
+                    "section": "Gyakorlati szovegalkotas (I. resz, 10 pont)",
+                    "prompt": "Iskolájában az Oregdiakok Egyesuletenek elnoke minden tanev vegen Kivalo tanulo es sportolo cimet ad at egy arra erdemes ballago diaknak. On a diakszovetseg titkarakent Jelolt Jolant ajanlja a dij elnyeresere.\nIrjon ajanloleveleit Toth Laszlo elnok urnak cimezve 120–200 szo terjedelemben! Hasznaalja fel a mellekelt oneletrajzbol legalabb harom olyan vonatkozo adatot, amelyekkel alatamasztja, hogy Jelolt Jolan melto a dij elnyeresere! Ajanlaasat gazdagitsa ket-harom, On altal megfogalmazott indokkal, korulmennyel!\n\nA level cimzesehez az alabbi adatokat hasznalja:\nOregdiakok Egyesulete Toth Laszlo elnok ur\n5555 Diakvaros, Alapitvany u. 10.\n\nOneletrajz:\nNev: Jelolt Jolan\nSzuletes: Varos, 2005. 06. 10.\nTanulmanyok: 2011–2019 ABC Altalanos Iskola, 2019–2023 XY Gimnazium es Kollegium\nNyelvtudas: Nemet B2 nyelvvizsga, Angol C2 nyelvvizsga\nVersenyeredmenyek: Orszagos Tortenelmi Verseny 8. helyezes (2021), Jotekonysagi uszoverseny 3. helyezes (2020), Regionalis Tortenelmi Veteldko 4. helyezes (2019), Medence Kupa 7. helyezes (2018)\nTapasztalatok: Nyari gyermektaborok megszervezese es lebonyolitasa, angol nyelvu idegenvezetes\nSzabadido: uszas, jatek hangszereken (zongora, gitar, fuvola), neptanc",
+                    "minWords": 120,
+                    "maxWords": 200,
+                    "sampleAnswer": "",
                     "rubric": [
                         {
-                            "criterion": "Mű értelmezése",
-                            "maxPoints": 15,
+                            "criterion": "Tartalmi minoseg",
+                            "maxPoints": 4,
                             "levels": [
-                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
-                                "5–9: Alapvető összefüggések felismerése, de az elemzés hiányos.",
-                                "10–12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
-                                "13–15: Árnyalt, önálló elemzés; szimbólumok, utalások, szerkezet bemutatása; érett irodalmi szemlélet."
+                                "4 pont: Utal az ajanlas celjara, legalabb harom vonatkozo adatot felhasznaal az oneletrajzbol, 2–3 uj elemmel egesziti ki.",
+                                "0 pont: Nem felel meg a feladat szempontjainak."
                             ]
                         },
                         {
                             "criterion": "Szerkezet",
-                            "maxPoints": 8,
+                            "maxPoints": 3,
                             "levels": [
-                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
-                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
-                                "6–7: Jól tagolt, logikus felépítés.",
-                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                                "3 pont: Hivatalos level mufaja: cimzes, felado, formalis megszolitas, tagolt szoveg, datum, elkoszono formula, alairas. Megfelelo terjedelem.",
+                                "0 pont: Nem tekintheto hivatalos levelnek (5 vagy tobb elem hianyzik)."
                             ]
                         },
                         {
-                            "criterion": "Szaknyelv alkalmazása",
-                            "maxPoints": 7,
+                            "criterion": "Nyelvi igenyesseg (stilus, nyelvhelyesseg)",
+                            "maxPoints": 3,
                             "levels": [
-                                "0–2: Hiányzó vagy téves irodalmi fogalmak.",
-                                "3–4: Alapfogalmak megvannak, de nem mindig helyesen alkalmazva.",
-                                "5–6: Helyes és változatos irodalmi terminológia.",
-                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
+                                "3 pont: Megfelelo nyelvi regiszter, pontos szokincs, kifogastalan nyelvhelyesseg.",
+                                "0 pont: Igenytelen nyelvhasznalat."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-03",
+                    "type": "essay",
+                    "section": "Muertelmezoo szovegalkotas: Egy mu ertelmezese (II. resz, 40 pont)",
+                    "prompt": "Olvassa el es ertelmezze Lazar Ervin novellajat! Jellemezze az irasmuben a szereplok kommunikaciojat es a narracio sajatossagait! Ertelmezze a tortenetben az ordog szandekat, valamint az ehhez kapcsolodo egyeni es kozossegi cselekveseket! Dolgozataban terjen ki a mesei-mitikus elemek novellaban betoltott szerepere!\nMegoldasa 400–800 szo terjedemu legyen!\n\nLazar Ervin: A kovacs\n(A teljes novella szoveget lasd a feladatlapon.)",
+                    "minWords": 400,
+                    "maxWords": 800,
+                    "sampleAnswer": "",
+                    "rubric": [
+                        {
+                            "criterion": "Tartalmi minoseg",
+                            "maxPoints": 25,
+                            "levels": [
+                                "25–20 pont: A feladatban kijelolt valamennyi ertelmezesi szempontra utal, kiter, valaszol; kifejtett, indokolt, targyszëru allitasok.",
+                                "19–15 pont: Reszleges megfeleles; helyenkent kifejtetlen allitasok; reszben elfogadhato terkozottsg.",
+                                "14–10 pont: Jellemzoen hianyos megfeleles; keves relevan kifejtett allitas.",
+                                "9–5 pont: Alig reflektal a feladatban adott szempontokra; feluletes kozlesek.",
+                                "4–0 pont: Nem reflektal a szempontokra; sok tartalmatlan kozles."
                             ]
                         },
                         {
-                            "criterion": "Nyelvhelyesség",
+                            "criterion": "Szovegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0–1: Sok hiba, nehezen érthető.",
-                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
-                                "4–5: Kevés hiba, jó stílus, igényes fogalmazás."
+                                "5–4 pont: Tudatosan felepitett gondolatmenet; aranyos tagolasu szerkezet; elvaart terjedelem.",
+                                "3–2 pont: Reszben rendezett gondolatmenet; aranytalan szerkezeti egysegek.",
+                                "1–0 pont: Bizonytalan gondolatmenet; kirivo szovegtagolasi hibak; elvaart alatti terjedelem."
                             ]
                         },
                         {
-                            "criterion": "Terjedelem betartása",
+                            "criterion": "Nyelvi igenyesseg (stilus, nyelvhelyesseg)",
+                            "maxPoints": 10,
+                            "levels": [
+                                "10–8 pont: Valasztekos, vilagos megfogalmazas; gazdag szokincs; kifejező, arnyalt eloadasmod.",
+                                "7–6 pont: Gorddulekeny megfogalmazas; megfelelo szokincs; tobbnyire szabatos eloadasmod.",
+                                "5–3 pont: Toredkekes eloadasmod; pontatlansagok; bizonytalan nyelvi regiszter.",
+                                "2–0 pont: Igenytelen nyelvhasznalat; ertelemzavaro stilisztikai hibak; sivar szokincs."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "sa-04",
+                    "type": "essay",
+                    "section": "Muertelmezoo szovegalkotas: Osszehasonlito ertelmezés (II. resz, 40 pont)",
+                    "prompt": "Ertelmezze az alabbi koltemenyeket! Elemzeseben terjen ki a ket vers lirai enjenek magatartasara es beszemodjaara! Mutassa be az alkotasok Csokonai-kepet! Ertelmezze a koltemenyke poeatikai eszkzoinek jelentésteremto szerepet!\nFogalmazasa 400–800 szo terjedemu legyen!\n\nPetofi Sandor: Csokonai\nToth Arpad: Invokacio Csokonai Vitez Mihalyhoz\n(A teljes versszovegeket lasd a feladatlapon.)",
+                    "minWords": 400,
+                    "maxWords": 800,
+                    "sampleAnswer": "",
+                    "rubric": [
+                        {
+                            "criterion": "Tartalmi minoseg",
+                            "maxPoints": 25,
+                            "levels": [
+                                "25–20 pont: A feladatban kijelolt valamennyi ertelmezesi szempontra utal, kiter, valaszol; kifejtett, indokolt allitasok.",
+                                "19–15 pont: Reszleges megfeleles; reszben elfogadhato terkozottsg.",
+                                "14–10 pont: Jellemzoen hianyos megfeleles.",
+                                "9–5 pont: Alig reflektal a szempontokra.",
+                                "4–0 pont: Nem reflektal; tartalmatlan kozlesek."
+                            ]
+                        },
+                        {
+                            "criterion": "Szovegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
-                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
-                                "5: A terjedelmi követelmény teljesül (250–500 szó)."
+                                "5–4 pont: Tudatosan felepitett gondolatmenet; aranyos tagolasu szerkezet.",
+                                "3–2 pont: Reszben rendezett; aranytalan szerkezeti egysegek.",
+                                "1–0 pont: Bizonytalan gondolatmenet; kirivo szovegtagolasi hibak."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvi igenyesseg (stilus, nyelvhelyesseg)",
+                            "maxPoints": 10,
+                            "levels": [
+                                "10–8 pont: Valasztekos megfogalmazas; gazdag szokincs.",
+                                "7–6 pont: Gorddulekeny megfogalmazas; megfelelo szokincs.",
+                                "5–3 pont: Toredkekes eloadasmod; pontatlansagok.",
+                                "2–0 pont: Igenytelen nyelvhasznalat; ertelemzavaro hibak."
                             ]
                         }
                     ]

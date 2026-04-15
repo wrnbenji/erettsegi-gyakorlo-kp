@@ -1,305 +1,303 @@
 {
     "id": "2022-maj",
     "year": 2022,
-    "session": "Majus",
-    "date": "2022. majus 2.",
+    "session": "Május",
+    "date": "2022. május 2.",
     "sections": {
         "szovegertes": {
-            "timeLimit": 60,
+            "timeLimit": 90,
             "maxPoints": 40,
-            "sourceText": "A színház szerepe az emberi kultúrában\n\nA színház az emberiség egyik legősibb művészeti formája. Már az ókori görögöknél is meghatározó szerepet töltött be a közösség életében: a drámaelőadások nemcsak szórakoztattak, hanem az erkölcsi és társadalmi kérdéseket is a nyilvánosság elé tárták. Szophoklész, Euripidész és Arisztophanész művei ma is élnek, és folyamatosan újraértelmezik őket a világ minden táján.\n\nA színházi előadás olyan közösségi élményt nyújt, amelyet semmi más nem képes pótolni. A néző és a színész között különleges, élő kapcsolat jön létre: a közönség valós időben reagál a történésekre, a taps és a csend egyaránt üzenetet hordoz. Ez az interakció teszi a színházat egyedivé a rögzített médiumokkal – a filmmel, a televízióval – szemben.\n\nAzonban a 21. századi színháznak komoly kihívásokkal kell szembenéznie. Az otthoni streamingszolgáltatások, a mozik és az online szórakoztatás erős versenyt jelentenek. Egyes statisztikák szerint a fiatal korosztályok ritkábban látogatnak színházba, mint a korábbi generációk. Sokan úgy vélik, hogy a jegyek magas ára is akadályt jelent.\n\nUgyanakkor a kortárs színház megújulásra képes. A kísérletező, immerzív előadások – amelyekben a közönség maga is részese a cselekménynek – egyre nagyobb érdeklődést váltanak ki. A tánc, a zene, a képzőművészet és a dráma ötvözése új formákat szül. A gyermekszínházak és iskolai előadások révén a fiatalabb generációk is megismerkedhetnek ezzel a műfajjal.\n\nA színész mesterségének elsajátítása is rendkívüli személyiségfejlesztő erővel bír. Az empatikus képesség fejlesztése, a nyilvános megszólalás bátorsága, az együttműködés és az önkifejezés mind olyan készségek, amelyeket a színjátszás kibontakoztat. Nem véletlen, hogy sok iskola és közösség fontosnak tartja az amatőr és ifjúsági színjátszó csoportok működtetését.\n\nA színház tehát nemcsak szórakoztat és gyönyörködtet, hanem nevel, közösséget épít és gondolkodásra serkent. Fennmaradása és megújulása kultúránk egészségének fokmérője.",
+            "sourceText": "Előszó a Magyar szókincstár. Rokon értelmű szavak, szólások és ellentétek szótára című kötethez (részlet)\n\n1)\nKorunkban jelentősen megnőtt az információ terjedésének sebessége, és a nap mint nap ránk zúduló hír mennyisége is jóval nagyobb, mint a régebbi korokban volt. Ennek a gyakran nyomasztó információmennyiségnek egyre nagyobb része ma már képi megfogalmazásban jut el hozzánk, de a legjelentősebb információátadó közeg mégiscsak az írott, a nyomtatott szöveg. Éppen ezért nem mindegy, hogy a szerző (a közlő) milyen pontosan, milyen hatásfokkal juttatja el a befogadóhoz, az olvasóhoz közlendőjét.\n\n2)\nMa, mikor oly sokat emlegetjük az európai egységesülést, és sokat is teszünk érte, nem szabad megengednünk, hogy ennek során nemzeti önazonosságunk, identitásunk sérüljön. Anyanyelvünk, a magyar nyelv nemzeti kultúránk hordozója. Őrködnünk kell fölötte, elő kell segítenünk szabatos, színes, helyes használatát. Időről időre, a nyelvtudomány új eredményeit felhasználva egyrészt nyelvtanokban kell mind pontosabban leírnunk használatának szabályait, másrészt szókincsünk elemeit a nagy szótáríró elődök – Szenczi Molnár Albert, Pápai Páriz Ferenc, Bod Péter, Ballagi Mór, Czuczor Gergely, Fogarasi János, Balassa József, Országh László, Hadrovics László és mások – nyomdokain haladva különböző típusú szótárakban kell számba vennünk.\n\n3)\nA Magyar szókincstár. Rokon értelmű szavak, szólások és ellentétek szótára, mint címe is mutatja, a magyar szavak kincsestára. Mit jelent ez? Olyan újszerű szótár, amely gazdag tára a rokon értelmű szavaknak, más néven szinonimáknak, és tájékoztatja a használót a szavaknál nagyobb egységek, a szókapcsolatok és a szólások jelentéséről és így felhasználásuk módjáról is. Feltünteti egy-egy szó jelentésének ellentéteit, ha vannak ilyenek. A magyar szótárirodalomból mind ez idáig hiányzott a magyar szókincs elemeinek ellentétes jelentések szerinti feltérképezése, pedig valamely szónak és ellentétének jelentése szoros kapcsolatban áll egymással, kiegészítik és meghatározzák egymást, mint a fény és az árnyék.\n\n4)\nA Magyar szókincstár a nyelvészet, azon belül is a jelentéstan és a lexikológia legújabb eredményeinek figyelembevételével, korszerű eszközök (számítógépek, célprogramok) felhasználásával készített tudományos igényű szótár. Hatékonyan kívánja segíteni az anyanyelvének tudatos és igényes használatára törekvő olvasót.\n\n5)\nA magyar szavakat a rokonértelműség, szinonimitás szempontjából két terjedelmesebb és több kisebb szótár dolgozta fel a Magyar szókincstár megjelenése előtt. 1907-ben jelent meg PÓRA FERENC Magyar rokonértelmű szók és szólások kézikönyve című munkája, amely 800 fogalomkör köré csoportosította a szinonim szavakat. Ez mindmáig a magyar nyelv egyetlen fogalomköri szótára. Szóanyaga mára nagymértékben elavult. 1978-ban látott napvilágot O. NAGY GÁBOR és RUZSICZKY ÉVA Magyar szinonimaszótára (Akadémiai Kiadó), amelyben a szerzők elsősorban az Akadémiai Kiadónál 1959–1962 között megjelent A magyar nyelv értelmező szótárának hét kötetét dolgozták fel a szigorúan értelmezett szinonimitás szempontjából. A Magyar szinonimaszótárban a szerzők 12500 címszó köré 30000 lexikai egységet csoportosítottak. (E szótár diákok számára átdolgozott változatát 1998 elején adták ki RUZSICZKY ÉVA szerkesztésében Szinonimaszótár diákoknak címmel [Helikon Kiadó].) A kisebb szinonimaszótárak, -gyűjtemények közül említést érdemel BALASSA LÁSZLÓ Garmada – Rokon értelmű szócsoportok és írói kifejezésformák című gyűjtése (Tankönyvkiadó Vállalat, 1958), valamint TÓTFALUSI ISTVÁN Színes szinonimaszótára (Háttér Kiadó, 1997).\n\n6)\nA Magyar szókincstár 25500 vastag betűs címszót tartalmaz. A szócikkeiben található szavak száma 80600. A 25500 szócikket 42300 szinonimasor (jelentés) építi fel. A szótár szerzői 14400 szinonimasornak adták meg az ellentétes jelentését. A szavakon felül több, mint 3800, a szavaknál nagyobb lexikai egységet – szólást, szóláshasonlatot – tartalmaz a szótár 760 címszó alá besorolva. A Magyar szókincstárban felsorakoztatott 80600 szó között a mai köznyelv szavain kívül szép számmal szerepelnek régi, régies, nyelvjárási, népi és idegen hangzású szavak, de nem maradtak ki a diáknyelv lexikai elemei és a szleng jellegű kifejezések sem. Nem hagytuk ki a napjainkban sajnálatos módon oly gyakran használt „durva” szavakat sem, de itt mértéktartóan jártunk el.\n\n7)\nSzándékunk szerint a Magyar szókincstár kínálati szótár, melyben a magyar anyanyelvűek megtalálják és kiválaszthatják egy-egy szónak a szótárban található, tágan értelmezett szinonimái közül a számukra legalkalmasabbat. A szótár használója részére a szerkesztők nagy bőségben felajánlják a címszó szinonimáit, s a gyakran eltérő hangulatú, különböző használati körű szinonimák közül a választást az olvasóra bízzák, mert bíznak ösztönös anyanyelvi érzékében, kompetenciájában. Ily módon a szótár alkotó használatot tételez fel.\n\n8)\nA Magyar szókincstár szerzői olyan szótárt kívántak átnyújtani az olvasónak, amelyet a könnyű használhatóság jellemez. A tartalom világos elrendezése mellett ezt segíti elő a szótár visszafogott, de határozott tipográfiája.\nAz egyszerű felhasználás, a gyors keresés érdekében nem alkalmaztak a szerzők utalásokat sem.\nA Magyar szókincstárnak azon kívül, hogy szinonimaszótárként forgatva valamely szó szinonimáit, sőt ellentéteit is kikereshetjük belőle, van egy további haszna is. Ugyanis a szótár rokon értelmű szavai a maguk módján magyarázzák, értelmezik is azt a címszót, mely alá be vannak sorolva. Így a Magyar szókincstár bizonyos tekintetben értelmező szótári funkciót is betölthet, hiszen az olvasó számára egy kevéssé ismert vagy homályos jelentésű szónak a jelentését a szinonimák pontosíthatják, megvilágosíthatják.\n\n9)\nA szerkesztők úgy vélik, hogy a Magyar szókincstár hasznos segédeszköz lehet a gondos, pontos, igényes magyar nyelvű szövegek készítéséhez. A szótár a magyar anyanyelvűek legszélesebb köre számára készült, a „hivatásos” tollforgatók (az újságírók, a fordítók, a tanárok, a szerkesztők) mellett mindenki haszonnal lapozhatja, aki igényesen, pontosan, színesen kívánja kifejezni magát. A magyar nyelv oktatásának is jól hasznosítható segédeszköze. Gazdag tartalma révén a Magyar szókincstár újabb szókészlettani, jelentéstani, frazeológiai és stilisztikai kutatások kiindulópontjává válhat.\n\n10)\nA szótár szoros betűrendbe sorolt szócikkekből áll; a szócikkek szócikkfejből és szócikktestből épülnek fel.\nA szócikkek élén álló szócikkfejben a címszók a szótár szövegtestéből tipográfiailag kiugratva helyezkednek el, kövér betűtípussal szedve. Ha a címszónak van alakváltozata, azt vesszővel elválasztva szintén vastagon szedve közöljük […] A címszó megjelenése után a szófaj megjelölése vagy rövidítése következik álló szedéssel kerek zárójelben. […]\nA szócikk [szócikktest] a címszót követően egy vagy több szinonimabokorból tevődik össze. Ezekben soroljuk fel a címszó rokon értelmű szavait a címszó jelentései szerint bokrokba rendezve. […] A szinonimák sorát a címszó adott jelentéséhez közeli értelmű frazeológiai egységek: szólások, szóláshasonlatok követhetik. Ezek sorát a vastagon szedett Sz: vezeti be. A szólásokat egymástól pontosvesszővel választjuk el.\nAz ellentétes jelentésű szavakat a szinonimabokorban a rokon értelmű szavak felsorolása után (ha vannak szólások, azokat követően) tele káró jellel (♦) bevezetve adjuk meg.\n\nForrás: Kiss Gábor (főszerk.) 1999. Magyar szókincstár. Rokon értelmű szavak, szólások és ellentétek szótára. Tinta Könyvkiadó, Budapest 5–7. A feladathoz igazított szöveg.",
             "tasks": [
                 {
                     "id": "sz-01",
-                    "type": "multiple-choice",
-                    "question": "Mi a szöveg fő állítása a színházzal kapcsolatban?",
-                    "options": [
-                        "A színház elavult műfaj, amelyet a film és a televízió felváltott.",
-                        "A színház nélkülözhetetlen közösségi és kulturális intézmény, amely ma is képes megújulni.",
-                        "A görög dráma az egyetlen valódi színházi hagyomány.",
-                        "A streaming szolgáltatások teljesen kiszorítják a színházat."
-                    ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A szöveg végig azt a gondolatot vezeti végig, hogy a színház – bár kihívásokkal küzd – nélkülözhetetlen kulturális és közösségi intézmény, és képes megújulni az immerzív előadások, a gyermekszínházak és az ifjúsági programok révén. Az első és utolsó bekezdés egyaránt ezt az állítást erősíti meg."
+                    "type": "short-answer",
+                    "question": "A Magyar szókincstár a magyar szavak kincsestára.\na) A 3. bekezdés alapján nevezze meg, mit tartalmaz ez a kincstár! Három elemet említsen!",
+                    "sampleAnswer": "1. Szinonimákat/rokon értelmű szavakat, 2. Szókapcsolatokat, szólásokat, 3. Antonimákat/ellentétes jelentésű szavakat.",
+                    "points": 3,
+                    "explanation": "A 3. bekezdés szerint a szótár tartalmazza a rokon értelmű szavakat (szinonimákat), a szókapcsolatokat és szólásokat, valamint az ellentétes jelentésű szavakat. Ha a vizsgázó csak annyit ír, hogy 'szavakat' vagy 'magyar szavakat', azért nem kaphat pontot."
                 },
                 {
                     "id": "sz-02",
-                    "type": "true-false",
-                    "question": "A szöveg szerint a színházi előadás és a film egyaránt élő, valós idejű kapcsolatot teremt a néző és az előadó között.",
-                    "correct": false,
-                    "points": 2,
-                    "explanation": "A szöveg éppen azt emeli ki, hogy a színházi előadás egyedi, mert élő, valós idejű kapcsolatot teremt a néző és az előadó között – szemben a filmmel és a televízióval, amelyek rögzített médiumok, és nem tesznek lehetővé ilyen közvetlen interakciót."
+                    "type": "short-answer",
+                    "question": "b) Milyen további szerepet tölt be a szótár a 8. bekezdés alapján?",
+                    "sampleAnswer": "Értelmező szótári funkciót is betölt, mivel a rokon értelmű szavak magyarázzák, értelmezik a címszót.",
+                    "points": 1,
+                    "explanation": "A 8. bekezdés kifejti, hogy a Magyar szókincstár bizonyos tekintetben értelmező szótári funkciót is betölthet, hiszen a szinonimák pontosíthatják egy kevéssé ismert szó jelentését."
                 },
                 {
                     "id": "sz-03",
-                    "type": "true-false",
-                    "question": "A szöveg szerint az immerzív előadások egyre nagyobb érdeklődést váltanak ki.",
-                    "correct": true,
+                    "type": "short-answer",
+                    "question": "Nevezzen meg két célt a 2. bekezdés alapján, amelynek megvalósulását ez a szótár segíti!",
+                    "sampleAnswer": "1. A magyar nyelv szabatos, színes, helyes használatának elősegítése. 2. Nemzeti önazonosságunk védelme a nyelv által / szókincsünk elemeinek számbavétele, őrzése.",
                     "points": 2,
-                    "explanation": "A szöveg negyedik bekezdése kifejezetten megemlíti, hogy a kísérletező, immerzív előadások – amelyekben a közönség maga is részese a cselekménynek – egyre nagyobb érdeklődést váltanak ki, és a kortárs színház megújulásának egyik útjaként értékeli őket."
+                    "explanation": "A 2. bekezdés szerint a szótár segíti a szabatos, színes, helyes nyelvhasználatot, a nemzeti önazonosság védelmét, a szókincs elemeinek számbavételét és a nyelvhasználat szabályainak rögzítését. Bármely kettő elfogadható."
                 },
                 {
                     "id": "sz-04",
-                    "type": "fill-in",
-                    "question": "Soroljon fel a szövegből két ókori görög drámaírót! (Csak a neveket írja, vesszővel elválasztva!)",
-                    "correct": ["Szophoklész, Euripidész", "Szophoklész, Arisztophanész", "Euripidész, Arisztophanész", "Szophoklész és Euripidész", "Szophoklész és Arisztophanész", "Euripidész és Arisztophanész"],
+                    "type": "short-answer",
+                    "question": "Fogalmazza meg egy összetett mondatban, hogy a korábbi szótárakhoz képest\na) mi az újdonsága a Magyar szókincstárnak! (3. bekezdés)",
+                    "sampleAnswer": "A Magyar szókincstár újdonsága, hogy feltünteti egy-egy szó jelentésének ellentéteit is.",
                     "points": 2,
-                    "explanation": "A szöveg első bekezdése három ókori görög drámaírót nevez meg: Szophoklészt, Euripidészt és Arisztophanészt. Mindhárom a Kr. e. 5. századi athéni drámairodalomban alkotott, és műveik – például az Oidipusz király vagy a Lysisztraté – máig a világirodalom alapművei közé tartoznak."
+                    "explanation": "A válasznak tartalmaznia kell, hogy a szótár feltünteti az ellentétes jelentésű szavakat. Tartalmi elemért 1 pont, de a nyelvminőségi pont csak összetett mondat esetén adható. A 3. bekezdésből kiderül, hogy ez az ellentétek feltérképezése hiányzott a korábbi szótárakból."
                 },
                 {
                     "id": "sz-05",
                     "type": "short-answer",
-                    "question": "Milyen kihívásokkal kell a 21. századi színháznak szembenéznie a szöveg szerint? Nevezzen meg legalább kettőt!",
-                    "sampleAnswer": "A szöveg szerint a 21. századi színháznak kihívást jelentenek az otthoni streamingszolgáltatások, a mozik és az online szórakoztatás, valamint a jegyek magas ára és a fiatal korosztályok csökkenő látogatottsága.",
-                    "points": 4,
-                    "explanation": "A szöveg harmadik bekezdése részletezi a 21. századi színház kihívásait: a streaming-szolgáltatások és az online szórakoztatás erős versenyt jelentenek, a fiatalok ritkábban járnak színházba, és a magas jegyárak is visszatartó tényezők lehetnek. Ezek valós társadalmi és gazdasági problémák, amelyek a kulturális intézmények fenntarthatóságát érintik."
+                    "question": "b) Honnan tudhatjuk, hogy ez valóban újdonsága a szókincstárnak? Idézze a szöveg erre vonatkozó részletét! (3. bekezdés)",
+                    "sampleAnswer": "„A magyar szótárirodalomból mind ez idáig hiányzott a magyar szókincs elemeinek ellentétes jelentések szerinti feltérképezése…”",
+                    "points": 1,
+                    "explanation": "A válasznak idézőjelben kell tartalmaznia a szöveg vonatkozó részletét, különösen a 'mind ez idáig hiányzott' részt. Az idézőjel nélkül a pontszám nem adható meg."
                 },
                 {
                     "id": "sz-06",
-                    "type": "matching",
-                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
-                    "pairs": [
-                        { "left": "immerzív előadás", "right": "a közönség maga is részese a cselekménynek" },
-                        { "left": "közösségi élmény", "right": "a néző és a színész között élő kapcsolat jön létre" },
-                        { "left": "gyermekszínház", "right": "a fiatalabb generációkat vezeti be a műfajba" },
-                        { "left": "amatőr színjátszás", "right": "személyiségfejlesztő és közösségépítő szerepet tölt be" }
+                    "type": "true-false",
+                    "question": "Döntse el az olvasott szöveg alapján az alábbi állításokról, hogy igazak-e vagy hamisak!\na) A Magyar szókincstár egyszerű használhatóságát segítik a különböző szerzői utalások.\nb) A szótár régebben keletkezett szövegek olvasásához is adhat segítséget.\nc) A szótár minden szinonimasornak megadja az ellentétes jelentését.",
+                    "statements": [
+                        {
+                            "text": "A Magyar szókincstár egyszerű használhatóságát segítik a különböző szerzői utalások.",
+                            "correct": false
+                        },
+                        {
+                            "text": "A szótár régebben keletkezett szövegek olvasásához is adhat segítséget.",
+                            "correct": true
+                        },
+                        {
+                            "text": "A szótár minden szinonimasornak megadja az ellentétes jelentését.",
+                            "correct": false
+                        }
                     ],
-                    "points": 4,
-                    "explanation": "Ezek a fogalmak a szövegben egyértelműen meghatározott szerepekkel bírnak: az immerzív előadás bevon, a közösségi élmény összeköt, a gyermekszínház bevezet, az amatőr színjátszás fejleszt. A szöveg mindegyik fogalmat a színház pozitív értékeit illusztrálva használja."
+                    "points": 3,
+                    "explanation": "a) HAMIS – A 8. bekezdés szerint a szerzők éppen hogy NEM alkalmaztak utalásokat a gyors keresés érdekében. b) IGAZ – A 6. bekezdés szerint a szótárban szép számmal szerepelnek régi, régies, nyelvjárási szavak, tehát régebbi szövegek olvasásakor is segíthet. c) HAMIS – A 6. bekezdés szerint 14400 szinonimasornak adták meg az ellentétes jelentését a 42300-ból, tehát nem mindegyiknek."
                 },
                 {
                     "id": "sz-07",
-                    "type": "ordering",
-                    "question": "Rendezze logikai sorrendbe a szöveg főbb gondolatait úgy, ahogy a szöveg tárgyalja őket!",
-                    "items": [
-                        "A kortárs színház megújulásra képes immerzív és kísérleti formákkal.",
-                        "Az ókori görög dráma közösségi és erkölcsi szerepet töltött be.",
-                        "A színházi mesterség személyiségfejlesztő erővel bír.",
-                        "A 21. századi színház kihívásokkal küzd a digitális szórakoztatás miatt.",
-                        "A színházi előadás egyedi, élő kapcsolatot teremt néző és előadó között."
-                    ],
-                    "correctOrder": [1, 4, 3, 0, 2],
-                    "points": 5,
-                    "explanation": "A szöveg gondolatmenete időrendi és logikai sorrendben halad: az ókori gyökerektől az élő előadás egyediségén és a modern kihívásokon át a megújulás lehetőségéig és végül a színjátszás személyes fejlesztő hatásáig. Ez a szerkezet az általánostól a konkrét felé haladó gondolatépítés klasszikus módja."
+                    "type": "short-answer",
+                    "question": "Milyen megoldásokkal érték el a Magyar szókincstár szerzői, hogy a szótár könnyen és gyorsan használható legyen? Három tartalmi elemmel adja meg válaszát! (8. bekezdés)",
+                    "sampleAnswer": "1. A tartalom világos elrendezése. 2. Visszafogott, de határozott tipográfia. 3. A szerzők nem alkalmaztak utalásokat.",
+                    "points": 3,
+                    "explanation": "A 8. bekezdés három megoldást nevez meg a könnyű használhatóság érdekében: a tartalom világos elrendezését, a visszafogott de határozott tipográfiát, és azt, hogy nem alkalmaztak utalásokat."
                 },
                 {
                     "id": "sz-08",
                     "type": "table-fill",
-                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a színházlátogatás és a streaming/film előnyeit!",
-                    "headers": ["Szempont", "Színházlátogatás", "Streaming/Film"],
+                    "question": "Az alábbi szótárak, szógyűjtemények megelőzték a Magyar szókincstár megjelenését. Töltse ki a táblázatot a szöveg információi alapján! A szótárak jellemzéséhez mindenhová egy információt írjon! (5. bekezdés)",
+                    "headers": [
+                        "Szerző(k), szerkesztő",
+                        "Cím",
+                        "Megjelenés éve",
+                        "Kiadó",
+                        "Egy jellemző információ"
+                    ],
                     "rows": [
                         {
-                            "given": { "Szempont": "Élmény jellege" },
-                            "answer": { "Színházlátogatás": "élő, valós idejű, közösségi", "Streaming/Film": "rögzített, otthoni kényelemben nézhető" }
+                            "given": {
+                                "Cím": "Színes szinonimaszótár"
+                            },
+                            "answer": {
+                                "Szerző(k), szerkesztő": "Tótfalusi István",
+                                "Megjelenés éve": "1997",
+                                "Kiadó": "Háttér Kiadó",
+                                "Egy jellemző információ": "kisebb szótár, gyűjtemény"
+                            }
                         },
                         {
-                            "given": { "Szempont": "Hozzáférhetőség" },
-                            "answer": { "Színházlátogatás": "jegyvásárlás szükséges, esetleg drága", "Streaming/Film": "bárhonnan és bármikor elérhető" }
+                            "given": {
+                                "Megjelenés éve": "nincs adat"
+                            },
+                            "answer": {
+                                "Szerző(k), szerkesztő": "Póra Ferenc",
+                                "Cím": "Magyar rokonértelmű szók és szólások kézikönyve",
+                                "Megjelenés éve": "1907",
+                                "Egy jellemző információ": "800 fogalomkör köré csoportosította a szinonim szavakat / egyetlen fogalomköri szótár / szóanyaga elavult"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Megjelenés éve": "1998"
+                            },
+                            "answer": {
+                                "Szerző(k), szerkesztő": "Ruzsiczky Éva",
+                                "Cím": "Szinonimaszótár diákoknak",
+                                "Kiadó": "Helikon Kiadó",
+                                "Egy jellemző információ": "a Magyar szinonimaszótár diákok számára átdolgozott változata"
+                            }
                         }
                     ],
                     "points": 6,
-                    "explanation": "A szöveg szembeállítja a színházlátogatás és a digitális médiafogyasztás jellemzőit: a színház élő, közösségi, de drágább és kevésbé rugalmas; a streaming kényelmes és olcsóbb, de rögzített és interakciót nem tesz lehetővé. A táblázat kitöltése a szöveg lényegi összehasonlítását tükrözi."
+                    "explanation": "Az 5. bekezdés részletesen ismerteti a Magyar szókincstárat megelőző szinonimaszótárakat. A táblázat adatai: Tótfalusi István – Színes szinonimaszótár – 1997 – Háttér Kiadó; Póra Ferenc – Magyar rokonértelmű szók és szólások kézikönyve – 1907 – 800 fogalomkör; Ruzsiczky Éva – Szinonimaszótár diákoknak – 1998 – Helikon Kiadó – átdolgozott változat."
                 },
                 {
                     "id": "sz-09",
                     "type": "short-answer",
-                    "question": "Milyen személyiségfejlesztő hatásokat említ a szöveg a színjátszással kapcsolatban? Legalább három készséget nevezzen meg!",
-                    "sampleAnswer": "A szöveg szerint a színjátszás fejleszti az empatikus képességet, a nyilvános megszólalás bátorságát, az együttműködést és az önkifejezést.",
-                    "points": 4,
-                    "explanation": "A szöveg ötödik bekezdése négy konkrét személyiségfejlesztő hatást sorol fel: az empatikus képesség fejlesztését, a nyilvános megszólalás bátorságát, az együttműködést és az önkifejezést. Ezek olyan általánosan értékes készségek, amelyeket az iskolai és közösségi színjátszás is hatékonyan fejleszt."
+                    "question": "A szöveg 10. bekezdése a Magyar szókincstár szócikkeinek a felépítésére utal. Írjon egy-egy példát az alábbi szócikkből a megadott jellemzőkre!\n\nvidám (mn) ◊ jókedvű, derűs, vidor (rég), víg, örömteli, vígságos, kedélyes, derült, jókedélyű, jóvágású (táj), feldobódott (szleng), jópofa, mókás, játékos, bohókás, tréfás, mulatságos, vicces, mulattató, joviális (rég), piknikus, boldog, derűlátó, örvendező Sz: nyulat lehet fogatni vele\n◊ élénk, eleven, lendületes ♦ SZOMORÚ, LEHANGOLT, DEPRIMÁLT\n◊ [szín]: világos, derűs\n\na) a szinonimákat – ahol indokolt – stílusminősítésekkel látták el a szócikkekben\nb) a szóanyagot a vastag betűs címszóhoz rendelték hozzá\nc) az ellentétes jelentésű szavakat a szinonimabokorban a rokon értelmű szavak felsorolása után (ha vannak szólások, azokat követően) adják meg\nd) a szinonimák sorát a címszó adott jelentéséhez közeli értelmű frazeológiai egységek (szólások, szóláshasonlatok) követhetik\ne) a címszó után a szófaj megjelölése vagy rövidítése következik\nf) a stílusértékében közömbös, köznyelvi szinonim szó közelebb áll a címszóhoz, mint a színezettebb stílusú szinonima",
+                    "sampleAnswer": "a) vidor (rég) / jóvágású (táj) / feldobódott (szleng) / joviális (rég)\nb) vidám\nc) SZOMORÚ / LEHANGOLT / DEPRIMÁLT\nd) nyulat lehet fogatni vele\ne) (mn) / melléknév\nf) Bármelyik nem köznyelvi szinonima, pl. vidor (rég), feldobódott (szleng) stb.",
+                    "points": 6,
+                    "explanation": "A szócikk hat jellemzőjére kell példát hozni: a) stílusminősítés pl. vidor (rég) vagy feldobódott (szleng); b) a vastag betűs címszó: vidám; c) ellentétek: SZOMORÚ, LEHANGOLT, DEPRIMÁLT; d) frazeológiai egység: nyulat lehet fogatni vele; e) szófajjelölés: (mn); f) bármely színezettebb stílusú szinonima (pl. vidor, vígságos, feldobódott stb.)."
                 },
                 {
                     "id": "sz-10",
-                    "type": "multiple-choice",
-                    "question": "Mit jelent a szövegben a 'fokmérő' szó ('kultúránk egészségének fokmérője')?",
-                    "options": [
-                        "Mérőeszköz a hőmérséklet mérésére",
-                        "Jelzője, mutatója valaminek",
-                        "Tudományos szaknyelvi terminus",
-                        "A kultúra egyik részterülete"
-                    ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A 'fokmérő' szó átvitt értelemben jelzőt, mutatót jelent – azt fejezi ki, hogy valami alapján következtetni lehet egy tágabb jelenség állapotára. A szövegben a színház fennmaradása és megújulása annak mutatója, jelzője, hogy kultúránk mennyire egészséges és élő."
+                    "type": "short-answer",
+                    "question": "Nevezzen meg három esetet a 7. és a 8. bekezdés alapján, amikor használni tudja ezt a kiadványt! Egyes szám első személyben (E/1.) fogalmazzon!\nAkkor használnám a szókincstárat, ha...",
+                    "sampleAnswer": "Akkor használnám a szókincstárat, ha keresem egy szó szinonimáit; ha eltérő hangulatú, különböző használati körű szinonimákat keresek; ha egy szóval ellentétes jelentésű szót keresek; ha egy kevéssé ismert szó jelentését keresem.",
+                    "points": 3,
+                    "explanation": "A 7. és 8. bekezdés alapján több helyes válasz lehetséges: szinonimák keresése, eltérő hangulatú szinonimák keresése, a legalkalmasabb szinonima kiválasztása, ellentétes jelentésű szó keresése, kevéssé ismert szó értelmezése. Helytálló és E/1.-ben megfogalmazott válaszonként 1-1 pont adható."
                 },
                 {
                     "id": "sz-11",
-                    "type": "fill-in",
-                    "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
-                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
-                    "points": 2,
-                    "explanation": "A szöveg egy témát – a színház szerepét – több szempontból, érvelő és tájékoztató jelleggel mutat be, nincs cselekménye, és nem személyes hangvételű naplószerű írás. Ez az értekezés vagy ismeretterjesztő szöveg műfajának felel meg, amelyre jellemző a tárgyszerű, logikusan felépített kifejtés."
+                    "type": "matching",
+                    "question": "Rendelje a táblázatban megadott címeket a szöveg egy-egy bekezdéséhez a megfelelő sorszám beírásával! Válassza ki a felsorolt igék közül azt, amely az adott bekezdésre mind tartalmilag, mind szóhasználatát tekintve leginkább jellemző!\nIgék: felhasználták / felajánlják / dolgozták fel / eljuttatja / tartalmaz",
+                    "pairs": [
+                        {
+                            "left": "A szótár mennyiségi mutatói, adatai",
+                            "right": "6. bekezdés – tartalmaz"
+                        },
+                        {
+                            "left": "A szótár készítésének korszerű eszközei",
+                            "right": "4. bekezdés – felhasználták"
+                        },
+                        {
+                            "left": "A szótárt megelőző korábbi szótárak, szógyűjtemények",
+                            "right": "5. bekezdés – dolgozták fel"
+                        }
+                    ],
+                    "points": 6,
+                    "explanation": "A szótár mennyiségi mutatói a 6. bekezdésben találhatók (tartalmaz ige); a korszerű eszközök a 4. bekezdésben (felhasználták); a korábbi szótárak az 5. bekezdésben (dolgozták fel). A bekezdés sorszáma és a jellemző ige egyaránt helyes kell legyen."
                 },
                 {
                     "id": "sz-12",
                     "type": "short-answer",
-                    "question": "Hogyan zárja le a szöveg a gondolatmenetet? Fogalmazza meg saját szavaival a szöveg záró üzenetét!",
-                    "sampleAnswer": "A szöveg azzal zárja gondolatmenetét, hogy a színház nemcsak szórakoztató, hanem nevelő, közösségépítő és gondolkodásra késztető funkciókat is betölt, és fennmaradása kultúránk állapotának mutatója.",
-                    "points": 5,
-                    "explanation": "A szöveg utolsó bekezdése összefoglalja az összes bemutatott funkciót – szórakoztatás, nevelés, közösségépítés, gondolkodásra serkentés –, majd egy erős metaforával zárja: a színház fennmaradása a kultúra egészségének mércéje. Ez az összefoglaló, értékelő lezárás az értekezés műfajának tipikus befejezési módja."
+                    "question": "Mondhatjuk-e, hogy az 1999-es kiadású Magyar szókincstár napjaink szókincsét tartalmazza? Érveljen mindkét válaszlehetőség (igen – nem) mellett olyan módon, hogy folytatja a megkezdett mondatokat! Ügyeljen a nyelvhelyességre!\nIgen, mondhatjuk, hiszen...\nNem, nem mondhatjuk, mert...",
+                    "sampleAnswer": "Igen, mondhatjuk, hiszen a szótár 80600 szót tartalmaz, amelyeket ma is használjuk, és bár az elmúlt évtizedekben új szavak keletkeztek, ezek száma nem számottevő a szókincstárban található szavak számához képest.\nNem, nem mondhatjuk, mert a szótár több mint húszéves, és azóta a nyelv változott, sok új szó keletkezett, amelyeket nem tartalmaz a szókincstár.",
+                    "points": 4,
+                    "explanation": "Mindkét érvelési irányban 1 pont adható a helytálló érvelésért és 1 pont a megfogalmazásért. Az 'igen' mellett érvelhető, hogy a szótár gazdag szóanyaga nagyrészt ma is érvényes. A 'nem' mellett szól, hogy a nyelv folyamatosan változik, és a szótár már több mint két évtizedes."
                 }
             ]
         },
         "muveleti": {
-            "timeLimit": 40,
-            "maxPoints": 20,
+            "timeLimit": 30,
+            "maxPoints": 10,
+            "note": "A vizsgázónak a két feladat közül egyet kell megoldania (Érvelés VAGY Gyakorlati szövegalkotás). A feladat 120–200 szó terjedelmű legyen.",
             "tasks": [
                 {
                     "id": "m-01",
-                    "type": "multiple-choice",
-                    "question": "Petőfi Sándor melyik verseskötete jelent meg 1844-ben, és tette őt az irodalmi élet figyelmének középpontjává?",
-                    "options": [
-                        "János vitéz",
-                        "A helység kalapácsa",
-                        "Versek (1844)",
-                        "Cipruslombok Etelke sírjáról"
-                    ],
-                    "correct": 2,
-                    "points": 2,
-                    "explanation": "Petőfi Sándor első önálló verseskötete a 'Versek' volt, amely 1844-ben jelent meg, és azonnal az irodalmi élet középpontjába emelte a fiatal költőt. A 'János vitéz' ugyanebben az évben jelent meg, de az elbeszélő költemény műfajában, a 'Cipruslombok' pedig 1845-ben, Petőfi Csapó Etelke iránt érzett gyászát feldolgozva."
+                    "type": "essay",
+                    "prompt": "Érvelés\n\n„Memoriterként kigyöngyözött gondolatokat, anyagokat, szövegeket érdemes és szokás feladni. Rögzítésükkel nemcsak tartalmi gazdagságot nyerünk, hanem olyan szellemi tulajdonságokat és képességeket is, amelyek szerzőik létrehozó erőfeszítései eredményeként mintegy »benne vannak« a műben. A memoriterek ebben az értelemben is nemes anyagot, »kincset« rejtenek magukban. Nyelvi kincset is, hiszen ezek olyan nyelvi remeklések, amelyek a tartalmak mellett művészi élményt is nyújtanak. Páratlan lehetőség a tartalom és élmény összekapcsolására.”\n(Nagy László 2005. A tanulás „maradandó kincsei”: a memoriterek. Könyv és Nevelés. VII/1.)\n\nÖn szerint szükséges a digitális civilizáció világában a kötelező, iskolai memoriterek elsajátítása? Hasznos tudást ad a diákoknak a szépirodalmi szöveg(részlet)ek ismerete? Kifejtésében utaljon a felvezető szöveg megállapításaira és személyes tapasztalataira! Álláspontja megfogalmazásakor 3–5 saját, egymástól jól elkülöníthető érvet tegyen mérlegre!",
+                    "minWords": 120,
+                    "maxWords": 200,
+                    "rubric": [
+                        {
+                            "criterion": "Tartalmi minőség – érvek, állítások, gondolatok",
+                            "maxPoints": 4,
+                            "levels": [
+                                "0: Nem a feladat témájáról ír, vagy egyáltalán nem oldotta meg.",
+                                "1–2: Kevés vagy felszínes érv, az álláspont nehezen azonosítható.",
+                                "3: Több érv, de nem minden kritérium teljesül (3–5 elkülönülő érv, személyes tapasztalat, utalás a felvezető szövegre).",
+                                "4: Legalább 3–5 világosan kifejtett érv, jól azonosítható álláspont, utalás a felvezető szövegre és személyes tapasztalatra."
+                            ]
+                        },
+                        {
+                            "criterion": "Szerkezet",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0: Hiányzik a logikus felépítés, nem tekinthető érvelésnek.",
+                                "1: Felismerhető szerkezet, de aránytalan vagy hiányos.",
+                                "2: Jól tagolt szöveg, logikus gondolatmenet.",
+                                "3: Kiváló szerkesztés, bekezdések, megfelelő terjedelem (120–200 szó)."
+                            ]
+                        },
+                        {
+                            "criterion": "Nyelvi igényesség (stílus, nyelvhelyesség)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0: Igénytelen, pongyola nyelvhasználat, érthetetlen.",
+                                "1: Nyelvhelyességi hibák, szegényes szókincs.",
+                                "2: Gördülékeny megfogalmazás, néhány kisebb hiba.",
+                                "3: Választékos, kifogástalan nyelvhasználat, a beszédhelyzetnek megfelelő regiszter."
+                            ]
+                        }
+                    ]
                 },
                 {
                     "id": "m-02",
-                    "type": "matching",
-                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
-                    "pairs": [
-                        { "left": "Az arany ember", "right": "Jókai Mór" },
-                        { "left": "Himnusz", "right": "Kölcsey Ferenc" },
-                        { "left": "Az én Pegasusom", "right": "Csokonai Vitéz Mihály" },
-                        { "left": "János vitéz", "right": "Petőfi Sándor" }
-                    ],
-                    "points": 4,
-                    "explanation": "Ezek a magyar irodalom alapvető alkotásai és szerzőik: Jókai Mór romantikus regényírónk 'Az arany embert' 1872-ben írta; Kölcsey Ferenc a Himnuszt 1823-ban szerezte; Csokonai Vitéz Mihály 'Az én Pegasusom' önironikus versében a szegényes körülmények közt alkotó költőt jeleníti meg; Petőfi 'János vitéze' az 1844-es népies elbeszélő költemény."
-                },
-                {
-                    "id": "m-03",
-                    "type": "fill-in",
-                    "question": "Hogyan nevezzük azt a versformát, amelyben a sorok szótagszáma kötött, és a hangsúlyos és hangsúlytalan szótagok szabályosan váltakoznak? (Írja be a fogalom nevét!)",
-                    "correct": ["időmértékes verselés", "időmértékes versforma", "antik versforma", "klasszikus verselés"],
-                    "points": 2,
-                    "explanation": "Az időmértékes verselés (más nevén antik vagy kvantitáló verselés) a görög-latin költészet hagyományából ered, ahol a hosszú és rövid szótagok szabályos váltakozása adja a ritmust. A magyar irodalomban Berzsenyi Dániel és Kölcsey Ferenc ódái, valamint Vörösmarty Mihály számos műve alkalmazza ezt a versformát."
-                },
-                {
-                    "id": "m-04",
-                    "type": "table-fill",
-                    "question": "Töltse ki a táblázatot! Adja meg a főnevek esetragjait és mondatbeli szerepét!",
-                    "headers": ["Főnévi alak", "Eset", "Mondatbeli szerep"],
-                    "rows": [
+                    "type": "essay",
+                    "prompt": "Gyakorlati szövegalkotás\n\nEddig az Ön iskolájában az osztályok egymástól eltérő időpontban kirándultak, most azonban az igazgató egységesíteni akarja a kirándulások időpontját. A diákparlament egyik napirendi pontja ennek a témának a megbeszélése. Ön a diákönkormányzat tagjaként, saját osztálya képviseletében az iskolagyűlésre delegált diákképviselő, aki az osztályával korábban egyeztetett, többségi álláspontot képviseli, amely szerint ellenzi a közös időpontban megszervezendő osztálykirándulások ötletét.\n\nÍrja meg hozzászólalását 120–200 szó terjedelemben a tanulmányi kirándulások időpontjának tervezett egységesítése ügyében! Megnyilatkozásában legalább 3–5 konkrétumra hivatkozzon, és ügyeljen a hozzászólalás műfaji és formai sajátosságaira (kapcsolódás a felvetett témához, kapcsolattartó nyelvi formák)!",
+                    "minWords": 120,
+                    "maxWords": 200,
+                    "rubric": [
                         {
-                            "given": { "Főnévi alak": "a házban" },
-                            "answer": { "Eset": "inessivus (-ban/-ben)", "Mondatbeli szerep": "helyhatározó" }
+                            "criterion": "Tartalmi minőség – érvek, állítások, gondolatok",
+                            "maxPoints": 4,
+                            "levels": [
+                                "0: Nem a feladat témájáról ír, vagy egyáltalán nem oldotta meg.",
+                                "1–2: Kevés konkrétum, nem egyértelmű az ellenző álláspont.",
+                                "3: Legalább 3 konkrétum, de a kifejtés részben hiányos.",
+                                "4: Legalább 3–4 reális, megvalósítható konkrétum, problémaérzékeny hozzászólalás."
+                            ]
                         },
                         {
-                            "given": { "Főnévi alak": "az embernek" },
-                            "answer": { "Eset": "dativus (-nak/-nek)", "Mondatbeli szerep": "részeshatározó" }
+                            "criterion": "Szerkezet",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0: Nem tekinthető hozzászólalásnak (hiányzik a kapcsolódás, fatikus elemek, köszönés).",
+                                "1: Egy-két műfaji elem hiányzik (pl. kapcsolattartó formák vagy a figyelem megköszönése).",
+                                "2: Felismerhető hozzászólalás, néhány formai hiány.",
+                                "3: Kapcsolódás a témához, fatikus elemek, a figyelem megköszönése mind jelen van, megfelelő terjedelem."
+                            ]
                         },
                         {
-                            "given": { "Főnévi alak": "a könyvet" },
-                            "answer": { "Eset": "accusativus (-t/-ot/-et/-öt)", "Mondatbeli szerep": "tárgy" }
+                            "criterion": "Nyelvi igényesség (stílus, nyelvhelyesség)",
+                            "maxPoints": 3,
+                            "levels": [
+                                "0: Igénytelen, pongyola nyelvhasználat.",
+                                "1: Nyelvhelyességi hibák, nem mindig a beszédhelyzetnek megfelelő regiszter.",
+                                "2: Gördülékeny, a beszédhelyzethez illő megfogalmazás.",
+                                "3: Választékos, kifogástalan nyelvhasználat, a hozzászólalás műfajához illő regiszter."
+                            ]
                         }
-                    ],
-                    "points": 3,
-                    "explanation": "A magyar nyelv agglutináló, azaz ragozó nyelv: a főnévhez különböző esetragokat illesztünk, amelyek meghatározzák a szó mondatbeli szerepét. Az inessivus (-ban/-ben) helyen belüli tartózkodást és helyhatározói szerepet jelöl; a dativus (-nak/-nek) a részeshatározót; az accusativus (-t) a tárgyat."
-                },
-                {
-                    "id": "m-05",
-                    "type": "true-false",
-                    "question": "Kölcsey Ferenc a Himnuszt 1823-ban írta, és ez a vers lett a magyar nemzeti himnusz.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Kölcsey Ferenc valóban 1823. január 22-én fejezte be a Himnuszt, amelyet Erkel Ferenc zenésített meg 1844-ben. A vers a magyarok sorsát és az isteni oltalom iránti fohászt jeleníti meg, és azóta Magyarország törvényileg elismert nemzeti himnusza."
-                },
-                {
-                    "id": "m-06",
-                    "type": "multiple-choice",
-                    "question": "Melyik mondatban helyes a névelő és a vonatkozó névmás használata?",
-                    "options": [
-                        "Az a könyv, amit kerestem, megkerült.",
-                        "Az a könyv, amelyet kerestem, megkerült.",
-                        "Azon könyv, amelyet kerestem, megkerült.",
-                        "Ez a könyv, amit kerestem, megkerült."
-                    ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A helyes választás 'Az a könyv, amelyet kerestem, megkerült.' – az 'az a' mutató névmás + névelő szerkezet visszautal egy már ismert dologra, az 'amelyet' pedig az igényes írott nyelvben előnyben részesítendő vonatkozó névmási forma. Az 'amit' köznyelvi ugyan, de az 'az a' + 'amelyet' párosítása a legszabályosabb irodalmi norma szerint helyes."
-                },
-                {
-                    "id": "m-07",
-                    "type": "short-answer",
-                    "question": "Mi jellemzi Csokonai Vitéz Mihály költészetét stílus szempontjából? Melyik irodalmi korszakhoz sorolható, és mi ennek a korszaknak a jellemzője?",
-                    "sampleAnswer": "Csokonai Vitéz Mihály a felvilágosodás korának legjelentősebb magyar lírikusa. Költészetére a rokokó játékosság, az anakreóni életöröm és a szentimentalizmus egyszerre jellemző. A felvilágosodás irodalmát az ész kultusza, az erkölcsi és társadalmi reformok igénye, valamint a nemzeti nyelv fejlesztésének szándéka hatja át.",
-                    "points": 3,
-                    "explanation": "Csokonai Vitéz Mihály (1773–1805) a magyar felvilágosodás legsokszínűbb és legeredetibb lírikusa. Életművében egyszerre van jelen a rokokó játékosság ('Tartózkodó kérelem'), az anakreóni életörömre épülő hangnem és a szentimentális fájdalom ('A Reményhez'). A felvilágosodás kora az észre, a tudományra és a társadalmi haladásra helyezte a hangsúlyt."
-                },
-                {
-                    "id": "m-08",
-                    "type": "true-false",
-                    "question": "Jókai Mór elsősorban verseiről híresült el; regényírói munkásságát kevésbé tartja számon az irodalomtörténet.",
-                    "correct": false,
-                    "points": 2,
-                    "explanation": "Jókai Mór (1825–1904) a magyar romantikus próza legnagyobb alakja, akit elsősorban regényírói munkásságáért ismer az irodalomtörténet. Több mint száz regényt írt, köztük olyan kiemelkedő műveket, mint 'Az arany ember', 'A kőszívű ember fiai' vagy 'Az új földesúr'. Versei elenyésző részét képezik életművének."
+                    ]
                 }
             ]
         },
         "szovegalkotas": {
-            "timeLimit": 90,
+            "timeLimit": 150,
             "maxPoints": 40,
             "tasks": [
                 {
                     "id": "sa-01",
                     "type": "essay",
-                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a csapatsportok vagy az egyéni sportok értékesek-e jobban az ember fejlődése szempontjából! Érvelésébe vonjon be konkrét példákat ismert sportolók életéből, saját tapasztalataiból vagy olvasmányaiból! Mutasson rá mindkét álláspont melletti és ellene szóló legfontosabb érvekre, majd foglalja össze saját következtetését!",
-                    "minWords": 200,
-                    "maxWords": 400,
-                    "sampleAnswer": "A sport az emberi fejlődés egyik leghatékonyabb eszköze, ám a csapatsportok és az egyéni sportok más-más értéket közvetítenek.\n\nA csapatsportok – mint a labdarúgás, a kosárlabda vagy a kézilabda – az együttműködés, a közös cél iránti elkötelezettség és a kompromisszumkészség fejlesztőállomásai. A csapatban sportoló tanuló megtanulja, hogy a saját sikerénél fontosabb lehet a csoport eredménye. Ezek a készségek a munkaerőpiacon és a társadalmi életben egyaránt felbecsülhetetlen értékűek.\n\nAz egyéni sportok – mint az úszás, a tenisz vagy az atlétika – ezzel szemben az önfegyelmet, a belső motivációt és az egyéni felelősségvállalást fejlesztik. Ha egy atléta elveszít egy versenyt, nincs kire hárítani a felelősséget: ez kemény, de értékes tanulság. Federer vagy Hosszú Katinka karrierje azt mutatja, hogy az egyéni sport rendkívüli önismeretet és kitartást követel.\n\nSaját tapasztalatom szerint mindkettőre szükség van. Gyerekkoromban focizni tanultam – a csapatszellem és a barátság élményét ott sajátítottam el. Később úszást kezdtem, ahol rájöttem, hogy csak saját magamra számíthatok, és ez új erőt adott.\n\nÖsszességében úgy vélem, hogy a két sportforma nem verseng egymással: kiegészítik egymást. Az ideális nevelés mindkét típust beemeli a fiatalok életébe, hiszen az egészséges személyiségfejlődéshez egyaránt szükség van az együttműködésre és az önállóságra.",
+                    "prompt": "Műértelmező szövegalkotás: egy mű értelmezése\n\nOlvassa el és értelmezze Szabó Magda novelláját, mely az író Mézescsók Cerberusnak című kötetében jelent meg!\n\nElemezze, hogy a narrátor milyen elbeszéléstechnikai eszközökkel mutatja be az emlékezés folyamatát, illetve ismertesse ennek a megismerési folyamatnak a tapasztalatait! A kötet címének figyelembevételével értelmezze a novella elbeszélőjének és az általa elbeszélt történetnek a kapcsolatát!\n\nSzabó Magda: Ezüstgolyó\n(In: Mézescsók Cerberusnak. Európa Könyvkiadó, Budapest. 2002. 151–158.)\n\nJegyzet: mézescsók: sütemény. Az ókori görögök Cerberusnak mézes süteményt adtak, amit a halottaik szájába tettek azért, hogy átengedje őket az alvilágba. Cerberus: a görög mitológiában az alvilág kapuját őrző háromfejű kutya.",
+                    "minWords": 400,
+                    "maxWords": 800,
                     "rubric": [
                         {
-                            "criterion": "Téma kifejtése és érvelés",
-                            "maxPoints": 12,
+                            "criterion": "Tartalmi minőség",
+                            "maxPoints": 25,
                             "levels": [
-                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
-                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
-                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
-                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                                "0–4: Nem reflektál a feladatban adott szempontokra, sok tartalmatlan közlés, téves fogalomhasználat.",
+                                "5–9: Alig reflektál a szempontokra, többségében felületes közlések, hiányos tárgyi-fogalmi tudás.",
+                                "10–14: Jellemzően hiányos megfelelés, kevés releváns állítás, korlátozott fogalmi tájékozottság.",
+                                "15–19: Részleges megfelelés, helyenként kifejtetlen állítások, az értelmezési szempontok részben elfogadható alkalmazása.",
+                                "20–25: A feladatban kijelölt valamennyi szempontra kitér; kifejtett, indokolt állítások; meggyőző tájékozottság az elbeszélés-technikai eszközök és a megismerési folyamat elemzésében."
                             ]
                         },
                         {
-                            "criterion": "Szerkezet",
-                            "maxPoints": 8,
+                            "criterion": "Szövegszerkezet",
+                            "maxPoints": 5,
                             "levels": [
-                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
-                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
-                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
-                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                                "0–1: Bizonytalan gondolatmenet, kirívó szövegtagolási hibák, 400 szónál kevesebb.",
+                                "2–3: Részben rendezett gondolatmenet, aránytalan szerkezeti egységek.",
+                                "4–5: Tudatosan felépített gondolatmenet, arányos tagolás, elvárt terjedelem."
                             ]
                         },
                         {
-                            "criterion": "Nyelvhelyesség",
+                            "criterion": "Nyelvi igényesség (stílus, nyelvhelyesség)",
                             "maxPoints": 10,
                             "levels": [
-                                "0–3: Sok helyesírási és grammatikai hiba, stílustalan.",
-                                "4–6: Néhány hiba, de érthető és megfelelő stílusú.",
-                                "7–8: Kevés hiba, változatos mondatszerkesztés.",
-                                "9–10: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
-                            ]
-                        },
-                        {
-                            "criterion": "Terjedelem",
-                            "maxPoints": 5,
-                            "levels": [
-                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
-                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
-                                "5: A terjedelmi követelmény teljesül (200–400 szó)."
-                            ]
-                        },
-                        {
-                            "criterion": "Kommunikáció és műfaji megfelelés",
-                            "maxPoints": 5,
-                            "levels": [
-                                "0–1: Nincs cím, nem érvelő műfaj.",
-                                "2–3: Van cím, de a műfaj nem következetes.",
-                                "4–5: Önálló, találó cím; a szöveg egyértelműen érvelő fogalmazás."
+                                "0–2: Igénytelen nyelvhasználat, értelemzavaró hibák, sivár szókincs.",
+                                "3–5: Töredékes vagy dagályos előadásmód, pontatlanságok, bizonytalanság a regiszterben.",
+                                "6–7: Gördülékeny megfogalmazás, megfelelő szókincs, néhány kisebb hiba.",
+                                "8–10: Választékos, világos megfogalmazás, gazdag szókincs, pontos irodalmi terminológia."
                             ]
                         }
                     ]
@@ -307,58 +305,38 @@
                 {
                     "id": "sa-02",
                     "type": "essay",
-                    "prompt": "Műértelmező fogalmazás: Petőfi Sándor 'Szeptember végén' című versének témája az elmúlás és a szerelem. Értelmezze a verset ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a vers szerkezetére, a természeti képek szerepére, valamint a lírai én érzelmi fejlődésére a versen belül! Zárásként fejtse ki, hogy Ön szerint miért maradandó ez az alkotás!",
-                    "minWords": 250,
-                    "maxWords": 500,
-                    "sampleAnswer": "Petőfi Sándor 'Szeptember végén' (1847) a magyar líra egyik legismertebb és legérzékenyebb szerelmes verse. A verset Szendrey Júliának ajánlotta, és az elmúlás, a halál és a szerelem hármasára épít.\n\nA vers szerkezete három strófából áll, és különleges érzelmi ívvel rendelkezik. Az első versszakban a lírai én a természetet szemléli: a nyár végének és az ősz kezdetének képei – a zöld fa és a sárgulás – az idő múlásának metaforáivá válnak. A kettős látásmód – virág és tövis, nyár és ősz – már az első sorokban feszültséget teremt.\n\nA második strófában a természeti képek az emberi életre vetítődnek: a lírai én saját elmúlásán töpreng. Tudatosul benne, hogy ő megöregszik vagy meghal, míg szerelme fiatal marad. Ez a gondolat félelmet és szomorúságot szül, de egyben a szerelem mélységét is mutatja.\n\nA harmadik strófa a vers érzelmi csúcspontja: a lírai én elképzeli, hogy Júlia esetleg majd mást szeret, és ez a lehetséges hűtlenség szinte elviselhetetlennek tűnik. Az utolsó sor – 'Síromat ásni ne menj te, te édes' – megrázó kéréssel zárul: a halálba is egyedül akar menni, nem akar terhet rakni szerelmére.\n\nA vers maradandóságát az adja, hogy az elmúlás félelme és a szerelem védelmi vágya örök emberi érzések. Petőfi nem idealizálja a szerelmet: beleszövi a halál árnyékát, mégis az egész vers a szerelem mélységéről szól. Ez a kettősség teszi a 'Szeptember végén'-t minden korban aktuálissá és megrendítővé.",
+                    "prompt": "Műértelmező szövegalkotás: összehasonlító elemzés\n\nÉrtelmezze az alábbi költeményeket! Elemzésében térjen ki a beszédhelyzetekre, valamint a költemények szerkezeti jellemzőire! Értelmezze a lírai alanyok Váradhoz és értékeihez fűződő viszonyát, valamint a versek poétikai eszközeinek szerepét!\n\nJanus Pannonius: Búcsú Váradtól (1458)\n(ford.: Áprily Lajos)\n\nJuhász Gyula: Várad (1912)",
+                    "minWords": 400,
+                    "maxWords": 800,
                     "rubric": [
                         {
-                            "criterion": "Mű értelmezése",
-                            "maxPoints": 15,
+                            "criterion": "Tartalmi minőség",
+                            "maxPoints": 25,
                             "levels": [
-                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
-                                "5–9: Alapvető összefüggések felismerése, de elemzés hiányos.",
-                                "10–12: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
-                                "13–15: Árnyalt, önálló elemzés; szerkezet, szimbólumok, lírai én bemutatása; érett irodalmi szemlélet."
+                                "0–4: Nem reflektál a feladatban adott szempontokra, sok tartalmatlan közlés, téves fogalomhasználat.",
+                                "5–9: Alig reflektál a szempontokra, többségében felületes közlések, hiányos tárgyi-fogalmi tudás.",
+                                "10–14: Jellemzően hiányos megfelelés, kevés releváns állítás, korlátozott fogalmi tájékozottság.",
+                                "15–19: Részleges megfelelés, helyenként kifejtetlen állítások, a beszédhelyzetek, szerkezet, poétikai eszközök részben elfogadható elemzése.",
+                                "20–25: Mindkét vers beszédhelyzetére, szerkezeti jellemzőire, a Váradhoz fűződő viszonyra és a poétikai eszközök szerepére is kitér; kifejtett, indokolt, tárgyszerű állítások."
                             ]
                         },
                         {
-                            "criterion": "Szerkezet",
-                            "maxPoints": 8,
-                            "levels": [
-                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
-                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
-                                "6–7: Jól tagolt, logikus felépítés.",
-                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
-                            ]
-                        },
-                        {
-                            "criterion": "Szaknyelv",
-                            "maxPoints": 7,
-                            "levels": [
-                                "0–2: Hiányzó vagy téves irodalmi ismeretek.",
-                                "3–4: Alapismeretek megvannak, de nem mindig megfelelően alkalmazva.",
-                                "5–6: Helyes és változatos irodalmi terminológia.",
-                                "7: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
-                            ]
-                        },
-                        {
-                            "criterion": "Nyelvhelyesség",
+                            "criterion": "Szövegszerkezet",
                             "maxPoints": 5,
                             "levels": [
-                                "0–1: Sok hiba, nehezen érthető.",
-                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
-                                "4: Kevés hiba, jó stílus.",
-                                "5: Hibátlan vagy közel hibátlan, igényes fogalmazás."
+                                "0–1: Bizonytalan gondolatmenet, kirívó szövegtagolási hibák, 400 szónál kevesebb.",
+                                "2–3: Részben rendezett gondolatmenet, aránytalan szerkezeti egységek.",
+                                "4–5: Tudatosan felépített gondolatmenet, arányos tagolás, elvárt terjedelem."
                             ]
                         },
                         {
-                            "criterion": "Terjedelem",
-                            "maxPoints": 5,
+                            "criterion": "Nyelvi igényesség (stílus, nyelvhelyesség)",
+                            "maxPoints": 10,
                             "levels": [
-                                "0: Nem éri el a minimumot vagy messze meghaladja a maximumot.",
-                                "2–3: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
-                                "5: A terjedelmi követelmény teljesül (250–500 szó)."
+                                "0–2: Igénytelen nyelvhasználat, értelemzavaró hibák, sivár szókincs.",
+                                "3–5: Töredékes vagy dagályos előadásmód, pontatlanságok, bizonytalanság a regiszterben.",
+                                "6–7: Gördülékeny megfogalmazás, megfelelő szókincs, néhány kisebb hiba.",
+                                "8–10: Választékos, világos megfogalmazás, gazdag szókincs, pontos irodalmi terminológia."
                             ]
                         }
                     ]

@@ -1,373 +1,644 @@
 {
     "id": "2025-maj",
+    "subject": "magyar",
     "year": 2025,
-    "session": "Majus",
-    "date": "2025. majus 5.",
+    "session": "Május",
+    "date": "2025. május 5.",
     "sections": {
         "szovegertes": {
             "timeLimit": 60,
             "maxPoints": 40,
-            "sourceText": "A könyv jövője a digitális korban\n\nAz olvasás évezredes hagyománya napjainkban mélyreható átalakuláson megy keresztül. A digitális technológia rohamos fejlődése nyomán sokan aggódva kérdezik: vajon fennmarad-e a hagyományos, papíralapú könyv, vagy végleg háttérbe szorul az elektronikus olvasási eszközök árnyékában?\n\nA könyvpiac adatai egyelőre nem adnak egyértelmű választ erre a kérdésre. Az e-könyvek értékesítése az elmúlt évtizedben jelentős növekedést mutatott, ugyanakkor a nyomtatott könyvek iránti kereslet sem csökkent drasztikusan. Egyes felmérések szerint a fiatal olvasók körében paradox módon újra erősödik a nyomtatott könyvek vonzereje – sokan a képernyők mindenütt jelenlévő világa ellenében keresik a kézzelfogható, lapozható könyv élményét.\n\nA könyvtárak szerepe szintén átértékelődik. Miközben a digitális katalógusok és az online elérhető állomány folyamatosan bővül, a fizikai könyvtári tér sem veszít vonzerejéből. A csendes olvasótermet, a könyvek illatát, a közösségi találkozóhelyet pótolni nehéz virtuális térben. Ugyanakkor a digitalizálás lehetővé teszi, hogy korábban hozzáférhetetlen, ritka dokumentumok is széles közönség elé kerüljenek.\n\nAz irodalomtudósok egy része úgy véli, hogy a médium megváltozása szükségszerűen átalakítja az olvasási szokásokat és ezzel együtt az értelmezési stratégiákat is. A lineáris, elmélyült olvasást felválthatja a szövegek között ugráló, felszínesebb befogadási mód. Erre a veszélyre hívja fel a figyelmet Maryanne Wolf agykutató is, aki szerint a mélységi olvasás képessége – az a fajta elmélyülés, amelyre a regénytől a tudományos értekezésig számos műfaj épít – egyedülálló kulturális és kognitív értéket képvisel.\n\nA kiadók alkalmazkodnak az új helyzethez: interaktív e-könyveket, multimédiás tartalmakat, hangoskönyveket fejlesztenek. A könyv fogalma maga is tágul és alakul. Mégis, az irodalom lényege – a gondolatok, érzések, tapasztalatok nyelvbe öntése és megosztása – változatlan marad, akár papíron, akár képernyőn találkozunk vele. A kérdés nem az, hogy melyik médium győz, hanem hogy miképpen őrizhetjük meg az elmélyült, reflektív olvasás kultúráját a folytonos információáradat közepette.",
+            "sourceText": "Mária és Hanna, László és Bence. Az utónévkönyvben négyezer keresztnévből választhatunk\nDaniss Győző beszélgetése Raátz Judittal\n\n1. Ha valami igazán szorosan hozzánk tartozik – mégpedig legtöbbször nem is a magunk akaratából –, az a nevünk. Legtöbbször már a születésünk előtt eldől, hogy melyik lesz a nevünk, az „első eleme” az eddig létező kevés híján kétszázezer magyar lehetőség közül. Születésünk tájékán pedig az is, hogy „második elemként” melyik kerül mellé az egykoron négyezer magyar keresztnévből általunk is ismert lehetőségből.\n– Ki vezetéknévnek, ki előnévnek, ki családnévnek vajon személynévnek mondja a Kovácsot, az Aradit, a Zahorát. Ki keresztnévnek, ki utónévnek, ki Zabót az Eszternek, a Péternek, az Alexának. Hogy mondják másképpen keresztnévnek is, utónévnek is. Jobb-e az egyik, mint a másik – működése mindegyik érthető és voltaképpen összetéveszthetetlen. Hogy vélekednek erről nyelvünk névtani szakértői?\n– A nevünk első eleme annyi elnevezést is kaphat a családnév mellett voksol. Az előnév és a vezetéknév azért nem szerencsés, mert a Kovács vagy Aradi a legtöbb más nyelvben nem „elöl” van, nem „vezeti” a név egészét. A másik elemül ellenérv a vélemények szerint, hogy a személynév, mert a keresztnév nem személynév. A személynév mind a két név összessége. Az egyik a magyarban jelöli a keresztnevet. A „keresztnév” pedig a valamilyen vallásos tartozást sejtető, sejtő – csakhogy nem minden szülő kívánja megkeresztelni gyermekét, és ekkor ez az elnevezés túl kapcsolódik életvezetéséhez, hiedelméhez. Szintén kapcsolódás félreérthetőséghez, hivatalos iratokban is utónév szerepel, a szakmában azonban mégis inkább a keresztnév használatos. [...]\n\n2. – Milyen keresztnevet lehet ma egy két- vagy többelemű személynévnek?\n– A legegyszerűbb változat az egyetlen családnév és utána egyetlen keresztnév: Kovács Péter. Lehet valakinek két keresztneve: Kovács Péter Flórián. Az ez nem hivatalos forma. Ma egyre gyakoribb a kettős családnév, így lehet valaki Kovács-Balogh, Balogh-Kovács. A kettős családnév után is követhet két keresztnév: Kovács-Balogh Péter Flórián. A családnévi megelőzést valamilyen betű, pl. M. Kovács Péter. Ez a betű gyakran egy korábbi ragadványnévre maradványa a névelemben. Ugyanezek a közhitelességek alkuk a rendelkezésére is – legalábbis lánykori név esetén.\n\n3. – És a házasságkötés után?\n– Használhatják a férjek nevét: Aradi Erzsébet, Aradi Erzsébet Alexa. Felveheték a férjük teljes nevét: Kovács Péterné. De létezik több közös megoldás is: Kovács Péterné Aradi Erzsébet, Kovácsné Aradi Erzsébet, Kovácsné Péterné Aradi Erzsébet Alexa. De utóbbi forma ma egyre gyakoribb is kevésbé.\n\n4. – Milyen új nevet anyakönyveznek, anyakönyvezhetnek egy napjainkban született gyerekét?\n– Legtöbbször az apa családnevén és a hozzá tartozó egy vagy két keresztnéven: Kovács Péter, Kovács Péter Zsombor Alexa. Ha valamilyen ok miatt az apa családneve nem jöhet számításba, újszülöttnek legtöbbször az anya nevét adják; az újabban, valamelyik férfirokona családnevének anyakönyvezik. Napjainkban gyakori, hogy a gyerek az apa és az anya összevont nevét kapja családnévként: Kovács-Aradi Péter. Mindehhez hozzá kell tenni: a név a vonatkozó szabályok szerint, az ehhez illeszkedés hivatalokban mindenki megváltoztathatja.\n\n5. – Noha a csakném kétszázezer családnévnek jobbára automatikusan kapja a nevet az újszülött, az átmenetet négyezernyi keresztnévből szabadon válogathatunk. Vagy mégis vannak korlátozások? Milyen keresztnevet adhatunk egy csecsemőnek?\n– A törvény leszögezi, hogy az újszülöttnek csak a magyar ábécé 44 betűjével leírható, a magyar kiejtési és helyesírási szabályoknak megfelelő nevet lehet adni. Nem fogadható el olyan név, amelyet a viselőjét bármikor hátrányos helyzetbe hozhatja. Az ilyen, becéző jellegű, ún. csúfoltság utalás. A név előterjesztésénél mindenképpen tartalmazni kell a nem névviselés kifejezését. A szülők által adományozható egyértelmű megnevezést a csecsemőnek. Ha nem fogadható el, akkor a következőt kell kérni. A közszói eredetű fantázianevek a Utónévbizottság akkor javasolhatja, ha azok beilleszthetők a magyar és európai névkultúrába – a leggyakoribb példák erre a lányoknak adni kívánt virágnevek, mellyel utónévként való anyakönyvezését tesz lehetővé. A bizottság nem javasolhatja a többszörös becéző alakok – Loncika, Katácska, Misike – keresztnévként való anyakönyvezhetőségét. [...]\n\n6. – Régi nyelvi statisztikák szerint a keresztnevek gyakorisági sorrendje csak nagyon lassan módosult. Napjainkban ez a sorrend – ugyancsak a statisztikai adatok szerint – gyorsan változik, ahogyan a statisztikai határozottak. Milyen tényezők határozzák meg a névdivatot?\n– Nem divat, sokkal inkább évszázados szokás, hogy a fiúk az apjuk nevét kapják. Ritkábban a lányok is követik édesanyjuk nevét. Napjainkban a névválasztás indítéka nagyon sokszor egy filmsorozat, egy sláger hősének nimbusza, élő személyeké pedig egy ismert személy előadó, akár egyik évről a másikra. Ilyen okokból főként a nőnevek divatja változik gyorsan, akár egyik évről a másikra. Újabb jelenség, hogy a szülők a gyermekük későbbi ideigelenes vagy állandó külföldre kerülésére gondolva meg akarják könnyíteni az ottani beilleszkedést.\nDe azt követően csak a frissen adott keresztnevekre jellemző. A teljes lakossági statisztika szerint a kétezres évek elején 400 ezernél többen viselték első keresztnévként a Máriát, és ebben a statisztikában a név még 2016-ban is az első volt. [...]\nA 2016-os lány újszülöttek névlistáját a Hanna vezette – a név akkor az összlakossági listán a 73. leggyakoribb volt. Az újszülött fiúk közül abban az évben a Bence nevet kapták a legtöbben – az összlakossági statisztikában a név akkor a 31. helyet foglalta el. [...]\n\n7. – Milyen keresztnevet, keresztneveket ajánl a névkutató nyelvész a napjainkban születettekek?\n– Ennek eldöntése természetesen a szülők dolga, akarata. De néhány dolgot érdemes figyelembe venni. Sokszor emlegetett – talán csak elméleti – rossz példa a nyilvánvalóan ostoba viccelődést kiváltó Vég Béla meg a Telek Anna. Kivakképen bemutatkozáskor és kivakható ügyintézéskor támaszthat nehézséget a Kovacsics Csilla vagy Balázs Zsombor. Nem fölösleges odafigyelni a teljes név hangzására is. Például egy csupa e-betűs Szekeres családnévhez a szintén e-betűs Csepernél vagy Kelemennel hangzáskban jobban illik az „eltérő magánhangzós” Boglárka vagy Máté. Ugyanígy a Madarashoz az Amandánál, az Abánál inkább illik az Eszter vagy a Péter. Egy hosszú családnévhez jobban illik egy rövid keresztnév. Egy rövidebbhez egy hosszabb. Van, akinek tetszik az alliteráció, az azonos kezdőbetű – Kovács Katalin, Aradi Andor –, és van, akinek nem.\nA keresztnévválaszték bőséges. És egyre gazdagabb. [...]\n\nForrás: Mária és Hanna, László és Bence. Az utónévkönyvben négyezer keresztnévből választhatunk. In.: Daniss Győző (2021): Körkép a magyar nyelvről. Tinta Kiadó, Budapest 209–219.",
             "tasks": [
                 {
-                    "id": "sz_01",
+                    "id": "sz-01",
                     "type": "multiple-choice",
-                    "question": "Mi a szöveg fő témája?",
+                    "question": "Húzza alá azokat az állításokat, melyek igazak az olvasott szövegre!\na) A kommunikáció iránya szerint a szöveg dialogikus / monologikus.\nb) A szöveg műfaja interjú / riport.\nc) A kötetet, amelyben ez a szöveg megjelent, az Akadémiai Kiadó adta ki / a Tinta Kiadó adta ki.",
                     "options": [
-                        "A könyvtárak megszüntetésének veszélye",
-                        "A nyomtatott és digitális könyv jövője a digitális korban",
-                        "Az e-könyvek műszaki fejlesztése",
-                        "A fiatalok olvasási szokásainak romlása"
+                        "dialogikus",
+                        "monologikus",
+                        "interjú",
+                        "riport",
+                        "az Akadémiai Kiadó adta ki",
+                        "a Tinta Kiadó adta ki"
                     ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A szöveg egészén végighúzódó kérdés az, hogy a digitális technológia korában hogyan alakul a könyv – különösen a nyomtatott könyv – sorsa. Az összes többi téma (könyvtárak, e-könyvek technikája, fiatalok) csak részlete ennek az átfogó kérdésnek."
+                    "correct": [
+                        "dialogikus",
+                        "interjú",
+                        "a Tinta Kiadó adta ki"
+                    ],
+                    "points": 3,
+                    "explanation": "A szöveg dialogikus, hiszen párbeszéd formájú. Műfaja interjú, mivel egy szakértővel folytatott, kérdések köré épülő beszélgetés. A kötet forrása a Tinta Kiadó (2021)."
                 },
                 {
-                    "id": "sz_02",
-                    "type": "true-false",
-                    "question": "A szöveg szerint a nyomtatott könyvek iránti kereslet drasztikusan csökkent az elmúlt évtizedben.",
-                    "correct": false,
-                    "points": 2,
-                    "explanation": "Hamis, mert a szöveg épp az ellenkezőjét állítja: a nyomtatott könyvek iránti kereslet 'sem csökkent drasztikusan', sőt egyes felmérések szerint a fiatalok körében újra erősödik a vonzerejük."
-                },
-                {
-                    "id": "sz_03",
-                    "type": "true-false",
-                    "question": "A szöveg szerint egyes fiatal olvasók körében újra erősödik a nyomtatott könyvek vonzereje.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Igaz, mert a szöveg második bekezdése kifejezetten megemlíti, hogy paradox módon a fiatal olvasók körében újra erősödik a kézzelfogható, lapozható könyv iránti vonzalom, mintegy ellenreakcióként a digitális világgal szemben."
-                },
-                {
-                    "id": "sz_04",
-                    "type": "fill-in",
-                    "question": "Melyik agykutató hívja fel a figyelmet a mélységi olvasás veszélyeztetettségére? (Csak a nevet írja!)",
-                    "correct": ["Maryanne Wolf", "Wolf Maryanne", "Wolf"],
-                    "points": 2,
-                    "explanation": "Maryanne Wolf agykutató nevét a szöveg negyedik bekezdése tartalmazza; ő figyelmeztet arra, hogy a mélységi olvasás – az elmélyült, reflektív befogadás képessége – egyedülálló kulturális és kognitív értéket képvisel, amelyet a digitális olvasási szokások veszélyeztethetnek."
-                },
-                {
-                    "id": "sz_05",
+                    "id": "sz-02a",
                     "type": "short-answer",
-                    "question": "Milyen pozitív lehetőséget említ a szöveg a digitalizálással kapcsolatban a könyvtárak vonatkozásában?",
-                    "sampleAnswer": "A digitalizálás lehetővé teszi, hogy korábban hozzáférhetetlen, ritka dokumentumok is széles közönség elé kerüljenek.",
-                    "points": 4,
-                    "explanation": "A szöveg harmadik bekezdése szerint a digitalizálás legfontosabb előnye a könyvtárak szempontjából az, hogy ritka, korábban csak kevesek számára elérhető dokumentumok széles közönség előtt is megnyílhatnak – ez a tudás demokratizálódását jelenti."
-                },
-                {
-                    "id": "sz_06",
-                    "type": "matching",
-                    "question": "Párosítsa össze a szövegben szereplő fogalmakat a hozzájuk tartozó magyarázatokkal!",
-                    "pairs": [
-                        { "left": "mélységi olvasás", "right": "elmélyült, reflektív befogadásmód, amelyre számos műfaj épít" },
-                        { "left": "lineáris olvasás", "right": "folyamatos, megszakítás nélküli szövegkövetés" },
-                        { "left": "digitális katalógus", "right": "online elérhető könyvtári állomány" },
-                        { "left": "interaktív e-könyv", "right": "multimédiás tartalmakat is tartalmazó elektronikus kiadvány" }
+                    "question": "A magyar nevek „első eleme” milyen elnevezéseket kaphat a szöveg szerint? Mindegyik elnevezést írja le!",
+                    "sampleAnswer": "Vezetéknév, előnév, családnév, személynév.",
+                    "correct": [
+                        "vezetéknév, előnév, családnév, személynév",
+                        "vezetéknév előnév családnév személynév"
                     ],
-                    "points": 4,
-                    "explanation": "A szöveg mindegyik fogalmat a saját kontextusában definiálja: a mélységi olvasás Wolf agykutató kapcsán, a lineáris olvasás az elmélyülés leírásában, a digitális katalógus a könyvtárak átalakulásánál, az interaktív e-könyv a kiadók alkalmazkodásánál jelenik meg."
+                    "points": 1,
+                    "explanation": "A szöveg szerint a magyar név első eleme négy elnevezést is kaphat: vezetéknév, előnév, családnév, személynév. Csak mind a négy helyes válasz esetén adható a pont; a szavak sorrendje felcserélhető."
                 },
                 {
-                    "id": "sz_07",
-                    "type": "ordering",
-                    "question": "Rendezze időrendi vagy logikai sorrendbe a szövegben tárgyalt jelenségeket úgy, ahogy a szöveg felépíti az érvelést!",
-                    "items": [
-                        "A kiadók alkalmazkodnak: interaktív e-könyvek, hangoskönyvek jelennek meg.",
-                        "A digitális technológia fejlődése aggodalmakat kelt a könyv jövőjével kapcsolatban.",
-                        "Az irodalom lényege – gondolatok megosztása – változatlan marad.",
-                        "A könyvpiac adatai nem adnak egyértelmű választ az e-könyv vs. nyomtatott könyv vitájára.",
-                        "Wolf agykutató figyelmeztet a mélységi olvasás veszélyeztetettségére."
+                    "id": "sz-02b",
+                    "type": "short-answer",
+                    "question": "A név első elemének megnevezései közül melyiket javasolja a nyelvész?",
+                    "sampleAnswer": "Családnév.",
+                    "correct": [
+                        "családnév"
                     ],
-                    "correctOrder": [1, 3, 4, 0, 2],
-                    "points": 5,
-                    "explanation": "A szöveg logikai íve: először felvázolja az aggodalmat (digitális fejlődés), majd megállapítja, hogy a könyvpiac nem ad egyértelmű választ, ezután bemutatja Wolf figyelmeztetését, aztán a kiadók alkalmazkodását, végül optimista következtetéssel zárja, hogy az irodalom lényege változatlan marad."
+                    "points": 1,
+                    "explanation": "A szöveg szerint a nyelvész a családnév megnevezés mellett voksol, mert ez fejezi ki leginkább a név egészéhez való viszonyt."
                 },
                 {
-                    "id": "sz_08",
+                    "id": "sz-02c",
+                    "type": "short-answer",
+                    "question": "Mivel indokolja az előnév szóhasználat mellőzését a névtani szakértő?",
+                    "sampleAnswer": "Azzal, hogy más nyelvben nem „elöl” van, és nem „vezeti” a név egészét.",
+                    "correct": [
+                        "más nyelvben nem elöl van",
+                        "nem vezeti a név egészét",
+                        "más nyelvben nem elöl van / nem vezeti a név egészét"
+                    ],
+                    "points": 1,
+                    "explanation": "A szakértő azzal indokolja az előnév megnevezés elvetését, hogy más nyelvekben a családnév nem „elöl” helyezkedik el, és nem „vezeti” a teljes nevet."
+                },
+                {
+                    "id": "sz-03a",
+                    "type": "short-answer",
+                    "question": "A magyar nevek „második eleme” milyen elnevezést kap a személyi igazolványunkban?",
+                    "sampleAnswer": "Utónév.",
+                    "correct": [
+                        "utónév"
+                    ],
+                    "points": 1,
+                    "explanation": "A szöveg szerint a hivatalos iratokban, így a személyi igazolványban is utónévként szerepel a név második eleme."
+                },
+                {
+                    "id": "sz-03b",
+                    "type": "short-answer",
+                    "question": "Honnan ered a keresztnév szóhasználat?",
+                    "sampleAnswer": "Onnan, hogy a gyermek a keresztségben kapja a nevét, illetve a keresztelőre és a valláshoz tartozásra utal.",
+                    "correct": [
+                        "a gyermek a keresztségben kapja a nevét",
+                        "a keresztelőre utal",
+                        "valláshoz tartozást fejez ki"
+                    ],
+                    "points": 1,
+                    "explanation": "A keresztnév elnevezés onnan ered, hogy a gyermek a keresztségben (keresztelőn) kapja a nevét, és ezzel vallásos tartozást is kifejez."
+                },
+                {
+                    "id": "sz-04",
+                    "type": "short-answer",
+                    "question": "Milyen nevet viselhet Kiss Anna a házasságkötés után, ha a férje neve Tóth Péter? Írjon három lehetséges névválasztást a 3. szövegegység információit felhasználva!",
+                    "sampleAnswer": "Kiss Anna; Tóthné Kiss Anna; Tóth Péterné Kiss Anna.",
+                    "correct": [
+                        "Kiss Anna",
+                        "Tóth Péterné",
+                        "Tóthné Kiss Anna",
+                        "Tóth Péterné Kiss Anna",
+                        "Tóth Anna",
+                        "Tóth-Kiss Anna"
+                    ],
+                    "points": 3,
+                    "explanation": "A szöveg alapján Kiss Anna házasságkötés után viselhet ilyen nevet: Kiss Anna, Tóth Péterné, Tóthné Kiss Anna, Tóth Péterné Kiss Anna, Tóth Anna vagy Tóth-Kiss Anna. Három különböző helyes válasz ér 3 pontot."
+                },
+                {
+                    "id": "sz-05a",
+                    "type": "short-answer",
+                    "question": "Viselheti-e Kiss Anna és Tóth Péter házaspár születendő leánygyermeke a Tóth-Kiss Renáta nevet a szöveg információi alapján? Válaszát indokolja is meg!",
+                    "sampleAnswer": "Igen. Az apa és az anya családnevének összevont formáját kaphatja családnévként a gyermek.",
+                    "correct": [
+                        "igen, az apa és az anya összevont nevét kapja családnévnek",
+                        "igen, mert az apa és az anya családnevének összevonását kaphatja a gyermek",
+                        "igen"
+                    ],
+                    "points": 1,
+                    "explanation": "A szöveg 4. bekezdése szerint ma gyakori, hogy a gyermek az apa és az anya összevont nevét kapja családnévként, ezért a Tóth-Kiss Renáta név adható. A pont csak IGEN válasszal és helyes indoklással együtt jár."
+                },
+                {
+                    "id": "sz-05b",
+                    "type": "short-answer",
+                    "question": "Viselheti-e Kiss Anna és Tóth Péter házaspár születendő leánygyermeke a Kiss Renáta nevet a szöveg információi alapján? Válaszát indokolja is meg!",
+                    "sampleAnswer": "Igen. Ha valamilyen ok miatt az apa családneve nem jöhet számításba, a gyermek az anya családnevét is kaphatja.",
+                    "correct": [
+                        "igen, ha valamilyen ok miatt az apa családneve nem jöhet számításba, az anya nevét is kaphatja a gyermek",
+                        "igen"
+                    ],
+                    "points": 1,
+                    "explanation": "A szöveg 4. bekezdése szerint, ha valamilyen ok miatt az apa családneve nem jöhet számításba, a gyermek az anya családnevét is megkaphatja. A pont csak IGEN válasszal és helytálló indoklással együtt jár."
+                },
+                {
+                    "id": "sz-05c",
+                    "type": "short-answer",
+                    "question": "Indokolja meg, miért helytelen az alábbi feladatmegoldás és a hozzá tartozó indoklás együttesen! Szabó Renáta: IGEN. Indoklás: „az illetékes hivatalokban mindenki megváltoztathatja a nevét.”",
+                    "sampleAnswer": "Azért helytelen, mert újszülöttről van szó, aki még nem tud a hivatalokban eljárni; a névváltoztatásra való hivatkozás ebben az esetben nem fogadható el.",
+                    "correct": [
+                        "újszülöttről van szó",
+                        "az indoklás nem fogadható el, mert újszülöttről van szó",
+                        "újszülött nem változtathatja meg a nevét"
+                    ],
+                    "points": 1,
+                    "explanation": "Az indoklás azért nem fogadható el, mert újszülöttről van szó: a névválasztás szabályozása az első névadásra vonatkozik, nem a későbbi hivatalos névváltoztatásra."
+                },
+                {
+                    "id": "sz-06",
                     "type": "table-fill",
-                    "question": "Töltse ki a táblázatot a szöveg alapján! Sorolja fel a nyomtatott könyv és a digitális könyv előnyeit a szöveg szerint!",
-                    "headers": ["Szempont", "Nyomtatott könyv", "Digitális könyv"],
+                    "question": "Indokolja meg a szöveg 5. bekezdése alapján, hogy miért utasítaná vissza a Magyar Nyelvtudományi Intézet Utónévbizottsága az alábbi keresztnevek használatát! Minden névhez más indoklást írjon!",
+                    "headers": [
+                        "Keresztnév",
+                        "Indoklás"
+                    ],
                     "rows": [
                         {
-                            "given": { "Szempont": "Hozzáférhetőség" },
-                            "answer": { "Nyomtatott könyv": "kézzelfogható, lapozható élmény", "Digitális könyv": "ritka dokumentumok is elérhetővé válnak" }
+                            "given": {
+                                "Keresztnév": "Fibi"
+                            },
+                            "answer": {
+                                "Indoklás": "nem derül ki a névből, hogy lány- vagy fiúnév-e / csúfolható, hátrányos helyzetbe hozhatja viselőjét"
+                            }
                         },
                         {
-                            "given": { "Szempont": "Közösségi szerep" },
-                            "answer": { "Nyomtatott könyv": "fizikai könyvtári tér, találkozóhely", "Digitális könyv": "online katalógusok, széles elérés" }
+                            "given": {
+                                "Keresztnév": "Héloïse"
+                            },
+                            "answer": {
+                                "Indoklás": "nem a magyar ábécé 44 betűjével leírható, nem felel meg a magyar kiejtési és helyesírási szabályoknak"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Keresztnév": "Bömbike"
+                            },
+                            "answer": {
+                                "Indoklás": "a bizottság nem javasolja a többszörös becéző alakok anyakönyvezését / csúfolható, hátrányos helyzetbe hozhatja viselőjét"
+                            }
                         }
                     ],
-                    "points": 6,
-                    "explanation": "A szöveg mindkét médiumnak bemutatja az előnyeit: a nyomtatott könyv a kézzelfogható élményt és a fizikai közösségi teret nyújtja, míg a digitális könyv a ritka dokumentumok széles körű elérhetőségét és az online katalógusok kiterjedt hozzáférését biztosítja."
+                    "points": 3,
+                    "explanation": "Fibi: nem derül ki belőle a nem, csúfolható. Héloïse: nem írható le a magyar ábécé 44 betűjével, nem felel meg a magyar kiejtési-helyesírási szabályoknak. Bömbike: többszörös becéző alak, ilyen anyakönyvezését a bizottság nem javasolja. Három eltérő helyes indoklás szükséges a teljes pontszámhoz."
                 },
                 {
-                    "id": "sz_09",
+                    "id": "sz-07a",
                     "type": "short-answer",
-                    "question": "Hogyan fogalmazza meg a szöveg a valódi kérdést a könyv jövőjével kapcsolatban? Idézze vagy fogalmazza meg saját szavaival!",
-                    "sampleAnswer": "A valódi kérdés nem az, hogy melyik médium (nyomtatott vagy digitális) győz, hanem hogy miképpen őrizhetjük meg az elmélyült, reflektív olvasás kultúráját a folytonos információáradat közepette.",
-                    "points": 4,
-                    "explanation": "A szöveg zárómondatában a szerző átfogalmazza a vitát: nem a médiumok versenyéről van szó, hanem arról, hogyan tartható fenn az elmélyült olvasás kultúrája az információáradat közepette – ez egy mélyebb, kulturális és pedagógiai kérdés."
-                },
-                {
-                    "id": "sz_10",
-                    "type": "multiple-choice",
-                    "question": "Mit jelent a szövegben a 'paradox' szó ('paradox módon újra erősödik a nyomtatott könyvek vonzereje')?",
-                    "options": [
-                        "Természetes következményként",
-                        "Látszólag ellentmondásos, mégis igaz módon",
-                        "Tudományosan bizonyítottan",
-                        "Fokozatosan, lépésről lépésre"
+                    "question": "Tanulmányozza a szövegben közölt táblázatokat a teljes női lakosság névgyakoriságáról (a 16. és 18. században) és a leggyakrabban választott női utónevekről (2016, 2019, 2022)! Melyik/melyek az a női utónév/utónevek, amely/amelyek már a 16. században is ugyanúgy gyakori/gyakoriak volt/voltak, mint a 2000-es években?\n\n<div class=\"image-placeholder\">🖼 A teljes női lakosság névgyakoriságának és a leggyakrabban választott női utónevek KSH táblázatai — lásd feladatsor PDF (7. oldal)</div>",
+                    "sampleAnswer": "Anna, Zsófia.",
+                    "correct": [
+                        "Anna, Zsófia",
+                        "Anna és Zsófia",
+                        "Zsófia, Anna"
                     ],
-                    "correct": 1,
                     "points": 2,
-                    "explanation": "A 'paradox' szó görög eredetű, és látszólagos ellentmondást jelöl: az elvárással ellentétben (digitális korban a nyomtatott könyv visszaszorulna) épp az ellenkezője igaz, és ez a jelenség meglepőnek, mégis valósnak tűnik."
+                    "explanation": "Az Anna és a Zsófia már a 16. században is a leggyakoribb tíz női név között szerepelt (2., illetve 6. helyen), és a 2000-es évek legnépszerűbb női utónevei között is ott vannak."
                 },
                 {
-                    "id": "sz_11",
-                    "type": "fill-in",
-                    "question": "Milyen műfajú szöveget olvasott? Írja be a szöveg műfajának megnevezését! (pl.: elbeszélés, értekezés, riport...)",
-                    "correct": ["értekezés", "ismeretterjesztő szöveg", "esszé", "publicisztika", "elemzés"],
-                    "points": 2,
-                    "explanation": "A szöveg értekezés vagy esszé műfajú, mert egy elvont, társadalmi-kulturális kérdést (a könyv jövőjét) elemez, bizonyítékokat és érveket sorakoztat fel, és következtetéssel zárul – mindez a tudományos-ismeretterjesztő prózai műfaj jellemzője."
-                },
-                {
-                    "id": "sz_12",
+                    "id": "sz-07b",
                     "type": "short-answer",
-                    "question": "Melyek azok a könyvtárhoz kapcsolódó, nem pótolható élmények, amelyeket a szöveg felsorol? Legalább kettőt nevezzen meg!",
-                    "sampleAnswer": "A szöveg szerint a fizikai könyvtárban nem pótolható a csendes olvasóterem, a könyvek illata és a közösségi találkozóhely lehetősége.",
-                    "points": 5,
-                    "explanation": "A szöveg harmadik bekezdése három konkrét, érzéki és közösségi elemet sorol fel, amelyeket a virtuális tér nem képes visszaadni: a csendes olvasótermet (nyugalom, koncentráció), a könyvek illatát (érzéki élmény) és a közösségi találkozóhely funkcióját (emberi kapcsolatok)."
+                    "question": "Melyik/melyek az a női utónév/utónevek, amelynek/amelyeknek a népszerűsége 2016 óta folyamatosan növekszik a megadott információk szerint?",
+                    "sampleAnswer": "Léna.",
+                    "correct": [
+                        "Léna"
+                    ],
+                    "points": 1,
+                    "explanation": "A Léna név 2016-ban még csak a 10. helyen állt, 2019-ben az 5., 2022-ben pedig már a 2. leggyakoribb női utónév – tehát népszerűsége folyamatosan nő."
+                },
+                {
+                    "id": "sz-08a",
+                    "type": "multiple-choice",
+                    "question": "Melyik utónevet ajánlja, javasolja elsősorban a nyelvész az alábbiak közül a következő családnevekhez? Húzza alá a helyes választ a szöveg információi alapján! (7)\n\nSZOBOSZLÓ: Domonkos / Dániel\nTÓTH: Ada / Veronika\nPARÁZS: Olivér / Simon",
+                    "options": [
+                        "Szoboszló Domonkos",
+                        "Szoboszló Dániel",
+                        "Tóth Ada",
+                        "Tóth Veronika",
+                        "Parázs Olivér",
+                        "Parázs Simon"
+                    ],
+                    "correct": [
+                        "Szoboszló Dániel",
+                        "Tóth Veronika",
+                        "Parázs Olivér"
+                    ],
+                    "points": 3,
+                    "explanation": "A 7. bekezdés útmutatásai szerint: Szoboszló Dániel – az eltérő magánhangzók miatt jobb a teljes név hangzása; Tóth Veronika – a rövid családnévhez hosszabb keresztnév illik jobban; Parázs Olivér – a Parázs Simon név nehéz kiejtésű lenne."
+                },
+                {
+                    "id": "sz-08b",
+                    "type": "short-answer",
+                    "question": "Egy válaszát, választását indokolja is meg a szöveg alapján! (Bármelyiket választhatja a fenti nevek közül.)",
+                    "sampleAnswer": "Szoboszló Dániel: az eltérő hangrend, eltérő magánhangzók miatt jobb a teljes név hangzása. / Tóth Veronika: a rövid családnévhez jobban illik egy hosszabb keresztnév. / Parázs Olivér: a Parázs Simon nevet nehéz kiejteni, bemutatkozáskor gondot jelenthet.",
+                    "correct": [
+                        "eltérő magánhangzók",
+                        "eltérő hangrend",
+                        "rövid családnévhez hosszabb keresztnév illik",
+                        "nehéz kiejteni",
+                        "gondot jelent bemutatkozáskor"
+                    ],
+                    "points": 1,
+                    "explanation": "Bármelyik helyes indoklás elfogadható: hangrendi/hangzásbeli eltérés, családnév és keresztnév hosszának egyensúlya, a teljes név kiejthetősége."
+                },
+                {
+                    "id": "sz-09",
+                    "type": "short-answer",
+                    "question": "A szöveg szerint az utónevek gyakorisági sorrendje a különböző korokban eltérő gyorsasággal változik. A 6. szövegegységben olvashatók az alábbi információk: „A teljes lakossági statisztika szerint a kétezres évek elején 400 ezernél többen viselték első keresztnévként a Máriát, és ebben a statisztikában a név még 2016-ban is az első volt. […] A 2016-os lány újszülöttek névlistáját a Hanna vezette.” Ön szerint ellentmondás van-e ebben az idézett szövegrészben? Válaszát indokolja is meg!",
+                    "sampleAnswer": "Nincs ellentmondás. A Mária név a teljes lakossági statisztika alapján készült, a Hanna név pedig csak az újszülöttek névlistáján szerepelt az első helyen.",
+                    "correct": [
+                        "nincs ellentmondás, a Mária a teljes lakosság, a Hanna az újszülöttek statisztikáján szerepel",
+                        "nincs ellentmondás, különböző statisztikákról van szó"
+                    ],
+                    "points": 2,
+                    "explanation": "Nincs ellentmondás: a Mária a teljes lakosságra vonatkozó statisztika alapján volt első, a Hanna pedig csak az újszülöttek névadási statisztikáján. 2 pont: NINCS + mindkét statisztika egyértelmű elkülönítése; 1 pont: NINCS + csak az egyik elem. A VAN válasz semmilyen indoklással sem fogadható el."
+                },
+                {
+                    "id": "sz-10a",
+                    "type": "short-answer",
+                    "question": "Az alábbi táblázat (a leggyakrabban választott fiú utónevek 2016-ban, 2019-ben, 2022-ben) alapján: Melyek azok a fiúnevek, amelyek helyezése a népszerűségi listán évek óta ugyanolyan az újszülöttek névadási statisztikája alapján?\n\n<div class=\"image-placeholder\">🖼 A leggyakrabban választott fiú utónevek táblázata (KSH adatok, 2016, 2019, 2022) — lásd feladatsor PDF (9. oldal)</div>",
+                    "sampleAnswer": "Levente, Marcell.",
+                    "correct": [
+                        "Levente, Marcell",
+                        "Levente és Marcell",
+                        "Marcell, Levente"
+                    ],
+                    "points": 2,
+                    "explanation": "A Levente mindhárom évben (2016, 2019, 2022) a 3., a Marcell pedig mindhárom évben az 5. helyen áll a leggyakrabban választott fiúnevek listáján."
+                },
+                {
+                    "id": "sz-10b",
+                    "type": "short-answer",
+                    "question": "Melyek azok a népszerű fiúnevek, amelyek 2019-től váltak divatossá, kerültek be a leggyakrabban választott fiú utónevek közé?",
+                    "sampleAnswer": "Olivér, Zalán.",
+                    "correct": [
+                        "Olivér, Zalán",
+                        "Olivér és Zalán",
+                        "Zalán, Olivér"
+                    ],
+                    "points": 2,
+                    "explanation": "Az Olivér 2019-ben került be a top 10-be (10. hely), 2022-ben már 2.; a Zalán 2022-ben lett a 8. leggyakoribb – mindkettő 2019-től vált igazán divatos fiúnévvé."
+                },
+                {
+                    "id": "sz-11",
+                    "type": "table-fill",
+                    "question": "Döntse el az olvasott szöveg alapján az alábbi állításokról, hogy igazak-e vagy hamisak! Írja a megfelelő betűjelet a táblázat 2. oszlopába! (I = igaz, H = hamis)",
+                    "headers": [
+                        "Állítás",
+                        "I/H"
+                    ],
+                    "rows": [
+                        {
+                            "given": {
+                                "Állítás": "Magyarországon 2016-ban a Bence nevet viselték legtöbben az összlakossági statisztika szerint."
+                            },
+                            "answer": {
+                                "I/H": "H"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Állítás": "Az Utónévbizottság javasolhatja lánygyermekek esetén a magyar névkultúrába illő virágnevek használatát."
+                            },
+                            "answer": {
+                                "I/H": "I"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Állítás": "Több mint kétszázezer családnevünk mellé négyezer utónévből válogathatunk."
+                            },
+                            "answer": {
+                                "I/H": "H"
+                            }
+                        },
+                        {
+                            "given": {
+                                "Állítás": "A szüleink által választott nevet viseljük egész életünkben, ezért kell nagyon meggondolni, milyen nevet adunk gyermekünknek."
+                            },
+                            "answer": {
+                                "I/H": "H"
+                            }
+                        }
+                    ],
+                    "points": 4,
+                    "explanation": "1) Hamis: 2016-ban a Bence csak az újszülöttek listáján volt első, az összlakossági listán a 31. helyen állt. 2) Igaz: az Utónévbizottság javasolhatja magyar névkultúrába illő virágnevek adását. 3) Hamis: kevés híján kétszázezer családnév és négyezer utónév közül válogathatunk. 4) Hamis: a név a vonatkozó szabályok szerint megváltoztatható."
+                },
+                {
+                    "id": "sz-12a",
+                    "type": "short-answer",
+                    "question": "Fogalmazzon meg vagy szabadon idézzen egy olyan törvényi szabályozót, amelyet figyelembe kell venni névadáskor! Ügyeljen arra, hogy válasza FŐNÉVI IGENEVET tartalmazzon!",
+                    "sampleAnswer": "Csak a magyar ábécé 44 betűjével leírható nevet lehet adni az újszülöttnek.",
+                    "points": 2,
+                    "explanation": "1 pont a tartalomra (helytálló törvényi szabály), 1 pont a nyelvi minőségre (főnévi igenév: pl. „adni”, „használni”). Ha ajánlást és nem szabályt ír, a tartalmi pont 0, de a nyelvi pont megadható, ha tartalmaz főnévi igenevet."
+                },
+                {
+                    "id": "sz-12b",
+                    "type": "short-answer",
+                    "question": "Fogalmazzon meg vagy szabadon idézzen egy olyan törvényi szabályozót, amelyet figyelembe kell venni névadáskor! Ügyeljen arra, hogy válasza MINŐSÉGJELZŐS SZÓSZERKEZETET tartalmazzon!",
+                    "sampleAnswer": "Az ősi magyar nevek eredetét írásos forrásokkal kell bizonyítani.",
+                    "points": 2,
+                    "explanation": "1 pont a tartalomra, 1 pont a minőségjelzős szószerkezetre (pl. „ősi magyar nevek”, „írásos források”). A válasznak szabályt, nem ajánlást kell megfogalmaznia."
+                },
+                {
+                    "id": "sz-12c",
+                    "type": "short-answer",
+                    "question": "Fogalmazzon meg vagy szabadon idézzen egy olyan törvényi szabályozót, amelyet figyelembe kell venni névadáskor! Ügyeljen arra, hogy válasza ALÁRENDELŐ ÖSSZETETT MONDAT legyen!",
+                    "sampleAnswer": "Nem adható olyan név a gyermeknek, amely őt hátrányos helyzetbe hozhatja.",
+                    "points": 2,
+                    "explanation": "1 pont a tartalomra, 1 pont az alárendelő összetett mondatformára. A mondatnak főmondatból és legalább egy alárendelt mellékmondatból kell állnia, és törvényi szabályt kell megfogalmaznia."
                 }
             ]
         },
         "muveleti": {
-            "timeLimit": 40,
+            "timeLimit": 30,
             "maxPoints": 20,
             "tasks": [
                 {
-                    "id": "mu_01",
-                    "type": "multiple-choice",
-                    "question": "Melyik mondatban helyes a vonatkozó névmás használata?",
-                    "options": [
-                        "Ez az a könyv, amit tegnap olvastam.",
-                        "Ez az a könyv, amelyet tegnap olvastam.",
-                        "Ez az a könyv, minek tegnap olvastam.",
-                        "Ez az a könyv, kit tegnap olvastam."
-                    ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "Az 'amelyet' a szabályos, választékos vonatkozó névmás tárgyesete, amely élettelen főnévre utal. Az 'amit' köznyelvi alaknak számít, a 'minek' és a 'kit' nyelvtanilag helytelenek ebben a szerkezetben (a 'kit' csak személyre utalhat)."
-                },
-                {
-                    "id": "mu_02",
-                    "type": "matching",
-                    "question": "Párosítsa az irodalmi alkotásokat szerzőikkel!",
-                    "pairs": [
-                        { "left": "Toldi", "right": "Arany János" },
-                        { "left": "Az ember tragédiája", "right": "Madách Imre" },
-                        { "left": "Egri csillagok", "right": "Gárdonyi Géza" },
-                        { "left": "Édes Anna", "right": "Kosztolányi Dezső" }
-                    ],
-                    "points": 4,
-                    "explanation": "Mind a négy mű a magyar irodalom alapkanonikus alkotása: Arany János a Toldit 1846-ban írta, Madách Az ember tragédiáját 1861-ben, Gárdonyi az Egri csillagokat 1901-ben, Kosztolányi pedig az Édes Annát 1926-ban – ezek ismerete elengedhetetlen az érettségire."
-                },
-                {
-                    "id": "mu_03",
-                    "type": "fill-in",
-                    "question": "Hogyan nevezzük azt a stílusalakzatot, amelyben az író élettelen tárgyakat vagy fogalmakat emberi tulajdonságokkal ruház fel? (Írja be a fogalom nevét!)",
-                    "correct": ["megszemélyesítés", "perszonifikáció"],
-                    "points": 2,
-                    "explanation": "A megszemélyesítés (perszonifikáció) olyan stilisztikai eszköz, amellyel az író emberi vonásokat, érzéseket vagy cselekvéseket tulajdonít élettelen tárgyaknak, fogalmaknak vagy természeti jelenségeknek, így teszi szemléletesebbé és érzelmileg hatásosabbá a szöveget."
-                },
-                {
-                    "id": "mu_04",
+                    "id": "m-01",
                     "type": "table-fill",
-                    "question": "Töltse ki a táblázatot! Adja meg az igék szótári alakját és igekötő nélküli változatát!",
-                    "headers": ["Igealak", "Szótári alak", "Igekötő"],
+                    "question": "Javítsa a következő állításokban előforduló egy-egy hibát! Húzza alá a hibás információt, majd a javítást írja a 3. oszlopba! (Minden mondat egy hibás információt tartalmaz.)",
+                    "headers": [
+                        "Állítás",
+                        "Javítás"
+                    ],
                     "rows": [
                         {
-                            "given": { "Igealak": "megírta" },
-                            "answer": { "Szótári alak": "megír", "Igekötő": "meg-" }
+                            "given": {
+                                "Állítás": "Zrínyi Miklós a Szigeti veszedelem című elbeszélő költeményében dédapja 1566-os szigetvári küzdelmének állított emléket."
+                            },
+                            "answer": {
+                                "Javítás": "eposzában / eposz (nem elbeszélő költemény)"
+                            }
                         },
                         {
-                            "given": { "Igealak": "felolvasták" },
-                            "answer": { "Szótári alak": "felolvas", "Igekötő": "fel-" }
+                            "given": {
+                                "Állítás": "Arany János egyik legtermékenyebb költői korszaka az ún. nagyszalontai évek, ekkor keletkezett balladái például az Ágnes asszony és az V. László című művek."
+                            },
+                            "answer": {
+                                "Javítás": "nagykőrösi / Nagykőrös (nem nagyszalontai)"
+                            }
                         },
                         {
-                            "given": { "Igealak": "visszatér" },
-                            "answer": { "Szótári alak": "visszatér", "Igekötő": "vissza-" }
+                            "given": {
+                                "Állítás": "Babits Mihály Jónás könyve című elbeszélő költeménye egy bibliai, újszövetségi történet mögé rejtett szellemi önéletrajz."
+                            },
+                            "answer": {
+                                "Javítás": "ószövetségi / Ószövetség (nem újszövetségi)"
+                            }
                         }
                     ],
                     "points": 3,
-                    "explanation": "Az igekötők a magyar igék elé járuló, a cselekvés irányát vagy befejezettségét jelölő morfémák. A szótári alak az igekötővel együtt értendő (megír, felolvas, visszatér), és az igekötőt a kötőjeles jelöléssel különítjük el: meg-, fel-, vissza-."
+                    "explanation": "a) A Szigeti veszedelem eposz, nem elbeszélő költemény. b) Arany János nagykőrösi (nem nagyszalontai) évei alatt születtek e balladák. c) A Jónás könyve ószövetségi (nem újszövetségi) bibliai történetre épül."
                 },
                 {
-                    "id": "mu_05",
-                    "type": "true-false",
-                    "question": "A szonett 14 sorból áll, és jellemzően két négysorosból (kvartett) és két háromsorosból (tercett) épül fel.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Igaz, mert a szonett klasszikus (petrarcai) formája pontosan 14 sorból áll: két négysorosból (kvartett, kvartett) és két háromsorosból (tercett, tercett). Ez az olasz reneszánszban kialakult versforma az egyik legelterjedtebb a világirodalomban."
-                },
-                {
-                    "id": "mu_06",
-                    "type": "multiple-choice",
-                    "question": "Melyik kifejezés a helyes írásmód?",
-                    "options": [
-                        "minden nap (határozói funkcióban: 'minden nap elmegy')",
-                        "mindennap (határozói funkcióban: 'mindennap elmegy')",
-                        "Mindkettő helyes ugyanabban a mondatban.",
-                        "A kifejezés mindig különírandó."
+                    "id": "m-02",
+                    "type": "table-fill",
+                    "question": "Határozza meg, hogy a felsorolt nevek mely irodalmi alkotás szereplői! Az adott irodalmi alkotás szerzőjének teljes nevét, a mű címét és műfaját is határozza meg!",
+                    "headers": [
+                        "A szereplő neve",
+                        "A mű szerzőjének teljes neve",
+                        "A mű címe",
+                        "A műfaj megnevezése"
                     ],
-                    "correct": 1,
-                    "points": 2,
-                    "explanation": "A magyar helyesírás szerint határozói funkcióban az 'mindennap' egybeírandó (pl. 'mindennap elmegy'), míg a 'minden nap' különírva főnévi vagy számnévi jelzős szerkezetként értelmezhető (pl. 'minden nap egy új feladat'). A határozói alak tehát egybeírva helyes."
-                },
-                {
-                    "id": "mu_07",
-                    "type": "short-answer",
-                    "question": "Mi a különbség az epika és a líra műnem között? Adjon egy-egy magyar irodalmi példát mindkettőre!",
-                    "sampleAnswer": "Az epika elbeszélő műnem, amely eseményeket, cselekményt mesél el (pl. Arany János: Toldi). A líra a költő belső érzéseit, gondolatait fejezi ki, jellemzően verses formában (pl. Petőfi Sándor: Szeptember végén).",
+                    "rows": [
+                        {
+                            "given": {
+                                "A szereplő neve": "Gertrudis királyné"
+                            },
+                            "answer": {
+                                "A mű szerzőjének teljes neve": "Katona József",
+                                "A mű címe": "Bánk bán",
+                                "A műfaj megnevezése": "tragédia"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A szereplő neve": "Pongrácz István gróf"
+                            },
+                            "answer": {
+                                "A mű szerzőjének teljes neve": "Mikszáth Kálmán",
+                                "A mű címe": "Beszterce ostroma",
+                                "A műfaj megnevezése": "regény"
+                            }
+                        },
+                        {
+                            "given": {
+                                "A szereplő neve": "Bence, a hű szolga"
+                            },
+                            "answer": {
+                                "A mű szerzőjének teljes neve": "Arany János",
+                                "A mű címe": "Toldi / Toldi estéje",
+                                "A műfaj megnevezése": "elbeszélő költemény"
+                            }
+                        }
+                    ],
                     "points": 3,
-                    "explanation": "A két műnem alapvető különbsége a közlés módja: az epika elbeszélő jellegű, van cselekménye és szereplői vannak, míg a líra az alkotó szubjektív, belső világát tárja fel. A dráma a harmadik nagy műnem, amely párbeszéd formájában jelenít meg konfliktust."
+                    "explanation": "Gertrudis: Katona József Bánk bán című tragédiája. Pongrácz István gróf: Mikszáth Kálmán Beszterce ostroma című regénye. Bence: Arany János Toldi (vagy Toldi estéje) című elbeszélő költeménye. 8–9 helyes 3 pont, 6–7 helyes 2 pont, 4–5 helyes 1 pont."
                 },
                 {
-                    "id": "mu_08",
-                    "type": "true-false",
-                    "question": "Ady Endre a Nyugat folyóirat egyik alapító és meghatározó alkotója volt.",
-                    "correct": true,
-                    "points": 2,
-                    "explanation": "Igaz, mert a Nyugat folyóirat 1908-ban indult, és Ady Endre az első évfolyamtól fogva annak egyik legmeghatározóbb költője volt. A Nyugat a 20. századi magyar irodalom megújítójának számít, és Ady szimbolista-impresszionista lírája ennek a megújulásnak a jelképe lett."
+                    "id": "m-03",
+                    "type": "multiple-choice",
+                    "question": "Korstílusok, stílusirányzatok jellemző jegyeit olvashatja az alábbiakban. Mindhárom esetben egy-egy téves információ is bekerült a jellemző jegyek közé. Húzza alá a hibás információt!\n\na) BAROKK\n- a művészet célja a tanítás és a gyönyörködtetés egysége\n- világ- és emberképe a humanizmus\n- kedveli a hatáskeltést, a monumentalitást, a túlzást\n- jellemzője a retorikus stílus, kedveli a körmondatos szerkezeteket\n\nb) ROMANTIKA\n- az egyéniség kultuszát hirdeti\n- az alkotók célja az eredetiség\n- a kor drámái megfelelnek a hármas egység követelményeinek\n- nagyfokú érdeklődést mutat a történelem iránt (pl. történelmi regény)\n\nc) SZIMBOLIZMUS\n- azt vallja, hogy a világot csak megsejteni, érzékelni lehet a művészet révén, nem megismerni\n- a nyelvi kifejezés áttételessé, metaforikussá, jelképessé válik\n- a megjelenített dolgok önmaguknál többre utalnak, „holdudvaruk” van\n- a felvilágosodás egyik stílusirányzata a klasszicizmus mellett",
+                    "options": [
+                        "Barokk: világ- és emberképe a humanizmus",
+                        "Romantika: a kor drámái megfelelnek a hármas egység követelményeinek",
+                        "Szimbolizmus: a felvilágosodás egyik stílusirányzata a klasszicizmus mellett"
+                    ],
+                    "correct": [
+                        "Barokk: világ- és emberképe a humanizmus",
+                        "Romantika: a kor drámái megfelelnek a hármas egység követelményeinek",
+                        "Szimbolizmus: a felvilágosodás egyik stílusirányzata a klasszicizmus mellett"
+                    ],
+                    "points": 3,
+                    "explanation": "a) A barokk világképe nem a humanizmus, hanem a hitre épülő, vallásos világkép. b) A romantika drámái éppen elvetik a hármas egységet (idő, hely, cselekmény). c) A szimbolizmus nem a felvilágosodás, hanem a 19. század végi irányzat."
+                },
+                {
+                    "id": "m-04a",
+                    "type": "fill-in",
+                    "question": "Írja be a könyv nélkül megtanulandó vers idézett részébe a hiányzó személyneveket a műben előforduló nyelvtani alakjukban!\n\n„Őseinket felhozád\nKárpát szent bércére,\nÁltalad nyert szép hazát\n_______________ vére.\nS merre zúgnak habjai\nTiszának, Dunának,\n_______________ hős magzatjai\nFelvirágozának.”",
+                    "correct": [
+                        "Bendegúznak, Árpád"
+                    ],
+                    "points": 1,
+                    "explanation": "Kölcsey Ferenc: Himnusz – a hiányzó személynevek nyelvtani alakjai: „Bendegúznak vére” és „Árpád hős magzatjai”."
+                },
+                {
+                    "id": "m-04b",
+                    "type": "fill-in",
+                    "question": "Írja be a könyv nélkül megtanulandó vers idézett részébe a hiányzó személyneveket a műben előforduló nyelvtani alakjukban!\n\n„_______________ és _______________ fia vagyok én,\nHiába döngetek kaput, falat\nS mégis megkérdem tőletek:\nSzabad-e sírni a Kárpátok alatt?”",
+                    "correct": [
+                        "Góg és Magóg"
+                    ],
+                    "points": 1,
+                    "explanation": "Ady Endre: Góg és Magóg fia vagyok én… – a hiányzó személynevek: Góg és Magóg."
+                },
+                {
+                    "id": "m-04c",
+                    "type": "fill-in",
+                    "question": "Írja be a könyv nélkül megtanulandó vers idézett részébe a hiányzó személyneveket a műben előforduló nyelvtani alakjukban!\n\n„hogy ki mint _______________, rest szolgája, hajdan\nbujkálva, később mint _______________ a Halban\nleszálltam a kínoknak eleven\nsüket és forró sötétjébe, nem\nhárom napra, de három hóra, három\névre vagy évszázadra, …”",
+                    "correct": [
+                        "Jónás, Jónás"
+                    ],
+                    "points": 1,
+                    "explanation": "Babits Mihály: Jónás könyve – a hiányzó személynevek: „mint Jónás, rest szolgája”, „mint Jónás a Halban”. Csak a helyesen beírt nyelvtani alak fogadható el."
+                },
+                {
+                    "id": "m-05a",
+                    "type": "fill-in",
+                    "question": "Nevezze meg, hogy az alábbi meghatározás mely műfajra illik! Egyik legősibb lírai műfaj, egynemű érzéseket, hangulatokat szólaltat meg. Szerkezete egyszerű, terjedelme általában korlátozott. A műfaj története a költészet eredetéig vezethető vissza.",
+                    "correct": [
+                        "dal"
+                    ],
+                    "points": 1,
+                    "explanation": "A meghatározás a dal műfajára illik: ősi lírai műfaj, egynemű érzéseket szólaltat meg, rövid és egyszerű szerkezetű."
+                },
+                {
+                    "id": "m-05b",
+                    "type": "fill-in",
+                    "question": "Nevezze meg, hogy mely verstani fogalomra ismer az alábbi meghatározásból! Szigorúan kötött versforma, 14 sorból álló, 4 szakaszos vers. Rímképlete eredetileg abba – abba – cdc – dcd. Később ettől eltérő rímképletek és strófaszerkezetek is kialakultak.",
+                    "correct": [
+                        "szonett"
+                    ],
+                    "points": 1,
+                    "explanation": "A meghatározás a szonett verstani fogalmára illik: 14 soros, 4 szakaszos, szigorú rímképletű (petrarcai: abba abba cdc dcd) versforma."
+                },
+                {
+                    "id": "m-06a",
+                    "type": "short-answer",
+                    "question": "Az alábbiakban két, Ön által is ismert műből olvashat egy-egy jellegzetes részletet. Mi történik a főhőssel a mű kezdetén? Fejezze be a megkezdett mondatot saját szavaival az olvasott történetnek megfelelően!\n\n„Amikor egy reggel Gregor Samsa nyugtalan álmából felébredt,” _______________",
+                    "sampleAnswer": "azt tapasztalta, hogy féreggé / bogárrá / rovarrá változott.",
+                    "correct": [
+                        "azt tapasztalta, hogy féreggé változott",
+                        "azt tapasztalta, hogy bogárrá változott",
+                        "féreggé változott",
+                        "bogárrá változott",
+                        "rovarrá változott"
+                    ],
+                    "points": 1,
+                    "explanation": "Franz Kafka Az átváltozás című novellájának nyitómondata. A válasznak tartalmaznia kell az átváltozás / metamorfózis tényét: Gregor Samsa rovarrá / féreggé / bogárrá változik."
+                },
+                {
+                    "id": "m-06b",
+                    "type": "short-answer",
+                    "question": "Olvassa el az alábbi szövegrészletet! Mit tesz a főhős a mű végén? Fejezze be a megkezdett mondatot saját szavaival az olvasott történetnek megfelelően!\n\n„A brezinai bacsa sírt, mint egy gyermek. Mélyen lehúzta kalapját szemére, ne lásson alóla semmit, úgy ment ki az akol ajtaján. […] Most azután a dologhoz látott, bár már sötétedni kezdett. Az udvaron egy boglya száraz nád volt,” _______________",
+                    "sampleAnswer": "azt összehordta az akol köré, majd felgyújtotta az egész aklot / tanyát.",
+                    "correct": [
+                        "azt összehordta az akol köré, majd felgyújtotta az aklot",
+                        "felgyújtotta az aklot",
+                        "felgyújtotta a tanyát",
+                        "összehordta az akol köré és felgyújtotta"
+                    ],
+                    "points": 1,
+                    "explanation": "Mikszáth Kálmán A brezinai bacsa részlete. A válasznak tartalmaznia kell az akol felgyújtásának tényét."
+                },
+                {
+                    "id": "m-07",
+                    "type": "ordering",
+                    "question": "Az alábbi irodalmi dominón nem pöttyök szerepelnek, hanem az irodalommal kapcsolatos nevek, fogalmak, címek. Keresse meg az összeillő párokat, majd rakja sorrendbe a dominókat úgy, hogy az 1. dominó jobb oldala az utána következő dominó bal feléhez illeszkedjen! Ügyeljen arra, hogy az utolsó dominó jobb oldala és az első dominó bal oldala kapcsolódjon egymáshoz!\n\n1. dominó: Radnóti Miklós | óda\n2. dominó: Esti Kornél | naturalizmus\n3. dominó: bibliafordítás | Razglednicák\n4. dominó: In Horatium | Kosztolányi Dezső\n5. dominó: Kis János napszámos | Károli Gáspár\n\nAdja meg a dominók sorrendjét: 1. dominó ___ dominó ___ dominó ___ dominó ___ dominó",
+                    "items": [
+                        "1. dominó (Radnóti Miklós | óda)",
+                        "2. dominó (Esti Kornél | naturalizmus)",
+                        "3. dominó (bibliafordítás | Razglednicák)",
+                        "4. dominó (In Horatium | Kosztolányi Dezső)",
+                        "5. dominó (Kis János napszámos | Károli Gáspár)"
+                    ],
+                    "correctOrder": [
+                        0,
+                        3,
+                        1,
+                        4,
+                        2
+                    ],
+                    "correct": {
+                        "1. dominó": 1,
+                        "4. dominó": 2,
+                        "2. dominó": 3,
+                        "5. dominó": 4,
+                        "3. dominó": 5
+                    },
+                    "points": 4,
+                    "explanation": "A helyes sorrend: 1 – 4 – 2 – 5 – 3. Kapcsolódások: Radnóti óda — In Horatium (Berzsenyi ódája); Kosztolányi — Esti Kornél; naturalizmus — Kis János napszámos (naturalista vers); Károli Gáspár — bibliafordítás; Razglednicák — Radnóti (visszatér az 1. dominóhoz). Egy helyes pár 1 pont, hibátlan sorrend teljes 4 pont."
                 }
             ]
         },
         "szovegalkotas": {
-            "timeLimit": 90,
+            "timeLimit": 150,
             "maxPoints": 40,
             "tasks": [
                 {
-                    "id": "sa_01",
+                    "id": "sa-01",
                     "type": "essay",
-                    "prompt": "Érvelő fogalmazás: Fejtse ki véleményét arról, hogy a digitális eszközök (okostelefon, tablet, e-olvasó) segítik-e vagy hátráltatják az elmélyült olvasást! Érvelésébe vonjon be konkrét példákat saját tapasztalataiból vagy olvasmányaiból! Fogalmazásában mutasson rá az álláspont melletti és az azzal szemben felhozható legfontosabb érvekre, majd foglalja össze saját következtetését!",
-                    "minWords": 200,
-                    "maxWords": 400,
-                    "sampleAnswer": "A digitális eszközök és az elmélyült olvasás viszonya napjaink egyik legtöbbet vitatott kérdése. Egyesek szerint az okostelefonok és tableteken elérhető e-könyvek demokratizálják az olvasást: bárhol, bármikor hozzáférhetünk könyvtárnyi anyaghoz. Kétségtelen, hogy ez az elérhetőség előny – például utazás közben nem kell nehéz köteteket cipelni.\n\nAzonban a digitális eszközök természete megnehezíti az elmélyülést. Az értesítések, az alkalmazások közötti ugrálás és a közösségi média folyamatos jelenléte szétszabdalja a figyelmet. Kutatások szerint az olvasók digitális szövegeket jellemzően átfutnak, nem pedig elolvasnak – a mélységi befogadás csorbul.\n\nSaját tapasztalatom szerint egy regényt papíron sokkal jobban megértek és jobban emlékezem rá, míg képernyőn olvasva hamar elkalandozom. Ugyanakkor a digitális szótárak és a szövegközi jegyzetek lehetősége valóban segíthet a megértésben.\n\nÖsszességében úgy gondolom, hogy a digitális eszközök önmagukban nem jók vagy rosszak: a tudatos, fegyelmezett használat dönt. Ha az olvasó ki tudja kapcsolni az értesítéseket és valóban a szövegre összpontosít, az e-olvasó épp olyan elmélyülést tesz lehetővé, mint a nyomtatott könyv. A felelősség az olvasón és a nevelésen múlik.",
+                    "prompt": "Műértelmező szövegalkotás – Egy mű értelmezése: Értelmezze Örkény István Meddig él egy fa? című novelláját! Dolgozatában bizonyítsa és értelmezze a mű ellenpontozó szerkezetét! Elemzésében térjen ki a novella motívumainak jelentésteremtő szerepére! Mutassa be az alkotás elbeszélésmódjának sajátosságait! Megoldása 500–800 szó terjedelmű legyen!",
+                    "minWords": 500,
+                    "maxWords": 800,
+                    "sampleAnswer": "Örkény István Meddig él egy fa? című novellája ellenpontozó (tükör)szerkezetű alkotás: a két női szereplő – Bánné és az öszülő idegen asszony – egymás tükörképeként jelenik meg. Bánné fiatal, életrevaló menyecske, férje szereti, gyermeket vár; az idegen asszony ezzel szemben idősödő, ápolatlan, divatjamúlt ruhában, mellében rákdaganattal él, gyermektelen, és férje nincs otthon. A két alak szembeállítása a groteszk örkényi életszemléletet hordozza: az élet és a halál, a kezdet és a vég egymás mellé kerül. A novella központi motívuma a fa: a mitologikus-bibliai életfa jelképe, amely a születés és a mulandóság egybefonódását mutatja. Bánné fiatal gyümölcsfákat ajánl eladásra, az asszony azonban egy idős hársat vásárol meg, amelyet már nem lehet átültetni – így a fa az asszony élettartamának jelölőjévé válik. A három évre előre kifizetett ápolási díj a közelgő halál tudatát jelzi: az asszony már nem egy teljes életre, hanem csak néhány évre készül. Az elbeszélésmód sajátossága a korlátozott, szűkszavú, elhallgatásokra épülő közlésmód, amelyben a szereplők rövid, gyakran félbemaradt mondatokban beszélnek – a lényeg a hallgatásban és a gesztusokban rejlik. A párbeszédek feszültségét a kimondatlan tudás – a halálos betegség ténye – adja. A novella nyitánya és zárlata is utal a második világháborúra, ami keretmotívumként a létfenyegetettséget, a mulandóságot erősíti. Az elbeszélő tárgyilagos, minősítés nélküli előadásmódja groteszk módon ellenpontozza a tragikus emberi sorsot: Bánné a fülének nem hallható zenére mozgó táncosnőhöz hasonlít a mű végén – ez a kép a groteszk és az illúzióvesztés jellegzetes örkényi ábrázolása. A novella így az emberi lét rövidségét, a mulandósággal szembeni hiábavaló küzdelmet tárja elénk.",
                     "rubric": [
                         {
-                            "criterion": "Tartalom és érvelés",
-                            "maxPoints": 12,
+                            "criterion": "Tartalmi minőség",
+                            "maxPoints": 30,
                             "levels": [
-                                "0–3: Hiányos, általános megállapítások, nincs valódi érvelés.",
-                                "4–7: Megjelenik néhány érv, de a kifejtés felületes vagy egyoldalú.",
-                                "8–10: Több meggyőző érv mindkét oldalról, saját álláspont megfogalmazva.",
-                                "11–12: Árnyalt, jól felépített érvelés, konkrét példákkal alátámasztva, határozott következtetéssel."
+                                "0-6: Nem reflektál a feladatban adott szempontokra; sok tartalmatlan közlés",
+                                "7-12: Alig reflektál a szempontokra; felületes közlések, megalapozatlan állítások",
+                                "13-18: Jellemzően hiányos megfelelés; kevés releváns, kifejtett állítás",
+                                "19-24: Részleges megfelelés; helyenként kifejtetlen állítások, esetleges tárgyi tévedések",
+                                "25-30: Valamennyi értelmezési szempontra kitér; relevánsán, tárgyszerűen, meggyőzően érvel"
                             ]
                         },
                         {
-                            "criterion": "Szövegszerkesztés és szerkezet",
-                            "maxPoints": 8,
+                            "criterion": "Szövegszerkezet",
+                            "maxPoints": 5,
                             "levels": [
-                                "0–2: Hiányzik a logikus felépítés, nincs bevezetés-tárgyalás-befejezés.",
-                                "3–5: Felismerhető a szerkezet, de az átmenetek gyengék.",
-                                "6–7: Jól tagolt szöveg, koherens gondolatmenet.",
-                                "8: Kiváló szerkesztés, arányos szerkezet, gördülékeny logikai átmenetek."
+                                "0-1: Bizonytalan gondolatmenet; szövegtagolási hibák; elvárt alatti terjedelem",
+                                "2-3: Részben rendezett gondolatmenet; aránytalan vagy erőltetett szerkezet",
+                                "4-5: Tudatosan felépített gondolatmenet; arányos tagolás; bekezdések, felvezetés, kifejtés, lezárás"
                             ]
                         },
                         {
-                            "criterion": "Nyelvhelyesség és stílus",
-                            "maxPoints": 8,
+                            "criterion": "Nyelvi igényesség",
+                            "maxPoints": 5,
                             "levels": [
-                                "0–2: Sok helyesírási és grammatikai hiba, stílustalan.",
-                                "3–5: Néhány hiba, de érthető és megfelelő stílusú.",
-                                "6–7: Kevés hiba, változatos mondatszerkesztés.",
-                                "8: Hibátlan vagy szinte hibátlan, igényes, érettségi szintű fogalmazás."
-                            ]
-                        },
-                        {
-                            "criterion": "Szókincs és kifejezésmód",
-                            "maxPoints": 4,
-                            "levels": [
-                                "0–1: Szegényes szókincs, ismétlések.",
-                                "2–3: Megfelelő szókincs, némi változatossággal.",
-                                "4: Gazdag, árnyalt szóhasználat, kornak megfelelő terminológia."
-                            ]
-                        },
-                        {
-                            "criterion": "Terjedelem betartása",
-                            "maxPoints": 4,
-                            "levels": [
-                                "0: A fogalmazás a minimumot sem éri el vagy messze meghaladja a maximumot.",
-                                "2: Kissé rövid vagy hosszú, de közeli a kért terjedelemhez.",
-                                "4: A terjedelmi követelmény teljesül (200–400 szó)."
-                            ]
-                        },
-                        {
-                            "criterion": "Cím és műfaji megfelelés",
-                            "maxPoints": 4,
-                            "levels": [
-                                "0: Nincs cím, nem érvelő műfaj.",
-                                "2: Van cím, de a műfaj nem következetes.",
-                                "4: Önálló, találó cím; a szöveg egyértelműen érvelő fogalmazás."
+                                "0-1: Igénytelen nyelvhasználat; sivár szókincs; megértést gátló hibák",
+                                "2-3: Választékosságra törekvés; bizonytalanság a regiszterben; néhány nyelvi hiba",
+                                "4-5: Megfelelő nyelvi regiszter; választékos, világos megfogalmazás; gazdag szókincs; 1-2 kisebb hiba"
                             ]
                         }
                     ]
                 },
                 {
-                    "id": "sa_02",
+                    "id": "sa-02",
                     "type": "essay",
-                    "prompt": "Műértelmező fogalmazás: Arany János 'Szondi két apródja' című balladájában az emlékezés és a hűség témája jelenik meg. Értelmezze a balladát ezeknek a témáknak a tükrében! Fogalmazásában térjen ki a ballada műfaji jellemzőire, a két apród szerepére, valamint az emlékezés szimbolikus jelentésére! Zárásként fejtse ki, hogy Ön szerint miért maradandó ez az alkotás!",
-                    "minWords": 250,
-                    "maxWords": 500,
-                    "sampleAnswer": "Arany János 'Szondi két apródja' (1856) a magyar ballada egyik csúcsteljesítménye. A mű Drégely várának 1552-es oszmán ostromát és Szondi György kapitány hősi halálát dolgozza fel. A ballada párhuzamos szerkezete – a két apród éneke és Ali bég követének szavai – drámai feszültséget teremt.\n\nA két apród alakja az emlékezés és a hűség megtestesítője. Miközben Ali bég követe a megadást és az életet kínálja, az apródok folyamatosan énekük által idézik fel uruk emlékét. Az ének maga az emlékezet: az apródok akkor is énekelnek, amikor a halál árnyéka vetül rájuk. Ez a magatartás a hűség legmagasabb fokát képviseli – nem az érdek, hanem az erkölcsi elkötelezettség vezérli őket.\n\nA ballada műfaji jellemzői jól megfigyelhetők: a homályos utalások ('tragikus homály'), a párbeszédes forma, a ballada-sűrítés, a többszólamúság. Arany nem meséli el részletesen Szondi halálát – csak az emlékezés aktusán keresztül rekonstruálhatjuk a múltat.\n\nAz emlékezés szimbolikus értelemben a kultúra továbbélését jelenti: az apródok éneke akkor is fennmarad, ha ők maguk elpusztulnak. Ez az alkotás maradandóságának oka is: Arany rámutat, hogy az emberi méltóság és hűség a halállal szemben is győzedelmeskedhet az emlékezetben. A vers ma is érvényes üzenetet hordoz: az erkölcsi helytállás és az emlékezés felelőssége minden korban időszerű.",
+                    "prompt": "Témakifejtő dolgozat/esszé: A történelmi események irodalmi feldolgozása egyidős az európai irodalommal. Fejtse ki véleményét, Ön szerint a történelem miért visszatérő témája az irodalomnak! Mutassa be 3–5 szabadon választott alkotás alapján, hogyan jelennek meg a történelmi események az irodalmi hagyományban! Dolgozatában különböző történelmi korok szerzőinek műveiből válogasson bármely műnemből! Írásműve 500–800 szó terjedelmű legyen!",
+                    "minWords": 500,
+                    "maxWords": 800,
+                    "sampleAnswer": "A történelem az irodalom egyik legősibb témája, már Homérosz Íliászában is a trójai háború eseményei kerültek középpontba. A történelem azért marad visszatérő téma, mert a közösségek identitásának, eredettörténetének és értékrendjének megőrzésében az irodalom kitüntetett szerepet játszik. A történelmi múlt irodalmi ábrázolása a kollektív emlékezet eszközévé válik. Három különböző korszakból választott példám: 1) A 19. század romantikus történelmi költeményei közül Kölcsey Ferenc Himnusza egy nemzet önértelmezésének kulcsszövege: a magyar múlt dicsőségét és tragédiáit (Bendegúztól Árpádon át a tatárig és törökig) Isten kegyelmét kérő imává formálja; a történelem itt tanulságok forrása. 2) Arany János Walesi bárdjai (1857) allegorikus történelmi ballada: a walesi bárdok története valójában a magyar szabadságharc utáni megtorlás és elhallgattatás elleni tiltakozás. A történelmi távolság lehetővé teszi, hogy a költő a cenzúra ellenére is kimondhassa, amit a jelenében nem lehet. 3) Jókai Mór A kőszívű ember fiai című regénye az 1848-49-es szabadságharc eszményét és a romantikus történelmi regény műfaját egyesíti: a három Baradlay-fiú sorsa a nemzet sorsának allegóriájává válik. 4) A 20. századi háború-irodalom sajátos hangon szólal meg: Radnóti Miklós Razglednicák című versciklusa a második világháború borzalmait az erőltetett menet lírájában jeleníti meg; a történelmi esemény itt a személyes sorson keresztül válik egyetemes üzenetté. 5) Örkény István Tóték című groteszk drámája a háború és a diktatúra mechanizmusát elemzi: az abszurd elnyomás képeiben a történelmi tapasztalat általános érvényű igazsággá válik. A történelem irodalmi ábrázolásának módja koronként változik: a romantika nagy történelmi küzdelmek dicsőítésétől a 20. századi tragikus, groteszk, elégikus hangvételig ível. Közös azonban, hogy a történelem irodalmi feldolgozása mindig újraértelmezi a múltat, és a jelen közösségének kollektív emlékezetét formálja. A történelem így nemcsak téma, hanem az önismeret és a közös identitás forrása is az irodalomban.",
                     "rubric": [
                         {
-                            "criterion": "Szövegértés és elemzés mélysége",
-                            "maxPoints": 14,
+                            "criterion": "Tartalmi minőség",
+                            "maxPoints": 30,
                             "levels": [
-                                "0–4: Felületes, tartalmi tévedésekkel teli összefoglalás.",
-                                "5–8: Alapvető összefüggések felismerése, de elemzés hiányos.",
-                                "9–11: Jól felismert témák, megfelelő műfaji ismeretek, néhány önálló meglátás.",
-                                "12–14: Árnyalt, önálló elemzés; műfaj, szerkezet, szimbólumok bemutatása; érett irodalmi szemlélet."
+                                "0-6: Nem reflektál a feladatban adott szempontokra; sok tartalmatlan közlés",
+                                "7-12: Alig reflektál a szempontokra; felületes közlések, megalapozatlan állítások",
+                                "13-18: Jellemzően hiányos megfelelés; kevés releváns, kifejtett állítás",
+                                "19-24: Részleges megfelelés; helyenként kifejtetlen állítások, esetleges tárgyi tévedések",
+                                "25-30: Valamennyi értelmezési szempontra kitér; legalább három mű; különböző korok; meggyőző érvelés"
                             ]
                         },
                         {
-                            "criterion": "Szövegszerkesztés és szerkezet",
-                            "maxPoints": 8,
+                            "criterion": "Szövegszerkezet",
+                            "maxPoints": 5,
                             "levels": [
-                                "0–2: Rendezetlen gondolatok, hiányzó szerkezet.",
-                                "3–5: Felismerhető szerkezet, de az arányok egyenetlenek.",
-                                "6–7: Jól tagolt, logikus felépítés.",
-                                "8: Kiváló szerkesztés, arányos bevezetés-tárgyalás-befejezés."
+                                "0-1: Bizonytalan gondolatmenet; szövegtagolási hibák; elvárt alatti terjedelem",
+                                "2-3: Részben rendezett gondolatmenet; aránytalan vagy erőltetett szerkezet",
+                                "4-5: Tudatosan felépített gondolatmenet; arányos tagolás; bekezdések, felvezetés, kifejtés, lezárás"
                             ]
                         },
                         {
-                            "criterion": "Irodalmi ismeretek alkalmazása",
-                            "maxPoints": 8,
+                            "criterion": "Nyelvi igényesség",
+                            "maxPoints": 5,
                             "levels": [
-                                "0–2: Hiányzó vagy téves irodalmi ismeretek.",
-                                "3–5: Alapismeretek megvannak, de nem mindig megfelelően alkalmazva.",
-                                "6–7: Helyes és változatos irodalmi terminológia.",
-                                "8: Pontos, kontextuális irodalmi ismeretek kreatív alkalmazása."
-                            ]
-                        },
-                        {
-                            "criterion": "Nyelvhelyesség és stílus",
-                            "maxPoints": 6,
-                            "levels": [
-                                "0–1: Sok hiba, nehezen érthető.",
-                                "2–3: Néhány hiba, de értelmező szándék félreérthetetlen.",
-                                "4–5: Kevés hiba, jó stílus.",
-                                "6: Hibátlan vagy közel hibátlan, igényes fogalmazás."
-                            ]
-                        },
-                        {
-                            "criterion": "Saját vélemény kifejtése",
-                            "maxPoints": 4,
-                            "levels": [
-                                "0: Nincs önálló álláspont.",
-                                "2: Van saját meglátás, de elnagyolt.",
-                                "4: Meggyőző, kifejtett, indokolt személyes értékelés."
+                                "0-1: Igénytelen nyelvhasználat; sivár szókincs; megértést gátló hibák",
+                                "2-3: Választékosságra törekvés; bizonytalanság a regiszterben; néhány nyelvi hiba",
+                                "4-5: Megfelelő nyelvi regiszter; választékos, világos megfogalmazás; gazdag szókincs; 1-2 kisebb hiba"
                             ]
                         }
                     ]
